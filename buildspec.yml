@@ -17,12 +17,17 @@ phases:
       - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
   pre_build:
     commands:
-      - cd $CODEBUILD_SRC_DIR && git clone https://github.com/devcows/hugo-universal-theme.git themes/oss-owasp
+      - cd $CODEBUILD_SRC_DIR && git submodule init && git submodule update
   build:
     commands:
       - hugo
   post_build:
     commands:
-      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
+      #- aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
       - aws configure set preview.cloudfront true
       - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'public'
+
