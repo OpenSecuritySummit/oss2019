@@ -8,13 +8,6 @@ environment_variables:
     AWS_DEFAULT_REGION: "eu-west-2"
 
 phases:
-  install:
-    commands:
-      - export DEBIAN_FRONTEND=noninteractive
-      - apt-get update
-      - apt-get install -y curl awscli git tar
-      - curl -Ls https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
-      - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
   pre_build:
     commands:
       - cd $CODEBUILD_SRC_DIR && git submodule init && git submodule update
@@ -23,7 +16,7 @@ phases:
       - hugo
   post_build:
     commands:
-      #- aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
+      - aws s3 sync --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
       - aws configure set preview.cloudfront true
       - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
 artifacts:
