@@ -5,6 +5,7 @@ environment_variables:
     HUGO_VERSION: "0.49"
     BUCKET_NAME: "open-security-summit.com-cdn"
     DISTRIBUTION_ID: "E22WEBPD6529KA"
+    AWS_DEFAULT_REGION: "eu-west-2"
 
 phases:
   install:
