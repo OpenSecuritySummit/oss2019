@@ -1,20 +1,20 @@
 {{ if isset .Site.Params "sponsors" }}
-{{ if .Site.Params.sponsors.enable }}
-{{ if gt (len .Site.Data.sponsors.platinum) 0 }}
+{{ if .Site.Params.supporters.enable }}
+{{ if gt (len .Site.Data.supporters.platinum) 0 }}
 <section class="bar background-white no-mb">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="heading custom-border text-center">
-                    <h2 class="no-margin">{{ .Site.Params.sponsors.title }}</h2>
+                    <h2 class="no-margin">{{ .Site.Params.supporters.title }}</h2>
                 </div>
 
                 <p class="lead">
-                  {{ .Site.Params.sponsors.subtitle }}
+                  {{ .Site.Params.supporters.subtitle }}
                 </p>
 
                 <div class="flexbox sponsor-front-page">
-                    {{ range .Site.Data.sponsors.platinum }}
+                    {{ range .Site.Data.supporters.platinum }}
                     <div class="flexbox-vertical-center col-md-3">
                       <div class="sponsors-item text-center">
                         <a href="{{ .url }}" target="_blank">
