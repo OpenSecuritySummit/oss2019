@@ -142,10 +142,10 @@ paginate = 10
     parent = "about"
     url = "/faq/"
 [[menu.main]]
-    name = "Sponsors"
-    identifier = "sponsors"
+    name = "Supporters"
+    identifier = "supporters"
     weight = 11
-    url = "/sponsors/"
+    url = "/supporters/"
 [[menu.main]]
     name = "Tickets"
     identifier = "tickets"
