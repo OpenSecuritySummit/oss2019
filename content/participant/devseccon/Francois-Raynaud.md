@@ -5,7 +5,7 @@ job_title       : DevSecOps leader
 company         : DevSecCon
 villa           : DevSecCon
 travel_from     :
-image           : https://pbs.twimg.com/profile_images/743515700787044352/9buHsI0a_400x400.jpg
+image           : https://pbs.twimg.com/profile_images/711121144070479872/vlqMvK37_400x400.jpg
 linkedin        : francoisraynaud
 twitter         : devseccon
 facebook        :
