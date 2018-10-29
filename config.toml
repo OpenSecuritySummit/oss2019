@@ -45,13 +45,12 @@ paginate = 10
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 3
 #    url = "/working-sessions/"
-#[[menu.main]]
-#    name = "Tracks"
-#    identifier = "tracks"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 3
-#    parent = "sessions"
-#    url = "/tracks/"
+[[menu.main]]
+    name = "Tracks"
+    identifier = "tracks"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 3
+    url = "/tracks/"
 #[[menu.main]]
 #    name = "Schedule"
 #    identifier = "schedule"

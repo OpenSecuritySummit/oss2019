@@ -14,7 +14,7 @@
                           <h3>{{ truncate 45 .Title }}</h3>
                         </div>
                       </a>
-                      <div class="oss-card-body">
+                      <div class="oss-card-small-body">
                         <p class="lead oss-card-lead">{{ .Params.description }}</p>
                         <div class="card-clues">
                           <ul class="visual-clues">
@@ -23,16 +23,18 @@
                         </div>
                         <div class="featured">
                           <ul class="featured">
-                          {{ range where (where .Site.Pages ".Params.track" .Title) ".Params.featured" "eq" true }}
+                          {{ $featured_sessions := where (where (where .Site.Pages ".Params.track" .Title) ".Params.type" "!=" "outcome" ) ".Params.featured" "eq" true }}
+                          {{ range $featured_sessions }}
                             <li class="featured"><a href="{{.Permalink}}"> {{.Params.title}}</a></li>
                           {{ end }}
                           </ul>
                         </div>
                       </div>
-                      <div class="oss-card-bottom">
-                        <a class="oss-card-button btn" role="button" href="{{ .Permalink }}">See all sessions</a>
-                      </div>
-
+                      {{ if gt (len $featured_sessions) 0 }}
+                        <div class="oss-card-bottom">
+                          <a class="oss-card-button btn" role="button" href="{{ .Permalink }}">See all sessions</a>
+                        </div>
+                      {{ end }}
                     </div>
                     {{ end }}
                 </div>
