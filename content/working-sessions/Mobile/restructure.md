@@ -1,6 +1,7 @@
 ---
 title        : Restructure session
 type         : working-session    # working-session, user-session
+track        : OWASP Mobile Security Testing Guide
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
