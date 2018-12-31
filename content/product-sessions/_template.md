@@ -1,5 +1,5 @@
 ---
-title        :
+title        : Product Session Template
 type         : product-session
 track        :
 host_text    :
@@ -20,10 +20,3 @@ participants :
 hidden       : true
 ---
 
-## What
-
-..
-
-## Outcomes
-
-...
