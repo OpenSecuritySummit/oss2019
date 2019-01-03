@@ -13,7 +13,7 @@ session_slack:
 status       : draft              # draft, review-content, done
 organizers   : Jeroen Willemsen
 description  : Restructuring the contents of the MSTG
-participants : Jeroen Willemsen
+participants :
 ---
 
 Welcome to the ultimage Owasp Mobile Security Testing Guide Content reshuffle session!
@@ -24,11 +24,11 @@ Currently, we have 3 sections that are pretty distinct from each other: a global
 
 ## What
 
-Restructuring the MSTG as described in https://open-security-summit.org/working-sessions/mobile/restructure/ .
+Restructuring the MSTG as described in https://github.com/OWASP/owasp-mstg/issues/970 .
 
 ## Outcomes
 
-(...)
+Hopefully a restructured MSTG.
 
 ## References
 
