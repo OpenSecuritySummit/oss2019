@@ -18,4 +18,4 @@ organizers   :
 participants:    
 ---
 
-Brainstorm a DevSecOps SAMM version
+Brainstorm a DevSecOps SAMM version...
