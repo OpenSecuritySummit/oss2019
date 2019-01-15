@@ -13,7 +13,7 @@ status       : draft              # draft, review-content, done
 description  : |
   Remember how we got the OWASP MSTG to life 2 years ago? Let's do this again! This time it is all about the restructuring of the MSTG and updating the testcases to the more recent Android and iOS versions.
 organizers   : Jeroen Willemsen
-participants : Jeroen Willemsen
+participants : 
 ---
 
 Welome to the Owasp Mobile Security Testing Guide working-session track!
