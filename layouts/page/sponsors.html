@@ -30,21 +30,25 @@
           {{ .Content }}
         </div>
       </div>
-
       <div class="row sponsor-spacing">
+      {{/*    
+      <!-- 
         <div class="col-md-12">
           {{ $sponsor_type := (slice "platinum" "gold" "silver" "bronze") }}
           {{ range $sponsor_type }}
-          {{ $sponsors := (index $.Site.Data.supporters .) }}
+          {{ $sponsors := (index $.Site.Data.sponsors .) }}
 
-          {{ partial "supporters/type-list.html" (dict "category" . "sponsors" $sponsors) }}
+          {{ partial "sponsors/type-list.html" (dict "category" . "sponsors" $sponsors) }}
 
           {{ end }}
         </div>
-      </div>
+      -->
+      */}}
+    </div>
     </div>
   </div><!-- container-fluid -->
-
+  
+  
   <div class="sponsorship-options">
     <div class="container">
       <h1>Sponsorship packages</h1>

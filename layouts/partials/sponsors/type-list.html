@@ -1,8 +1,8 @@
-{{ $supporters := .supporters }}
+{{ $sponsors := .sponsors }}
 {{ $category := .category }}
 
-{{ with $supporters }}
-<h2>{{ $category | humanize }} Supporters</h2>
+{{ with $sponsors }}
+<h2>{{ $category | humanize }} Sponsors</h2>
 <div class="flexbox">
     {{ range . }}
     <div class="{{ $category }} flexbox-vertical-center">
