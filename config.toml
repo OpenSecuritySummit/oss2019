@@ -1,4 +1,4 @@
-baseurl                 = "https://open-security-summit.org/"
+baseurl                 = "/"
 title                   = "Open Security Summit"
 theme                   = "oss-owasp"
 languageCode            = "en-us"
@@ -51,13 +51,13 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 3
     url = "/tracks/"
-#[[menu.main]]
-#    name = "Schedule"
-#    identifier = "schedule"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 23
+[[menu.main]]
+    name = "Schedule"
+    identifier = "schedule"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 2
 #    parent = "sessions"
-#    url = "/schedule/all"
+    url = "/schedule"
 #[[menu.main]]
 #    name = "Topics"
 #    identifier = "topics"

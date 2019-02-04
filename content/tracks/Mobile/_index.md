@@ -1,10 +1,10 @@
 ---
-title        : OWASP Mobile Security Testing Guide
+title        : Mobile Security
 type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
-when_day     : Mo, Tue, Wed, Thur, Fri                   # i.e.    Tue
+when_day     : Thur, Fri                   # i.e.    Tue
 when_time    :                    # i.e.    AM-1
 room_layout  :                    #
 room_id      :
