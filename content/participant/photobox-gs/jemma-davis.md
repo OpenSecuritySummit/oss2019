@@ -21,4 +21,4 @@ sessions        :
 ---
 
 
-Jemma Davis is the Head of Group Security Operations and Education of the Photobox Group and is responsible for creating a security conscious culture for the brands within the Group.
+Jemma Davis is the Head of Group Security Operations and Education at Photobox Group and is responsible for creating a security conscious culture for the brands within the Group.
