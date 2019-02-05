@@ -1,39 +1,24 @@
 ---
 title           : Tash Norris
 type            : participant
-job_title       : Cyber Threat Modeling Engineer
+job_title       : Senior Cloud Security and Threat Modeler
+sponsored_by    : PhotoBox
 company         : PhotoBox Group
-travel_from     : Nottingham, UK
-#image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=ZkjP_z-J-sZ6YPImKXIOiz6Gv0WpYkFmtdiHPxUipC0
+image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=jZi2JcvWxwZP4c88nLTrcL6YD75UPIf77fBKTLxafY4
+email           : 
 linkedin        : tash-norris-4019892b
 twitter         : TashJNorris
-facebook        :
-website         :
-email           : tashjnorris@gmail.com
+website         : https://pbx-group-security.com/
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-eventbrite_id   :
-status          :
+night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-2
+night_room      : 1
+pre-summit      : Fri, Sat, Sun
+status          : done
+pre_summit      : Sat,Sun
 sessions        :
-    - Threat model track opening session
-    - Threat Modeling Website Structure
-    - Using a Rules Engine and Risk Patterns with IriusRisk
-    - Describe different ways of implementing TM in agile organisations
-    - API Threat Modeling Cheat Sheet
-    - Attack chains as TM technique
-    - Back to the future with Threat Modeling
-    - Threat model cheat sheets
-    - How to Threat Model Features with Questionnaires
-    - Using Threat Models for GDPR
-    - Federated Login with Social Platforms Threat Modeling Cheat Sheet
-    - IoT Threat Modeling Cheat Sheet
-    - Threat model guide
-    - How to scale Threat Modeling.
-    - Threat Model training through Gamification
-    - Getting more women in Cyber-security
-    - Create generic TM for CMS
-    - Using User Story Mapping for effective communication
-    - Share your Threat Models diagrams and create a Book
-    - Owasp Cloud Security Workshop (BETA)
-    
+ - 
 ---
+
+
+Tash Norris is the Senior Cloud Security and Threat Modeler at Photobox Group.
