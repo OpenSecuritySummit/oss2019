@@ -1,13 +1,13 @@
 ---
-title           : Tash Norris
+title           : Jon Hawes
 type            : participant
-job_title       : Senior Cloud Security and Threat Modeler
+job_title       : Head of Detect
 sponsored_by    : PhotoBox
 company         : PhotoBox Group
-image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=jZi2JcvWxwZP4c88nLTrcL6YD75UPIf77fBKTLxafY4
+image           : https://media.licdn.com/dms/image/C4E03AQG15Tyk4S08iA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=rGmhMYDnrjpf4421a8_8nrudKc5Rztn_KLV8gEr2U6k
 email           : 
-linkedin        : tash-norris-4019892b
-twitter         : TashJNorris
+linkedin        : https://www.linkedin.com/in/jonhawes/
+twitter         : 
 website         : https://pbx-group-security.com/
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
@@ -21,4 +21,4 @@ sessions        :
 ---
 
 
-Tash Norris is the Senior Cloud Security and Threat Modeler at Photobox Group.
+Jon Hawes is the Head of Detect at Photobox Group.

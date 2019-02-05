@@ -1,5 +1,5 @@
 ---
-title        : Real world ML case-studies
+title        : ML for Scaling Security Analysis
 type         : working-session
 track        : Machine Learning
 technology   :

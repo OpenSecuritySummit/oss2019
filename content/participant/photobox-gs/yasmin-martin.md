@@ -1,13 +1,13 @@
 ---
-title           : Tash Norris
+title           : Yasmin Marin
 type            : participant
-job_title       : Senior Cloud Security and Threat Modeler
+job_title       : Head of Risk and Compliance
 sponsored_by    : PhotoBox
 company         : PhotoBox Group
-image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=jZi2JcvWxwZP4c88nLTrcL6YD75UPIf77fBKTLxafY4
+image           : https://media.licdn.com/dms/image/C4D03AQE98dM44vwQWA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=qsFToAzoKdfwqUGcvC5i3ciY-1V3-wIq5J4TZPgy0SA
 email           : 
-linkedin        : tash-norris-4019892b
-twitter         : TashJNorris
+linkedin        : https://www.linkedin.com/in/yasmin-martin-b8794013/
+twitter         : 
 website         : https://pbx-group-security.com/
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
@@ -21,4 +21,4 @@ sessions        :
 ---
 
 
-Tash Norris is the Senior Cloud Security and Threat Modeler at Photobox Group.
+Yasmin Martin is the Head of Risk and Complaince at Photobox Group.

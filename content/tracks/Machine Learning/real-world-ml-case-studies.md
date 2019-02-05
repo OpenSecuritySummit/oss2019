@@ -1,5 +1,5 @@
 ---
-title        : GCP Serverless for security
+title        : Real world ML case-studies
 type         : working-session
 track        : Machine Learning
 technology   :
