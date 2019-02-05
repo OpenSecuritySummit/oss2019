@@ -1,9 +1,11 @@
 BUCKET_NAME="open-security-summit.com-cdn"
-DISTRIBUTION_ID=
+DISTRIBUTION_ID=E22WEBPD6529KA
 
 
 # --delete is having a nasty side effect to bring the side down when
 # aws s3 sync --acl "public-read" --sse "AES256" public/ s3://$BUCKET_NAME --delete
 
 aws s3 sync --acl "public-read" --sse "AES256" public/ s3://$BUCKET_NAME/2019/
-aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html / /page/* /css/* /blog/* /contact/* /working-sessions/*
+#aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html /page/* /css/* /blog/* /contact/* /working-sessions/*
+
+aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths "/*"

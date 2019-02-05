@@ -12,15 +12,16 @@
           <div class="dark-mask"></div>
           {{ partial "top.html"         . }}
           {{ partial "nav.html"         . }}
-          {{ partial "carousel.html" . }}
-        </header> 
-        {{ partial "home-after-summit/summit-2018.html"  . }}
-        {{ partial "home-after-summit/group-photo.html"  . }}
+          {{ partial "carousel.html"    . }}
+        </header>
+        
         {{ partial "home-after-summit/summit-2019.html"  . }}
-        {{ partial "home-after-summit/cards.html" . }}
-        {{ partial "home-after-summit/reactions.html" . }}
-        {{/*{{ partial "home-after-summit/sponsors.html" . }}*/}}
-        {{ partialCached "footer.html"                       . }}
+        {{ partial "home-after-summit/group-photo.html"  . }}
+        {{ partial "home-after-summit/cards.html"        . }}
+        {{ partial "home-after-summit/reactions.html"    . }}
+        {{ partial "home-after-summit/summit-2018.html"  . }}
+
+        {{ partialCached "footer.html"                   . }}
 
     </div>
     <!-- /#all -->

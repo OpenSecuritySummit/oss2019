@@ -6,8 +6,8 @@ sponsored_by    : PhotoBox
 company         : PhotoBox Group
 image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=jZi2JcvWxwZP4c88nLTrcL6YD75UPIf77fBKTLxafY4
 email           : 
-linkedin        : https://www.linkedin.com/in/tash-norris-4019892b/
-twitter         : 
+linkedin        : tash-norris-4019892b
+twitter         : TashJNorris
 website         : https://pbx-group-security.com/
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu

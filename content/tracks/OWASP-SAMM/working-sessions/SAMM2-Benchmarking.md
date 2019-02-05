@@ -4,7 +4,7 @@ type         : working-session
 track        : OWASP SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes                # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-3
 room_layout  :                    #

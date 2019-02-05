@@ -3,7 +3,7 @@ title        : OWASP SAMM
 type         : track
 owasp-project: yes
 session_slack: https://os-summit.slack.com/messages/CAVHR0UN9
-when_day     : Mon,Tue,Wed,Thu
+when_day     : Tue,Wed,Thu
 categories   : ["OWASP SAMM"]
 description  : SAMM team working together in a 5-day sprint on SAMMv2
 organizers   :
