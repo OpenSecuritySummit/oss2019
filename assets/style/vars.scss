@@ -1,4 +1,7 @@
 $screen-xs: 480px;
 $screen-sm: 768px;
-$screen-md: 992;
+$screen-md: 992px;
 $screen-lg: 1200px;
+$screen-xs-max: $screen-sm - 1px;
+$screen-sm-max: $screen-md - 1px;
+$screen-md-max: $screen-lg - 1px;

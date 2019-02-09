@@ -390,11 +390,24 @@ p.carousel-header-title {
     color: #87BB40;
 }
 
+@media (max-width: $screen-sm-max) {
+    p.carousel-header-title {
+      padding-top: 30px;
+      font-size: 26px;
+    }
+}
+
 .home-carousel ul {
     text-transform: none;
     font-size: 36px;
     font-weight: 100;
     letter-spacing: normal;
+}
+
+@media (max-width: $screen-sm-max) {
+    .home-carousel ul {
+      font-size: 18px;
+    }
 }
 
 .home-carousel ul li {
@@ -408,6 +421,12 @@ div.home-carousel {
     text-align: left !important;
 }
 
+@media (max-width: $screen-xs-max) {
+    div.home-carousel {
+        text-align: center !important;
+    }
+}
+
 div.home-carousel .btn {
     background-color: #87bb40;
     color: white;
@@ -417,6 +436,11 @@ div.home-carousel .btn {
     font-size: 16px;
 }
 
+@media (max-width: $screen-sm-max) {
+    div.home-carousel .btn {
+      font-size: 14px;
+    }
+}
 
 /* PArticipants */
 
@@ -829,11 +853,6 @@ div.waves {
     border-color: #38a7bb;
 }
 
-@media (min-width: 992px) {
-    .home-carousel {
-        text-align: left !important;
-    }
-}
 div#navigation.navbar-collapse.collapse ul.nav.navbar-nav.navbar-right li.dropdown a {
     font-family: 'Oswald' !important;
     font-weight: normal;
