@@ -50,7 +50,7 @@
   {{ $footer := resources.Get "style/footer.scss" }}
   {{ $oss2019 := resources.Get "style/oss2019.scss" }}
   {{ $slider := resources.Get "style/lightslider.css" | minify | fingerprint }}
-  {{ $bundle_scss := slice $vars $fonts $style $header $tickets $participant $sponsor $footer $oss2019 | resources.Concat "css/bundle.scss" }}
+  {{ $bundle_scss := slice $vars $fonts $style $header $carousel $tickets $participant $sponsor $footer $oss2019 | resources.Concat "css/bundle.scss" }}
   {{ $scss := $bundle_scss | resources.ToCSS $options | minify | fingerprint }}
   <link href="{{ $scss.Permalink }}" integrity="{{ $scss.Data.Integrity }}" rel="stylesheet">
   <link href="{{ $slider.Permalink }}" integrity="{{ $slider.Data.Integrity }}" rel="stylesheet">
