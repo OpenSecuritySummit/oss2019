@@ -1,5 +1,5 @@
 ---
-title           : Yasmin Marin
+title           : Yasmin Martin
 type            : participant
 job_title       : Head of Risk and Compliance
 sponsored_by    : PhotoBox
