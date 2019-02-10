@@ -217,9 +217,10 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p>DevSecCon Ltd
-        <br />13 West Hill
-        <br />London SW18 1RB
+    address = """<p>Open Security Summit
+        <br />Prospect House
+        <br />67 Boston Manor Road
+        <br />Brentford, TW8 9JQ
         <br />United Kingdom</p>
         <a href="mailto:info@opensecsummit.org">info@opensecsummit.org</a>
       """
