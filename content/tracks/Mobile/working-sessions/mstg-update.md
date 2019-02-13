@@ -4,13 +4,13 @@ type         : working-session    # working-session, user-session
 track        : OWASP Mobile Security Testing Guide
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes                   # review with summit team "yes"
 when_day     : Tue, Wed, Thu, Fri
 when_time    :
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen
 description  : Updating the content of the MSTG
 participants : Jeroen Willemsen, Sven Schleier (remote)
@@ -47,6 +47,12 @@ Everyone else who is interested in mobile security and some technical know-how :
 
 An updated iOS and Android chapter in the MSTG that covers the latest security changes in iOS 11/12 and Android O/P. The MSTG is hosted in Github and can easily be edited by anyone, just a Github account is needed and knowledge on how to create a pull request.
 
+## Who
+
+Anybody who wants to join the Mobile Security project and learn or share knowledge about mobile security in applications for iOS and Android:
+- Developers
+- Pentesters
+- Security engineers
 
 ## References
 
@@ -54,8 +60,3 @@ An updated iOS and Android chapter in the MSTG that covers the latest security c
 [Android Security](https://developer.android.com/topic/security/index.html)
 [Android Oreo](https://developer.android.com/about/versions/oreo/index.html)
 [iOS Security Whitepaper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
-
-
-## Previous
-
-TBD
