@@ -1,6 +1,6 @@
 ---
 title        : Mobile Security
-type         : track
+#type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
