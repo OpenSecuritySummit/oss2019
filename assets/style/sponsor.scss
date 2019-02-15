@@ -5,7 +5,7 @@
 }
 
 #sponsors .sponsor-spacing {
-    padding-top: 60px;
+    padding-top: 30px;
 }
 
 #sponsors .sponsors-item {
@@ -111,4 +111,28 @@ ul.list-style-none li a.green {
     color: #fff;
     background-color: #87bb40;
     padding: 15px;
+}
+
+.sponsorship_options h1 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    color: #00549e;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.sponsorship_options h1:before {
+    content: "";
+    width: 100px;
+    height: 10px;
+    margin-left: -50px;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    background: #98c1df;
 }
