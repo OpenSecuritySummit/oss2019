@@ -26,7 +26,7 @@
         <li><a class="bg-danger" href="{{ ref . "/faq/session-types.md#draft-status" }}"><i class="fa fa-info"></i> draft </a></li>
     {{ end }}
 
-    <li class="pull-right"><a class="bg-default" href="{{ with .Site.params.slackInviteLink }}{{ . | safeHTML }}{{ end }}" target="_blank"><i class="fa fa-slack"></i> Invite link </a></li>
+    <li class="pull-right"><a class="bg-default" href="{{ with .Site.Params.slackInviteLink }}{{ . | safeHTML }}{{ end }}" target="_blank"><i class="fa fa-slack"></i> Invite link </a></li>
 
     {{ with $session.Params.session_slack }}
       <li class="pull-right"><a class="bg-default" href="{{ . }}" target="_blank"><i class="fa fa-slack"></i> Session </a></li>
