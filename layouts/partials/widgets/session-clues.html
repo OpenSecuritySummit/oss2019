@@ -28,7 +28,7 @@
     {{ end }}
 
 
-      <li class="pull-right"><a class="bg-default" href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" target="_blank"><i class="fa fa-slack"></i> Invite link </a></li>
+    <li class="pull-right"><a class="bg-default" href="{{ with .Site.params.slackInviteLink }}{{ . | safeHTML }}{{ end }}" target="_blank"><i class="fa fa-slack"></i> Invite link </a></li>
 
     {{ with .Params.session_slack }}
       <li class="pull-right"><a class="bg-default" href="{{ . }}" target="_blank"><i class="fa fa-slack"></i> This session </a></li>

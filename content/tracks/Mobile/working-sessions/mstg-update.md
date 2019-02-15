@@ -4,8 +4,8 @@ type         : working-session    # working-session, user-session
 track        : OWASP Mobile Security Testing Guide
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
-when_day     : Tue, Wed, Thu, Fri
+featured     : yes                # review with summit team "yes"
+when_day     : Mon, Tue, Wed, Thu, Fri
 when_time    :
 room_layout  :                    #
 room_id      :
@@ -17,7 +17,7 @@ participants : Jeroen Willemsen, Sven Schleier (remote)
 ---
 
 
-Welome to the Owasp Mobile Security Testing Guide Content pressure cook!
+Welcome to the Owasp Mobile Security Testing Guide Content pressure cook!
 
 
 ## Why

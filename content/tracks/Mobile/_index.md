@@ -1,6 +1,6 @@
 ---
 title        : Mobile Security
-type         : track
+#type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
@@ -33,14 +33,3 @@ If you want to join our sessions, please make sure that:
 - You have a Github account; (need to refresh your git knowledge? check https://try.github.io/)
 
 Having mobile devices with you is recommended, but not necessary. Want to do stuff for iOS? Bring something running Mac OS X and do bring something running iOS ;-).
-
-## Outcomes
-
-(...)
-
-## References
-
-(...)
-
-
-## Previous
