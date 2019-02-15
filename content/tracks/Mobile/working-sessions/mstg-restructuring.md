@@ -10,7 +10,7 @@ when_time    :
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen
 description  : Restructuring the contents of the MSTG
 participants : Sven Schleier (remote)
@@ -30,9 +30,14 @@ Restructuring the MSTG as described in https://github.com/OWASP/owasp-mstg/issue
 
 Hopefully a restructured MSTG.
 
+## Who
+
+Anybody who wants to join the Mobile Security project and learn or share knowledge about mobile security in applications for iOS and Android:
+- Developers
+- Pentesters
+- Security engineers
+
+
 ## References
 
-(...)
-
-
-## Previous
+https://github.com/OWASP/owasp-mstg/issues/970
