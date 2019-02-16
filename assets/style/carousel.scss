@@ -1,36 +1,74 @@
-
 .home-carousel {
     padding: 0px;
+    padding-top: 20px !important;
+
+    @media (max-width: $screen-xs-max) {
+        text-align: center !important;
+    }
+    @media (min-width: $screen-sm) {
+        text-align: left !important;
+    }
+
+    ul {
+        text-transform: none;
+        @media (min-width: $screen-md) {
+            font-size: 36px;
+        }
+        @media (max-width: $screen-sm-max) {
+            font-size: 18px;
+        }
+        font-weight: 100;
+        letter-spacing: normal;
+
+        li {
+            font-family: 'Roboto', serif !important;
+            font-weight: 500;
+            color: #5bdaff;
+        }
+    }
+
+    .dark-mask {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+        background: #082451;
+    }
+    .owl-carousel {
+        padding: 0px;
+    }
+    .owl-theme .owl-controls .owl-page span {
+        background-color: #00549e;
+        width: 10px;
+        height: 10px;
+    }
+
+    .owl-theme .owl-controls .owl-page:hover span,
+    .owl-theme .owl-controls .owl-page.active span {
+        background-color: #1fc4f4;
+    }
+
+    .owl-item .item {
+        margin-bottom: 5px;
+    }
+
+    .btn {
+        background-color: #87bb40;
+        color: white;
+        font-family: 'Oswald';
+        font-weight: normal;
+        padding: 11px 24px;
+        @media (max-width: $screen-sm-max) {
+            font-size: 14px;
+        }
+        @media (min-width: $screen-md) {
+            font-size: 16px;
+        }
+    }
+
+    .waves {
+        display: none;
+    }
+
 }
-
-
-/* change opacity in carousel */
-
-.home-carousel .dark-mask {
-    opacity: 0.8;
-    filter: alpha(opacity=80);
-    background: #082451;
-}
-
-.home-carousel .owl-carousel {
-    padding: 0px;
-}
-
-.home-carousel .owl-theme .owl-controls .owl-page span {
-    background-color: #00549e;
-    width: 10px;
-    height: 10px;
-}
-
-.home-carousel .owl-theme .owl-controls .owl-page:hover span,
-.home-carousel .owl-theme .owl-controls .owl-page.active span {
-    background-color: #1fc4f4;
-}
-
-.home-carousel .owl-item .item {
-    margin-bottom: 5px;
-}
-
 
 p.carousel-header-title {
     padding-top: 60px;
@@ -48,68 +86,8 @@ p.carousel-header-title {
     }
 }
 
-.home-carousel ul {
-    text-transform: none;
-    font-size: 36px;
-    font-weight: 100;
-    letter-spacing: normal;
-}
-
-@media (max-width: $screen-sm-max) {
-    .home-carousel ul {
-      font-size: 18px;
-    }
-}
-
-.home-carousel ul li {
-    font-family: 'Roboto', serif !important;
-    font-weight: 500;
-    color: #5bdaff;
-}
-
-div.home-carousel {
-    padding-top: 20px !important;
-    text-align: left !important;
-}
-
-@media (max-width: $screen-xs-max) {
-    div.home-carousel {
-        text-align: center !important;
-    }
-}
-
-div.home-carousel .btn {
-    background-color: #87bb40;
-    color: white;
-    font-family: 'Oswald';
-    font-weight: normal;
-    padding: 11px 24px;
-    font-size: 16px;
-}
-
-@media (max-width: $screen-sm-max) {
-    div.home-carousel .btn {
-      font-size: 14px;
-    }
-}
-
-/* CArousel */
-
-
-/*.homepage .owl-wrapper-outer {
-  background-color: #082451;
-}*/
-
 .smaller {
     width: 70%;
-}
-
-.home-carousel .waves {
-    display: none;
-    /*position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;*/
 }
 
 div.waves {

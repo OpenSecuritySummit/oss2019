@@ -34,7 +34,7 @@ body h4 {
 }
 
 a.nav {
-    font-family: 'oswald';
+    font-family: 'Oswald';
     font-weight: normal;
 }
 
@@ -47,14 +47,14 @@ a.nav {
 }
 
 .inner_main_venue {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/venue.jpg) no-repeat center bottom;
     background-size: cover;
 }
 
 .inner_main_tickets {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/tickets.jpg) no-repeat center bottom;
     background-size: cover;
@@ -65,7 +65,7 @@ a.nav {
 }
 
 .inner_main_sponsors {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/sponsors.jpg) no-repeat center bottom;
     background-size: cover;
@@ -76,7 +76,7 @@ a.nav {
 }
 
 .inner_main_about {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/about.jpg) no-repeat center bottom;
     background-size: cover;
@@ -91,7 +91,7 @@ a.nav {
 }
 
 .inner_main_working_sessions {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/working_sessions.jpg) no-repeat center bottom;
     background-size: cover;
@@ -102,7 +102,7 @@ a.nav {
 }
 
 .inner_main_participants {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/participants.jpg) no-repeat center bottom;
     background-size: cover;
@@ -113,7 +113,7 @@ a.nav {
 }
 
 .inner_main_FAQs {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/FAQs.jpg) no-repeat center bottom;
     background-size: cover;
@@ -124,7 +124,7 @@ a.nav {
 }
 
 .inner_main_tracks {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/tracks.jpg) no-repeat center bottom;
     background-size: cover;
@@ -135,14 +135,14 @@ a.nav {
 }
 
 .inner_main_teams {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/teams.jpg) no-repeat center bottom;
     background-size: cover;
 }
 
 .inner_main_schedule {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/schedule.jpg) no-repeat center bottom;
     background-size: cover;
@@ -153,14 +153,14 @@ a.nav {
 }
 
 .inner_main_product_sessions {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/working_sessions.jpg) no-repeat center bottom;
     background-size: cover;
 }
 
 .inner_main_outcomes {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/pages/outcomes.png) no-repeat center bottom;
     background-size: cover;
@@ -175,9 +175,20 @@ a.nav {
 }
 
 .inner_main_default {
-    height: 284px;
+    height: $inner-main-image-size;
     position: relative;
     background: url(/img/banners/default.png) no-repeat center bottom;
+    background-size: cover;
+}
+
+/* One Day Summit - 03/June/2018 */
+.background-onedaysummit {
+    background: url(/img/pages/one_day_summit.jpg) center center repeat;
+}
+.inner_main_onedaysummit {
+    height: $inner-main-image-size;
+    position: relative;
+    background: url(/img/pages/one_day_summit.jpg) no-repeat center bottom;
     background-size: cover;
 }
 
@@ -219,32 +230,34 @@ img.black-and-white.participant {
 }
 
 
-.edit-link ul.github {
-    list-style: none;
-    padding-left: 0;
-}
+.edit-link {
+    ul.github {
+        list-style: none;
+        padding-left: 0;
+    }
 
-.edit-link ul.github li {
-    display: inline-block;
-}
+    ul.github li {
+        display: inline-block;
+    }
 
-.edit-link ul.github li a {
-    display: inline-block;
-    padding: 5px;
-    border: solid 1px #082451;
-    border-radius: 0;
-    color: #082451;
-    margin: 5px 5px 5px 0;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    font-weight: 700;
-    font-size: 12px;
-}
+    ul.github li a {
+        display: inline-block;
+        padding: 5px;
+        border: solid 1px #082451;
+        border-radius: 0;
+        color: #082451;
+        margin: 5px 5px 5px 0;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-weight: 700;
+        font-size: 12px;
+    }
 
-.edit-link ul.github li a:hover {
-    color: #8FC43E;
-    text-decoration: none;
-    border-color: #8FC43E;
+    ul.github li a:hover {
+        color: #8FC43E;
+        text-decoration: none;
+        border-color: #8FC43E;
+    }
 }
 
 /* PArticipants */
@@ -306,8 +319,6 @@ ul.social-buttons li a i.fa {
     text-align: center;
 }
 
-
-
 .align-flex-center {
     align-items: center;
 }
@@ -358,34 +369,33 @@ ul.social-buttons li a i.fa {
 // Visual clues for sessions
 .clues {
     padding: 0;
-}
+    
+    ul.visual-clues {
+        list-style: none;
+        margin-left: -40px;
 
-.clues ul.visual-clues {
-    list-style: none;
-    margin-left: -40px;
-}
+        li {
+            display: inline-block;
+            a {
+                display: inline-block;
+                padding: 5px;
+                border: solid 1px #eeeeee;
+                border-radius: 0;
+                color: #38a7bb;
+                margin: 5px 5px 5px 0;
+                text-transform: uppercase;
+                letter-spacing: 0.08em;
+                font-weight: 700;
+                font-size: 12px;
+            }
 
-.clues ul.visual-clues li {
-    display: inline-block;
-}
-
-.clues ul.visual-clues li a {
-    display: inline-block;
-    padding: 5px;
-    border: solid 1px #eeeeee;
-    border-radius: 0;
-    color: #38a7bb;
-    margin: 5px 5px 5px 0;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    font-weight: 700;
-    font-size: 12px;
-}
-
-.clues ul.visual-clues li a:hover {
-    color: #38a7bb;
-    text-decoration: none;
-    border-color: #38a7bb;
+            a:hover {
+                color: #38a7bb;
+                text-decoration: none;
+                border-color: #38a7bb;
+            }
+        }
+    }
 }
 
 
@@ -393,33 +403,31 @@ ul.social-buttons li a i.fa {
 
 .card-clues {
     padding: 0;
-}
+    
+    ul.visual-clues {
+        list-style: none;
 
-.card-clues ul.visual-clues {
-    list-style: none;
-}
-
-.card-clues ul.visual-clues li {
-    display: inline-block;
-}
-
-.card-clues ul.visual-clues li a {
-    display: inline-block;
-    padding: 5px;
-    border: solid 1px #eeeeee;
-    border-radius: 0;
-    color: #38a7bb;
-    margin: 5px 5px 5px 0;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    font-weight: 700;
-    font-size: 12px;
-}
-
-.card-clues ul.visual-clues li a:hover {
-    color: #38a7bb;
-    text-decoration: none;
-    border-color: #38a7bb;
+        li {
+            display: inline-block;
+            a {
+                display: inline-block;
+                padding: 5px;
+                border: solid 1px #eeeeee;
+                border-radius: 0;
+                color: #38a7bb;
+                margin: 5px 5px 5px 0;
+                text-transform: uppercase;
+                letter-spacing: 0.08em;
+                font-weight: 700;
+                font-size: 12px;
+            }
+            a:hover {
+                color: #38a7bb;
+                text-decoration: none;
+                border-color: #38a7bb;
+            }
+        }
+    }
 }
 
 div.getting-there {
@@ -1780,16 +1788,7 @@ p.home-outcome {
 .status-gray {
     color: #cccccc;
 }
-/* One Day Summit - 03/June/2018 */
-.background-onedaysummit {
-    background: url(/img/pages/one_day_summit.jpg) center center repeat;
-}
-.inner_main_onedaysummit {
-    height: 284px;
-    position: relative;
-    background: url(/img/pages/one_day_summit.jpg) no-repeat center bottom;
-    background-size: cover;
-}
+
 .ods_label {
     font-weight: bold;
 }
