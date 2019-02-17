@@ -19,9 +19,9 @@ phases:
     commands:
       - |
         if [ "$CODEBUILD_WEBHOOK_TRIGGER" = "branch/master" ]; then
-          aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
-          aws configure set preview.cloudfront true
-          aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
+          aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/;
+          aws configure set preview.cloudfront true;
+          aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*';
         fi
 artifacts:
   files:
