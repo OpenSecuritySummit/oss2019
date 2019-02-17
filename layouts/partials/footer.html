@@ -21,7 +21,7 @@
       <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
         <h3>Follow Us</h3>
         <a href="https://twitter.com/opensecsummit" target="_blank"><img src="/img/blocks/twitter.svg" alt="twitter logo" /></a>
-        <a href="https://github.com/OpenSecuritySummit/oss2018" target="_blank"><img src="/img/blocks/github.svg" alt="github logo" /></a>
+        <a href="{{ with .Site.Params.ghRepo }}{{ . | safeHTML }}{{ end }}" target="_blank"><img src="/img/blocks/github.svg" alt="github logo" /></a>
         <a href="{{ with .Site.Params.slackInviteLink }}{{ . | safeHTML }}{{ end }}" target="_blank"><img src="/img/blocks/slack.svg" alt="slack logo" /></a>
         <p style="margin-top:5px;">
           {{ with .Site.Params.help_center }}
