@@ -11,14 +11,18 @@ phases:
   pre_build:
     commands:
       - cd $CODEBUILD_SRC_DIR && git submodule init && git submodule update
+      - echo "CODEBUILD_WEBHOOK_TRIGGER: $CODEBUILD_WEBHOOK_TRIGGER"
   build:
     commands:
       - hugo
   post_build:
     commands:
-      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
-      - aws configure set preview.cloudfront true
-      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
+      - |
+        if [ "$CODEBUILD_WEBHOOK_TRIGGER" = "branch/master" ]; then
+          aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2019/
+          aws configure set preview.cloudfront true
+          aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
+        fi
 artifacts:
   files:
     - '**/*'
