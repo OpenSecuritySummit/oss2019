@@ -30,6 +30,7 @@ sessions        :
   - Akamai WAF & Ruleset
   - AWS WAF for DDoS Mitigation
   - Adding CRS3 and Pixi to CircleCI pipeline
+  - Threat Intelligence
   - Web Honeypot Project
   - Application Security Curriculum Project
 ---
