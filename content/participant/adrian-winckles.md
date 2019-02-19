@@ -13,7 +13,6 @@ email           : adrian.wincklesa@owasp.org
 project_leader  : Web Honeypot & Application Security Curriculum Project 
 chapter_leader  : Cambridge
 venue           : Mon, Tue, Wed, Thu, Fri
-eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :
