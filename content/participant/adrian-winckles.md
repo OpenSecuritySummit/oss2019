@@ -31,7 +31,7 @@ sessions        :
   - AWS WAF for DDoS Mitigation
   - Adding CRS3 and Pixi to CircleCI pipeline
   - Web Honeypot Project
-  - Application Security Curriculum Project
+  - Application Security Curriculum Project(s)
 ---
 
 Adrian Winckles is Director of the Cyber Security Research Group at Anglia Ruskin University, Cambridge. He is OWASP Cambridge Chapter Leader, European Board Member, holds joint meetings with IET, BCS, IISP & (ISC)² and was conference chair for OWASP AppSec Europe 2014 in Cambridge. He is also chair for the Cambridge Cluster of the UK Cyber Security Forum. Research programs include (in)security of software defined networks/everything (SDN/Sdx), novel network botnet detection techniques within cloud and virtual environments, distributed honeypots for threat intelligence, advanced educational techniques for teaching cybercrime investigation and virtual digital crimescene/incident simulation. He has previously presented at international conferences including OWASP AppSec Europe, BSides (London), Cybercrime Forensics Education & Training (CFET) & Cyber Forensics. He is Chair of the BCS Cybercrime Forensics Special Interest Group.
