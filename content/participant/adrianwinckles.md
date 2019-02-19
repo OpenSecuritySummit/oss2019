@@ -1,7 +1,7 @@
 ---
 title           : Adrian Winckles
 type            : participant
-job_title       : DevOps/AppSec
+job_title       : Directory of Cyber Securoity Research Group
 sponsored_by    :
 travel_from     : Cambridge
 image           : https://avatars1.githubusercontent.com/u/3012076?s=460&v=4
@@ -9,7 +9,7 @@ linkedin        : adrianwinckles
 twitter         : @botflowking
 facebook        :
 website         :
-email           : felipe.zipitria@owasp.org
+email           : adrian.wincklesa@owasp.org
 project_leader  : Web Honeypot & Application Security Curriculum Project 
 chapter_leader  : Cambridge
 venue           : Mon, Tue, Wed, Thu, Fri
