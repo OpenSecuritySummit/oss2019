@@ -34,4 +34,7 @@ participants :
 
 (...)
 
-## Previous-->
+## Previous
+* [Survey on Google Forms](https://goo.gl/forms/rXil0RTdkhxKdf2J2)
+
+-->
