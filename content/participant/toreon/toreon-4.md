@@ -1,17 +1,22 @@
 ---
-title           : Toreon 4
+title           : Steven Wierckx
 type            : participant
-job_title       : Security Consultant at Toreon
 company         : Toreon
-travel_from     : Belgium
-image           :
-linkedin        : 
-twitter         : 
-facebook        :
-website         :
-email           :
-eventbrite_id   :
+travel_from     :
+job_title       : Consultant at Toreon
+image           : 
+email           : swierkcx@gmail.com
+linkedin        : steven-wierckx
+twitter         : ihackforfun
+funded_who      : sponsor
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : 
+night_room      : 
 status          : done
-  
-notes           :
+pre_summit      : Sat,Sun
+sessions        :
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
+
+Organizer and participant of the OWASP Threat Model Project Working Sessions
