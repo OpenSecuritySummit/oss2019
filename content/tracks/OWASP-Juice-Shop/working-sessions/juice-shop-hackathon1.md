@@ -10,7 +10,7 @@ when_time    : Eve-1
 room_layout  :
 room_id      :
 session_slack:
-status       : draft
+status       : review-content
 description  : Coding for and hacking of the OWASP Juice Shop
 organizers   : Bjoern Kimminich
 participants :
@@ -44,3 +44,7 @@ This working session can result in e.g.
   of the online-readable companion guide eBook
   [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/)
 * OWASP Juice Shop's [CrowdIn project](https://crowdin.com/project/owasp-juice-shop) for i18n
+
+## Previous
+
+* [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/) user session

@@ -6,7 +6,7 @@ track        : OWASP Juice Shop
 topics       :
 featured     : yes
 when_day     : Wed
-when_time    : PM-2
+when_time    : DS-2
 room_layout  :
 room_id      :
 session_slack:
