@@ -1,7 +1,7 @@
 ---
 title           : Adrian Winckles
-type            : participant
-job_title       : Directory of Cyber Securoity Research Group
+type            : Participant
+job_title       : Directory of Cyber Security Research Group
 company         : Anglia Ruskin University
 travel_from     : Cambridge
 image           : https://avatars1.githubusercontent.com/u/9204455?s=460&v=4
