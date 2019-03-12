@@ -6,8 +6,7 @@ company         : Anglia Ruskin University
 travel_from     : Cambridge
 image           : https://avatars1.githubusercontent.com/u/9204455?s=460&v=4
 linkedin        : linkedin.com/in/adrian-winckles-2582ab3
-twitter         : @botflowking
-facebook        : No thanks
+twitter         : botflowking
 website         : 
 email           : adrian.wincklesa@owasp.org
 project_leader  : Web Honeypot & Application Security Curriculum Project 
