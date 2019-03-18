@@ -5,7 +5,7 @@ featured     : yes
 when_day     : Mon,Tue,Wed,Thurs,Fri
 owasp-project: yes
 session_slack:
-description  : Sessions focusing on OWASP Juice Shop
+description  : Sessions focusing on OWASP Application Security Education Projects, especially the Application Security Curriculum Project 
 organizers   :
   - Adrian Winckles, John Dileo
 ---
