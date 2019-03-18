@@ -1,6 +1,13 @@
 ---
-url   : "/tracks/"
-title : "Tracks"
-session_slack: https://os-summit.slack.com/messages/CAUNNK1S4
-layout: tracks-main
+title        : OWASP Application Security Curriculum Project 
+type         : track
+featured     : yes
+when_day     : Mon,Tue,Wed,Thurs,Fri
+owasp-project: yes
+session_slack:
+description  : Sessions focusing on OWASP Juice Shop
+organizers   :
+  - Adrian Winckles, John Dileo
 ---
+
+This track is focused on OWASP Application Security Education Projects, especially the Application Security Curriculum Project 
