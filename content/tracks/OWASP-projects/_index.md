@@ -1,5 +1,5 @@
 ---
-title        : Owasp Projects
+title        : OWASP Projects
 type         : track
 featured     : yes
 when_day     : Mon,Wed,Fri
