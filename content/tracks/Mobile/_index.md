@@ -3,7 +3,7 @@ title        : Mobile Security
 type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
-featured     :                    # review with summit team "yes"
+featured     : yes                   # review with summit team "yes"
 when_day     : Mon, Tue, Wed, Thu, Fri                  # i.e.    Tue
 when_time    :                    # i.e.    AM-1
 room_layout  :                    #
@@ -11,7 +11,7 @@ room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
 description  : |
-  Let's shape up the OWASP MSTG again! This time we will focus on resutructuring and adding the final missing testcases. Everybody is welcome to contribute!
+  Sessions focusing on the OWASP MSTG project.
 organizers   : Jeroen Willemsen
 participants : Jeroen Willemsen, Sven Schleier (remote)
 ---
