@@ -5,7 +5,7 @@ track        : OWASP Mobile Security Testing Guide
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes               # review with summit team "yes"
-when_day     : Mon, Tue, Wed, Thu, Fri
+when_day     : Mon, Tue
 when_time    :
 room_layout  :                    #
 room_id      :

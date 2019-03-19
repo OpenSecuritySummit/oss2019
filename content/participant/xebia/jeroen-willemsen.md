@@ -13,7 +13,7 @@ email           : jeroen.willemsen@owasp.org
 venue           : Mon, Tue, Wed, Thu, Fri
 eventbrite_id   :
 pre-summit      :
-status          : in progress?
+status          : review-content
 sessions        :
   - Creating content session
   - Restructure session
