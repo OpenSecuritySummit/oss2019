@@ -1,5 +1,5 @@
 ---
-title        : Mobile Security
+title        : OWASP Mobile Security Testing Guide
 type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
