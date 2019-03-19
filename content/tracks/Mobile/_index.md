@@ -9,9 +9,9 @@ when_time    :                    # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       : review-content              # draft, review-content, done
 description  : |
-  Remember how we got the OWASP MSTG to life 2 years ago? Let's do this again! This time it is all about the restructuring of the MSTG and updating the testcases to the more recent Android and iOS versions.
+  Let's shape up the OWASP MSTG again! This time we will focus on resutructuring and adding the final missing testcases. Everybody is welcome to contribute!
 organizers   : Jeroen Willemsen
 participants : Jeroen Willemsen, Sven Schleier (remote)
 ---
