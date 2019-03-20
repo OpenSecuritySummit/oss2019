@@ -13,7 +13,7 @@ session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen
 description  : Restructuring the contents of the MSTG
-participants : Sven Schleier (remote)
+participants : Sven Schleier (remote), Abderrahmane AFTAHI (remote)
 ---
 
 Welcome to the ultimate Owasp Mobile Security Testing Guide content reshuffle session!

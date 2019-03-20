@@ -1,7 +1,7 @@
 ---
 title           : Abderrahmane AFTAHI
 type            : participant - remote
-job_title       :Mobile Applications Security Engineer/ OWASP MSTG contributor
+job_title       : Mobile Applications Security Engineer/ OWASP MSTG contributor
 company         : Dial Technologies
 travel_from     :
 image           : 
