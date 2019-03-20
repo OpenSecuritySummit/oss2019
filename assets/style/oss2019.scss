@@ -9,6 +9,20 @@
 
 /*.schedule-cell .alert-danger      { padding  :  0px !important      }*/
 
+header {
+  .full-bg {
+     position: relative;
+     background-size: cover;
+     -webkit-transition: all 0.2s ease-out;
+     -moz-transition: all 0.2s ease-out;
+     transition: all 0.2s ease-out;
+
+     .home-carousel {
+         background: none;
+      }
+  }
+}
+
 .tr-schedule {
     border-top: 3px solid !important;
     border-color: white !important;

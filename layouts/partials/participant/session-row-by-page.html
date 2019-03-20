@@ -1,19 +1,19 @@
-{{ $.Scratch.Set "pages" "" }}
+{{ $scratch := newScratch }}
 
-{{- range where .this.Site.Pages ".Params.type" "!=" "outcome" }}
-    {{if in (index .Params $.field) $.name}}
-        {{ $.Scratch.Add "pages" (slice .) }}
+{{ range where .this.Site.Pages ".Params.type" "!=" "outcome" }}
+    {{if in (index .Params $.field) $.name }}
+        {{ $scratch.Add "pages" (slice .) }}
     {{ end }}
 
     {{ if and (eq .Params.type "team") (in .Params.members $.name) }}
         {{ range .Params.sessions }}
           {{ $session := index (where (where $.this.Site.Pages ".Params.title" .) ".Params.type" "!=" "outcome") 0 }}
-          {{ $.Scratch.Add "pages" (slice $session) }}
+          {{ $scratch.Add "pages" (slice $session) }}
         {{ end }}
     {{ end }}
 {{ end }}
 
-{{ $all_sessions := $.Scratch.Get "pages" }}
+{{ $all_sessions := $scratch.Get "pages" }}
 
 {{ range $all_sessions }}
 <tr>

@@ -1,4 +1,4 @@
-{{ $page := (where .this.Site.Pages ".Params.title" .track) }}
+{{ $page := where (where .this.Site.Pages ".Params.title" .track) ".Params.type" "!=" "team" }}
 {{ with $page }}
     {{ $track := (index $page 0) }}
     <!--<a href="/tracks/#{{ upper $track.Params.title | urlize }}">{{$track.Params.title}}</a>-->

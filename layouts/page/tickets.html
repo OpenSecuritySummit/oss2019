@@ -46,7 +46,7 @@
         <div class="buy_using ul_bx">
           <h3>Buy using invoice</h3>
           <ul>
-            <li>If you want to purchase via an invoice or more than 4 tickets please contact <a href="mailto:francois@devseccon.com" class="link_1">Francois Raynaud</a></li>
+            <li>If you want to purchase via an invoice or more than 4 tickets please contact <a href="mailto:info@opensecsummit.org" class="link_1">info@opensecsummit.org</a></li>
 
           </ul>
 
@@ -62,44 +62,8 @@
 
   <div class="pricing m_b_160">
     <div class="row">
-        {{ range $index, $ticket := sort .Site.Data.tickets "weight" }}
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="price_bx">
-            <div class="head_price text-center">
-              <a href="{{ $ticket.buy }}" target="_blank">
-                <h3>{{ $ticket.type }}</h3>
-                <h4>{{ $ticket.early_bird }}</h4>
-              </a>
-            </div>
-            <div class="mid_price">
-              <div class="text-center price_gbp"><span class="price_cl">&pound;{{ $ticket.cost }}*</span><span class="gbp">GBP</span></div>
-              <p class="plus_free text-center">* plus fee and VAT</p>
-              <h4 class="participant">{{ $ticket.duration }}</h4>
-              <div class="ul_bx">
-                <ul>
-                  {{ range $ticket.description }}
-                  <li>{{ . }}</li>
-                  {{ end }}
-                </ul>
-              </div>
-              {{ if eq $ticket.cost 0 }}
-                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn" target="_blank">{{$ticket.text }}</a></div>
-              {{ else}}
-                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn" target="_blank">Buy Ticket</a></div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
+      <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.co.uk/tickets-external?eid=46684822561&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
     </div>
-    <!--
-    <div class="row">
-        <div class="col-lg-offset-3 col-lg-6">
-          <img class="img img-responsive" src="/img/pages/tickets_explained.png" />
-        </div>
-    </div>
-    -->
   </div>
 
 </div><!-- container -->

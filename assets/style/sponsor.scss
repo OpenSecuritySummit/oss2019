@@ -1,0 +1,138 @@
+/* Sponsors */
+
+.bg-sponsors {
+    background-color: #f5f7fa;
+}
+
+#sponsors .sponsor-spacing {
+    padding-top: 30px;
+}
+
+#sponsors .sponsors-item {
+    margin-left: 15px;
+    background-color: #FFFFFF;
+}
+
+#sponsors .sponsors-item .sponsors-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#sponsors .sponsors-item .sponsors-link .sponsors-hover {
+    position: absolute;
+    width: 100%;
+    opacity: 0;
+    background: rgba(254, 209, 54, .9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#sponsors .sponsors-item .sponsors-link .sponsors-hover:hover {
+    opacity: 1;
+}
+
+#sponsors .sponsors-item .sponsors-link .sponsors-hover .sponsors-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#sponsors .sponsors-item .sponsors-link .sponsors-hover .sponsors-hover-content i {
+    margin-top: -12px;
+}
+
+#sponsors .sponsors-item .sponsors-link .sponsors-hover .sponsors-hover-content h3,
+#sponsors .sponsors-item .sponsors-link .sponsors-hover .sponsors-hover-content h4 {
+    margin: 0;
+}
+
+#sponsors .sponsors-item .sponsors-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#sponsors .sponsors-item .sponsors-caption h4 {
+    margin: 0;
+    text-transform: none;
+    color: white;
+    background-color: green;
+}
+
+#sponsors .sponsors-item .sponsors-caption p {
+    margin: 0;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#sponsors * {
+    z-index: 2;
+}
+
+#sponsors .platinum {
+    width: calc(100% / 4);
+}
+
+#sponsors .gold {
+    width: calc(100% / 4);
+}
+
+#sponsors .silver {
+    width: calc(100% / 4);
+}
+
+@media(min-width:767px) {
+    #sponsors .sponsors-item {
+        margin: 10px 10px 30px;
+    }
+}
+
+ul.list-style-none li.roboto-slab-big {
+    font-family: 'Roboto Slab', serif !important;
+    font-size: 60px;
+    color: #fff;
+}
+
+ul.list-style-none li a.green {
+    font-size: 16px;
+    font-family: "Oswald-Medium";
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #87bb40;
+    padding: 15px;
+}
+
+.sponsorship_options h1 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    color: #00549e;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.sponsorship_options h1:before {
+    content: "";
+    width: 100px;
+    height: 10px;
+    margin-left: -50px;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    background: #98c1df;
+}

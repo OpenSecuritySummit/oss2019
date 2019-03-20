@@ -30,10 +30,10 @@
           {{ .Content }}
         </div>
       </div>
-
       <div class="row sponsor-spacing">
         <div class="col-md-12">
-          {{ $sponsor_type := (slice "platinum" "gold" "silver" "community") }}
+          {{/* $sponsor_type := (slice "platinum" "gold" "silver" "bronze") */}}
+          {{ $sponsor_type := (slice "media") }}
           {{ range $sponsor_type }}
           {{ $sponsors := (index $.Site.Data.sponsors .) }}
 
@@ -41,50 +41,56 @@
 
           {{ end }}
         </div>
-      </div>
+    </div>
     </div>
   </div><!-- container-fluid -->
-
-  <div class="sponsorship-options">
+  
+  
+  <div class="sponsorship_options">
     <div class="container">
       <h1>Sponsorship packages</h1>
-      <p>If you are interested in one of the sponsorships packages below please contact <a href="mailto:francois@devseccon.com">Francois Raynaud</a></p>
-      <div class="row">
-        <div class="col-xs-6">
-          <h3>Platinum sponsor: £10,000 (villa and project)</h3>
-          <ul>
-            <li>5 full tickets (including accommodation and food) and named/branded villa</li>
-            <li>sponsored project</li>
-            <li>promotional materials in accommodation</li>
-            <li>logo posted on event website</li>
-            <li>logo included in printed summit guide</li>
-            <li>social media announcement</li>
-            <li>logo on tote bag</li>
-          </ul>
+      <p>If you are interested in one of the sponsorships packages below please <a href="mailto:info@opensecsummit.org">contact us</a></h2></p>
+      <h3>Platinum sponsor: £20,000</h3>
+      <ul>
+        <li>15* full tickets (including accommodation and food)</li>
+        <li>Branded villa</li>
+        <li>Sponsored project</li>
+        <li>Logo placement on website, guide and bag</li>
+        <li>Social media announcement</li>
+        <li>Bag inserts</li>
+        <li>2m x 2m sponsor booth in dining room</li>
+        <li>Sponsored evening talk</li>
+      </ul>
 
-          <h3>Gold sponsor: £7,000 (project)</h3>
-          <ul>
-            <li>4 full tickets (including accommodation and food)</li>
-            <li>sponsor a project</li>
-            <li>promotional materials in accommodation</li>
-            <li>company name within project work</li>
-            <li>logo posted on event website</li>
-            <li>logo included in printed summit guide</li>
-            <li>social media announcement</li>
-            <li>logo on tote bag</li>
-          </ul>
-          <h3>Silver sponsor: £3,500</h3>
-          <ul>
-            <li>2 full tickets (including accommodation and food)</li>
-            <li>promotional materials in accommodation</li>
-            <li>logo posted on event website</li>
-            <li>logo included in printed summit guide</li>
-            <li>social media announcement</li>
-          </ul>
+      <h3>Gold sponsor: £10,000</h3>
+      <ul>
+        <li>6* full tickets (including accommodation and food)</li>
+        <li>Sponsored project</li>
+        <li>Logo placement on website, guide and bag</li>
+        <li>Social media announcement</li>
+        <li>Bag inserts</li>
+        <li>2m x 2m sponsor booth in dining room</li>
+        <li>Sponsored evening talk</li>
+      </ul>
+      
+      <h3>Silver sponsor: £5,000</h3>
+      <ul>
+        <li>4* full tickets (including accommodation and food)</li>
+        <li>Logo placement on website, guide and bag</li>
+        <li>Social media announcement</li>
+        <li>Bag inserts</li>
+        <li>2m x 2m sponsor booth in sponsor room</li>
+      </ul>
+      
+      <h3>Bronze sponsor: £3,500</h3>
+      <ul>
+        <li>2 full tickets (including accommodation and food)</li>
+        <li>Logo placement on website, guide and bag</li>
+        <li>Social media announcement</li>
+      </ul>
+      <p>Bespoke packages available upon request.</p>
+      <p>*Ticket allocation will include booth managers</p>
 
-
-        </div>
-      </div>
     </div>
   </div>
 

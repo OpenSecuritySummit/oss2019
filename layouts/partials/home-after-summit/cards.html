@@ -2,47 +2,46 @@
 
     <div class="container text-center">
         <div class="heading custom-border text-center">
-            <h1 class="no-margin">Featured Outcomes</h1>
+            <h1 class="no-margin">Featured Tracks</h1>
         </div>
 
         <div class="row">
-        {{ $outcomes := where (where (where .Pages ".Params.type" "outcome") ".Params.title" "!=" "") ".Params.status" "!=" "draft" }}
-
-        {{ $tracks := slice "Chaos Engineering" "CISO" "DevSecOps" "GDPR" "Keynotes" "Maps and Graphs" "Misc" "OWASP Projects" "OWASP SAMM" "Security Questions" "Threat Model" }}
-
+        {{ $tracks := where .Site.Pages ".Params.type" "track" }}
         {{ range $tracks }}
-            {{ $featured := where (where $outcomes ".Params.track" .) ".Params.featured" true }}
-            {{ if gt (len $featured) 0 }}
+
+            {{ $track_name := .Title }}
+
             <div class="col-lg-3 col-md-3 col-sm-12">
               <div class="oss-card-small">
                 <div class="oss-card-small-title">
-                  <a href="">
-                    <h3>{{ . | upper }}</h3>
+                  <a href="{{ .Permalink }}">
+                    <h3>{{ truncate 45 .Title | upper}}</h3>
                   </a>
                 </div>
                 <div class="oss-card-small-body">
                   <div class="featured">
                     <ul class="featured">
-                    {{ range $featured }}
-                      <li class="featured">
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                      </li>
-                      {{ end }}
+                        {{ $featured_sessions := where (where (where .Site.Pages ".Params.track" .Title) ".Params.type" "!=" "outcome" ) ".Params.featured" "eq" true }}
+                        {{ range $featured_sessions }}
+                            <li class="featured">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            </li>
+                        {{ end }}
                     </ul>
                     <div class="oss-card-small-bottom">
-                      <a href="{{ . }}" class="btn oss-card-small-button">More information</a>
+                      <a href="{{ .Permalink }}" class="btn oss-card-small-button">More information</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            {{ end }}
+
         {{ end }}
         </div>
         <div class="row text-center">
             <div class="col-md-offset-4 col-md-4">
               <div class="oss-card-small-bottom">
-                <a href="/outcomes/" class="btn oss-card-small-button">See all outcomes</a>
+                <a href="/tracks/" class="btn oss-card-small-button">See all tracks</a>
               </div>
           </div>
         </div>
