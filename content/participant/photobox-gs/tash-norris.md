@@ -10,10 +10,10 @@ linkedin        : tash-norris-4019892b
 twitter         : TashJNorris
 website         : https://pbx-group-security.com/
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-2
 night_room      : 1
-pre-summit      : Fri, Sat, Sun
+pre-summit      : Sat, Sun
 status          : done
 pre_summit      : Sat,Sun
 sessions        :
