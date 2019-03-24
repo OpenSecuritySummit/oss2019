@@ -1,5 +1,5 @@
 ---
-title        : Juice Shop 101
+title        : OWASP Mobile Security Testing Guide 101
 type         : user-session
 technology   :
 track        : OWASP Mobile Security Testing Guide
