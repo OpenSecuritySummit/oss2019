@@ -1,5 +1,5 @@
 ---
-title        : OWASP Mobile Security Testing Guide
+title        : OWASP MSTG
 type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
