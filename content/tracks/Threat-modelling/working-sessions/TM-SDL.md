@@ -1,5 +1,5 @@
 ---
-title        : Towards a unfied way of describing threat models
+title        : Towards a unified way of describing threat models
 type         : working-session
 track        : Threat Model
 topics       : 
