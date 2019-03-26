@@ -13,7 +13,7 @@ session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen
 description  : Updating the content of the MSTG
-participants : Jeroen Willemsen, Sven Schleier (remote)
+participants : Jeroen Willemsen, Sven Schleier (remote), Abderrahmane AFTAHI (remote)
 ---
 
 
