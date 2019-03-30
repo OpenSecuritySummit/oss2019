@@ -6,6 +6,7 @@
         </div>
 
         <div class="row">
+            <div class="oss-track-cards-container">
         {{ $tracks := where .Site.Pages ".Params.type" "track" }}
         {{ range $tracks }}
 
@@ -46,4 +47,5 @@
           </div>
         </div>
     </div>
+  </div>
 </section>

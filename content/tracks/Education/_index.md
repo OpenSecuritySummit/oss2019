@@ -1,5 +1,5 @@
 ---
-title        : OWASP Application Security Education Projects
+title        : Education Projects
 type         : track
 featured     : yes
 when_day     : Mon,Tue,Wed,Thurs,Fri
