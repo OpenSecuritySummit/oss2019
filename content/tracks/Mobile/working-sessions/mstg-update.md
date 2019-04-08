@@ -11,9 +11,9 @@ room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
-organizers   : Jeroen Willemsen
+organizers   : Jeroen Willemsen, Carlos Holguera
 description  : Updating the content of the MSTG
-participants : Jeroen Willemsen, Sven Schleier (remote), Abderrahmane AFTAHI (remote)
+participants : Jeroen Willemsen, Sven Schleier (remote), Abderrahmane AFTAHI (remote), Carlos Holguera
 ---
 
 
@@ -24,13 +24,13 @@ Welcome to the Owasp Mobile Security Testing Guide Content pressure cook!
 
 Ever since iOS 12 and Android 8/9 came out, a lot of security fixes have been added by the vendors! This means new parameters that need explaining (AND VERIFICATION ;-)). So we need to start hacking on our mobile devices, learn from them and update / fix the issues! Next to that, are tons of other issues that are still not explained in the MSTG. Are you interested in the kind of content we need to work on during these days? Check https://github.com/OWASP/owasp-mstg/issues and our project page https://github.com/OWASP/owasp-mstg/projects/2.
 
-Next, the OMTG playground and the iOS crackme's really needs some TLC, so we need to update them, so it runs on Android 9 as well!
+Next, the OMTG playground and the iOS crackmes really needs some TLC, so we need to update them, so it runs on Android 9 as well!
 
 ## What
 
 - Fix issues mentioned in https://github.com/OWASP/owasp-mstg/issues and update the iOS materials as well.
-- Fix the OMTG (and automate the builds, similar to the crackmes)
-- Fix the iOS Crackme's (fix lvl2 and create lvl3)
+- Fix the OMTG (and automate the builds, similar to the crackmes).
+- Fix the iOS Crackmes (fix lvl2 and create lvl3).
 
 ## Who
 
@@ -50,13 +50,14 @@ An updated iOS and Android chapter in the MSTG that covers the latest security c
 ## Who
 
 Anybody who wants to join the Mobile Security project and learn or share knowledge about mobile security in applications for iOS and Android:
+
 - Developers
 - Pentesters
 - Security engineers
 
 ## References
 
-[Workflow for MSTG contributions via Github](https://github.com/OWASP/owasp-mstg/#contributing)
-[Android Security](https://developer.android.com/topic/security/index.html)
-[Android Oreo](https://developer.android.com/about/versions/oreo/index.html)
-[iOS Security Whitepaper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
+- [Workflow for MSTG contributions via Github](https://github.com/OWASP/owasp-mstg/#contributing)
+- [Android Security](https://developer.android.com/topic/security/index.html)
+- [Android Oreo](https://developer.android.com/about/versions/oreo/index.html)
+- [iOS Security Whitepaper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)

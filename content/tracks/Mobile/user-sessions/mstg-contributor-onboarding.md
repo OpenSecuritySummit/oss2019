@@ -12,7 +12,7 @@ room_id      :
 session_slack:
 status       : review-content
 description  : MSTG introduction for new contributors
-organizers   : Jeroen Willemsen
+organizers   : Jeroen Willemsen, Carlos Holguera
 participants :
 ---
 
@@ -22,10 +22,10 @@ A take-off session for all participants that want to contribute to the OWASP Mob
 
 ## What
 
-* Introduction into the current state of the MSTG
-* Release proces
-* Contribution guidelines
-* Outline of the activities planned for this week
+- Introduction into the current state of the MSTG.
+- Release process.
+- Contribution guidelines.
+- Outline of the activities planned for this week.
 
 This is **not** a basic introduction into the project itself! For this
 we recommend to participate in the [Introduction into the MSTG](/tracks/Mboile/user-sessions/intro-mstg/) session!
@@ -33,6 +33,6 @@ we recommend to participate in the [Introduction into the MSTG](/tracks/Mboile/u
 
 ## References
 
-* [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs "MASVS")
-* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg "MSTG")
-* [style_guide.md](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md)
+- [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs "MASVS")
+- [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg "MSTG")
+- [style_guide.md](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md)
