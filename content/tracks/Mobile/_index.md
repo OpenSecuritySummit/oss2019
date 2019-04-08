@@ -12,8 +12,8 @@ session_slack:
 status       : review-content              # draft, review-content, done
 description  : |
   Sessions focusing on the OWASP MSTG project.
-organizers   : Jeroen Willemsen
-participants : Jeroen Willemsen, Sven Schleier (remote)
+organizers   : Jeroen Willemsen, Carlos Holguera
+participants : Jeroen Willemsen, Sven Schleier (remote), Carlos Holguera
 ---
 
 Welome to the Owasp Mobile Security Testing Guide working-session track!

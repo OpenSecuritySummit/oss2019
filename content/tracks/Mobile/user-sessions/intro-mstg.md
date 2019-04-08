@@ -12,7 +12,7 @@ room_id      :
 session_slack:
 status       : review-content
 description  : MSTG introduction for newbies
-organizers   : Jeroen Willemsen
+organizers   : Jeroen Willemsen, Carlos Holguera
 participants :
 ---
 
@@ -25,12 +25,12 @@ Pick up session for all participants who are interested in the Mobile Security T
 Target audience are all interested users from _Breaker_, _Builder_ and
 _Defender_ communities alike!
 
-* Introduction into the Mobile Application Security Verification Standard (MASVS)
-* Introduction into the Mobile Security Testing Guide (structure, what it is about)
-* Some demos of what we teach through the guide.
+- Introduction into the Mobile Application Security Verification Standard (MASVS).
+- Introduction into the Mobile Security Testing Guide (structure, what it is about).
+- Some demos of what we teach through the guide.
 
 
 ## References
 
-* [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs "MASVS")
-* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg "MSTG")
+- [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs "MASVS")
+- [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg "MSTG")

@@ -11,7 +11,7 @@ room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
-organizers   : Jeroen Willemsen
+organizers   : Jeroen Willemsen, Carlos Holguera
 description  : Restructuring the contents of the MSTG
 participants : Sven Schleier (remote), Abderrahmane AFTAHI (remote)
 ---
@@ -40,4 +40,4 @@ Anybody who wants to join the Mobile Security project and learn or share knowled
 
 ## References
 
-https://github.com/OWASP/owasp-mstg/issues/970
+- https://github.com/OWASP/owasp-mstg/issues/970
