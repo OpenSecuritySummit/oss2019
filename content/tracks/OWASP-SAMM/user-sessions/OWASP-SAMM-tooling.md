@@ -1,8 +1,8 @@
 ---
 title        :OWASP SAMM Tooling
-type         : user-session    # working-session, user-session
+type         : working-session
 track        : OWASP SAMM
-topics       : ["OWASP"]
+topics       : 
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
