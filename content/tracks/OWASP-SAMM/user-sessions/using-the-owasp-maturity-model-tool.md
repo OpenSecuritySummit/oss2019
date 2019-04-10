@@ -1,5 +1,5 @@
 ---
-title        : Using the OWASP Maturity Model tool
+title        :OWASP SAMM Tooling
 type         : user-session    # working-session, user-session
 track        : OWASP SAMM
 topics       : ["OWASP"]
@@ -14,11 +14,10 @@ session_slack:
 status       : review-content              # draft, review-content, done
 description  : Practical session on using the OWASP Maturity Model tool
 organizers   :
-    - Sotiraki Sima
+    - Sebastien Deleersnyder
 participants :
 ---
 
-Hands-on session on using the https://github.com/owasp/maturity-models tool
 
 <!--(add intro)
 
