@@ -1,8 +1,8 @@
 ---
 title           : Yasmin Martin
 type            : participant
-sponsored_by    : JE Marketing
-job_title       :
+sponsored_by    : PhotoBox
+job_title       : Head of Risk & Compliance
 company         : Photobox
 travel-from     :
 image           :
