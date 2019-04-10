@@ -4,7 +4,7 @@ type            : participant
 company         : Toreon
 travel_from     :
 job_title       : Consultant at Toreon
-image           : 
+image           : https://pbs.twimg.com/profile_images/582556334161309696/cnSuIFvq_400x400.jpg
 email           : swierkcx@gmail.com
 linkedin        : steven-wierckx
 twitter         : ihackforfun
