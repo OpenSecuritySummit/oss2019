@@ -1,10 +1,10 @@
 ---
 title           : Jemma Davis
 type            : participant
-job_title       : Head of Group Security Operations and Education
-sponsored_by    : PhotoBox
-company         : PhotoBox Group
-image           : https://media.licdn.com/dms/image/C5603AQEA207gxkJs6Q/profile-displayphoto-shrink_200_200/0?e=1554336000&v=beta&t=teRMjxmGfORsQHl8SmF7EkwFpuUtMiJYHjq9xr0Z-Vg
+job_title       : 
+sponsored_by    : 
+company         : 
+image           : https://media.licdn.com/dms/image/C5603AQEA207gxkJs6Q/profile-displayphoto-shrink_800_800/0?e=1560384000&v=beta&t=637MFM_JrNRK50vQS9F5hYC3jZUrN0Q4HlbiP2yRiR8
 email           : 
 linkedin        : https://www.linkedin.com/in/jemma-davis-acim-6a562792/
 twitter         : 
@@ -21,4 +21,4 @@ sessions        :
 ---
 
 
-Jemma Davis is the Head of Group Security Operations and Education at Photobox Group and is responsible for creating a security conscious culture for the brands within the Group.
+

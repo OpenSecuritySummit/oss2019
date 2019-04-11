@@ -1749,6 +1749,13 @@ hr.container.no-margin {
   bottom: 0;
 }
 
+/** OSS Container for cards */
+.oss-track-cards-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
 /** OSS Card */
 .oss-card-small {
   background: #fff;
