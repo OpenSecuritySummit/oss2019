@@ -1,7 +1,7 @@
 ---
 title        : Creating content session
 type         : working-session    # working-session, user-session
-track        : OWASP Mobile Security Testing Guide
+track        : OWASP MSTG
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"
