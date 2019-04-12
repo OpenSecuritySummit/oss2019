@@ -1,7 +1,7 @@
 ---
 title           : Tash Norris
 type            : participant
-job_title       : Senior Cloud Security and Threat Modeler
+job_title       : Senior Cloud Security and Threat Modeler and AppSec
 sponsored_by    : PhotoBox
 company         : PhotoBox Group
 image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=jZi2JcvWxwZP4c88nLTrcL6YD75UPIf77fBKTLxafY4
