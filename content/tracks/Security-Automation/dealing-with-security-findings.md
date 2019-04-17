@@ -62,8 +62,8 @@ Here are the current 'work in progress' materials for this session (please add a
 
 - [The Security Development Lifecycle](https://www.owasp.org/images/7/78/OWASP_AppSec_Research_2010_Keynote_2_by_Lipner.pdf)
 - [SDL in Practice](https://www.owasp.org/images/4/45/SDL_in_practice.pdf)
-- [Defect Dojo] (https://github.com/DefectDojo/django-DefectDojo)
-- [OWASP ZAP] (https://github.com/zaproxy/zaproxy)
-- [Dependency Check] (https://github.com/jeremylong/DependencyCheck)
+- [Defect Dojo](https://github.com/DefectDojo/django-DefectDojo)
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy)
+- [Dependency Check](https://github.com/jeremylong/DependencyCheck)
 
 ## Previous Summit Working Session
