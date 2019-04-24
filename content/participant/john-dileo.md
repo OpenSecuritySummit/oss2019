@@ -1,3 +1,4 @@
+---
 title           : John DiLeo
 type            : participant
 sponsored_by    : 
@@ -10,8 +11,8 @@ twitter         : gr4ybeard
 facebook        :
 website         :
 email           : john.dileo@owasp.org
-project_leader  : OWASP Application Security Curriculum Project
-chapter_leader  : OWASP New Zealand
+project_leader  : yes
+chapter_leader  : yes
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-1
@@ -42,3 +43,4 @@ John DiLeo has worked and taught in computing and information technology for 30 
 * OWASP New Zealand Chapter Co-Leader
 * OWASP Application Security Curriculum Project Co-Leader
 * OWASP SAMM Project Core Team
+
