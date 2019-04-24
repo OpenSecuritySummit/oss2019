@@ -10,10 +10,8 @@ twitter         : gr4ybeard
 facebook        :
 website         :
 email           : john.dileo@owasp.org
-project_leader  : 
-- OWASP Application Security Curriculum Project
-chapter_leader  : 
-- OWASP New Zealand
+project_leader  : OWASP Application Security Curriculum Project
+chapter_leader  : OWASP New Zealand
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-1
