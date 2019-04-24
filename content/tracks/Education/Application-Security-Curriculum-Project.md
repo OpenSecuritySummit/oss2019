@@ -15,7 +15,7 @@ status       : review-content              # draft, review-content, done
 description  :
 organizers   :
     - Adrian Winckles
-    - John Dileo
+    - John DiLeo
     
 ---
 

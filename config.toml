@@ -219,9 +219,9 @@ paginate = 10
 
     logo = "img/logo.png"
     address = """<p>Open Security Summit
-        <br />Prospect House
-        <br />67 Boston Manor Road
-        <br />Brentford, TW8 9JQ
+        <br />Crown House
+        <br />27 Old Gloucester Street
+        <br />London, WC1N 3AX
         <br />United Kingdom</p>
         <a href="mailto:info@opensecsummit.org">info@opensecsummit.org</a>
       """

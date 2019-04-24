@@ -1,5 +1,5 @@
 ---
-title        :OWASP SAMM Tooling
+title        : OWASP SAMM Tooling
 type         : working-session
 track        : OWASP SAMM
 topics       : 
@@ -13,8 +13,8 @@ room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
 description  : Practical session on using the OWASP Maturity Model tool
-organizers   :
-    - Sebastien Deleersnyder
+organizers   : 
+  - Sebastien Deleersnyder
 participants :
 ---
 

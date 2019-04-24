@@ -2,7 +2,7 @@
 title        : OWASP Mobile Security Testing Guide 101
 type         : user-session
 technology   :
-track        : OWASP Mobile Security Testing Guide
+track        : OWASP MSTG
 topics       :
 featured     : yes
 when_day     : Mon

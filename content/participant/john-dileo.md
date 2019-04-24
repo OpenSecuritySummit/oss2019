@@ -1,4 +1,3 @@
----
 title           : John DiLeo
 type            : participant
 sponsored_by    : 
@@ -45,4 +44,3 @@ John DiLeo has worked and taught in computing and information technology for 30 
 * OWASP New Zealand Chapter Co-Leader
 * OWASP Application Security Curriculum Project Co-Leader
 * OWASP SAMM Project Core Team
-
