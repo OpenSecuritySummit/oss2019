@@ -13,10 +13,10 @@ website         :
 email           : john.dileo@owasp.org
 project_leader  : yes
 chapter_leader  : yes
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
-night_where     : villa-1
-night_room      : 4
+venue           : 
+night_day       : 
+night_where     : 
+night_room      : 
 eventbrite_id   :
 status          : 
 sessions        : 
