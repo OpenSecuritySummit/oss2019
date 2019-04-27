@@ -1,7 +1,7 @@
 ---
 title        : Mobile Basic Security Testing and Reverse Engineering
 type         : working-session    # working-session, user-session
-track        : OWASP MSTG
+track        : Mobile Security
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes               # review with summit team "yes"
