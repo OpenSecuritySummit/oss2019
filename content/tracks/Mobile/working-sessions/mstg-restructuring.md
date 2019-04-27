@@ -20,7 +20,7 @@ Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle se
 
 ## Why
 
-If you're familiar with mobile security testing you'll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide.
+If you're familiar with mobile security testing you'll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics **from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering** on Android and iOS.
 
 ## What
 
@@ -31,7 +31,7 @@ This session focus on the following topics (and their corresponding chapters fro
 - Android and iOS Basic Security Testing ([0x5b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)/[0x5c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md))
 - Android and iOS Reverse Engineering and Tampering ([0x6b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)/[0x6c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md))
 
-You'll have the chance to get your hands dirty and craft examples and new content for the MSTG. For the new examples we will be introducing new tools like r2frida. Did you know you can reverse engineer an app straight from the process memory? That means, e.g. for iOS that you may skip the decryption and extraction of the binary.
+You'll have the chance to **get your hands dirty** and craft examples and new content for the MSTG. For the new examples we will be introducing new tools like r2frida. **Did you know you can reverse engineer an app straight from the process memory?** That means, e.g. for iOS that you may skip the decryption and extraction of the binary.
 
 The tickets for this working session will cover these topics and contribute to the restructuring of the MSTG as described in this issue: https://github.com/OWASP/owasp-mstg/issues/970. This should simplify the chapters, improve their readability and make the project a lot easier to maintain!
 
@@ -55,6 +55,7 @@ Depending on the tasks/challenges you choose:
 - For iOS: an iOS device (preferably jailbroken). A MacBook is recommended but not mandatory.
 - For Android: an Android device is highly recommended (preferably rooted). However for many tasks you can use the emulator.
 
+The MSTG is hosted in GitHub and can easily be edited by anyone, just a Github account is needed and knowledge on how to create a pull request.
 
 ## Outcomes
 
