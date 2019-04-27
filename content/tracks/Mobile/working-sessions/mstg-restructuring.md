@@ -1,5 +1,5 @@
 ---
-title        : Restructure session
+title        : Mobile Basic Security Testing and Reverse Engineering
 type         : working-session    # working-session, user-session
 track        : OWASP MSTG
 technology   : Mobile, iOS, Android
@@ -12,32 +12,58 @@ room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen, Carlos Holguera
-description  : Restructuring the contents of the MSTG
+description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
 participants : Sven Schleier (remote), Abderrahmane AFTAHI (remote)
 ---
 
-Welcome to the ultimate Owasp Mobile Security Testing Guide content reshuffle session!
+Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
 
-## WHY
+## Why
 
-Currently, we have 3 sections that are pretty distinct from each other: a global testing guide, an iOS testing guide and an Android testing guide. Keeping all 3 up to date makes stuff rather complicated! Let's simplify this as suggested in https://github.com/OWASP/owasp-mstg/issues/970! This should make the project a lot easier to maintain!
+If you're familiar with mobile security testing you'll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide.
 
 ## What
 
-Restructuring the MSTG as described in https://github.com/OWASP/owasp-mstg/issues/970.
+Join us in this working session if you'd like to work on topics that are the day-to-day of a mobile security tester: work on a device with/without root access, get a shell, install apps, reverse apps, patch, debug, inject code, trace/dump stuff, access files, ...
 
-## Outcomes
+This session focus on the following topics (and their corresponding chapters from the [MSTG](https://github.com/OWASP/owasp-mstg)):
 
-Hopefully a restructured MSTG.
+- Android and iOS Basic Security Testing ([0x5b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)/[0x5c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md))
+- Android and iOS Reverse Engineering and Tampering ([0x6b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)/[0x6c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md))
+
+You'll have the chance to get your hands dirty and craft examples and new content for the MSTG. For the new examples we will be introducing new tools like r2frida. Did you know you can reverse engineer an app straight from the process memory? That means, e.g. for iOS that you may skip the decryption and extraction of the binary.
+
+The tickets for this working session will cover these topics and contribute to the restructuring of the MSTG as described in this issue: https://github.com/OWASP/owasp-mstg/issues/970. This should simplify the chapters, improve their readability and make the project a lot easier to maintain!
 
 ## Who
 
-Anybody who wants to join the Mobile Security project and learn or share knowledge about mobile security in applications for iOS and Android:
-- Developers
-- Pentesters
+The target audience for this Working Session is:
+
+- iOS developers
+- Android developers
+- Penetration Testers
 - Security engineers
 
+From experts to beginners. Anybody who is passionate about app mobile security, haves fun hacking, securing and/or developing mobile apps and loves to continuously learn and enjoys sharing knowledge.
+
+## What do you need to bring with you?
+
+Minimum required: a laptop :)
+
+Depending on the tasks/challenges you choose:
+
+- For iOS: an iOS device (preferably jailbroken). A MacBook is recommended but not mandatory.
+- For Android: an Android device is highly recommended (preferably rooted). However for many tasks you can use the emulator.
+
+
+## Outcomes
+
+A beautifully restructured MSTG.
 
 ## References
 
-- https://github.com/OWASP/owasp-mstg/issues/970
+- ["Basic Security Testing / Reverse Engineering and Tampering" Chapters Restructuring Issue](https://github.com/OWASP/owasp-mstg/issues/970)
+- [Android Basic Security Testing](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)
+- [Android Reverse Engineering and Tampering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md)
+- [iOS Basic Security Testing](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)
+- [iOS Reverse Engineering and Tampering](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md)

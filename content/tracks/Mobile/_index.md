@@ -1,5 +1,5 @@
 ---
-title        : OWASP MSTG
+title        : Mobile Security
 type         : track
 technology   : Mobile
 topics       : Mobile Security                   # for example ["GDPR"]
@@ -16,20 +16,40 @@ organizers   : Jeroen Willemsen, Carlos Holguera
 participants : Jeroen Willemsen, Sven Schleier (remote), Carlos Holguera
 ---
 
-Welome to the Owasp Mobile Security Testing Guide working-session track!
+Welcome to the Mobile Security track!
 
-## WHY
+- The [Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) establishes a framework of security requirements needed to design, develop and test secure mobile apps on iOS and Android.
+- The [Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the MASVS.
 
-The OWASP Mobile Security Testing Guide (MSTG) project needs quiet some restructuring to be held up to date more efficiently. Next, With the rise of iOS 12 and Android 9, a lot of testcases need addendums and updates. This is what will be the core focus of this track.
+## Why
+
+We, the OWASP Mobile Security team love the OWASP Summit, that time of the year when we come together, all in one place, and forget about the rest of the world (literally as we're in the middle of a forest). Forget about companies / business and concentrate on making the mobile security world a better place. To achieve this we tirelessly work on the MSTG to make it even more awesome as it is already.
 
 ## What
 
-- Restructuring the MSTG
-- Adding missing testcases and updating existing testcases of the MSTG.
+Imagine being in the same room as these people who share your same passion:
 
-Remember: the sessions will be content driven and are open to anyone. And we encourage both beginners as well as Subject Matter Experts to join. However, bare in mind that beginners will be facilitated by means of getting an issue assigned and having to research it (e.g.: learn by doing ;-)).
-If you want to join our sessions, please make sure that:
-- You have a laptop with you;
-- You have a Github account; (need to refresh your git knowledge? check https://try.github.io/)
+- the main authors of the MSTG and MASVS
+- security engineers
+- experienced pentesters
+- researchers
+- ...
 
-Having mobile devices with you is recommended, but not necessary. Want to do stuff for iOS? Bring something running Mac OS X and do bring something running iOS ;-).
+all working together on mobile security topics
+
+- creating new content for the MSTG
+- researching together on the latest cutting-edge iOS and Android security topics
+- learning and sharing knowledge with other experts and beginners
+
+Our working sessions are ticket based, just take the one you like or you'll get one assigned depending on your level of expertise. Once you start you'll not only have the chance to do a great contribution but also to drive interesting discussions with the rest of the participants.
+
+We also organize spontaneous **full hands-on user sessions**, last year for example:
+
+- Sven showed us how to test iOS apps without Jailbreak
+- Carlos gave us some Frida lessons on how to do dynamic instrumentation and extract cryptographic material from an app process memory.
+
+If you're already experienced you're probably familiar with the issue that you cannot find any trainings/events on mobile security advanced topics that matches your level. Here you'll be able to work hand in hand with people sharing your passion, interest and close to your experience level. One can always learn so much from other people (experts or not). If you enjoy sharing your knowledge you'll have the chance to do so at the best working atmosphere. If you're a beginner this is THE PLACE to start!
+
+Cannot come over? Join us remotely! You may want to attend the presentations or actively participate on the working sessions that we base on tickets. Get a ticket and join, you'll have the chance to talk directly to the experts and contribute with your own expertise.
+
+Check all sessions below.
