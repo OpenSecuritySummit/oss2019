@@ -22,6 +22,14 @@ Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle se
 
 If you're familiar with mobile security testing you'll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics **from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering** on Android and iOS.
 
+As a result, the current content will be restructured, which will help
+
+- achieving a more organized testing approach and methodology.
+- detecting potential missing tools or techniques.
+- fixing missing links across chapters.
+
+Android and iOS chapter will *mirror* each other, so the next time someone (e.g. a beginner) wants to get started on these topics it will be very clear what has to be done and how. If you're already an expert on e.g. Android, this will help you quickly identify the things you need when starting testing on iOS, e.g. "Accessing the Device Shell".
+
 ## What
 
 Join us in this working session if you'd like to work on topics that are the day-to-day of a mobile security tester: work on a device with/without root access, get a shell, install apps, reverse apps, patch, debug, inject code, trace/dump stuff, access files, ...
