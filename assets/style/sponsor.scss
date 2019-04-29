@@ -92,6 +92,14 @@
     width: calc(100% / 4);
 }
 
+#sponsors .bronze {
+    width: calc(100% / 4);
+}
+
+#sponsors .outcomes {
+    width: calc(100% / 4);
+}
+
 @media(min-width:767px) {
     #sponsors .sponsors-item {
         margin: 10px 10px 30px;
