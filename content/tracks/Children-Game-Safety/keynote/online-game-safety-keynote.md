@@ -1,5 +1,5 @@
 ---
-title        : Safe Children Online Gaming
+title        : Making Online Gaming Safer for Children
 type         : working-session
 track        : Children Game Safety
 technology   :
