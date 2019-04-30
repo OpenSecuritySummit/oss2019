@@ -1,5 +1,5 @@
 ---
-title        : Online Gaming Safety
+title        : Children Game Safety
 type         : track
 featured     : yes
 when_day     : Wed,Thu

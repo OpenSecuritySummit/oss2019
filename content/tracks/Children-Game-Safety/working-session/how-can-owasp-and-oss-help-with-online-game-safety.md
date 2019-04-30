@@ -1,7 +1,7 @@
 ---
 title        : How can OWASP and OSS help with Online Game Safety
 type         : working-session
-track        : Online Gaming Safety
+track        : Children Game Safety
 technology   :
 categories   :
 featured     : yes

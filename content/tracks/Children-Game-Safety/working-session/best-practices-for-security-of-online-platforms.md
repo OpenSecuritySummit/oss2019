@@ -1,7 +1,7 @@
 ---
 title        : Best practices for the security of online Gaming platforms
 type         : working-session
-track        : Online Gaming Safety
+track        : Children Game Safety
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

@@ -1,7 +1,7 @@
 ---
 title        : GDPR Implications for Online Games (for players, parents and platform owners)
 type         : working-session
-track        : Online Gaming Safety
+track        : Children Game Safety
 technology   :
 categories   :
 featured     : no

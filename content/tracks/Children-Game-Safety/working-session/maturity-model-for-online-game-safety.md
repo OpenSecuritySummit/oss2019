@@ -1,7 +1,7 @@
 ---
 title        : Maturity Model for Online Game Safety (based on SAMM)
 type         : working-session
-track        : Online Gaming Safety
+track        : Children Game Safety
 technology   :
 categories   :                       # GDPR, Juice Shop, etc.
 featured     : no                   # review with summit team "yes"

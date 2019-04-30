@@ -1,8 +1,8 @@
 ---
 title        : Risk Dashboard - Online Gaming Safety
 type         : user-session
-track        : Online Gaming Safety
-topics       : ["CISO","Risk"]
+track        : Children Game Safety
+topics       :
 featured     : yes                # if  "yes" review with summit team
 when_day     : Thu
 when_time    : PM-1

@@ -1,7 +1,7 @@
 ---
 title        : Wardley Map - Online Game Safety
 type         : user-session
-track        : Online Gaming Safety
+track        : Children Game Safety
 technology   :
 categories   :
 featured     : yes
