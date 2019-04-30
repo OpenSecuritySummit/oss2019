@@ -2,7 +2,7 @@
 title        : Mobile Security Testing Guide onboarding
 type         : user-session
 technology   :
-track        : OWASP MSTG
+track        : Mobile Security
 topics       :
 featured     : yes
 when_day     : Mon
@@ -16,7 +16,7 @@ organizers   : Jeroen Willemsen, Carlos Holguera
 participants :
 ---
 
-## WHY
+## Why
 
 A take-off session for all participants that want to contribute to the OWASP Mobile Security Testing Guide project, but are not sure what to do yet during this week or after.
 
@@ -30,6 +30,9 @@ A take-off session for all participants that want to contribute to the OWASP Mob
 This is **not** a basic introduction into the project itself! For this
 we recommend to participate in the [Introduction into the MSTG](/tracks/Mboile/user-sessions/intro-mstg/) session!
 
+## Who
+
+Everyone that would like to start contributing to the OWASP Mobile Security Testing Guide project.
 
 ## References
 
