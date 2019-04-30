@@ -11,11 +11,11 @@ room_layout  :
 room_id      :
 session_slack:
 status       : review-content
-description  : Setting the scene and direction on how to make Online Gaming Safer for Children (and how the community can help)  Khaled Fattal
+description  : Setting the scene and direction on how to make Online Gaming Safer for Children (and how the community can help)
 organizers   : Khaled Fattal
 participants :
 ---
 
-Setting the scene and direction on how to make Online Gaming Safer for Children (and how the community can help)  Khaled Fattal
+Setting the scene and direction on how to make Online Gaming Safer for Children (and how the community can help)
 
 By Khaled Fattal, MLi Group chairman
