@@ -14,14 +14,4 @@ participants :
 description  : Creation of a Risk Dashboard for the multiple areas of Online Gaming Safety (from the games, to the online platforms, to the users)
 ---
 
-<!--(add intro)
-
-## Why
-
-## What
-
-## Outcomes
-
-## Who
-
-## References-->
+Creation of a Risk Dashboard for the multiple areas of Online Gaming Safety (from the games, to the online platforms, to the users)

@@ -16,20 +16,4 @@ participants :
     
 ---
 
-<!--(add intro)
-
-## WHY
-
-(...)
-
-## What
-
-(...)
-
-## Outcomes
-
-(...)
-
-## References
-
-(...)-->
+What are the GDPR implications for online gaming platforms? What are the platform developers responsibilities? What are the users (and parents rights?)

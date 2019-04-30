@@ -17,20 +17,4 @@ participants :
     
 ---
 
-<!--(add intro)
-
-## WHY
-
-(...)
-
-## What
-
-(...)
-
-## Outcomes
-
-(...)
-
-## References
-
-(...)-->
+Use the Maturity Model created by the Owasp SAMM project to create a first pass a stardard way to measure the Safety of Online Games

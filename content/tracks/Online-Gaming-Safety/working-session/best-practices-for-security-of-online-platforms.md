@@ -16,21 +16,4 @@ organizers   : TBD
 participants :
     
 ---
-
-<!--(add intro)
-
-## WHY
-
-(...)
-
-## What
-
-(...)
-
-## Outcomes
-
-(...)
-
-## References
-
-(...)-->
+Online gaming platforms manage large volumes of sensitive data which needs to protected and managed securely
