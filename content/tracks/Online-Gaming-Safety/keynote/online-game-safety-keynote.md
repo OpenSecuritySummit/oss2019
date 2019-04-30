@@ -4,7 +4,7 @@ type         : working-session
 track        : Online Gaming Safety
 technology   :
 categories   :
-featured     : yes
+featured     : no
 when_day     : Wed
 when_time    : DS-1
 room_layout  :

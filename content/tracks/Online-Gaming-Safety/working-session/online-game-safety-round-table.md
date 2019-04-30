@@ -4,7 +4,7 @@ type         : working-session
 track        : Online Gaming Safety
 technology   :
 categories   :
-featured     : yes
+featured     : no
 when_day     : Thu
 when_time    : PM-2
 room_id      : room-2
