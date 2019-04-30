@@ -5,15 +5,14 @@ video        : none
 slides       : none
 images       : none
 session_type : working-session         
-technology   : Data schema
-categories   : Threat Modelling
+categories   : OWASP SAMM
 status       : draft              
 
 ---
 
 ## Description of session
 
-description  : The purpose of this session was to discuss 
+description  : The purpose of this session was to discuss measurement model aspects SAMM v2.0
 
 ## Outcomes/Deliverables 
 
@@ -22,28 +21,33 @@ description  : The purpose of this session was to discuss
 
 The following are notes from the session - at this stage nothing was decided, rather a set of requirements were gathered to help aid and direct future conversations/ work in this space.
 
-# Non-Technical Requirements
+topics discussed:
 
+should we measure "ownership" for the activities, practices? (RACI ?)
 
+how about applicability (not all practices / activities are applicable)
+model aims to be agnostic of process, technology or type of organisation
 
+benchmarking, comparing aspects of the measurement.
+ahead or behind "the pack"
+objectices versus actual state
 
-
+track in a graph database?
 
 
 ## Synopsis and Takeaways (recommend)
 - TBD
 
 ## Identified Questions
-- Where automation is utilised, how do we ensure we don't remove engineers abilities to learn from the threat modelling process, contribute and collaborate with security teams.
-- By removing the manual process are we potentially missing threats captured from engineers contributions?
-- How much data should be captured in a threat model? When is there too much data?
-- What data shouldn't be in a threat model (assuming it's captured elswhere?)
-- Should CVE's be present?
-- Should SAST/ pen test output be present?
+- Need for conversion tool from 1.5 to 2.0
+
 
 ## Follow up
 - TBD
 
 - last summit notes:  
 https://github.com/OWASP/samm/edit/master/Supporting%20Resources/v2.0/summit-201810-Minneapolis/assessment-session.md
+- tool from Dinis:
+https://github.com/OWASP/Maturity-Models
+
 
