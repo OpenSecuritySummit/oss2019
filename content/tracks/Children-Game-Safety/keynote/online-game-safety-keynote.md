@@ -16,4 +16,6 @@ organizers   : Khaled Fattal
 participants :
 ---
 
+Setting the scene and direction on how to make Online Gaming Safer for Children (and how the community can help)  Khaled Fattal
+
 Khaled Fattal, MLi Group chairman
