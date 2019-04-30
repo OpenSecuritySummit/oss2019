@@ -1,6 +1,6 @@
 ---
 title        : Strategic Challenges
-type         : track
+#type         : track                         # note - we need more that one session before making this a track
 featured     : yes
 when_day     : Mon, Tue, Wed, Thu, Fri 
 owasp-project: no

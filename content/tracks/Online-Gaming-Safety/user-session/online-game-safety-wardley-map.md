@@ -1,5 +1,5 @@
 ---
-title        : Wardley Map for Online Game Safety
+title        : Wardley Map - Online Game Safety
 type         : user-session
 track        : Online Gaming Safety
 technology   :

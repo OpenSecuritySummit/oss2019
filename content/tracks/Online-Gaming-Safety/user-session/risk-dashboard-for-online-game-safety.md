@@ -1,5 +1,5 @@
 ---
-title        : Risk Dashboard for Online Gaming Safety
+title        : Risk Dashboard - Online Gaming Safety
 type         : user-session
 track        : Online Gaming Safety
 topics       : ["CISO","Risk"]

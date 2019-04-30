@@ -1,7 +1,7 @@
 ---
 title        : Zap - How to use it
 type         : user-session
-track        : Owasp Projects
+track        : OWASP Projects
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Tue
