@@ -22,3 +22,4 @@ OWASP and OSS (Open Security Summit) community sit at the center of a large comm
 ## What
 
 - for example map which OWASP projects are related to Online Game Safety (and how they can help)s
+- work with amazing sites like https://www.getsafeonline.org/ and https://www.childline.org.uk/
