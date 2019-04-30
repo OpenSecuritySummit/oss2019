@@ -5,9 +5,9 @@ featured     : yes
 when_day     : Wed,Thu
 owasp-project: no
 session_slack:
-description  : Sessions focusing on improving the Safety of Online Gaming
+description  : Sessions focused on making it safer children to play games online
 organizers   :
   - Pending
 ---
 
-Sessions focusing on improving the Safety of Online Gaming
+Sessions focused on making it safer children to play games online
