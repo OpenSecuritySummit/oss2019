@@ -20,7 +20,7 @@ participants :
 
 MLi Group Chairman [Khaled Fattal](https://www.linkedin.com/in/khaled-fattal-62a9651/) to deliver the keynote address and throw the gauntlet to challenge the Open security summit techie army to come up with a solution that will help make online game playing safer, especially for children.
 
-With more children than ever playing games online today, and with the recent horror stories reported in the news exposing this growing threat to children, such as the tragic murder of 14 year old gamer Breck Bednar, we believe making the online game playing safer for children is not just the responsibility of parents but also the Corporate Social Responsibility of all online gaming sector players.
+With more children than ever playing games online today, and with the recent horror stories reported in the news exposing this growing threat to children, such as the [tragic murder of 14 year old gamer Breck Bednar](http://www.breckfoundation.org/), we believe making the online game playing safer for children is not just the responsibility of parents but also the Corporate Social Responsibility of all online gaming sector players.
 
 Fattal will also be calling on the online game sector as well as other sectors’ leaders and stakeholders that they need to do a lot more to show their seriousness and sincerity to making online game playing safer for children beyond the usual lip service CSR / PR.
 
