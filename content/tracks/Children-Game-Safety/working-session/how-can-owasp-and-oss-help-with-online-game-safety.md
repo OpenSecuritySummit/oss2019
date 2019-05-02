@@ -12,7 +12,7 @@ room_id      :
 session_slack:
 status       : review-content
 description  : OWASP and OSS (Open Security Summit) community sit at the center of a large community that has all the players and resources required to find good solutions
-organizers   :
+organizers   : TBD
 participants :
     
 ---

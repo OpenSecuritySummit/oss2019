@@ -11,7 +11,7 @@ room_id      : room-2
 session_slack:
 status       : review-content
 description  : What are the GDPR implications for online gaming platforms? What are the platform developers responsibilities? What are the users (and parents rights?)
-organizers   :
+organizers   : TBD
 participants :
     
 ---

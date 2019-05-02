@@ -12,7 +12,7 @@ room_id      :
 session_slack:
 status       : review-content
 description  : Use the Maturity Model created by the Owasp SAMM project to create a first pass a stardard way to measure the Safety of Online Games
-organizers   :
+organizers   : TBD
 participants :
     
 ---

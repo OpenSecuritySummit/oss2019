@@ -12,7 +12,7 @@ room_id      :
 session_slack:
 status       : review-content
 description  : User session to create several Wardley Maps for the Gaming industry (and its past, present and future)
-organizers   :
+organizers   : TBD
 participants :
 ---
 

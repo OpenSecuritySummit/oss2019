@@ -11,7 +11,7 @@ room_id      : room-2
 session_slack:
 status       : review-content
 description  : Round table by multiple industry experts and players on how to improve the current state of Online Game Safety
-organizers   :
+organizers   : TBD
 participants :
     
 ---
