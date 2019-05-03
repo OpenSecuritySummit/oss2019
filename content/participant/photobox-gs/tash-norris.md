@@ -4,7 +4,7 @@ type            : participant
 job_title       : Senior Cloud Security and Threat Modeler and AppSec
 sponsored_by    : PhotoBox
 company         : PhotoBox Group
-image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_800_800/0?e=1554940800&v=beta&t=jZi2JcvWxwZP4c88nLTrcL6YD75UPIf77fBKTLxafY4
+image           : https://media.licdn.com/dms/image/C5603AQGA6zGVjZK07w/profile-displayphoto-shrink_200_200/0?e=1562198400&v=beta&t=_YIcsRDjgzSA6YKhVemE_l7qlDZL7Pd6WwWodtyfHZE
 email           : 
 linkedin        : tash-norris-4019892b
 twitter         : TashJNorris
