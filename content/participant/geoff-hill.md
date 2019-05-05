@@ -4,12 +4,12 @@ type            : participant
 job-title       : Threat Modeler
 company         : Tutamantic Ltd.
 travel-from     : United Kingdom
-image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/04d/266/048ec09.jpg
+image           : https://media.licdn.com/dms/image/C4D03AQHP3jyOu8S9Bg/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=FuHszpfNZKVEQ61ybUcg3o_3CX_n4riUaGofEGI34LI
+linkedin        : geoffrey-hill-61b7bb
 linkedin-company-beta : 10942080
 twitter         : Tutamantic_Sec
 facebook        : TutamanticSec
 email           : geoff.hill@tutamantic.com
-mobile          : 07 858 955 963
 status          : done
 working-sessions : 
 ---
