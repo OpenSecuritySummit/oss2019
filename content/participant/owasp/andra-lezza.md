@@ -1,5 +1,5 @@
 ---
-title           : Andra
+title           : Andra Lezza
 type            : participant
 job_title       :
 company         :
