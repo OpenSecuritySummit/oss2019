@@ -15,9 +15,6 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :
- - ZAP working session - automation
- - ZAP working session - the HUD
- - ZAP working session - future plans
 ---
 
 Simon is the ZAP project leader and works for Mozilla.
