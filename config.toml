@@ -299,6 +299,7 @@ paginate = 10
   home = ["HTML", "JSON", "RSS"]
   page = ["HTML", "JSON"]
   section = ["HTML", "JSON"]
+  list = ["JSON"]
 
 [outputFormats]
   [outputFormats.json]
