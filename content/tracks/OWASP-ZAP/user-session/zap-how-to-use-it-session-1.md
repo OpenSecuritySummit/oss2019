@@ -1,10 +1,10 @@
 ---
-title        : Zap - How to use it
+title        : Zap - How to use it (session 1)
 type         : user-session
 track        : OWASP ZAP
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
-when_day     : Tue
+when_day     : Mon
 when_time    : Eve-1
 room_layout  :                    #
 room_id      :
