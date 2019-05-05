@@ -2,18 +2,18 @@
 title        : Mobile Security
 type         : track
 technology   : Mobile
-topics       : Mobile Security                   # for example ["GDPR"]
-featured     : yes                   # review with summit team "yes"
-when_day     : Mon, Tue, Wed, Thu, Fri                  # i.e.    Tue
-when_time    :                    # i.e.    AM-1
-room_layout  :                    #
+topics       : Mobile Security
+featured     : yes
+when_day     : Mon, Tue, Wed, Thu, Fri
+when_time    :
+room_layout  :
 room_id      :
 session_slack:
-status       : review-content              # draft, review-content, done
+status       : review-content
 description  : |
   Sessions focusing on the OWASP MSTG project.
-organizers   : Jeroen Willemsen, Carlos Holguera
-participants : Jeroen Willemsen, Sven Schleier (remote), Carlos Holguera
+organizers   : Jeroen Willemsen,Carlos Holguera
+participants : Sven Schleier (remote),
 ---
 
 Welcome to the Mobile Security track!
