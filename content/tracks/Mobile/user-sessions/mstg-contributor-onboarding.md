@@ -6,13 +6,15 @@ track        : Mobile Security
 topics       :
 featured     : yes
 when_day     : Mon
-when_time    : 11:00
+when_time    : AM-2
 room_layout  :
 room_id      :
 session_slack:
 status       : review-content
 description  : MSTG introduction for new contributors
-organizers   : Jeroen Willemsen, Carlos Holguera
+organizers   :
+    - Jeroen Willemsen
+    - Carlos Holguera
 participants :
 ---
 

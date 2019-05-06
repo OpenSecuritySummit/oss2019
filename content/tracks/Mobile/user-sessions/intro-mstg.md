@@ -6,13 +6,15 @@ track        : Mobile Security
 topics       :
 featured     : yes
 when_day     : Mon
-when_time    : 10:00
+when_time    : AM-1
 room_layout  :
 room_id      :
 session_slack:
 status       : review-content
 description  : MSTG introduction for newbies
-organizers   : Jeroen Willemsen, Carlos Holguera
+organizers   :
+    - Jeroen Willemsen
+    - Carlos Holguera
 participants :
 ---
 

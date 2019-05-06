@@ -6,14 +6,16 @@ technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes               # review with summit team "yes"
 when_day     : Mon, Tue
-when_time    :
+when_time    : PM-1
 room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen, Carlos Holguera
 description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
-participants : Sven Schleier (remote), Abderrahmane AFTAHI (remote)
+participants :
+    - Sven Schleier (remote)
+    - Abderrahmane AFTAHI (remote)
 ---
 
 Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!

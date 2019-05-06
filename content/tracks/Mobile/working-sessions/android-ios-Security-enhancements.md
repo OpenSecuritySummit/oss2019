@@ -5,8 +5,8 @@ track        : Mobile Security
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"
-when_day     : Mon, Tue, Wed, Thu, Fri
-when_time    :
+when_day     : Mon,Tue,Wed,Thu,Fri
+when_time    : PM-2
 room_layout  :                    #
 room_id      :
 session_slack:

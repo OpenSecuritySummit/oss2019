@@ -10,10 +10,12 @@ room_layout  :
 room_id      :
 session_slack:
 status       : review-content
-description  : |
-  Sessions focusing on the OWASP MSTG project.
-organizers   : Jeroen Willemsen,Carlos Holguera
-participants : Sven Schleier (remote),
+description  : Sessions focusing on the OWASP MSTG project.
+organizers   :
+    - Jeroen Willemsen
+    - Carlos Holguera
+participants :
+    - Sven Schleier
 ---
 
 Welcome to the Mobile Security track!
