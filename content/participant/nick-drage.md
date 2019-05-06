@@ -1,7 +1,6 @@
 ---
 title           : Nick Drage
 type            : participant
-sponsored_by    : TBD
 role            : track "chair"
 job_title       : Director
 company         : Path Dependence Limited
@@ -17,11 +16,10 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
-- Cell based Structures for Security
-- Cynefin Framework for Security
-- State and future of threat modeling
+   - Cell based Structures for Security
+   - Cynefin Framework for Security
+   - State and future of threat modeling
 notes           :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->
