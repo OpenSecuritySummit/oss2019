@@ -9,7 +9,7 @@ image           : https://media.licdn.com/dms/image/C4E03AQFd-xWgcy8aIQ/profile-
 linkedin        : nickdrage
 twitter         : SonOfSunTzu
 facebook        :
-website         : www.pathdependence.co.uk
+website         : https://www.pathdependence.co.uk
 email           : info@pathdependence.co.uk
 project_leader  :
 chapter_leader  :
