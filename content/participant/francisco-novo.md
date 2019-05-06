@@ -4,7 +4,7 @@ type            : participant
 job_title       : DevOps Engineer
 company         : The Workshop
 travel-from     : Malaga, ES
-image           : https://avatars0.githubusercontent.com/u/3079964?s=460&v=4
+image           : https://pbs.twimg.com/profile_images/378800000474030050/e2d3d915fb56f536ee1374e2d6ca63ee_400x400.jpeg
 linkedin        : frannovo
 twitter         : frank_novo
 email           : fjnovo@gmail.com
