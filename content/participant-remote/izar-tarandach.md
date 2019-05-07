@@ -14,9 +14,11 @@ project_leader  :
 chapter_leader  :
 eventbrite_id   :
 status          : add-details
-sessions        :
+sessions        : -State and future of threat modeling -Towards a unified way of describing threat models -How to scale threat modeling
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->
+Most interested in where Threat Modeling is going, how to make it work for agile teams, and most importantly, how to do it effectively without depending on security experts. 
+Contributor to PyTM, a Pythonic way of doing threat models (https://github.com/izar/pytm)
