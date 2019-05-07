@@ -6,16 +6,17 @@ job_title       : Sr Director, Product Security
 company         : Splunk
 travel_from     : San Francisco, CA, USA
 image           : 
-linkedin        : https://www.linkedin.com/in/hkparekh/
-twitter         : @hkparekh100
+linkedin        : hkparekh
+twitter         : hkparekh100
 facebook        :
 website         : 
 email           : hardikkparekh@yahoo.com
 eventbrite_id   :
 pre-summit      : 
 status          : add details
-sessions        : OWASP SAMM
-                  Serverless
+sessions        :
+    - OWASP SAMM
+    - Serverless
 
 ---
 
