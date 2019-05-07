@@ -1,21 +1,22 @@
 ---
 title           : Hardik Parekh
 type            : participant
-sponsored_by    : 
-job_title       :
-company         :
-travel_from     :
+sponsored_by    : OWASP OpenSAMM
+job_title       : Sr Director, Product Security
+company         : Splunk
+travel_from     : San Francisco, CA, USA
 image           : 
-linkedin        : 
-twitter         : 
+linkedin        : https://www.linkedin.com/in/hkparekh/
+twitter         : @hkparekh100
 facebook        :
-website         :
-email           :
+website         : 
+email           : hardikkparekh@yahoo.com
 eventbrite_id   :
-pre-summit      :
+pre-summit      : 
 status          : add details
-sessions        :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): 
+sessions        : OWASP SAMM
+                  Serverless
+
 ---
 
-<!-- put more details about participant here -->
+Hardik Parekh is member of core team working on OWASP OpenSAMM 2.0. He is currently Sr Director, Product & Application Security at Splunk. He worked on DevSecOps at Intuit in the past and helped develop first version of BSIMM. He was core contributor of SANS Top 25 programming errors.
