@@ -10,7 +10,6 @@ environment_variables:
 phases:
   pre_build:
     commands:
-      - cd $CODEBUILD_SRC_DIR && git submodule init && git submodule update
       - echo "CODEBUILD_WEBHOOK_TRIGGER - $CODEBUILD_WEBHOOK_TRIGGER"
   build:
     commands:
