@@ -1,7 +1,7 @@
 ---
 title        : Cyber Insurance
 type         : working-session
-track        : CISO
+track        : Cyber Insurance
 topics       : ["CISO"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Tue
