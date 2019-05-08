@@ -1,16 +1,16 @@
 ---
 title        : Using Wardley Maps and Cynefin for Security
-type         : working-session      # working-session, user-session, product-session
+type         : user-session      # working-session, user-session, product-session
 track        : Wardley Maps
 technology   :
 topics       :
 featured     :
-when_day     :
+when_day     : Thu
 when_time    : AM-1
 room_layout  :
 room_id      :
 session_slack: 
-status       : draft              # draft, review-content, done
+status       : draft
 description  : session on the intersection of Wardley Maps and Cynefin Framework for Security
 organizers   :
     - Simon Wardley

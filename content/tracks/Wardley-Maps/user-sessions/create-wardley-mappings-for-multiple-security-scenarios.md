@@ -1,6 +1,6 @@
 ---
 title        : Wardley Maps for Security
-type         : working-session    # working-session, user-session
+type         : user-session    # working-session, user-session
 track        : Wardley Maps
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
