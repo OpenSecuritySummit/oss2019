@@ -1,27 +1,27 @@
 ---
 title        : Using Wardley maps on SOC
-type         : user-session       # working-session, user-session, product-session
-track        : Maps and Graphs
+type         : user-session
+track        : Wardley Maps
 topics       : ["Wardley Maps"]
 technology   :
-topics       :                    # for example ["GDPR"]
-featured     : yes                # review with summit team "yes"
-when_day     : Tue                # i.e.    Tue
-when_time    : PM-2               # i.e.    AM-1
-room_layout  :                    #
+topics       :
+featured     : yes
+when_day     : Tue
+when_time    : PM-3
+room_layout  :
 room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAXE826E8
 status       : review-content              # draft, review-content, done
 description  :
 organizers   :
-    - Phil Huggins
+    - Tony Richards
 participants :
     - Dinis Cruz
     - Jemma Davis-Smith
     - James Wharton
 invited:
     - Simon Wardley
-    - Tony Richards
+
 ---
 
 How to apply Wardley maps to an SOC (Securty Operations Center).
