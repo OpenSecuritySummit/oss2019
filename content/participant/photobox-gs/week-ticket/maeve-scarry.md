@@ -1,23 +1,20 @@
 ---
-title           : 
+title           : Maeve Scarry
 type            : participant
 job_title       : 
 sponsored_by    : PhotoBox
 company         : PhotoBox Group
-image           : 
+image           : https://media.licdn.com/dms/image/C5603AQEdopys9m1GOg/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=5_HVsYUGTQvwBt5PFWDcl7TGRQv4-Jt0rIx_-5RbpHI
 email           : 
-linkedin        : 
-twitter         : 
+linkedin        : maeve-scarry-b6031414a
+twitter         :
 website         : 
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
-night_where     : villa-2
-night_room      : 1
-pre-summit      : Sat, Sun
-status          : done
-pre_summit      : Sat,Sun
+night_where     :
+night_room      :
+status          : draft
 sessions        :
- - 
 ---
 
 
