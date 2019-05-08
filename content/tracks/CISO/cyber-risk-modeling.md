@@ -4,7 +4,7 @@ type         : working-session
 track        : CISO
 topics       : ["CISO","Risk"]
 featured     : yes                # if  "yes" review with summit team
-when_day     : Tue
+when_day     : Thu
 when_time    : PM-3
 room_layout  :                    #
 room_id      : room-2

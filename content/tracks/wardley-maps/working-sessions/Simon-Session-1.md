@@ -15,6 +15,7 @@ description  : TBD - Session #1 with Simon Wardley
 organizers   :
     - Simon Wardley
 participants :
+    - Phil Huggins
 ---
 
 

@@ -16,6 +16,7 @@ organizers   :
     - Mario Platt
     - Tony Richards
 participants :
+    - Phil Huggins
 ---
 
 Wardley Maps are very useful for mapping out strategies along with terrain to advance security controls

@@ -19,6 +19,7 @@ participants :
     - Dinis Cruz
     - Jemma Davis-Smith
     - James Wharton
+    - Phil Huggins
 invited:
     - Simon Wardley
 

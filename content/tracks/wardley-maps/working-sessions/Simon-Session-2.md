@@ -5,7 +5,7 @@ track        : Wardley Maps
 technology   :
 topics       :
 featured     :
-when_day     : Thu
+when_day     : Wed
 when_time    : PM-1
 room_layout  :
 room_id      :
@@ -15,6 +15,7 @@ description  : TBD - Session #2 with Simon Wardley
 organizers   :
     - Simon Wardley
 participants :
+    - Phil Huggins
 ---
 
 

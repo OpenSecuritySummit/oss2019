@@ -14,6 +14,8 @@ categories   : ["CISO"]
 organizers   :
   - Tony Richards
   - Simon Wardley
+participants:
+    - Phil Huggins
 description  : Spotify compliant organizational model in security domain
 ---
 
