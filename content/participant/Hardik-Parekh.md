@@ -17,7 +17,6 @@ status          : add details
 sessions        :
     - OWASP SAMM
     - Serverless
-
---
+---
 
 Hardik Parekh is member of core team working on OWASP OpenSAMM 2.0. He is currently Sr Director, Product & Application Security at Splunk. He worked on DevSecOps at Intuit in the past and helped develop first version of BSIMM. He was core contributor of SANS Top 25 programming errors.
