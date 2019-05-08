@@ -31,6 +31,8 @@ Following his participation in the 2018 Summit, Simon Wardley will be back :)
 
 How how different groups mapped “Making Tea” and “AWS Attack” scenarios
 
+See [outcomes here](https://2018.open-security-summit.org/outcomes/tracks/maps-and-graphs/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/)
+
 {{< slideshare id="101854835" >}}
 
 #### Wardley Maps: Cell Bases structures for Security

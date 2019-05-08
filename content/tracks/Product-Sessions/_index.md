@@ -1,7 +1,6 @@
 ---
 title : Product Sessions
-type : product-session
-layout : list
+type : track
 ---
 
 <br/>
