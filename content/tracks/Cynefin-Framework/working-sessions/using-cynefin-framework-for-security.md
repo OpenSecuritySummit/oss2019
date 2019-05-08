@@ -4,7 +4,7 @@ type         : working-session      # working-session, user-session, product-ses
 track        : Cynefin Framework
 technology   :
 topics       :                    # for example ["GDPR"]
-featured     :                    # review with summit team "yes"
+featured     : true                   # review with summit team "yes"
 when_day     : Wed                   # i.e.    Tue
 when_time    : PM-1                   # i.e.    AM-1
 room_layout  :                    #
