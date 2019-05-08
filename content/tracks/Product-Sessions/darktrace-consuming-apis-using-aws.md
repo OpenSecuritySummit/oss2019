@@ -1,5 +1,5 @@
 ---
-title        : Draktrace - Consuming APIs using AWS
+title        : Darktrace - Consuming APIs using AWS
 type         : product-session
 track        : Product Sessions
 host_text    :
