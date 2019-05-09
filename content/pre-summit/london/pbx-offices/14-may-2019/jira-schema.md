@@ -9,7 +9,7 @@ when_time    : 6-8pm
 room_layout  :                    #
 room_id      :
 session_slack:
-status       :review-content
+status       : review-content
 organizers   :
     - Maeve Scarry
 description  :
