@@ -7,8 +7,9 @@
 
 <table class="table schedule-cell">
     {{ $self := .self }}
-    {{ if  $self.Scratch.Get .day }}
-        {{if gt (len (.self.Scratch.Get .day)) 1 }}
+    {{ $day := $self.Scratch.Get .day }}
+    {{ with $day }}
+        {{if gt (len .) 1 }}
         <tr>
             <td>
                 <div class="alert alert-danger over-subscribed">Time slot over-subscribed</div>
@@ -16,8 +17,8 @@
         </tr>
         {{ end }}
     {{ end }}
-    {{ range $self.Scratch.Get .day }}
-        {{ if not ($self.Scratch.Get (add "page_" .Params.title))}}
+    {{ range $day }}
+        {{ if $self.Scratch.Get (add "page_" .Params.title) }}
             <tr>
                 <td>
                     {{ partial "participant/invited.html" (dict "page" . "name" $self.Params.title) }}
