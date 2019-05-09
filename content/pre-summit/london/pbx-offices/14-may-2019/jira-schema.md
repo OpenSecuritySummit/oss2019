@@ -23,9 +23,17 @@ The objective of the working group is to discuss the ways different organisation
 We're running this session because it would be a useful exercise to understand what the variances between different schemas are and why, and to provide an opporuntity to work together to determine what the optimum Jira schema could be.
 
 ## References
-'Creating a Graph Based Database' - a presentation presented by Dinis Cruz, which showcases how organisations can use Jira mappings to create a graph based database.
 
-https://lnkd.in/d9fVE7C
+`Creating a Graph Based Security Organisation` - a presentation presented by Dinis Cruz, which showcases how organisations can use Jira mappings to manage their data and workflows.
+
+{{< slideshare id="140239010" >}}
+
+Other ideas
+
+<img src="https://pbs.twimg.com/media/D5vMwJYWwAAro5Y.jpg" width="300px">
+
+<img src="https://pbs.twimg.com/media/D5y1NLJXoAEgYNe?format=png&name=900x900" width="400px">
+
 
 
 
