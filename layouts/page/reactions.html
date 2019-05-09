@@ -29,9 +29,9 @@
     <div class="container text-center">
 
       {{ range where .Site.Data.home.reactions.cards ".title" "!=" "empty"}}
-      <div class="col-lg-3 col-md-3 col-sm-12" style="height:300px;">
+      <div class="col-lg-3 col-md-3 col-sm-12" style="height:450px;">
         <div class="oss-card-small">
-          <div class="oss-card-small-title">
+          <div class="oss-card-small-title" style="height:150px;">
             <h3>{{ .title | upper }}</h3>
             <cite>" {{ .quote }} "</cite>
 
