@@ -4,12 +4,12 @@ type         : working-session    # working-session, user-session
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    : 14th May 2019
+when_day     : Tuesday 14th May 2019
+when_time    : 6-8pm
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       :review-content
 organizers   :
     - Maeve Scarry
 description  :
@@ -29,4 +29,3 @@ https://lnkd.in/d9fVE7C
 
 
 
-## Previous
