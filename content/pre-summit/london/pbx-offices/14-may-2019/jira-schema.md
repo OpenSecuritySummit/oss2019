@@ -14,6 +14,7 @@ organizers   :
     - Maeve Scarry
 description  :
 participants :
+    - David Cervigni
 ---
 
 If you're free on the 14th May, 6-8pm, we would love to have you along to an Open Security Summit Working Session revolving around Jira schemas.
@@ -34,6 +35,6 @@ Other ideas
 
 <img src="https://pbs.twimg.com/media/D5y1NLJXoAEgYNe?format=png&name=900x900" width="400px">
 
-
+<img src="https://3.bp.blogspot.com/-cOcJmtIg5Sg/XM193UvwZrI/AAAAAAAA7nI/wKQuknZum9oWhv36wD21TRXohWICMN1MACLcBGAs/s1600/Screenshot%2B2019-05-04%2Bat%2B12.55.44.png" width="400px">
 
 
