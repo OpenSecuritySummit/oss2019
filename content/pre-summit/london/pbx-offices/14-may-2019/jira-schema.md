@@ -17,7 +17,7 @@ participants :
     - David Cervigni
 ---
 
-If you're free on the 21stcMay, 6-8pm, we would love to have you along to an Open Security Summit Working Session revolving around Jira schemas.
+If you're free on the 21st May, 6-8pm, we would love to have you along to an Open Security Summit Working Session revolving around Jira schemas.
 
 The objective of the working group is to discuss the ways different organisations use Jira schemas to map the Security landscape.
 
