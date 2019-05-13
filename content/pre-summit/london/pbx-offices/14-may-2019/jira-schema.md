@@ -4,7 +4,7 @@ type         : working-session    # working-session, user-session
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tuesday 14th May 2019
+when_day     : Tuesday 21st May 2019
 when_time    : 6-8pm
 room_layout  :                    #
 room_id      :
@@ -17,7 +17,7 @@ participants :
     - David Cervigni
 ---
 
-If you're free on the 14th May, 6-8pm, we would love to have you along to an Open Security Summit Working Session revolving around Jira schemas.
+If you're free on the 21st May, 6-8pm, we would love to have you along to an Open Security Summit Working Session revolving around Jira schemas.
 
 The objective of the working group is to discuss the ways different organisations use Jira schemas to map the Security landscape.
 
