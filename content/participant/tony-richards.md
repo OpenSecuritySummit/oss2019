@@ -4,7 +4,7 @@ type            : participant
 job_title       : Founder
 company         : Pry-v8 Ltd
 travel_from     : London
-image           : /participant/images/tony-richards.jpg
+image           : /participant/images/Tony.png
 linkedin        : tonyrichardsclas
 twitter         : _tony_richards
 facebook        :
