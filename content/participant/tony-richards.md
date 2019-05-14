@@ -1,15 +1,15 @@
 ---
 title           : Tony Richards
 type            : participant
-job_title       : CISO
-company         : Securestorm Ltd
+job_title       : Founder
+company         : Pry-v8 Ltd
 travel_from     : London
-image           : /participant/images/tony-richards.jpg
+image           : /participant/images/Tony.png
 linkedin        : tonyrichardsclas
 twitter         : _tony_richards
 facebook        :
-website         : www.securestorm.com
-email           : tony@securestorm.com
+website         : 
+email           : tony@pry-v8.com
 featured        : yes
 project_leader  :
 chapter_leader  :
