@@ -145,6 +145,13 @@ paginate = 10
     weight = 11
     url = "/sponsors/"
 [[menu.main]]
+    name = "Partners"
+    identifier = "partners"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 21
+    parent = "about"
+    url = "/partners"
+[[menu.main]]
     name = "Tickets"
     identifier = "tickets"
     pre = "<i class='fa fa-ticket'></i>&nbsp;"
