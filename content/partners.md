@@ -14,8 +14,10 @@ We would like to thank these companies and organisations who are a key part of t
 
 ### Strategic partners
 
- - OWASP
- - MLI
+
+ [<img height="120" src="https://user-images.githubusercontent.com/15425071/39111802-174594f4-46df-11e8-865f-cca994241617.PNG">](https://www.owasp.org)
+
+ [<img height="120" src="https://mligrp.biz/images/logo-88.png">](https://mligrp.biz/)
 
 
 ### Education Partners
