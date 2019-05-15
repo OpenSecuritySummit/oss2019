@@ -9,10 +9,8 @@
         {{ $days := split .Params.when_day "," }}
         {{ $page := . }}
         {{ range $days }}
-            {{ if ne (trim $page.Params.when_day "") "" }}
             {{ $.self.Scratch.Add . (slice $page) }}
-            {{ $.self.Scratch.Set "has-session" true         }}
-        {{ end }}
+            {{ $.self.Scratch.Set "has-session" true }}
         {{ end }}
     {{ end }}
 {{ end }}
