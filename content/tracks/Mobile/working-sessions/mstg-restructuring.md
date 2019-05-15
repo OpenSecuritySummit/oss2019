@@ -11,10 +11,10 @@ room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
-organizers   : Jeroen Willemsen, Carlos Holguera
+organizers   : Jeroen Willemsen, Carlos Holguera, Sven Schleier
 description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
 participants :
-    - Sven Schleier (remote)
+    - Sven Schleier
     - Abderrahmane AFTAHI (remote)
 ---
 
@@ -38,12 +38,12 @@ Join us in this working session if you'd like to work on topics that are the day
 
 This session focus on the following topics (and their corresponding chapters from the [MSTG](https://github.com/OWASP/owasp-mstg)):
 
-- Android and iOS Basic Security Testing ([0x5b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)/[0x5c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md))
-- Android and iOS Reverse Engineering and Tampering ([0x6b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md)/[0x6c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md))
+- Android and iOS Basic Security Testing ([0x5b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)/[0x6b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md))
+- Android and iOS Reverse Engineering and Tampering ([0x5c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md)/[0x6c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md))
 
 You'll have the chance to **get your hands dirty** and craft examples and new content for the MSTG. For the new examples we will be introducing new tools like r2frida. **Did you know you can reverse engineer an app straight from the process memory?** That means, e.g. for iOS that you may skip the decryption and extraction of the binary.
 
-The tickets for this working session will cover these topics and contribute to the restructuring of the MSTG as described in this issue: https://github.com/OWASP/owasp-mstg/issues/970. This should simplify the chapters, improve their readability and make the project a lot easier to maintain!
+The tickets for this working session will cover these topics and contribute to the restructuring of the MSTG [as described in this issue](https://github.com/OWASP/owasp-mstg/issues/970). This should simplify the chapters, improve their readability and make the project a lot easier to maintain!
 
 ## Who
 
