@@ -6,9 +6,13 @@
 {{ $.self.Scratch.Set "has-session" false }}
 {{ range .pages }}
     {{ if in .Params.when_time $.time }}
-        {{ if ne (trim .Params.when_day "") "" }}
-            {{ $.self.Scratch.Add .Params.when_day (slice .) }}
+        {{ $days := split .Params.when_day "," }}
+        {{ $page := . }}
+        {{ range $days }}
+            {{ if ne (trim $page.Params.when_day "") "" }}
+            {{ $.self.Scratch.Add . (slice $page) }}
             {{ $.self.Scratch.Set "has-session" true         }}
+        {{ end }}
         {{ end }}
     {{ end }}
 {{ end }}
