@@ -1,0 +1,25 @@
+---
+title        : SAMMv2 working session - Mapping OWASP DevSecOps Maturity Model activities to SOWASP AMM 2
+type         : working-session
+track        : OWASP SAMM
+locked       : 
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     : Timo has time from wednessday 1pm
+when_time    : 
+room_layout  :                    #
+room_id      : villa-1
+session_slack: https://os-summit.slack.com/messages/CAWA9CQ14
+status       : draft              # draft, review-content, done
+description  : multiple working sessions on the new SAMMv2
+organizers   : Timo Pagel (Remote)
+participants:
+---
+
+Map the activities from OWASP DevSecOps Maturity Model to activities in OWASP SAMM 2.0.
+
+Outcome:
+* OWASP SAMM team verfies by mapping that no important actvities are missing
+* OWASP SAMM might add references to OWASP DevSecOps Maturity Model
+* OWASP DevSecOps Maturity Model will referene to OWASP SAMM 2.0 activities 
