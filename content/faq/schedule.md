@@ -2,7 +2,8 @@
 title       : Schedule
 layout      : FAQ
 ---
-### 1.	How do I register to participate in a session?
+
+### 1.	How do I add sessions to my schedule?
 At the bottom of every workshop description use the “edit” button, to add your name to your chosen sessions. There are many workshops, to keep track of your sign-ups access your [personal schedule]({{< ref "/faq/registration-info.md" >}}).
 
 ### 2.	What are dynamic sessions?
