@@ -1,5 +1,5 @@
 ---
-title        : Dealing with DevSecOps Findings
+title        : Dealing with Security Findings in the Enterprise
 type         : working-session
 track        : Security Automation
 topics       : ["SDL"]
