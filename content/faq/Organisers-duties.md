@@ -39,7 +39,7 @@ Here are some examples of what these outcomes/deliverables could look like:
 
 #### 4. **How long will we have to finalise the outcomes at the Summit?**
 
-All materials must be ready by end of the day (or working session), so that we can release them to the world in a consumable format. Tthere will be some logistical support provided to working session organizers. For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
+All materials must be ready by end of the working session (or the working day in some circumstances), so that we can release them to the world in a consumable format. Tthere will be some logistical support provided to working session organizers. For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
 
 #### 5. **When should I start defining the outcomes for my working session?**
 
