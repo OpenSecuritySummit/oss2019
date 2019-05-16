@@ -2,24 +2,30 @@
 title       : I'm a remote participant
 layout      : FAQ
 ---
-   <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
-   
 
+<a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
+   
 ##### How do I find the daily schedule for remote participants?
+
 The latest version of the schedule is online at https://open-security-summit.org/schedule/all/
-Daily schedule:
-	8:30 – 9:20 Breakfast and Registration 
-  9:20 - 10:30 Keynotes
-	10:30 - 12:30 Sessions
-	12:30 - 13:30 Lunch
-	13:30 – 15:00 Sessions
-	14:30 - 15:00 Sessions
-	15:00 - 15:30 Break
-	15:30 - 16:30 Sessions
-	16:30 – 17:30 Sessions
-	18:00 - 19:00 Dinner
-	19:30 – 21:00 Sessions
-	21:00 - 23:00 Sessions
+
+#### Daily schedule 
+
+{{< table "table" >}}
+|Time             | Event
+|-----------------|----------------------------
+|8:30 – 9:20      | Breakfast and Registration|
+|9:20 - 10:30     | Keynotes                  |
+|10:30 - 12:30    | Sessions                  |
+|12:30 - 13:30    | Lunch                     |
+|13:30 – 15:00    | Sessions                  |
+|14:30 - 15:00    | Sessions                  |
+|15:00 - 15:30    | Break                     |
+|15:30 - 16:30    | Sessions                  |
+|16:30 – 17:30    | Sessions                  |
+|18:00 - 19:00    | Dinner                    |
+|19:30 – 21:00    | Sessions                  |
+|21:00 - 23:00    | Sessions                  |
 	
 On Monday we start with light/planning Working Sessions in the morning and do the Briefing over lunch
 
@@ -49,12 +55,17 @@ This channel is for workspace-wide communication and announcements. All members 
 This helpdesk is for participants with general issues regarding the Summit.
 Tracks and sessions related channels
 We have channels for every track and session. The following legend describes the prefixes of the channels’ names for the tracks and sessions.
-w = working sessions
-u = user session
-p = product session
-t = track
-Example: the channel name for the working session “Agile Practices for Security Teams” is: #w-agile-prac-sec-team
-Send an email message
+{{< table "table" >}}
+|Prefix             | Legend |
+|-----------------|-------|
+|w  | working sessions |
+|u  |user session |
+|p  |product session |
+|t  |track |
+
+Example: the channel name for the working session “Agile Practices for Security Teams” is: `#w-agile-prac-sec-team`
+
+#### Send an email message
 
 If you would like to email before or during the event please contact info@opensecsummit.org.
 
