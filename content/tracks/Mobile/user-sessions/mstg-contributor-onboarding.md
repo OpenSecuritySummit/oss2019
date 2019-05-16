@@ -15,7 +15,9 @@ description  : MSTG introduction for new contributors
 organizers   :
     - Jeroen Willemsen
     - Carlos Holguera
+    - Sven Schleier 
 participants :
+    - Sven Schleier
 ---
 
 ## Why
@@ -25,6 +27,9 @@ A take-off session for all participants that want to contribute to the OWASP Mob
 ## What
 
 - Introduction into the current state of the MSTG.
+  - [Issues](https://github.com/OWASP/owasp-mstg/issues)
+  - [Milestones](https://github.com/OWASP/owasp-mstg/milestones)
+  - [Project Page](https://github.com/OWASP/owasp-mstg/projects)
 - Release process.
 - Contribution guidelines.
 - Outline of the activities planned for this week.

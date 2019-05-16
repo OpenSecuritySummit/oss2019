@@ -14,11 +14,12 @@ description  : Sessions focusing on the OWASP MSTG project.
 organizers   :
     - Jeroen Willemsen
     - Carlos Holguera
-participants :
     - Sven Schleier
+    - Jeroen Beckers 
+participants :
 ---
 
-Welcome to the Mobile Security track!
+Welcome to the Mobile Security track! This track is focusing mainly on the following two documents that were created as part of the [OWASP Mobile Security Testing Guide (MSTG) project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide "OWASP Mobile Security Testing Guide"):
 
 - The [Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) establishes a framework of security requirements needed to design, develop and test secure mobile apps on iOS and Android.
 - The [Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the MASVS.
@@ -37,7 +38,7 @@ Imagine being in the same room as these people who share your same passion:
 - researchers
 - ...
 
-all working together on mobile security topics
+All working together on mobile security topics:
 
 - creating new content for the MSTG
 - researching together on the latest cutting-edge iOS and Android security topics
@@ -54,4 +55,4 @@ We also organize spontaneous **full hands-on user sessions**, last year for exam
 
 Cannot come over? Join us remotely! You may want to attend the presentations or actively participate on the working sessions that we base on tickets. Get a ticket and join, you'll have the chance to talk directly to the experts and contribute with your own expertise.
 
-Check all sessions below.
+Check the scheduled sessions below.

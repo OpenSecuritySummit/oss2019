@@ -15,7 +15,9 @@ description  : MSTG introduction for newbies
 organizers   :
     - Jeroen Willemsen
     - Carlos Holguera
+    - Sven Schleier 
 participants :
+    - Sven Schleier
 ---
 
 ## Why
