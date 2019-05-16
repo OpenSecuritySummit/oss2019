@@ -3,7 +3,7 @@ title        : Dealing with DevSecOps Findings
 type         : working-session
 track        : Security Automation
 topics       : ["SDL"] ["DevSecOps"] 
-technology   : Dependency Check, FindSecBugs, ZAP, Defect Dojo, Selenium, Jira
+technology   : Dependency Check, FindSecBugs, ZAP, Jenkins, Defect Dojo, Selenium, Jira
 categories   :                      
 featured     : yes                  
 when_day     : Tue
