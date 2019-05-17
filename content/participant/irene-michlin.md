@@ -1,5 +1,5 @@
 ---
-title           :
+title           : Irene Michlin
 type            : participant
 job_title       :
 company         :
