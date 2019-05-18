@@ -1,9 +1,9 @@
 ---
 title           : Michael Madsen
 type            : participant
-job_title       :
-company         :
-travel-from     :
+job_title       : Compliance & Security Manager
+company         : Scalepoint Technologies
+travel-from     : Denmark
 image           :
 linkedin        :
 twitter         :
