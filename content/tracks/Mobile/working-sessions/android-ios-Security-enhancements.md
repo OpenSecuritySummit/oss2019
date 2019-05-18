@@ -42,6 +42,8 @@ Android 9:
 
 This and much more that we or you might know about. Let's discuss about how we can test the new features.
 
+The focus will be on issues identified for the 1.2 milestone of the MSTG, which you can find [at Github](https://github.com/OWASP/owasp-mstg/milestone/2 "Milestone 1.2").
+
 ### Get your hands dirty with the Android and iOS crackmes
 
 - Would you say you could write an app that effectively refuses to run on a rooted Android device (e.g. running Magisk)?
