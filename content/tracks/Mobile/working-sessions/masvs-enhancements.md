@@ -11,7 +11,9 @@ room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
-organizers   : Jeroen Willemsen, Sven Schleier
+organizers   : 
+    - Jeroen Willemsen
+    - Sven Schleier
 description  : Work on the open issues of the MASVS
 participants :
     - Sven Schleier
