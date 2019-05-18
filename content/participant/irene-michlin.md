@@ -6,7 +6,7 @@ company         :
 travel_from     : UK
 image           :
 linkedin        :
-twitter         : @IreneMichlin
+twitter         : IreneMichlin
 facebook        :
 website         :
 email           : irene221b@gmail.com
