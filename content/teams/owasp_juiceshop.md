@@ -12,6 +12,7 @@ status          :
 _sessions:
 members:
     - Bjoern Kimminich
+    - Jannik Hollenbach
 
 notes :
 ---
