@@ -17,10 +17,10 @@ It can seem that the cyber security industry has evolved ways of working, and pr
 
 The aim of this track will be to answer the following questions by the end of the week:
 
-What are current strategies, explicit or implicit, that the industry uses or advocates as a whole?
-What are the underlying assumptions of the current strategies?
-Are those underlying assumptions valid?
-Assuming those strategies are incorrect, what are the correct strategies the industry should be using, to solve the problems it faces?
-What methodologies should be used to create or find, and test, the correct strategies?
-Can we learn from other practitioners in related areas as a useable "hack" to choose effective new strategies rapidly?
-Is this area of study financially or practically viable?
+* What are current strategies, explicit or implicit, that the industry uses or advocates as a whole?
+* What are the underlying assumptions of the current strategies?
+* Are those underlying assumptions valid?
+* Assuming those strategies are incorrect, what are the correct strategies the industry should be using, to solve the problems it faces?
+* What methodologies should be used to create or find, and test, the correct strategies?
+* Can we learn from other practitioners in related areas as a useable "hack" to choose effective new strategies rapidly?
+* Is this area of study financially or practically viable?
