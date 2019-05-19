@@ -1,23 +1,26 @@
 ---
 title           : Paulino Calderon
 type            : participant
-role            : 
-job_title       : 
+job_title       :
 company         : Websec
-travel_from     : Mexico
-image           : 
-twitter         : @calderpwn
+travel-from     : Mexico
+image           :
+linkedin        :
+twitter         : calderpwn
 facebook        :
-website         : https://calderonpale.com
+website         : calderonpale.com
 email           : paulino.calderonpale@owasp.org
 project_leader  : IoT Goat
 chapter_leader  : Riviera Maya
-eventbrite_id   :
+regonline       :
+pre-summit      :
 status          : 
-sessions        : OWASP Mobile Security Testing Guide 101, Mobile Basic Security Testing and Reverse Engineering, Mobile Security Testing Guide onboarding, Android and iOS Security Enhancements and Crackme Apps, MOBILE APPSEC VERIFICATION STANDARD (MASVS)
-notes           : Looking for additional activities related to IoT/mIoT security!
+sessions: OWASP Mobile Security Testing Guide 101, Mobile Basic Security Testing and Reverse Engineering, Mobile Security Testing Guide onboarding, Android and iOS Security Enhancements and Crackme Apps, MOBILE APPSEC VERIFICATION STANDARD (MASVS)
+notes : Looking for additional activities related to IoT/mIoT security!
+
 
 ---
 
-<!-- put more details about participant here -->
+
+
 
