@@ -62,25 +62,27 @@
 
   <div class="pricing m_b_160">
     <div class="row">
-      <div id="eventbrite-widget-container-61491614073"></div>
+      <!-- Noscript content for added SEO -->
+      <noscript><a href="https://www.eventbrite.com/e/open-security-summit-2019-tickets-61491614073" rel="noopener noreferrer" target="_blank"></noscript>
+      <!-- You can customize this button any way you like -->
+      <button id="eventbrite-widget-modal-trigger-61491614073" type="button">Buy Tickets</button>
+
+      <noscript></a>Buy Tickets on Eventbrite</noscript>
 
       <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
       <script type="text/javascript">
-          var exampleCallback = function() {
-              console.log('Order complete!');
-          };
+         var exampleCallback = function() {
+             console.log('Order complete!');
+         };
 
-          window.EBWidgets.createWidget({
-              // Required
-              widgetType: 'checkout',
-              eventId: '61491614073',
-              iframeContainerId: 'eventbrite-widget-container-61491614073',
-
-              // Optional
-              iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-              onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-          });
+         window.EBWidgets.createWidget({
+             widgetType: 'checkout',
+             eventId: '61491614073',
+             modal: true,
+             modalTriggerElementId: 'eventbrite-widget-modal-trigger-61491614073',
+             onOrderComplete: exampleCallback
+         });
       </script>
 
 
