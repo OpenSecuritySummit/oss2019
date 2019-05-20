@@ -5,7 +5,7 @@ technology   :
 track        : Mobile Security
 topics       :
 featured     : yes
-when_day     : Mon
+when_day     : Mon, Wed
 when_time    : AM-1
 room_layout  :
 room_id      :
@@ -17,18 +17,19 @@ organizers   :
     - Carlos Holguera
     - Sven Schleier 
 participants :
-    - Sven Schleier
 ---
 
 ## Why
 
-Pick up session for all participants who are interested in the Mobile Security Testing Guide project but have no experience with it yet.
+Pick up session for all participants who are interested in the Mobile Security Testing Guide project but have no experience with it yet. This session is mostly an introduction into the guide and the MASVS. It is not to guide contributors specifically, for this, we have the [contributor onboarding session](https://open-security-summit.org/tracks/mobile/user-sessions/intro-mstg/).
 
 ## What
 
 - Introduction into the Mobile Application Security Verification Standard (MASVS).
 - Introduction into the Mobile Security Testing Guide (structure, what it is about).
 - Some demos of what we teach through the guide.
+
+Note the first hour will cover the introduction session, in the second hour, we will have the [contributor onboarding session](https://open-security-summit.org/tracks/mobile/user-sessions/intro-mstg/).
 
 ## Who
 

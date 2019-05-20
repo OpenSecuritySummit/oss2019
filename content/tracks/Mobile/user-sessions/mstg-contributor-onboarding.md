@@ -5,8 +5,8 @@ technology   :
 track        : Mobile Security
 topics       :
 featured     : yes
-when_day     : Mon
-when_time    : AM-2
+when_day     : Mon, Wed
+when_time    : AM-1
 room_layout  :
 room_id      :
 session_slack:
@@ -34,8 +34,7 @@ A take-off session for all participants that want to contribute to the OWASP Mob
 - Contribution guidelines.
 - Outline of the activities planned for this week.
 
-This is **not** a basic introduction into the project itself! For this
-we recommend to participate in the [Introduction into the MSTG](/tracks/Mboile/user-sessions/intro-mstg/) session!
+This is **not** a basic introduction into the project itself! Note the first hour will cover the [Introduction into the MSTG](/tracks/Mboile/user-sessions/intro-mstg/) session, in the second hour, we will have the contributor-onboarding.
 
 ## Who
 

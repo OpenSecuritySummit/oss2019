@@ -5,8 +5,8 @@ track        : Mobile Security
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes               # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Mon
+when_time    : AM-1, DS-2, PM-1, PM-2, Eve-1
 room_layout  :                    #
 room_id      :
 session_slack:
@@ -16,7 +16,7 @@ organizers   :
     - Sven Schleier
 description  : Work on the open issues of the MASVS
 participants :
-    - Sven Schleier
+
 ---
 
 Welcome to the OWASP MASVS session!
@@ -24,7 +24,7 @@ Welcome to the OWASP MASVS session!
 ## Why
 
 As part of the MSTG project we created the MASVS as a standard to establish baseline security requirements for mobile apps. In this working session we will go through the [open issues in Github for milestone 1.1.4](https://github.com/OWASP/owasp-masvs/milestone/3) and try to resolve and close as many as possible to come to a clean state.
-The reason we do not want to come up with new requirements yet in a focused session, is because we rather first try to get the MSTG in sync, before we create a lot of new requirements.
+The reason we do not want to come up with new requirements yet in a focused session, is because we rather first try to get the MSTG in sync, before we create a any new requirement.
 
 ## What
 
