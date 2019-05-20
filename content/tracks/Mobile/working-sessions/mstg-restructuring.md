@@ -33,7 +33,7 @@ Android and iOS chapter will *mirror* each other, so the next time someone (e.g.
 
 ## What
 
-Join us to restructure the basic-testing and reverse-engineering chapters in a way that they are easily mappable. We want to be able to restructure the MSTG and connect it to the MASVS in a better way during the first 2 days in order to make the chapters more accessible.
+Join us in a 2-day sprint to restructure the basic-testing and reverse-engineering chapters in a way that they are easily mappable. We want to be able to restructure the MSTG and connect it to the MASVS in a better way during the first 2 days in order to make the chapters more accessible.
 
 This session focus on the following topics (and their corresponding chapters from the [MSTG](https://github.com/OWASP/owasp-mstg)):
 
