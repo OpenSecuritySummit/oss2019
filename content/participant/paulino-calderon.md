@@ -15,7 +15,12 @@ chapter_leader  : Riviera Maya
 regonline       :
 pre-summit      :
 status          : 
-sessions: OWASP Mobile Security Testing Guide 101, Mobile Basic Security Testing and Reverse Engineering, Mobile Security Testing Guide onboarding, Android and iOS Security Enhancements and Crackme Apps, MOBILE APPSEC VERIFICATION STANDARD (MASVS)
+sessions:
+    - OWASP Mobile Security Testing Guide 101
+    - Mobile Basic Security Testing and Reverse Engineering
+    - Mobile Security Testing Guide onboarding
+    - Android and iOS Security Enhancements and Crackme Apps
+    - Mobile AppSec Verification Standard (MASVS)
 notes : Looking for additional activities related to IoT/mIoT security!
 
 
