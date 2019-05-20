@@ -4,7 +4,7 @@ type            : participant
 job_title       :
 company         :
 travel_from     :
-image           : https://media.licdn.com/dms/image/C4E03AQHGpha7Z0QHuA/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=AXT3hOL08avXbyKOVRCRe-QTUcfCZBIcoOgAxLNXefw
+image           : https://media.licdn.com/dms/image/C5603AQFILbiA3bW9YQ/profile-displayphoto-shrink_800_800/0?e=1564012800&v=beta&t=M7TetAZkpNiY7QAUqvXxG9ZWQzlun8p3MnJmLzJP5uA
 linkedin        : jmanico
 twitter         : manicode
 facebook        :
