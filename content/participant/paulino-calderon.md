@@ -4,7 +4,7 @@ type            : participant
 job_title       :
 company         : Websec
 travel-from     : Mexico
-image           :
+image           : https://www.blackhat.com/us-16/presenters/headshots/Paulino-Calderon.jpg
 linkedin        :
 twitter         : calderpwn
 facebook        :
@@ -25,7 +25,6 @@ notes : Looking for additional activities related to IoT/mIoT security!
 
 
 ---
-
 
 
 
