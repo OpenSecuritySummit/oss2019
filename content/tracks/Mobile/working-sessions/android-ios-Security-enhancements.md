@@ -6,7 +6,7 @@ technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"
 when_day     : Mon,Tue,Wed,Thu,Fri
-when_time    : PM-2
+when_time    : AM-1, DS-2, PM-1, PM-2, Eve-1, Eve-2
 room_layout  :                    #
 room_id      :
 session_slack:
@@ -20,11 +20,13 @@ Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 
 ## Why
 
-Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place. In this working session we will go through and discuss about the latest security features introduced in the latest Android and iOS versions. We go not only theoretical but also practical: we have of course a **hands-on** part for this working session where we will be playing and enhancing the MSTG Hacking Playground and crackme apps. So get your phones, laptops and favorite tools ready.
+Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
 
 ## What
 
-### Get to know the latest Android and iOS security enhancements
+### Get to share the latest Android and iOS security enhancements
+
+The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:
 
 iOS 12:
 
@@ -33,27 +35,27 @@ iOS 12:
 - New Password AutoFill Framework for iOS and web apps
 - ...
 
-Android 9:
+Android 9/10:
 
 - Scoped Storage: an isolated storage sandbox right on external storage device! The READ_ and WRITE_EXTERNAL_STORAGE permissions are being replaced with more fine-grained media specific permissions.
 - StrongBox Keymaster: an implementation of the Keymaster HAL that resides in a hardware security module.
 - You can now import encrypted keys securely into the Keystore using an ASN.1‑encoded key format.
 - ...
 
-This and much more that we or you might know about. Let's discuss about how we can test the new features.
+This and much more that we or you might know about. Let's make sure we extend the guide on best practices and what testers should look for in terms of bad practices.
 
 The focus will be on issues identified for the 1.2 milestone of the MSTG, which you can find [at Github](https://github.com/OWASP/owasp-mstg/milestone/2 "Milestone 1.2").
 
 ### Get your hands dirty with the Android and iOS crackmes
 
-- Would you say you could write an app that effectively refuses to run on a rooted Android device (e.g. running Magisk)?
-- Do you think you could stop someone using Frida from stealing your precious app data? Or at least make him/her give up trying ;)
-- Do you love to code Android/iOS apps? What about writing some code to challenge other people?
-- Are [UnCrackable App for iOS Level 1](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/iOS/Level_01/) and [UnCrackable App for iOS Level 2](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/iOS/Level_02/) too easy for you? Do you have some ideas for a Level 3?
+In the second stream, we want to focus on getting better crackmes and playground apps. In order to do this, there are a bunch of things we need to work on (in order of priority):
 
-In this session you get the chance to **work hand in hand with the Mobile Security team** on the [MSTG crackme apps](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes). The *defenders* will make them secure (or intentionally leave some holes) and the *attackers* will prove they can crack them using the latest techniques and available tools. Aren't you curious about how other people would solve the different challenges you implement? Reverse engineering? debugging? code injection? everything is allowed.
+1. Upgrade the existing crackmes & apps to be compatible with the latest version of iOS and Android.
+2. Ensure a proper build pipeline for the apps as part of the project so we can easily fix them.
+3. Have newer detection mechanisms in the crackmes, for instance: make sure we have a crackme that effectively refuses to run on a rooted Android device (e.g. running Magisk)? Or make the app Frida-resilient. Or... whatever you like! Try to make cool challenging apps for other people. Just make sure it can be built and tested by the pipeline mentioned in 2.
+4. Are [UnCrackable App for iOS Level 1](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/iOS/Level_01/) and [UnCrackable App for iOS Level 2](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/iOS/Level_02/) too easy for you? Do you have some ideas for a Level 3?
 
-In this session you'll get to work on tickets regarding these kind of topics and many more. See the [MSTG GitHub Issues](https://github.com/OWASP/owasp-mstg/issues) and the [MSTG GitHub Project Page](https://github.com/OWASP/owasp-mstg/projects/2) for more details.
+In this stream you get the chance to **work hand in hand with the Mobile Security team** on the [MSTG crackme apps](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes). The *defenders* will make them secure (or intentionally leave some holes) and the *attackers* will prove they can crack them using the latest techniques and available tools.
 
 ## Who
 
@@ -72,6 +74,7 @@ Minimum required: a laptop :)
 
 Depending on the tasks/challenges you choose:
 
+- For creating a better pipeline: a MacBook is recommended, but not mandatory.
 - For iOS: an iOS device (preferably jailbroken). A MacBook is recommended but not mandatory.
 - For Android: an Android device is highly recommended (preferably rooted). However for many tasks you can use the emulator.
 
@@ -96,3 +99,4 @@ Updated iOS and Android chapters in the MSTG covering the latest security change
 - [UnCrackable App for Android Level 3](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/Android/Level_03/)
 - [UnCrackable App for iOS Level 1](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/iOS/Level_01/)
 - [UnCrackable App for iOS Level 2](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes/iOS/Level_02/)
+- [UnCrackable App repository](https://github.com/commjoen/uncrackable_app)

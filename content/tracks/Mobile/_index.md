@@ -44,15 +44,17 @@ All working together on mobile security topics:
 - researching together on the latest cutting-edge iOS and Android security topics
 - learning and sharing knowledge with other experts and beginners
 
-Our working sessions are ticket based, just take the one you like or you'll get one assigned depending on your level of expertise. Once you start you'll not only have the chance to do a great contribution but also to drive interesting discussions with the rest of the participants.
+Our working sessions are ticket based, just take the one you like or you'll get one assigned depending on your level of expertise. We want to start the summit with a focus on the following milestones:
 
-We also organize spontaneous **full hands-on user sessions**, last year for example:
+- [MASVS milestone 1.1.4:](https://github.com/OWASP/owasp-masvs/milestone/3)
+- [MSTG milestone 1.2:](https://github.com/OWASP/owasp-mstg/milestone/2)
 
-- Sven showed us how to test iOS apps without Jailbreak and e.g. read their Keychain items or extract sensitive data from the app's sandboxes.
-- Carlos gave us some Frida lessons on how to do dynamic instrumentation and extract cryptographic material from an app process memory.
+Once you start you'll not only have the chance to do a great contribution but also to drive interesting discussions with the rest of the participants.
 
-**Everyone is welcome!** If you're already **experienced** you're probably familiar with the issue that you cannot find any trainings/events on mobile security advanced topics that matches your level. Here you'll be able to work hand in hand with people sharing your passion, interest and close to your experience level. One can always learn so much from other people (experts or not). If you enjoy sharing your knowledge you'll have the chance to do so at the best working atmosphere. If you're a **beginner** this is THE PLACE to start!
+This year we want to focus on the values that made the first summit a great oppertunity: learning through contributing!
 
-Cannot come over? Join us remotely! You may want to attend the presentations or actively participate on the working sessions that we base on tickets. Get a ticket and join, you'll have the chance to talk directly to the experts and contribute with your own expertise.
+**Everyone is welcome!** If you're already **experienced** you're probably familiar with the issue that you cannot find any trainings/events on mobile security advanced topics that matches your level. Here you'll be able to work hand in hand with people sharing your passion, interest and close to your experience level. One can always learn so much from doing research and being guided by other people (experts or not). If you enjoy sharing your knowledge you'll have the chance to do so at the best working atmosphere. If you're a **beginner** this is THE PLACE to start!
+
+Cannot come over? Join us remotely! You may want to attend the presentations about [onboarding](https://open-security-summit.org/tracks/mobile/user-sessions/mstg-contributor-onboarding/) or [a 101](https://open-security-summit.org/tracks/mobile/user-sessions/intro-mstg/). Otherwise: contact us, grab a ticket, enjoy the ride! We would love to guide you in your contribution and will take on PRs from morning till early evening (21:00).
 
 Check the scheduled sessions below.

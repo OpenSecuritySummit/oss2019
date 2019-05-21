@@ -6,7 +6,7 @@ technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes               # review with summit team "yes"
 when_day     : Mon,Tue
-when_time    : PM-1
+when_time    : AM-1, DS-2, PM-1, PM-2, Eve-1, Eve-2
 room_layout  :                    #
 room_id      :
 session_slack:
@@ -14,7 +14,6 @@ status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen, Carlos Holguera, Sven Schleier
 description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
 participants :
-    - Sven Schleier
     - Abderrahmane AFTAHI (remote)
 ---
 
@@ -34,14 +33,14 @@ Android and iOS chapter will *mirror* each other, so the next time someone (e.g.
 
 ## What
 
-Join us in this working session if you'd like to work on topics that are the day-to-day of a mobile security tester: work on a device with/without root access, get a shell, install apps, reverse apps, patch, debug, inject code, trace/dump stuff, access files, ...
+Join us in a 2-day sprint to restructure the basic-testing and reverse-engineering chapters in a way that they are easily mappable. We want to be able to restructure the MSTG and connect it to the MASVS in a better way during the first 2 days in order to make the chapters more accessible.
 
 This session focus on the following topics (and their corresponding chapters from the [MSTG](https://github.com/OWASP/owasp-mstg)):
 
 - Android and iOS Basic Security Testing ([0x5b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05b-Basic-Security_Testing.md)/[0x6b](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06b-Basic-Security-Testing.md))
 - Android and iOS Reverse Engineering and Tampering ([0x5c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md)/[0x6c](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06c-Reverse-Engineering-and-Tampering.md))
 
-You'll have the chance to **get your hands dirty** and craft examples and new content for the MSTG. For the new examples we will be introducing new tools like r2frida. **Did you know you can reverse engineer an app straight from the process memory?** That means, e.g. for iOS that you may skip the decryption and extraction of the binary.
+After the first restructuring and updated outline, you'll have the chance to **get your hands dirty** and craft examples and new content for the MSTG to add next to existing tooling. For the new examples we will be introducing new tools like r2frida. **Did you know you can reverse engineer an app straight from the process memory?** That means, e.g. for iOS that you may skip the decryption and extraction of the binary.
 
 The tickets for this working session will cover these topics and contribute to the restructuring of the MSTG [as described in this issue](https://github.com/OWASP/owasp-mstg/issues/970). This should simplify the chapters, improve their readability and make the project a lot easier to maintain!
 
@@ -62,8 +61,9 @@ Minimum required: a laptop :)
 
 Depending on the tasks/challenges you choose:
 
-- For iOS: an iOS device (preferably jailbroken). A MacBook is recommended but not mandatory.
-- For Android: an Android device is highly recommended (preferably rooted). However for many tasks you can use the emulator.
+- General rewriting tasks do not require any devices, however if you want to add new cases, then:
+  - For iOS: an iOS device (preferably jailbroken). A MacBook is recommended but not mandatory.
+  - For Android: an Android device is highly recommended (preferably rooted). However for many tasks you can use the emulator.
 
 The MSTG is hosted in GitHub and can easily be edited by anyone, just a Github account is needed and knowledge on how to create a pull request.
 
