@@ -1,7 +1,9 @@
 {{ $title           := .Params.title }}
 {{ $site_Pages      := where .Site.Pages ".Params.type" "!=" "outcome" }}
 
-<h3>{{ .Params.title }} Daily Schedule</h3>
+<h3>{{ $title }} Daily Schedule </h3>
+
+<h4>NOTE: exact session days/times are not final and can change.</h4>
 
 {{ range $site_Pages }}
     {{ $page := .}}
@@ -30,8 +32,10 @@
         {{ end }}
     {{end }}
 
-    {{ if in .Params.title $.Params.sessions }}                          {{/* add current user's sessions */}}
-        {{ $.Scratch.Add "pages" (slice $page) }}
+    {{ if eq (printf "%T" .Params.sessions) "[]string" }}
+      {{ if in .Params.sessions $title }}                    {{/* add current user's sessions */}}
+          {{ $.Scratch.Add "pages" (slice $page) }}
+      {{ end }}
     {{ end }}
 
     {{ if eq (printf "%T" .Params.invited) "[]string" }}           {{/* map invited */}}

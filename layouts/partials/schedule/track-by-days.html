@@ -23,10 +23,7 @@
     {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "Eve-2" )}}
 </table>
 
-<h5>Sessions not mapped to an day and time </h5>
-<ul>
-    {{ partial "schedule/no-mappings-for-day.html" . }}
-</ul>
+{{ partial "schedule/no-mappings-for-day.html" . }}
 
 <hr/>
 

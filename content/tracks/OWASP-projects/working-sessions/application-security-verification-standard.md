@@ -1,7 +1,7 @@
 ---
 title        : Application Security Verification Standard
 type         : working-session
-track        : Owasp Projects
+track        : OWASP Projects
 topics       : ["Owasp Project"]
 featured     : yes                   # if  "yes" review with summit team
 when_day     : Wed

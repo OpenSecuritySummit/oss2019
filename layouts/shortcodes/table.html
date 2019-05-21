@@ -1,2 +1,6 @@
-{{ $class := .Get "class" }}
-{{ replace .Inner "<table>" (printf "%s%s%s" "<table class=\"" (string $class) "\">") | markdownify }}
+{{ $htmlTable := .Inner | markdownify }}
+{{ $class := .Get 0 }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"%s\">" $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable | safeHTML }}

@@ -18,6 +18,6 @@ members:
     - Felipe Zipitria
     - Sam Stepanyan
     - Sherif Mansour
-
+    - Sam Aldis
 notes :
 ---

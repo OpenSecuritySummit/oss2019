@@ -3,23 +3,19 @@ title       : Organisers' Duties
 layout      : FAQ
 ---
 
-#### 1. **What is the role of a working session organiser at the Open Security Summit, and what activities will I be responsible for?**
+#### 1. **What is the role of a working session organiser and what activities will I be responsible for?**
 
-The Open Security Summit is a five day participant-driven event, dedicated to the collaboration of Development and Security professionals, facilitated through numerous Working Sessions.
-
-Each working session has an organiser, and the organiser's main responsibility is to create the most effective and productive working  environment for the participants.
-
-The organiser's main duties cover providing the vision for the working session content and outcomes. The energy you bring to your working session will impact its success.
+The organiser's main responsibility is to create the most effective and productive working  environment for the participants, including providing the vision for the working session content and outcomes. The energy you bring to your working session will impact its success.
 
 #### 2. **How do I ensure a productive working session takes place?**
 
-As the organiser, you should have a clear idea of what will happen during the working session, as this will allow each session to create something tangible and actionable.
+As the organiser, you should have a clear idea of what will happen during the session, this will allow each session to produce something tangible and actionable.
 
 Working session organisers should create detailed action plans and to-dos lists that are easy pick up and start contributing to (we recommend you use GitHub Issues and Projects).
 
-Each organiser should collaborate with the registered participants of their working session to identify and define what the ‘Outcomes’ of their working session(s) will be, as these will affect the location and duration of that working session in the main Summit schedule.
+Each organiser should collaborate with the registered participants of their working session to identify and define what the ‘Outcomes’ of their working session(s) will be, these will affect the location and duration of that working session in the main Summit schedule.
 
-Please add the outcomes to the appropriate working session in https://github.com/OpenSecuritySummit/oss2018
+Please add the outcomes to the appropriate working session in https://github.com/OpenSecuritySummit/oss2019/tree/master/content/outcomes
 
 Don’t wait for the Summit to start thinking/sharing/working on either your working session or its outcomes.
 
@@ -39,11 +35,11 @@ Here are some examples of what these outcomes/deliverables could look like:
 
 #### 4. **How long will we have to finalise the outcomes at the Summit?**
 
-All materials must be ready by end of the day (or working session), so that we can release them to the world in a consumable format. Tthere will be some logistical support provided to working session organizers. For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
+All materials must be ready by end of the working session (or the working day in some circumstances), so that we can release them to the world in a consumable format. There will be some logistical support provided to working session organisers. For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
 
 #### 5. **When should I start defining the outcomes for my working session?**
 
-The best way to achieve solid results at the Summit, is to start on the working sessions topics and outcomes before the Summit.
+The best way to achieve solid results at the Summit is to start on the working sessions topics and outcomes before the Summit.
 
 If you are a working session organiser, please start mapping the outcomes for your working session today!
 
@@ -52,5 +48,3 @@ Outcomes have been added to all working sessions, and any working session that d
 Working materials will also be added to all working sessions, to allow both organisers and participants to consider and contribute draft materials.
 
 This is your time to create something special.
-
-Thanks again for giving us and the Security industry your most valuable assets: your time and knowledge.

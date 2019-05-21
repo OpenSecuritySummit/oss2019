@@ -1,7 +1,7 @@
 ---
 title        : Owasp Testing Guide v5
 type         : working-session
-track        : Owasp Projects
+track        : OWASP Projects
 topics       : ["Owasp Project"]
 featured     : yes                  # review with summit team "yes"
 when_day     : Thu

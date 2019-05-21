@@ -5,7 +5,7 @@ track        : Education
 topics       : ["Owasp Project", "OWASP Application Security Curriculum"]
 technology   :
 categories   : ["OWASP projects"]
-featured     :
+featured     : yes
 when_day     : Tues
 when_time    : AM-1
 room_layout  :                    
@@ -15,7 +15,7 @@ status       : review-content              # draft, review-content, done
 description  :
 organizers   :
     - Adrian Winckles
-    - John Dileo
+    - John DiLeo
     
 ---
 

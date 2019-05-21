@@ -1,5 +1,5 @@
 ---
-title    : Open Security Summit 2018 Photo Gallery
+title    : OSS 2018 Photo Gallery and Reactions
 layout   : photo-gallery
 ---
 

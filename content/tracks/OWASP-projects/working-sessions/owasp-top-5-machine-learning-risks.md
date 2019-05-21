@@ -1,7 +1,7 @@
 ---
 title        : Owasp Top 5 Machine Learning risks
 type         : working-session      # working-session, user-session
-track        : Owasp Projects
+track        : OWASP Projects
 topics       : ["Owasp Project", "AI & ML"]
 technology   :
 categories   : ["OWASP projects"]

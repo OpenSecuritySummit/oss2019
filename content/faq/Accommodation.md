@@ -7,9 +7,9 @@ layout      : FAQ
 
 #### 1. When can I check in to my room?
 
-Keys will be available from 4.30pm-8.00pm on Monday 4 June at The Venue. After that, keys will be available from 8.30am to 8.00pm. Anyone arriving after 8.00pm will need to pick their keys up at the security gate.  
+Keys will be available from 4.30pm-8.00pm on Monday 3 June at The Venue. After that, keys will be available from 8.30am to 8.00pm. Anyone arriving after 8.00pm will need to pick their keys up at the security gate.  
 
-When you leave, please return your keys to the registration desk, NOT the venue's bins.
+When you leave, please return your keys the venue's bins.
 
 #### 2. Is there somewhere I can leave my luggaage on Monday before my villa becomes available?
 

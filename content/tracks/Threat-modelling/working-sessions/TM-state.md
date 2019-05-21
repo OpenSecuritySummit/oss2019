@@ -6,7 +6,7 @@ topics       :
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Wed
+when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_id      : room-1
@@ -15,6 +15,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Irene Michlin
 description  : What is the current state of TM and where do we need to go?
 locked       : true
 ---

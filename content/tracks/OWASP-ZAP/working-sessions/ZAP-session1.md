@@ -1,5 +1,5 @@
 ---
-title        : ZAP working session - placeholder
+title        : ZAP working session - automation
 type         : working-session
 track        : OWASP ZAP
 locked       : true
@@ -7,16 +7,16 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes
 when_day     : Tue
-when_time    : PM-1
+when_time    : AM-1
 room_layout  :                    #
 room_id      : 
 session_slack: 
 status       : review-content              # draft, review-content, done
-description  : placeholder working sessions on ZAP
+description  : Working session on ZAP automation
 organizers   :
     - Simon Bennetts
 participants:
 
 ---
 
-add details on goals and how to prepare / participate
+An interactive working session for people to discuss and learn how best to automate ZAP.
