@@ -6,5 +6,7 @@ node_modules
 /.vs
 resources
 *.iml
+__pycache__
 .pytest_cache
 .pyc
+.ipynb_checkpoints

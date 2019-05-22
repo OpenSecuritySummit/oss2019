@@ -3,7 +3,7 @@ from pbx_gs_python_utils.utils.Files import Files
 
 class Hugo_Page():
     def __init__(self, base_folder=None):
-        self.folder_oss    = Files.path_combine(__file__, '../../..')
+        self.folder_oss    = Files.path_combine(__file__, '../../../..')
         self.base_folder   = base_folder
         self.file_template = Files.path_combine(self.folder_oss,"{0}/{1}".format(self.base_folder,'_template.md'))
 
