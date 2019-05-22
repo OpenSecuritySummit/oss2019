@@ -1,8 +1,8 @@
 from pbx_gs_python_utils.utils.Files import Files
-from oss_admin.Files_Utils import Files_Utils
+from oss_hugo.Files_Utils import Files_Utils
 
-from oss_admin.Hugo_Page import Hugo_Page
-from oss_admin.OSS_Participant import OSS_Participant
+from oss_hugo.Hugo_Page import Hugo_Page
+from oss_hugo.OSS_Participant import OSS_Participant
 
 
 class API_Hugo_OSS:

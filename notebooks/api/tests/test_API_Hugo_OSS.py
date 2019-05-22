@@ -3,7 +3,7 @@ import frontmatter
 from pbx_gs_python_utils.utils.Dev import Dev
 from pbx_gs_python_utils.utils.Files import Files
 
-from oss_admin.API_Hugo_OSS import API_Hugo_OSS
+from oss_hugo.API_Hugo_OSS import API_Hugo_OSS
 
 
 class test_API_Hugo_OSS(TestCase):

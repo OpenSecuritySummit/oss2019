@@ -1,4 +1,4 @@
-from oss_admin.Hugo_Page import Hugo_Page
+from oss_hugo.Hugo_Page import Hugo_Page
 
 
 class OSS_Participant(Hugo_Page):

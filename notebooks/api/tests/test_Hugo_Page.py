@@ -3,7 +3,7 @@ from unittest import TestCase
 from pbx_gs_python_utils.utils.Dev import Dev
 from pbx_gs_python_utils.utils.Files import Files
 
-from oss_admin.Hugo_Page import Hugo_Page
+from oss_hugo.Hugo_Page import Hugo_Page
 
 
 class test_Hugo_Page(TestCase):
