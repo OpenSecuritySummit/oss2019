@@ -21,7 +21,7 @@ RUN apt-get update \
     && mkdir -p $SRC_DIR
 
 WORKDIR $SRC_DIR
-ADD --chown=oss:oss . $SRC_DIR
+ADD --chown=oss:oss .. $SRC_DIR
 
 USER oss:oss
 
