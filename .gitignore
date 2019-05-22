@@ -10,3 +10,8 @@ __pycache__
 .pytest_cache
 .pyc
 .ipynb_checkpoints
+.cache
+*.sqlite
+*.db
+notebook_secret
+.local
