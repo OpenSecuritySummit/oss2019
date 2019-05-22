@@ -1,12 +1,12 @@
 ---
 title           : Artem Vasiuk
 type            : participant
-job_title       :
-company         :
-travel-from     :
-image           :
-linkedin        :
-twitter         :
+job_title       : Test Manager
+company         : Scalepoint
+travel-from     : Denmark
+image           : 
+linkedin        : artemvasiuk
+twitter         : @artyvasiuk
 facebook        :
 website         :
 email           :
