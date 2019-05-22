@@ -6,3 +6,5 @@ node_modules
 /.vs
 resources
 *.iml
+.pytest_cache
+.pyc
