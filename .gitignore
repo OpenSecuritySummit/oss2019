@@ -15,3 +15,5 @@ __pycache__
 *.db
 notebook_secret
 .local
+migrated
+.jupyter/lab/workspaces
