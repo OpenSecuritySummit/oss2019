@@ -6,7 +6,7 @@ company         : Scalepoint
 travel-from     : Denmark
 image           : 
 linkedin        : artemvasiuk
-twitter         : @artyvasiuk
+twitter         : artyvasiuk
 facebook        :
 website         :
 email           :
@@ -18,7 +18,6 @@ status          : add details
 sessions:
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
 ---
 
 <!-- put more details about participant here -->
