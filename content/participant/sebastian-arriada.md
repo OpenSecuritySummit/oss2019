@@ -1,5 +1,6 @@
 ---
-chapter_leader: 'Sebastian Arriada'
+title: 'Sebastian Arriada'
+chapter_leader:
 company: 'Globant'
 email: 'sebastian.arriada@globant.com'
 eventbrite_id: ''
@@ -11,7 +12,6 @@ notes: ''
 project_leader: ''
 sessions: []
 status: add-details
-title: ''
 travel_from: 'Argentina'
 twitter: ''
 type: participant

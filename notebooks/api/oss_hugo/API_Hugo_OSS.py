@@ -2,6 +2,7 @@ from pbx_gs_python_utils.utils.Files import Files
 from oss_hugo.Files_Utils import Files_Utils
 
 from oss_hugo.Hugo_Page import Hugo_Page
+from oss_hugo.OSS_GSheet_Data import OSS_GSheet_Data
 from oss_hugo.OSS_Participant import OSS_Participant
 
 
@@ -29,7 +30,7 @@ class API_Hugo_OSS:
 
     #def save_file(self, data):
     #@use_local_cache_if_available
-    def participants(self,reload=False):
+    def participants(self,reload=True):
         if self._participants is None or reload:
             self._participants = self.load_files(self.md_files_participants())
         return self._participants
@@ -37,3 +38,6 @@ class API_Hugo_OSS:
     def participants_metadatas(self):
         #return self.participants()
         return [participant.get('metadata') for participant in self.participants().values()]
+
+    def gsheet_data(self):
+        return OSS_GSheet_Data()
