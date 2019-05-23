@@ -14,16 +14,16 @@ description  :
 
 
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+*This document includes headings you may use to describe your session outcomes. Rearrange the headings as necessary to ensure coherence and clarity.*
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+*Please use any additional headings that will improve the outcomes.*
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+***NOTE:*** *The italic text in this page/document is used for explanation only. Replace it with other useful content.*
 
 ## Outcomes/Deliverables (recommend)
 *The outcomes are the results produced from a session regardless of the session type. These can be:*
 
-- *Artefacts (Diagrams)*
+- *Diagrams*
 - *Documents or Books*
 - *Playbooks*
 - *Roadmaps (for next meeting)*
@@ -37,7 +37,7 @@ description  :
 *Clear and concise. Use bullet points/lists as much as possible.*
 
 ## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered in the session.*
 
 ## Important Conclusions
 *Make a simple list of conclusions that were taken at the session.*
@@ -47,11 +47,11 @@ description  :
 
 ## References (recommend)
 - **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- **Summit 2018 session page :** *put a link to the summit 2018 session page*
+- **Summit 2018 outcome page :** *put a link to the summit 2018 outcome page*
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
+*Make a bullet list with additional references that might be useful*
 
 * *Link 1 Title: URL 1*
 * *Link 2 Title: URL 2*
