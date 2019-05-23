@@ -17,3 +17,8 @@ notebook_secret
 .local
 migrated
 .jupyter/lab/workspaces
+
+.bash_logout
+.config
+.profile
+.bashrc
