@@ -10,7 +10,7 @@ when_time    : PM-1
 room_layout  :
 room_id      :
 session_slack: 
-status       : draft
+status       : done
 description  : New to Wardley maps? This session is for you
 organizers   :
     - Tony Richards
