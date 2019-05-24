@@ -1,6 +1,6 @@
 ---
 title           : Jean-Jacques MOIROUX
-type            : Participant
+type            : participant
 job_title       : Software Engineer
 company         : Mimecast
 travel_from     : London
