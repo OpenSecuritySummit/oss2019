@@ -9,7 +9,7 @@ when_day     : Tue
 when_time    : PM-1
 room_layout  :
 room_id      :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CJZH5V1QV
 status       : review-content
 description  : OWASP Juice Shop introduction for new contributors
 organizers   : Bjoern Kimminich

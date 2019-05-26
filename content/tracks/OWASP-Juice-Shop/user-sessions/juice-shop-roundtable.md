@@ -9,7 +9,7 @@ when_day     : Wed
 when_time    : DS-2
 room_layout  :
 room_id      :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CJN55C1QT
 status       : review-content
 description  : Round table of OWASP Juice Shop users
 organizers   : Bjoern Kimminich
