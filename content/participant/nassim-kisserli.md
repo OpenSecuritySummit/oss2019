@@ -1,5 +1,5 @@
 ---
-title           : Nassim Kisserli
+title           : Nessim Kisserli
 type            : participant
 job_title       :
 company         :

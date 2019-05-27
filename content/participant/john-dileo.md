@@ -1,5 +1,5 @@
 ---
-title           : John DiLeo
+title           : John Dileo
 type            : participant
 sponsored_by    : 
 job_title       : Application Security Architect

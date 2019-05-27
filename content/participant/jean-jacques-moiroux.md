@@ -1,5 +1,5 @@
 ---
-title           : Jean-Jacques MOIROUX
+title           : Jean-Jacques Moiroux
 type            : Participant
 job_title       : Software Engineer
 company         : Mimecast
