@@ -12,6 +12,7 @@ class test_OSS_Participant(TestCase):
         self.participant  = OSS_Participant(self.test_name)
         self.result       = None
         self.participant.create()
+        self.participant.load()
 
     def tearDown(self):
         if self.result is not None:
@@ -20,6 +21,16 @@ class test_OSS_Participant(TestCase):
 
     def test__init__(self):
         assert self.participant.base_folder == 'content/participant/'
+
+    def test_field(self):
+        self.participant.field('type', 'abc')
+        assert self.participant.field('type') == 'abc'
+        self.participant.load(True)
+        assert self.participant.field('type') == 'participant'
+        self.participant.field('type', 'abc')
+        self.participant.save()
+        self.participant.load(True)
+        assert self.participant.field('type') == 'abc'
 
     def test_load(self):
         assert OSS_Participant('test-user.md'                    ).load().exists()
@@ -49,8 +60,6 @@ class test_OSS_Participant(TestCase):
         self.participant.load()
 
         assert new_field in set(metadata)           # confirm that now it is in there
-
-        self.result = self.participant.metadata()
 
 
 
