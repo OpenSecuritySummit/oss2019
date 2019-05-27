@@ -14,7 +14,6 @@ night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-2
 night_room      : 4
 status          : done
-pre_summit      : 
 sessions        :
 # 
 ---

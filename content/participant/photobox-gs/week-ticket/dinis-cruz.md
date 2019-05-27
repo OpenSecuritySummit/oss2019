@@ -4,8 +4,6 @@ email: dinis.cruz@owasp.org
 image: https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
 job_title: CISO
 linkedin: diniscruz
-night_where: villa-2
-pre_summit: Sat,Sun
 sessions:
 - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
 status: done
