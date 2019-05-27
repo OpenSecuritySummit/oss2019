@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: ''
-email: ''
 facebook: ''
 image: https://pbs.twimg.com/profile_images/1111599841417838593/vSCYa7SE_400x400.png
 job_title: ''

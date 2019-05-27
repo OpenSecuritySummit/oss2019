@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: UK Hydrographic Office
-email: ''
 facebook: ''
 image: ''
 job_title: Senior Software Engineer

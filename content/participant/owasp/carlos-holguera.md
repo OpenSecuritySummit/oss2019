@@ -1,6 +1,5 @@
 ---
 company: ESCRYPT GmbH
-email: ''
 facebook: ''
 image: ''
 job_title: Security Engineer

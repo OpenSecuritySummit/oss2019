@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: ''
-email: ''
 facebook: ''
 image: ''
 job_title: ''

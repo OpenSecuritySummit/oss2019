@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: MLi Group
-email: kf@mligrp.com
 facebook: ''
 image: https://media.licdn.com/dms/image/C5103AQH2U_ouhND_5w/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=Akgdr0ixeqzeAKO9EliWnx3fNwiCdlo0D1Nk8YYBkaI
 job_title: Chairman

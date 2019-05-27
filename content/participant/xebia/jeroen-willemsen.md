@@ -1,6 +1,5 @@
 ---
 company: Xebia
-email: jeroen.willemsen@owasp.org
 facebook: ''
 image: https://pages.xebia.com/hs-fs/hubfs/Unknown.jpeg?width=522&name=Unknown.jpeg
 job_title: PSA / OWASP MSTG project lead

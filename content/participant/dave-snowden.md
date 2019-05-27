@@ -1,6 +1,5 @@
 ---
 company: ''
-email: ''
 facebook: ''
 image: ''
 job_title: ''

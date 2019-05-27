@@ -1,6 +1,5 @@
 ---
 company: Araido
-email: dominik.de.smit@araido.com
 facebook: ''
 image: https://pbs.twimg.com/profile_images/966380302041010178/gtffGLPm_400x400.jpg
 job_title: CEO & Founder

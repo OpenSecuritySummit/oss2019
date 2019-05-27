@@ -1,6 +1,5 @@
 ---
 company: ''
-email: didadida@gmail.com
 facebook: ''
 image: https://media.licdn.com/dms/image/C4D03AQG7GcLMJCcU1w/profile-displayphoto-shrink_200_200/0?e=1562803200&v=beta&t=H1Ql1z0HXzakRrQzh-gIuxol6jw07Mz9jq31RqxwvU0
 job_title: Cyber Risk Manager

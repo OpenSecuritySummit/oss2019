@@ -1,6 +1,5 @@
 ---
 company: Photobox GS
-email: ''
 facebook: ''
 image: ''
 job_title: ''

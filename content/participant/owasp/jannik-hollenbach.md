@@ -1,6 +1,5 @@
 ---
 company: iteratec GmbH
-email: jannik.hollenbach@owasp.org
 image: https://pbs.twimg.com/profile_images/1116399538573598721/ZoZjMijm_400x400.jpg
 job_title: Software Security Engineer
 notes: ''

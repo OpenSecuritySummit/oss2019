@@ -1,6 +1,5 @@
 ---
 company: PhotoBox Group
-email: ''
 image: https://pbs.twimg.com/profile_images/1121384763229708289/Kcs0OGrL_400x400.png
 job_title: Senior AppSec Engineer
 linkedin: sonyamoisset

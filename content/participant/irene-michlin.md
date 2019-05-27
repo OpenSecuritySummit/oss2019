@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: ''
-email: irene221b@gmail.com
 facebook: ''
 image: ''
 job_title: ''

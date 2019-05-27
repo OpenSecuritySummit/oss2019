@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: Globant
-email: sebastian.arriada@globant.com
 facebook: ''
 image: /participant/images/sebastian-arriada.jpg
 job_title: Tech Director

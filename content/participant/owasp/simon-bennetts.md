@@ -1,6 +1,5 @@
 ---
 company: ''
-email: ''
 facebook: ''
 image: https://pbs.twimg.com/profile_images/2186782633/simonbennetts2_400x400.jpg
 job_title: ''

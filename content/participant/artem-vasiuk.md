@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: Scalepoint
-email: ''
 facebook: ''
 image: ''
 job_title: Test Manager

@@ -1,7 +1,6 @@
 ---
 chapter_leader: Cambridge
 company: Anglia Ruskin University
-email: adrian.wincklesa@owasp.org
 image: https://avatars1.githubusercontent.com/u/9204455?s=460&v=4
 job_title: Directory of Cyber Security Research Group
 linkedin: linkedin.com/in/adrian-winckles-2582ab3

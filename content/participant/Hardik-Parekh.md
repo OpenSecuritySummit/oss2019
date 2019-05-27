@@ -1,6 +1,5 @@
 ---
 company: Splunk
-email: hardikkparekh@yahoo.com
 facebook: ''
 image: ''
 job_title: Sr Director, Product Security

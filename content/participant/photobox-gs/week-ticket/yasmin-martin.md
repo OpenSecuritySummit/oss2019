@@ -1,6 +1,5 @@
 ---
 company: Photobox
-email: ''
 facebook: ''
 image: ''
 job_title: Head of Risk & Compliance

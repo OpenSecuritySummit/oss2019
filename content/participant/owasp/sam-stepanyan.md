@@ -1,6 +1,5 @@
 ---
 company: ''
-email: ''
 facebook: ''
 job_title: ''
 linkedin: samstepanyan

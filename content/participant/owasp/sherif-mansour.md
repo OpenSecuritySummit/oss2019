@@ -1,6 +1,5 @@
 ---
 company: ''
-email: ''
 facebook: ''
 job_title: ''
 linkedin: sherif-mansour-88a73b3

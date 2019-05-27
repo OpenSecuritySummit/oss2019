@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: UK Hydrographic Office
-email: ''
 facebook: ''
 image: https://en.gravatar.com/userimage/50736604/bbd206118f38253c3ed509aacba47106.jpg
 job_title: Lead Software Engineer

@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: ''
-email: ''
 facebook: ''
 image: https://media.licdn.com/dms/image/C5603AQEhiJAaRmIpJw/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=96ByuTTHTblWRxkVpa0jVCp3ogvasZiY6UutecWz_iY
 job_title: ''

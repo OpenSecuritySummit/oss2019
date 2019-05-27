@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: Scalepoint Technologies
-email: ''
 facebook: ''
 image: ''
 job_title: Compliance & Security Manager

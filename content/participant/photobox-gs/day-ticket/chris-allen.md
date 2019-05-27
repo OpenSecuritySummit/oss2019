@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: ''
-email: ''
 facebook: ''
 image: https://media.licdn.com/dms/image/C4E03AQG6VOyKkGUr1Q/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=NTMkfsG9uT33SyNUNI75vJ31Dby07whdXQzqS2S652w
 job_title: Systems Architect

@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: Centerprise International
-email: ''
 facebook: ''
 job_title: IT Engineer
 linkedin: sara-davis-it

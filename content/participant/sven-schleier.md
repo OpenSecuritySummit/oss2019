@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: ''
-email: ''
 facebook: ''
 image: https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib_400x400.jpg
 job_title: Principal Security Consultant

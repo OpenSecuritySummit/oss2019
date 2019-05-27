@@ -1,6 +1,5 @@
 ---
 chapter_leader: ''
-email: ''
 facebook: ''
 image: https://pbs.twimg.com/profile_images/605061658977947649/TyIb7res_400x400.png
 job_title: Veracode

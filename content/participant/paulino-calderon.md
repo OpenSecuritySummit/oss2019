@@ -1,7 +1,6 @@
 ---
 chapter_leader: Riviera Maya
 company: Websec
-email: paulino.calderonpale@owasp.org
 facebook: ''
 image: https://www.blackhat.com/us-16/presenters/headshots/Paulino-Calderon.jpg
 job_title: ''

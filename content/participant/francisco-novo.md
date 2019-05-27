@@ -1,6 +1,5 @@
 ---
 company: The Workshop
-email: fjnovo@gmail.com
 image: https://pbs.twimg.com/profile_images/378800000474030050/e2d3d915fb56f536ee1374e2d6ca63ee_400x400.jpeg
 job_title: DevOps Engineer
 linkedin: frannovo

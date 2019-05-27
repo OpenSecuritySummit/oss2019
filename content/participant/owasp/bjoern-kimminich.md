@@ -1,6 +1,5 @@
 ---
 company: KUEHNE + NAGEL (AG & Co.) KG
-email: bjoern.kimminich@owasp.org
 image: https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/introduction/img/avatar.png
 job_title: Senior Manager IT Architecture + Application Security
 linkedin: bkimminich

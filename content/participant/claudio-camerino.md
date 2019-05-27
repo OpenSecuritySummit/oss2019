@@ -1,6 +1,5 @@
 ---
 company: The Workshop
-email: camerinorama@gmail.com
 image: https://avatars2.githubusercontent.com/u/31473290?s=460&v=4
 job_title: Head of Application Security
 linkedin: claudio-camerino-0694702

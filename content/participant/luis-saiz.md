@@ -1,7 +1,6 @@
 ---
 chapter_leader: ''
 company: BBVA
-email: luis.saiz@bbva.com
 facebook: ''
 image: https://media.licdn.com/dms/image/C5103AQFro6hWdLBgRA/profile-displayphoto-shrink_200_200/0?e=1562803200&v=beta&t=CBKnYLnqPpu2gkeITwixE9frwOFZL5te07a6_Q58pEs
 job_title: Head of Innovation in Security
