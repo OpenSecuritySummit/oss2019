@@ -1,25 +1,19 @@
 ---
-title           : Dinis Cruz
-type            : participant
-job_title       : CISO
-sponsored_by    : PhotoBox
-company         : PhotoBox Group
-image           : https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
-email           : dinis.cruz@owasp.org
-linkedin        : diniscruz
-twitter         : DinisCruz
-website         : http://blog.diniscruz.com
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
-night_where     : villa-2
-night_room      : 1
-pre-summit      : Fri, Sat, Sun
-status          : done
-pre_summit      : Sat,Sun
-sessions        :
- - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
+company: PhotoBox Group
+email: dinis.cruz@owasp.org
+image: https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
+job_title: CISO
+linkedin: diniscruz
+night_where: villa-2
+pre_summit: Sat,Sun
+sessions:
+- secureCodeBox - How to improve your CI/CD pipeline with automated security tests
+status: done
+title: Dinis Cruz
+twitter: DinisCruz
+type: participant
+website: http://blog.diniscruz.com
 ---
-
 
 Dinis Cruz is the CISO of the Photobox Group and is focused on creating an team and environment where security is an enabler and accelerator for the business, while securing and protecting the digital assets from existing threats.
 

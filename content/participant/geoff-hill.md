@@ -1,15 +1,15 @@
 ---
-title           : Geoff Hill
-type            : participant
-job_title       : Threat Modeler
-company         : Tutamantic Ltd.
-travel_from     : United Kingdom
-image           : https://media.licdn.com/dms/image/C4D03AQHP3jyOu8S9Bg/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=FuHszpfNZKVEQ61ybUcg3o_3CX_n4riUaGofEGI34LI
-linkedin        : geoffrey-hill-61b7bb
-twitter         : Tutamantic_Sec
-facebook        : TutamanticSec
-status          : done
-working_sessions :
+company: Tutamantic Ltd.
+facebook: TutamanticSec
+image: https://media.licdn.com/dms/image/C4D03AQHP3jyOu8S9Bg/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=FuHszpfNZKVEQ61ybUcg3o_3CX_n4riUaGofEGI34LI
+job_title: Threat Modeler
+linkedin: geoffrey-hill-61b7bb
+status: done
+title: Geoff Hill
+travel_from: United Kingdom
+twitter: Tutamantic_Sec
+type: participant
+working_sessions: ''
 ---
 
 Founder of Artis-Secure (security consultancy, specifically sSDLC) and Tutamantic (software enabler).

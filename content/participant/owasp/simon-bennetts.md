@@ -1,20 +1,17 @@
 ---
-title           : Simon Bennetts
-type            : participant
-sponsored_by    : 
-job_title       :
-company         :
-travel_from     :
-image           : https://pbs.twimg.com/profile_images/2186782633/simonbennetts2_400x400.jpg
-linkedin        : psiinon
-twitter         : psiinon
-facebook        :
-website         :
-email           :
-eventbrite_id   :
-pre-summit      :
-status          : add details
-sessions        :
+company: ''
+email: ''
+facebook: ''
+image: https://pbs.twimg.com/profile_images/2186782633/simonbennetts2_400x400.jpg
+job_title: ''
+linkedin: psiinon
+sessions: []
+status: add details
+title: Simon Bennetts
+travel_from: ''
+twitter: psiinon
+type: participant
+website: ''
 ---
 
 Simon is the ZAP project leader and works for Mozilla.
