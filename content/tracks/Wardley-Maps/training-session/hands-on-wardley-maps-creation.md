@@ -10,31 +10,29 @@ when_time    : PM-3
 room_layout  :
 room_id      :
 session_slack: 
-status       : draft
-description  : What to know more about Wardley maps? This training session will give you hands on experience in creating maps for multiple scenarios
+status       : done
+description  : Want to have a go at creating your own Wardley maps? This training session will give you hands on experience in creating maps for multiple scenarios, with experienced practitioners on hand to guide and help you.
 organizers   :
     - Tony Richards
 participants :
 ---
 
 
-<!--(add intro)
-
-## WHY
-
-(...)
-
 ## What
 
-(...)
+Scenarios to Map:
+- Security Testing
+- Security Awareness and Education
+- Security Operations
+- Security Champions
+- others
 
 ## Outcomes
 
-(...)
+Participants will have experienced creating their own Wardley Maps.
 
 ## References
 
-(...)
+- [Finding a Path - The First Map] (https://medium.com/wardleymaps/finding-a-path-cdb1249078c0)
+- [Exploring the Map] (https://medium.com/wardleymaps/exploring-the-map-ad0266fad59b)
 
-
-## Previous-->

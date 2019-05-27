@@ -1,4 +1,4 @@
 ---
-type: json
 layout: pages-details
+type: json
 ---

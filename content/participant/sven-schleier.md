@@ -1,22 +1,18 @@
 ---
-title           : Sven Schleier 
-type            : participant
-job_title       : Principal Security Consultant 
-company         : 
-travel_from     : Singapore 
-image           : https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib_400x400.jpg
-linkedin        : https://www.linkedin.com/in/sven-schleier-98259194/
-twitter         : https://twitter.com/bsd_daemon
-facebook        :
-website         :
-email           : 
-project_leader  : OWASP MSTG 
-chapter_leader  :
-eventbrite_id   :
-status          : add-details
-sessions        : 
-notes           :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+chapter_leader: ''
+company: ''
+email: ''
+facebook: ''
+image: https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib_400x400.jpg
+job_title: Principal Security Consultant
+linkedin: https://www.linkedin.com/in/sven-schleier-98259194/
+notes: ''
+project_leader: OWASP MSTG
+sessions: []
+status: add-details
+title: Sven Schleier
+travel_from: Singapore
+twitter: https://twitter.com/bsd_daemon
+type: participant
+website: ''
 ---
-
-

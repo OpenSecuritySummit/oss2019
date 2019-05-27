@@ -1,24 +1,21 @@
 ---
-title           : Carlos Holguera
-type            : participant
-job_title       : Security Engineer
-company         : ESCRYPT GmbH
-travel_from     :
-image           :
-linkedin        :
-twitter         :
-facebook        :
-website         :
-email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-eventbrite_id   :
-pre-summit      :
-status          : review-content
-sessions        :
-  - OWASP Mobile Security Testing Guide 101
-  - Mobile Security Testing Guide onboarding
-  - Creating content session
-  - Restructure session
+company: ESCRYPT GmbH
+email: ''
+facebook: ''
+image: ''
+job_title: Security Engineer
+linkedin: ''
+sessions:
+- OWASP Mobile Security Testing Guide 101
+- Mobile Security Testing Guide onboarding
+- Creating content session
+- Restructure session
+status: review-content
+title: Carlos Holguera
+travel_from: ''
+twitter: ''
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->

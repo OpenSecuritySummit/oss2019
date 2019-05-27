@@ -1,18 +1,18 @@
 ---
-title           : Bart De Win
-type            : participant
-job-title       :
-travel-from     : Belgium
-image           :
-linkedin        :
-twitter          :
-facebook        :
-website         :
-email           :
-project-leader  :
-chapter-leader  :
-status          : empty
-working-sessions:
+chapter_leader: ''
+email: ''
+facebook: ''
+image: ''
+job_title: ''
+linkedin: ''
+project_leader: ''
+status: empty
+title: Bart De Win
+travel-from: Belgium
+twitter: ''
+type: participant
+website: ''
+working_sessions: ''
 ---
 
 <!-- put more details about participant here -->

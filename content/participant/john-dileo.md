@@ -1,25 +1,13 @@
 ---
-title           : John DiLeo
-type            : participant
-sponsored_by    : 
-job_title       : Application Security Architect
-company         : Orion Health
-travel-from     : Auckland, New Zealand
-image           : /participant/images/john-dileo.jpg
-linkedin        : john-dileo
-twitter         : gr4ybeard
-facebook        :
-website         :
-email           : john.dileo@owasp.org
-project_leader  : yes
-chapter_leader  : yes
-venue           : 
-night_day       : 
-night_where     : 
-night_room      : 
-eventbrite_id   :
-status          : 
-sessions        : 
+chapter_leader: true
+company: Orion Health
+facebook: ''
+image: /participant/images/john-dileo.jpg
+job_title: Application Security Architect
+linkedin: john-dileo
+notes: ''
+project_leader: true
+sessions:
 - SAMM Introduction
 - SAMM - Best Practices
 - SAMM Round Table
@@ -31,9 +19,12 @@ sessions        :
 - SAMMv2 working session - Operations
 - SAMMv2 Measurement Model
 - SAMMv2 Establish the Document Model
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
+status: ''
+title: John Dileo
+travel-from: Auckland, New Zealand
+twitter: gr4ybeard
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->
@@ -43,4 +34,3 @@ John DiLeo has worked and taught in computing and information technology for 30 
 * OWASP New Zealand Chapter Co-Leader
 * OWASP Application Security Curriculum Project Co-Leader
 * OWASP SAMM Project Core Team
-

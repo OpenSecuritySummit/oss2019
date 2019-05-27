@@ -46,15 +46,20 @@
 
         <h2>Current list of Summit attendees</h2>
 
-        <ul>
-        {{ range $index, $local := where .Data.Pages ".Params.type" "participant" }}
-          {{ if .Params.title }}
-            {{ partial "participant/card.html" . }}
+        <div class="list-attendees-container">
+        
+          {{ range $index, $local := where (where .Data.Pages ".Params.type" "participant") ".Params.title" "ne" nil }}
+            {{ if .Params.title }}
+            <div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+                {{ partial "participant/card.html" . }}
+            </div>
           {{ end }}
-
-        {{ if eq (mod $index 6) 0 }}</ul><ul>{{ end }}
         {{ end }}
-        </ul>
+
+        </div>
+        
+      </div>
+        
 
 
       </div><!-- list_attendees -->

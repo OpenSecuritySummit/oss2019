@@ -1,18 +1,17 @@
 ---
-title: 'Sebastian Arriada'
-chapter_leader:
-company: 'Globant'
-email: 'sebastian.arriada@globant.com'
-eventbrite_id: ''
+chapter_leader: ''
+company: Globant
+email: sebastian.arriada@globant.com
 facebook: ''
-image: '/participant/images/sebastian-arriada.jpg'
-job_title: 'Tech Director'
-linkedin: 'sebastianarriada'
+image: /participant/images/sebastian-arriada.jpg
+job_title: Tech Director
+linkedin: sebastianarriada
 notes: ''
 project_leader: ''
 sessions: []
 status: add-details
-travel_from: 'Argentina'
+title: Sebastian Arriada
+travel_from: Argentina
 twitter: ''
 type: participant
 website: ''

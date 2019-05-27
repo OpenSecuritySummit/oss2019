@@ -17,7 +17,10 @@ class test_OSS_GSheet_Data(TestCase):
             Dev.pprint(self.result)
 
     def test__init__(self):
-        assert Files.exists(self.gsheet_data.data_folder) == True
+        assert type(self.gsheet_data.url) == str
+
+    def test_get_data(self):
+        assert set(self.gsheet_data.get_data()) == {'onsite','remote'}
 
     def test_data_participants_onsite(self):
         assert len(self.gsheet_data.data_participants_onsite()) > 100
@@ -26,16 +29,11 @@ class test_OSS_GSheet_Data(TestCase):
         assert len(self.gsheet_data.data_participants_remote()) > 20
 
     def test_df_participants_onsite(self):
-        assert set(self.gsheet_data.df_participants_onsite()) == { 'Accommodation',
-                                                                   'Company',
-                                                                   'Days',
-                                                                   'ID',
-                                                                   'Location',
-                                                                   'Name',
-                                                                   'Nights',
-                                                                   'Page On website',
-                                                                   'Payment Status',
-                                                                   'Sponsor'}
+        data = self.gsheet_data.df_participants_onsite()                 
+        assert set(data) == { 'Accommodation','Chapter Leader','Company','Days','ID','Location','Name',
+                              'Nights','Page On website','Payment Status','Project Leader',
+                              'Skills/Topics','Sponsor'}
+        assert type(data['Days'][0]) == list
 
     def test_df_participants_remote(self):
-        assert set(self.gsheet_data.df_participants_remote()) == {'Location', 'ID', 'Slack ID', 'Name'}
+        assert set(self.gsheet_data.df_participants_remote()) == {'Location', 'ID', 'Name'}

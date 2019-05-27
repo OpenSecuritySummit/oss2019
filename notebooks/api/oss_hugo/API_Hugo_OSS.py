@@ -1,3 +1,5 @@
+import pandas as pd
+import qgrid
 from pbx_gs_python_utils.utils.Files import Files
 from oss_hugo.Files_Utils import Files_Utils
 
@@ -41,3 +43,26 @@ class API_Hugo_OSS:
 
     def gsheet_data(self):
         return OSS_GSheet_Data()
+
+    def df_merged_gsheet_and_hugo_data(self,reload=False):
+        df_hugo = pd.DataFrame(self.participants_metadatas())
+        df_gsheet = self.gsheet_data().df_participants_onsite(reload)
+        df_gsheet['GSheet'] = True
+        df_hugo  ['Hugo'  ] = True
+        df_hugo  ['Name'  ] = df_hugo['title']
+        df_hugo = df_hugo[['Name', 'status', 'company', 'Hugo']]
+        df_both = pd.merge(df_hugo, df_gsheet, on='Name', how='outer').fillna('')
+        #df_both.fillna('*')
+        df_both = df_both[['Name', 'company', 'Company', 'Payment Status', 'GSheet', 'Hugo']]
+        df_both = df_both[df_both['Name'] != '']
+        return df_both
+
+    def df_participants(self,columns=None):
+        return pd.DataFrame(self.participants_metadatas(),columns=columns)
+
+    def qgrid_merged_gsheet_and_hugo_data(self,reload=False):
+        df_both = self.df_merged_gsheet_and_hugo_data(reload)
+        return qgrid.show_grid(df_both)
+
+    def qgrid_participants(self,columns=None):
+        return qgrid.show_grid(self.df_participants(columns))

@@ -1,34 +1,28 @@
 ---
-title           : Yasmin Martin
-type            : participant
-sponsored_by    : PhotoBox
-job_title       : Head of Risk & Compliance
-company         : Photobox
-travel-from     :
-image           :
-linkedin        :
-twitter         :
-facebook        :
-website         :
-email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-night_where     : villa-7
-eventbrite_id   :
-pre-summit      :
-status          : add details
+company: Photobox
+email: ''
+facebook: ''
+image: ''
+job_title: Head of Risk & Compliance
+linkedin: ''
+night_where: villa-7
+notes: ''
+sessions:
+- Creating Appsec metrics and visualisation
+- Using graphs for GDPR mappings and visualisations
+- Ask me anything (AMA) on GDPR
+- Cyber Insurance
+- Women in Cyber-security: improving the gender balance
+- SAMMv2 Measurement Model
+- Share your Threat Models diagrams and create a Book
+status: add details
+title: Yasmin Martin
 tracks:
-    - GDPR
-sessions: 
-    - Creating Appsec metrics and visualisation
-    - Using graphs for GDPR mappings and visualisations
-    - Ask me anything (AMA) on GDPR
-    - Cyber Insurance
-    - Women in Cyber-security: improving the gender balance
-    - SAMMv2 Measurement Model
-    - Share your Threat Models diagrams and create a Book
-    
-notes :
+- GDPR
+travel-from: ''
+twitter: ''
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->
