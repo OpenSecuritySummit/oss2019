@@ -52,7 +52,7 @@ class Hugo_Page():
 
             Files.write(file_path, frontmatter.dumps(post))
             if Files.exists(file_path):
-                return { 'status': 'ok', 'data': data }
+                return { 'status': 'ok', 'data': data}
             else:
                 return {'status': 'error', 'data': 'file not saved ok: {0}'.format(file_path) }
         except Exception as error:

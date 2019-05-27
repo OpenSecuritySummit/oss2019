@@ -9,15 +9,8 @@ linkedin        : felipezipitria
 twitter         :
 facebook        :
 website         :
-email           : felipe.zipitria@owasp.org
 project_leader  :
 chapter_leader  : Uruguay
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Sun-before, Mon, Tue, Wed, Thu
-night_where     : hotel-1
-night_room      : tbd
-eventbrite_id   :
-pre-summit      :
 status          : add details
 sessions:
   - Application Security Verification Standard

@@ -11,11 +11,7 @@ linkedin        : amgrace
 twitter         :
 facebook        :
 venue           : 
-night_day       : 
-night_where     : 
-night_room      : 
 eventbrite_id   :
-pre-summit      :
 status          : 
 sessions:
 ---

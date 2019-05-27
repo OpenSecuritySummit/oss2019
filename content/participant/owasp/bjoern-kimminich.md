@@ -8,10 +8,6 @@ email           : bjoern.kimminich@owasp.org
 linkedin        : bkimminich
 twitter         : bkimminich
 website         : https://kimminich.de
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-night_where     :
-night_room      :
 status          : add details
 sessions        :
 ---

@@ -1,7 +1,7 @@
 ---
 title           : Sonya Moisset
 type            : participant
-job-title       : Senior AppSec Engineer
+job_title       : Senior AppSec Engineer
 sponsored_by    : PhotoBox
 company         : PhotoBox Group
 travel-from     : United Kingdom

@@ -1,15 +1,13 @@
 ---
 title           : Geoff Hill
 type            : participant
-job-title       : Threat Modeler
+job_title       : Threat Modeler
 company         : Tutamantic Ltd.
 travel-from     : United Kingdom
 image           : https://media.licdn.com/dms/image/C4D03AQHP3jyOu8S9Bg/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=FuHszpfNZKVEQ61ybUcg3o_3CX_n4riUaGofEGI34LI
 linkedin        : geoffrey-hill-61b7bb
-linkedin-company-beta : 10942080
 twitter         : Tutamantic_Sec
 facebook        : TutamanticSec
-email           : geoff.hill@tutamantic.com
 status          : done
 working-sessions : 
 ---

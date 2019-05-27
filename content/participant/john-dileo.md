@@ -10,27 +10,23 @@ linkedin        : john-dileo
 twitter         : gr4ybeard
 facebook        :
 website         :
-email           : john.dileo@owasp.org
 project_leader  : yes
 chapter_leader  : yes
 venue           : 
-night_day       : 
-night_where     : 
-night_room      : 
 eventbrite_id   :
 status          : 
 sessions        : 
-- SAMM Introduction
-- SAMM - Best Practices
-- SAMM Round Table
-- SAMM DevOps Guidance
-- SAMMv2 working session - Governance
-- SAMMv2 working session - Design
-- SAMMv2 working session - Implementation
-- SAMMv2 working session - Verification
-- SAMMv2 working session - Operations
-- SAMMv2 Measurement Model
-- SAMMv2 Establish the Document Model
+    - SAMM Introduction
+    - SAMM - Best Practices
+    - SAMM Round Table
+    - SAMM DevOps Guidance
+    - SAMMv2 working session - Governance
+    - SAMMv2 working session - Design
+    - SAMMv2 working session - Implementation
+    - SAMMv2 working session - Verification
+    - SAMMv2 working session - Operations
+    - SAMMv2 Measurement Model
+    - SAMMv2 Establish the Document Model
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 

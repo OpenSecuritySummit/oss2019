@@ -57,6 +57,12 @@ class API_Hugo_OSS:
         df_both = df_both[df_both['Name'] != '']
         return df_both
 
+    def df_participants(self,columns=None):
+        return pd.DataFrame(self.participants_metadatas(),columns=columns)
+
     def qgrid_merged_gsheet_and_hugo_data(self,reload=False):
         df_both = self.df_merged_gsheet_and_hugo_data(reload)
         return qgrid.show_grid(df_both)
+
+    def qgrid_participants(self,columns=None):
+        return qgrid.show_grid(self.df_participants(columns))

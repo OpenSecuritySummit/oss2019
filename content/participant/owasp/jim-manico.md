@@ -12,8 +12,6 @@ website         : https://manicode.com/
 email           :
 project_leader  :
 chapter_leader  :
-venue           : Wed, Thu
-night_day       : Wed
 eventbrite_id   :
 status          : add-details
 sessions        :
