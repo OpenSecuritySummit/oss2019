@@ -24,6 +24,13 @@ Welcome to the Mobile Security track! This track is focusing mainly on the follo
 - The [Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) establishes a framework of security requirements needed to design, develop and test secure mobile apps on iOS and Android.
 - The [Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the MASVS.
 
+## Slack
+
+Please also join our slack channel (especially if you are a remote participant):
+
+1. Register an account on the [Open Security Summit Slack](https://join.slack.com/t/os-summit/shared_invite/enQtNTUwMzczMjc1NDQxLTk3OTQxNzM1YzdkNGNjMDMwMGYwN2UxZjFlNGUxMjVkMGVlM2NmMTA5YjkwNDJiZTg0MmEwZDhkMjg1OGZiZjU)
+2. [Join](https://os-summit.slack.com/messages/CJGFM9W31) our Slack Channel
+
 ## Why
 
 We, the OWASP Mobile Security team, love the OWASP Summit. That time of the year when we come together, all in one place, and forget about the rest of the world (literally as we're in the middle of a forest). Forget about companies / business and concentrate on making the mobile security world a better place. To achieve this we tirelessly work on the MSTG to make it even more awesome as it is already.
