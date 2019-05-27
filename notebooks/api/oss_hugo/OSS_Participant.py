@@ -17,6 +17,7 @@ class OSS_Participant:
     def create(self):
         if self.exists() is False:
             self.hugo_page.create(self.name)
+            self.load()
         return self
 
     def delete(self):
@@ -48,7 +49,10 @@ class OSS_Participant:
         return None
 
     def fields(self):
-        return list(set(self.metadata()))
+        metadata = self.metadata()
+        if metadata:
+            return list(set(self.metadata()))
+        return []
 
     def load(self,reload=False):
         if self.data is None or reload:

@@ -4,7 +4,6 @@ type            : participant
 job_title       : CISO
 company         : Harrods
 travel_from     :
-slack_id        : UJ3837X3M
 image           : https://media.licdn.com/dms/image/C5603AQE6Kj1dRhL1pA/profile-displayphoto-shrink_800_800/0?e=1564012800&v=beta&t=mZ_Rcx2mQAAh8DqGKmbQr_BhMluN23Nq3GECpNx_rPQ
 linkedin        : paul-davies-3a12871
 twitter         :
