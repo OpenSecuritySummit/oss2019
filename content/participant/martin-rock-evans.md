@@ -22,7 +22,7 @@ sessions:
  #Thursday
  - Scaling API Security
  - Securing the CI Pipeline
- - Azure Serverless for Security
+ - Azure Serverless for security
  #Friday
  - Customising the Chaos Engineering Toolkit 
  - Real world Chaos Engineering
