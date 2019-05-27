@@ -12,7 +12,10 @@ room_layout  :
 room_id      : room-5
 session_slack: 
 status       : review-content              # draft, review-content, done
-organizers   : Claudio Camerino, Francisco Novo, Rafael Jimenez
+organizers   : 
+ - Claudio Camerino
+ - Francisco Novo
+ - Rafael Jimenez
 participants : 
 description  : How to deal with the security findings in an appsec pipeline and drive continuous improvement of the testing policies
 

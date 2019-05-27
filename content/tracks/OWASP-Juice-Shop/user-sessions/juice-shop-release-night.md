@@ -9,7 +9,7 @@ when_day     : Thu
 when_time    : Eve-2
 room_layout  :
 room_id      :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CJZJ618LQ
 status       : review-content
 description  : Go-live of new OWASP Juice Shop release
 organizers   : Bjoern Kimminich

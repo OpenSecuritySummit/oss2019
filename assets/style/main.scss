@@ -1342,6 +1342,72 @@ hr.container.no-margin {
     background: #98c1df;
   }
 
+/** OSS container for participant cards */
+  .list-attendees-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+
+/** OSS participant card */
+  .list-attendees-card {
+    background: #fff;
+    border: #eceff1 1px solid;
+    border-radius: 8px;
+    text-align: center;
+    padding: 30px 10px;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    min-width: 100%;
+
+    h4 {
+      font-size: 18px;
+      text-transform: uppercase;
+      font-family: 'Oswald', sans-serif;
+      font-weight: 500;
+      margin: 30px 0px 0px;
+      color: #78909c;
+      text-decoration: none;
+    }
+    
+  }
+
+.list-attendees-card:focus a {
+    text-decoration: none;
+  }
+
+.list-attendees-card:hover {
+    background: #eceff1;
+    border: #eceff1 1px solid;
+    text-decoration: none;
+    a {
+      text-decoration: none;
+    }
+  }
+
+.list-attendees-card:active {
+    background: #00549e;
+    border: #00549e 1px solid;
+
+    h4 {
+      color: #fff;
+    }
+    a {
+      text-decoration: none;
+    }
+  }
+
+.list-attendees-image {
+  border-radius: 100%;
+  object-fit: cover;
+  width: 135px;
+  height: 135px;
+}
+
   ul {
     margin: 0;
     padding: 0;
