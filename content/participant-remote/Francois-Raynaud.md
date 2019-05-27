@@ -1,6 +1,6 @@
 ---
 title           : Francois Raynaud
-type            : participant
+type            : participant-remote
 job_title       : DevSecOps leader
 company         : DevSecCon
 villa           : DevSecCon

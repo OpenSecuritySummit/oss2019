@@ -1,6 +1,6 @@
 ---
 title           : Fernanda Almeida
-type            : participant
+type            : participant-remote
 sponsored_by    : PhotoBox
 job_title       : Project Manager
 company         : Photobox GS

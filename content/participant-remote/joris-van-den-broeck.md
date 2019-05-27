@@ -1,6 +1,6 @@
 ---
 title           : Joris Van den Broeck
-type            : participant
+type            : participant-remote
 job_title       : Security Consultant at Toreon
 company         : Toreon
 travel_from     : Belgium

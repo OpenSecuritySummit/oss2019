@@ -1,6 +1,6 @@
 ---
 title           : Stu Hirst
-type            : participant
+type            : participant-remote
 job_title       : Head of Cloud Security
 sponsored_by    : PhotoBox
 company         : PhotoBox Group

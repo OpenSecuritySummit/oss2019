@@ -1,6 +1,6 @@
 ---
 title           : Thomas Heyman
-type            : participant
+type            : participant-remote
 company         : Toreon
 travel_from     :
 job_title       : 

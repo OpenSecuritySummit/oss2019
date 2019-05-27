@@ -1,6 +1,6 @@
 ---
 title           : Vasil Buraliev
-type            : participant
+type            : participant-remote
 sponsored_by    : CertDev
 job_title       : IT Project Management and SW Development Consultant
 company         :
