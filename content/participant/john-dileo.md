@@ -1,35 +1,30 @@
 ---
-title           : John Dileo
-type            : participant
-sponsored_by    : 
-job_title       : Application Security Architect
-company         : Orion Health
-travel-from     : Auckland, New Zealand
-image           : /participant/images/john-dileo.jpg
-linkedin        : john-dileo
-twitter         : gr4ybeard
-facebook        :
-website         :
-project_leader  : yes
-chapter_leader  : yes
-venue           : 
-eventbrite_id   :
-status          : 
-sessions        : 
-    - SAMM Introduction
-    - SAMM - Best Practices
-    - SAMM Round Table
-    - SAMM DevOps Guidance
-    - SAMMv2 working session - Governance
-    - SAMMv2 working session - Design
-    - SAMMv2 working session - Implementation
-    - SAMMv2 working session - Verification
-    - SAMMv2 working session - Operations
-    - SAMMv2 Measurement Model
-    - SAMMv2 Establish the Document Model
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
+chapter_leader: true
+company: Orion Health
+facebook: ''
+image: /participant/images/john-dileo.jpg
+job_title: Application Security Architect
+linkedin: john-dileo
+notes: ''
+project_leader: true
+sessions:
+- SAMM Introduction
+- SAMM - Best Practices
+- SAMM Round Table
+- SAMM DevOps Guidance
+- SAMMv2 working session - Governance
+- SAMMv2 working session - Design
+- SAMMv2 working session - Implementation
+- SAMMv2 working session - Verification
+- SAMMv2 working session - Operations
+- SAMMv2 Measurement Model
+- SAMMv2 Establish the Document Model
+status: ''
+title: John Dileo
+travel-from: Auckland, New Zealand
+twitter: gr4ybeard
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->
@@ -39,4 +34,3 @@ John DiLeo has worked and taught in computing and information technology for 30 
 * OWASP New Zealand Chapter Co-Leader
 * OWASP Application Security Curriculum Project Co-Leader
 * OWASP SAMM Project Core Team
-

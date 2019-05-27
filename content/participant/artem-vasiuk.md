@@ -1,23 +1,20 @@
 ---
-title           : Artem Vasiuk
-type            : participant
-job_title       : Test Manager
-company         : Scalepoint
-travel-from     : Denmark
-image           : 
-linkedin        : artemvasiuk
-twitter         : artyvasiuk
-facebook        :
-website         :
-email           :
-project_leader  :
-chapter_leader  :
-regonline       :
-pre-summit      :
-status          : add details
-sessions:
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+chapter_leader: ''
+company: Scalepoint
+email: ''
+facebook: ''
+image: ''
+job_title: Test Manager
+linkedin: artemvasiuk
+notes: ''
+project_leader: ''
+sessions: []
+status: add details
+title: Artem Vasiuk
+travel-from: Denmark
+twitter: artyvasiuk
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->

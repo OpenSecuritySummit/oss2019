@@ -2,7 +2,6 @@
 chapter_leader: ''
 company: ''
 email: ''
-eventbrite_id: ''
 facebook: ''
 image: ''
 job_title: ''
