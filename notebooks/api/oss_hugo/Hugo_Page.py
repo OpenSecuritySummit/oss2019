@@ -9,6 +9,7 @@ class Hugo_Page():
 
 
     def create(self, name):
+        name = name.replace('.md','')
         template = self.load(self.file_template)
         template['metadata']['title'] = name
         template['path']  = template['path'].replace('_template', self.fix_name(name))
@@ -18,8 +19,11 @@ class Hugo_Page():
         return self.save(template)
 
     def delete(self, name):
-        virtual_path = "{0}/{1}".format(self.base_folder, self.fix_name(name) + '.md')
-        full_path = self.md_file_path(virtual_path)
+        if Files.exists(name):
+            full_path = name
+        else:
+            virtual_path = "{0}/{1}".format(self.base_folder, self.fix_name(name) + '.md')
+            full_path = self.md_file_path(virtual_path)
         if Files.exists(full_path) is False:
             return False
         Files.delete(full_path)

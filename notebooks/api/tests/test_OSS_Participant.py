@@ -8,15 +8,55 @@ from oss_hugo.OSS_Participant import OSS_Participant
 class test_OSS_Participant(TestCase):
 
     def setUp(self):
-        self.oss_participant = OSS_Participant()
-        self.result          = None
-        self.test_name       = 'an test user'
-        self.participant     =
+        self.test_name    = 'Test User'
+        self.participant  = OSS_Participant(self.test_name)
+        self.result       = None
+        self.participant.create()
 
     def tearDown(self):
         if self.result is not None:
             Dev.pprint(self.result)
+        assert self.participant.delete() is True
 
     def test__init__(self):
-        assert self.oss_participant.base_folder == 'content/participant'
+        assert self.participant.base_folder == 'content/participant/'
+
+    def test_load(self):
+        assert OSS_Participant('test-user.md'                    ).load().exists()
+        assert OSS_Participant('Test User'                       ).load().exists()
+        assert OSS_Participant('aaaa/../test-user.md'            ).load().exists()
+        assert OSS_Participant('content/participant/Test User'   ).load().exists()
+        assert OSS_Participant('content/participant/test-user.md').load().exists()
+
+    def test_save(self):
+        new_field = 'abc'
+        new_value = '123'
+        metadata  = self.participant.metadata()
+        assert new_field not in set(metadata)
+
+        metadata[new_field] = new_value             # assign value
+
+        self.participant.data = None                # force reload
+        self.participant.load()
+
+        metadata = self.participant.metadata()
+        assert new_field not in set(metadata)       # confirm still not there
+
+        metadata[new_field] = new_value             # assign again
+        self.participant.save()
+
+        self.participant.data = None  # force reload
+        self.participant.load()
+
+        assert new_field in set(metadata)           # confirm that now it is in there
+
+        self.result = self.participant.metadata()
+
+
+
+
+
+
+
+
 
