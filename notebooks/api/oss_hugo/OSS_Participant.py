@@ -26,7 +26,7 @@ class OSS_Participant:
         self.hugo_page.delete(self.path_md_file)
         return self.exists() is False
 
-    def delete_field(self,field, auto_save=True):
+    def delete_field(self,field, auto_save=False):
         if field in self.fields():
             del self.metadata()[field]
             if auto_save:
