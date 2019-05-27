@@ -9,7 +9,7 @@ when_day     : Mon
 when_time    : Eve-1
 room_layout  :
 room_id      :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CJN571RB5
 status       : review-content
 description  : Coding for and hacking of the OWASP Juice Shop
 organizers   : Bjoern Kimminich
