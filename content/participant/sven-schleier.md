@@ -6,7 +6,8 @@ image: https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib_400x400.
 job_title: Principal Security Consultant
 linkedin: https://www.linkedin.com/in/sven-schleier-98259194/
 notes: ''
-project_leader: OWASP MSTG
+project_leader:
+- OWASP Mobile Security Testing Guide
 sessions: []
 status: add-details
 title: Sven Schleier

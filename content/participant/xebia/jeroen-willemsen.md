@@ -4,6 +4,8 @@ facebook: ''
 image: https://pages.xebia.com/hs-fs/hubfs/Unknown.jpeg?width=522&name=Unknown.jpeg
 job_title: PSA / OWASP MSTG project lead
 linkedin: https://www.linkedin.com/in/jeroen-willemsen/
+project_leader:
+- OWASP Mobile Security Testing Guide
 sessions:
 - Creating content session
 - Restructure session

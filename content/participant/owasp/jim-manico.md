@@ -6,7 +6,12 @@ image: https://media.licdn.com/dms/image/C5603AQFILbiA3bW9YQ/profile-displayphot
 job_title: ''
 linkedin: jmanico
 notes: ''
-project_leader: ''
+project_leader:
+- OWASP Proactive Controls
+- OWASP Cheatsheet Series
+- OWASP Java Encoder Project
+- OWASP HTML Sanitizer Project
+- OWASP Application Security Verification Standard
 sessions: []
 status: add-details
 title: Jim Manico

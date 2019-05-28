@@ -1,10 +1,11 @@
 ---
-chapter_leader: ''
+chapter_leader: Belgium
 facebook: ''
 image: ''
 job_title: ''
 linkedin: ''
-project_leader: ''
+project_leader:
+- OWASP SAMM
 status: empty
 title: Bart De Win
 travel-from: Belgium

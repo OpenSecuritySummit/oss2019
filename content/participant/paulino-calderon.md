@@ -6,7 +6,8 @@ image: https://www.blackhat.com/us-16/presenters/headshots/Paulino-Calderon.jpg
 job_title: ''
 linkedin: ''
 notes: Looking for additional activities related to IoT/mIoT security!
-project_leader: IoT Goat
+project_leader:
+- OWASP IoT Goat
 sessions:
 - OWASP Mobile Security Testing Guide 101
 - Mobile Basic Security Testing and Reverse Engineering

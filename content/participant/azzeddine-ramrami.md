@@ -1,12 +1,13 @@
 ---
-chapter_leader: ''
+chapter_leader: Morocco
 company: ''
 facebook: ''
 image: ''
 job_title: ''
 linkedin: ''
 notes: ''
-project_leader: ''
+project_leader:
+- CSRFGuard
 sessions: []
 status: add-details
 title: Azzeddine Ramrami

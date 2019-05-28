@@ -3,6 +3,8 @@ company: KUEHNE + NAGEL (AG & Co.) KG
 image: https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/introduction/img/avatar.png
 job_title: Senior Manager IT Architecture + Application Security
 linkedin: bkimminich
+project_leader:
+- OWASP Juiceshop
 sessions: []
 status: add details
 title: Bjoern Kimminich

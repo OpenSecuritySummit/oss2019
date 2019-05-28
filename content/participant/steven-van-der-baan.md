@@ -6,7 +6,8 @@ image: ''
 job_title: ''
 linkedin: ''
 notes: ''
-project_leader: ''
+project_leader:
+- OWASP Capture The Flag
 sessions: []
 status: add-details
 title: Steven van der Baan
