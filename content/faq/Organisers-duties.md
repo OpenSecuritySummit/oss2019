@@ -15,7 +15,7 @@ Working session organisers should create detailed action plans and to-dos lists 
 
 Each organiser should collaborate with the registered participants of their working session to identify and define what the ‘Outcomes’ of their working session(s) will be, these will affect the location and duration of that working session in the main Summit schedule.
 
-Please add the outcomes to the appropriate working session in https://github.com/OpenSecuritySummit/oss2019/tree/master/content/outcomes
+Please add the outcomes to the appropriate working session in https://github.com/OpenSecuritySummit/oss2019/tree/master/content/outcomes or email the outcomes@opensecsummit.org for support.
 
 Don’t wait for the Summit to start thinking/sharing/working on either your working session or its outcomes.
 
