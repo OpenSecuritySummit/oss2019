@@ -2,18 +2,18 @@
 chapter_leader: ''
 company: ''
 facebook: ''
-image: ''
-job_title: ''
+image: 'https://avatars1.githubusercontent.com/u/4731674?s=350&v=4'
+job_title: 'Security Principal'
 linkedin: ''
 notes: ''
 project_leader: ''
 sessions: []
 status: add-details
 title: John Ellingsworth
-travel_from: ''
+travel_from: 'Maine'
 twitter: ''
 type: participant
-website: ''
+website: 'https://johnellingsworth.com'
 ---
 
 <!-- put more details about participant here -->
