@@ -5,7 +5,7 @@ image: ''
 job_title: ''
 linkedin: ''
 project_leader:
-- OWASP SAMM
+- SAMM
 status: empty
 title: Bart De Win
 travel-from: Belgium

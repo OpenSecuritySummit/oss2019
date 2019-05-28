@@ -4,11 +4,12 @@ company: ''
 facebook: ''
 image: ''
 interested_in:
-- OWASP SAMM
 job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
+project_contributor:
+- SAMM
 sessions: []
 status: add-details
 title: Yan Kravchenko

@@ -3,8 +3,8 @@ chapter_leader: ''
 company: ''
 facebook: ''
 image: ''
-interested_in:
-- OWASP SAMM
+project_contributor:
+- SAMM
 job_title: ''
 linkedin: ''
 notes: ''

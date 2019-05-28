@@ -13,6 +13,8 @@ sessions:
 - Juice Shop Challenge Refactoring
 - Juice Shop Round Table
 - Juice Shop Release Night
+project_contributor:
+- Juice Shop
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
