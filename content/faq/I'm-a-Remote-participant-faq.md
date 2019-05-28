@@ -5,11 +5,11 @@ layout      : FAQ
 
 <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
    
-##### How do I find the daily schedule for remote participants?
+### How do I find the daily schedule for remote participants?
 
 The latest version of the schedule is online at https://open-security-summit.org/schedule/all/
 
-#### Daily schedule 
+### Daily schedule 
 
 {{< table "table" >}}
 |Time             | Event
@@ -29,24 +29,24 @@ The latest version of the schedule is online at https://open-security-summit.org
 	
 On Monday we start with light/planning Working Sessions in the morning and do the Briefing over lunch
 
-##### How can I join the sessions I've registered for?
+### How can I join the sessions I've registered for?
 Open the Google Meet URL and join the session.
 Meet URLS will be available from 10:00 p.m., Sunday, 3 June 2018.
 
-##### How do the sessions work for remote participants?
+### How do the sessions work for remote participants?
 Join the Google Meet and follow and participate in the session using Chat to ask questions or to indicate that you wish to address the session. You can request copies of slides etc., and contribute to the outcomes.
 
-##### What is expected of me as a remote participant?
+### What is expected of me as a remote participant?
 The expectations of remotte participants are the same as for on-site participants. Each of the Summit's 140+ working sessions will create a published deliverable for the wider InfoSec Community to engage with. This high level of productivity does require some essential commitments from the attendees, including participation, mutual respect, and [radical candour](https://www.radicalcandor.com/). For more information, see [here](https://open-security-summit.org/faq/attendee-information/). 
 
-##### How can I get involved?
+### How can I get involved?
 The OSS Summit is a participant-driven event, dedicated to the collaboration of Development and Security professionals, with a strong focus on DevSecOps. 
 
-##### Can I invite others to join?
+### Can I invite others to join?
 You can share the Google Meet URL with people who are interested in joining remotely.
 Meet URLS will be available from 10:00 p.m., Sunday, 3 June 2018.
 
-##### If I need help who should I contact?
+### If I need help who should I contact?
 The team is waiting to help you! Get in touch via Slack on os-summit.slack.com workspace.
 We have various channels to support the topics that interest you.
 #oss-general
@@ -65,7 +65,7 @@ We have channels for every track and session. The following legend describes the
 
 Example: the channel name for the working session “Agile Practices for Security Teams” is: `#w-agile-prac-sec-team`
 
-#### Send an email message
+### Send an email message
 
 If you would like to email before or during the event please contact info@opensecsummit.org.
 
