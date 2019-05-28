@@ -9,6 +9,8 @@ linkedin: hkparekh
 sessions:
 - OWASP SAMM
 - Serverless
+project_user:
+- OWASP SAMM
 status: add details
 title: Hardik Parekh
 travel_from: San Francisco, CA, USA

@@ -7,7 +7,7 @@ job_title: ''
 linkedin: ''
 notes: Looking for additional activities related to IoT/mIoT security!
 project_leader:
-- OWASP IoT Goat
+- IoT Goat
 sessions:
 - OWASP Mobile Security Testing Guide 101
 - Mobile Basic Security Testing and Reverse Engineering

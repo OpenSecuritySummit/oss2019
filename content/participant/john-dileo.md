@@ -1,5 +1,4 @@
 ---
-chapter_leader: true
 company: Orion Health
 facebook: ''
 image: /participant/images/john-dileo.jpg
@@ -8,7 +7,6 @@ interested_in:
 job_title: Application Security Architect
 linkedin: john-dileo
 notes: ''
-project_leader: true
 sessions:
 - SAMM Introduction
 - SAMM - Best Practices
@@ -21,6 +19,12 @@ sessions:
 - SAMMv2 working session - Operations
 - SAMMv2 Measurement Model
 - SAMMv2 Establish the Document Model
+chapter_leader:
+- New Zealand
+project_contributor:
+- OWASP SAMM
+project_leader:
+- Application Security Curriculum
 status: ''
 title: John Dileo
 travel-from: Auckland, New Zealand

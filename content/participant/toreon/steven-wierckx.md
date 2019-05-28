@@ -6,7 +6,7 @@ interested_in:
 job_title: Consultant at Toreon
 linkedin: steven-wierckx
 project_leader:
-- OWASP Threat Modeling
+- Threat Modeling
 sessions: []
 status: done
 title: Steven Wierckx

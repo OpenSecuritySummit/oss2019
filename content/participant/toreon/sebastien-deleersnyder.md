@@ -3,7 +3,7 @@ chapter_leader: Belgium
 company: Toreon
 image: https://pbs.twimg.com/profile_images/425208323093176320/AQr7Ot7l_400x400.png
 interested_in:
-- OWASP SAMM
+- SAMM
 - Threat Modeling
 job_title: CEO at Toreon
 linkedin: sebadele

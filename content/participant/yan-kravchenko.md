@@ -9,6 +9,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
+project_user:
+- OWASP SAMM
 sessions: []
 status: add-details
 title: Yan Kravchenko

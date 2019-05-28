@@ -7,7 +7,7 @@ job_title: Principal Security Consultant
 linkedin: https://www.linkedin.com/in/sven-schleier-98259194/
 notes: ''
 project_leader:
-- OWASP Mobile Security Testing Guide
+- Mobile Security Testing Guide
 sessions: []
 status: add-details
 title: Sven Schleier
