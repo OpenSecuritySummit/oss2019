@@ -3,6 +3,9 @@ chapter_leader: ''
 company: ''
 facebook: ''
 image: ''
+interested_in:
+- Threat Modeling
+- LINDDUN
 job_title: ''
 linkedin: ''
 notes: ''

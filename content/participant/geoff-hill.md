@@ -2,6 +2,8 @@
 company: Tutamantic Ltd.
 facebook: TutamanticSec
 image: https://media.licdn.com/dms/image/C4D03AQHP3jyOu8S9Bg/profile-displayphoto-shrink_800_800/0?e=1562803200&v=beta&t=FuHszpfNZKVEQ61ybUcg3o_3CX_n4riUaGofEGI34LI
+interested_in:
+- Threat Modeling
 job_title: Threat Modeler
 linkedin: geoffrey-hill-61b7bb
 status: done

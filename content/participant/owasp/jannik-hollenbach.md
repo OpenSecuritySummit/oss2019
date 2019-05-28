@@ -1,6 +1,8 @@
 ---
 company: iteratec GmbH
 image: https://pbs.twimg.com/profile_images/1116399538573598721/ZoZjMijm_400x400.jpg
+interested_in:
+- OWASP Juice Shop
 job_title: Software Security Engineer
 notes: ''
 sessions:

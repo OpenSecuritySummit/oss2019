@@ -2,6 +2,8 @@
 company: Splunk
 facebook: ''
 image: ''
+interested_in:
+- OWASP SAMM
 job_title: Sr Director, Product Security
 linkedin: hkparekh
 sessions:

@@ -3,6 +3,8 @@ chapter_leader: true
 company: Orion Health
 facebook: ''
 image: /participant/images/john-dileo.jpg
+interested_in:
+- OWASP SAMM
 job_title: Application Security Architect
 linkedin: john-dileo
 notes: ''

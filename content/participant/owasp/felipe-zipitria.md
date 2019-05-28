@@ -2,6 +2,8 @@
 chapter_leader: Uruguay
 facebook: ''
 image: https://avatars1.githubusercontent.com/u/3012076?s=460&v=4
+interested_in:
+- Hugo
 job_title: DevOps/AppSec
 linkedin: felipezipitria
 notes: ''

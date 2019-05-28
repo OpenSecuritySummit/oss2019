@@ -3,6 +3,8 @@ chapter_leader: ''
 company: ''
 facebook: ''
 image: ''
+interested_in:
+- Threat modeling
 job_title: ''
 linkedin: ''
 notes: ''
