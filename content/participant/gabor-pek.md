@@ -1,19 +1,19 @@
 ---
 chapter_leader: ''
-company: ''
+company: 'Avatao'
 facebook: ''
 image: ''
-job_title: ''
-linkedin: ''
+job_title: 'CTO'
+linkedin: 'https://www.linkedin.com/in/gaborpek/'
 notes: ''
 project_leader: ''
 sessions: []
 status: add-details
 title: Gabor Pek
-travel_from: ''
-twitter: ''
+travel_from: 'Hungary'
+twitter: 'https://twitter.com/gaborpek'
 type: participant
-website: ''
+website: 'https://avatao.com'
 ---
 
 <!-- put more details about participant here -->
