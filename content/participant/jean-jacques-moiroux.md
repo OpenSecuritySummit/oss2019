@@ -2,9 +2,9 @@
 company: Mimecast
 eventbrite_id: ''
 facebook: ''
-image: https://media.licdn.com/dms/image/C4D03AQE3kgXt-24Mgg/profile-displayphoto-shrink_200_200/0?e=1564012800&v=beta&t=aJRjIBvtv2i5T5d_FpK9e_EfQdWNCP3T5NYR8CLtm4Y
+image: /participant/images/jean-jacques-moiroux.jpg
 job_title: Software Engineer
-linkedin: https://uk.linkedin.com/in/jeanjacquesmoiroux
+linkedin: jeanjacquesmoiroux
 pre-summit: ''
 sessions:
 - Securing Kubernete's hosted APIs
@@ -23,10 +23,10 @@ sessions:
 status: ''
 title: Jean-Jacques MOIROUX
 travel_from: London
-twitter: https://twitter.com/jjmoiroux
+twitter: jjmoiroux
 type: participant
 venue: Mon, Tue, Wed, Thu, Fri
-website: ''
+website: https://www.mimecast.com
 ---
 
 <!-- put more details about participant here -->
