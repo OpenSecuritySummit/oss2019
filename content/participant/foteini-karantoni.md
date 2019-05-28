@@ -15,7 +15,7 @@ sessions:
     # Wednesday
     - Creating Appsec metrics and visualisation
     - SOC Monitoring Visualisation
-    # Thuesday
+    # Thursday
     - State and future of threat modeling
     - Integrating Security Tools in the SDL
     - Customising the Chaos Engineering Toolkit
