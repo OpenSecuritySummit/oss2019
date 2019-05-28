@@ -10,6 +10,8 @@ linkedin: https://www.linkedin.com/in/foteiniathina/
 notes: ''
 project_leader: ''
 sessions: 
+    #Monday
+    -Towards a unified way of describing threat models
     # Tuesday
     - Dealing with DevSecOps Findings
     # Wednesday
@@ -18,8 +20,9 @@ sessions:
     # Thursday
     - State and future of threat modeling
     - Integrating Security Tools in the SDL
-    - Customising the Chaos Engineering Toolkit
     - Securing the CI Pipeline
+    #Friday
+    - Customising the Chaos Engineering Toolkit
     - Real world Chaos Engineering
 status: add-details
 twitter: ''
