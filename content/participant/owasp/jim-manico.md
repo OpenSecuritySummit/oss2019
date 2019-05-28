@@ -7,11 +7,11 @@ job_title: ''
 linkedin: jmanico
 notes: ''
 project_leader:
-- OWASP Proactive Controls
-- OWASP Cheatsheet Series
-- OWASP Java Encoder Project
-- OWASP HTML Sanitizer Project
-- OWASP Application Security Verification Standard
+- Proactive Controls
+- Cheatsheet Series
+- Java Encoder Project
+- HTML Sanitizer Project
+- Application Security Verification Standard
 sessions: []
 status: add-details
 title: Jim Manico

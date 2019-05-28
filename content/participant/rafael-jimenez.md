@@ -1,19 +1,22 @@
 ---
-chapter_leader: ''
-company: ''
-facebook: ''
-image: ''
-job_title: ''
-linkedin: ''
-notes: ''
-project_leader: ''
-sessions: []
-status: add details
-title: Rafael Jimenez
-travel-from: ''
-twitter: ''
-type: participant
-website: ''
+title           : Rafael Jimenez
+type            : participant
+job_title       : Delivery Services Manager
+company         : The Workshop
+travel-from     : Malaga, ES
+image           : https://avatars3.githubusercontent.com/u/6002347?s=460&v=4
+linkedin        : rafael-jimenez-galan-95329450
+email           : rafaeljimenezgalan@gmail.com
+status          : done
+sessions:
+    - Dealing with Security Findings in the Enterprise
+    - Securing Kubernete's hosted APIs
+    - Agile Practices for Security Teams
+    - Creating Appsec metrics and visualisation
+    - Integrating Security Tools in the SDL
+    - DevSecOps
+    - DevSecOps Maturity Model (DSOMM)
+    - Securing the CI Pipeline
+    - Zap - How to use it
+    - How to scale Threat Modeling.
 ---
-
-<!-- put more details about participant here -->

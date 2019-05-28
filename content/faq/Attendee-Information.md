@@ -99,7 +99,7 @@ Sessions are 60 minutes long. So that we can achieve our goals, please follow th
 
 If you are the organiser, please have a draft agenda ready for your sessions, so attendees know what to expect. Here is the typical breakdown for a session:
 
-{{% table class="table table-condensed table-bordered table-stripped" %}}
+{{< table "table" >}}
 |Session length    | 60 minutes|
 |------------------|-----------|
 |Introductions     |      2    |   

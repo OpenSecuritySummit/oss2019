@@ -5,6 +5,21 @@ job_title: CISO
 linkedin: diniscruz
 sessions:
 - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
+project_user:
+- ASVS
+project_contributor:
+- SAMM
+- Top 10
+project_leader:
+- O2 Plattform
+- Maturity Models Tool
+- Summits
+owasp_leadership:
+- Board Member (20??-2011)
+- London Chapter
+- Portugal AppSec 20??
+- OWASP Seasons of Code
+- OWASP Books
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
