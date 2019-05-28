@@ -6,10 +6,10 @@ layout      : FAQ
    
 The Summit team is here to help you both before and during the Summit.
 
-### How do I get to the venue?
+### How do I get to the Venue?
 
 You can travel to the Summit by rail or by car.
-Thameslink offers a service from London St Pancras International to Flitwick Train Station, which takes approximately 50 minutes. Flitwick station is approximately 3 miles, or a 10-minute transfer away; taxis are available at the station. For further rail information and to book your tickets, visit National Rail.
+Thameslink offers a service from London St Pancras International to Flitwick Train Station, which takes approximately 50 minutes. Flitwick station is about 3 miles, or a 10-minute transfer away; taxis are available at the station. For further rail information and to book your tickets, visit National Rail.
 
 For directions by car, please refer to the Venue page.
 If you're following a SatNav, please use postcode MK45 2HZ.
@@ -21,7 +21,7 @@ Participate in as many sessions as your schedule allows, collaborate with your s
 The full schedule is available [here](https://open-security-summit.org/schedule/).
 
 ### Where do I go (accommodation, sessions, food)?
-When you arrive at Center Parcs, follow the ‘all traffic’ signs. At the arrivals lodge you will be met by security. Let them know that you are attending the Open Security Summit in ‘The Venue’. They will direct you either to parking if you have driven, or to the ‘The Venue’. Attendees arriving on Monday will be able to check into their accommodation from 4.30pm, you will be able to store your luggage at ‘The Venue’.
+When you arrive at Center Parcs, follow the ''all 'traffic' signs. At the arrivals lodge, you will be met by security. Let them know that you are attending the Open Security Summit in ''The Venue''. They will direct you either to parking if you have driven, or to the ''The Venue''. Attendees arriving on Monday will be able to check into their accommodation from 4.30pm, you will be able to store your luggage at ''The Venue''.
 Go directly to the Registration Desk in the lobby of the Venue (conference centre) where the Registration Team will help you with accommodation and session queries. 
 The full schedule, room, and villa locations of all the sessions are available [here](https://open-security-summit.org/schedule/).
 
@@ -37,43 +37,41 @@ This channel is for workspace-wide communication and announcements. All members 
 #oss-helpdesk
 This helpdesk is for participants with general issues regarding the Summit.
 Tracks and sessions related channels
-We have channels for every track and session. The following legend describes the prefixes of the channels’ names for the tracks and sessions.
+We have channels for every track and session. The following legend describes the prefixes of the 'channels' names for the tracks and sessions.
 w = working sessions
 u = user session
 p = product session
 t = track
-Example: the channel name for the working session “Agile Practices for Security Teams” is: #w-agile-prac-sec-team
+Example: the channel name for the working session ""Agile Practices for Security Teams"" is: #w-agile-prac-sec-team
 Go to the venue reception desk
-Please go to the venue reception desk, if they can’t help you, they will direct you to a member of the summit team.
+Please go to the venue reception desk, if they 'can't help you, they will direct you to a member of the summit team.
 Send an email message
-If you would like to email before or during the event please contact info@opensecsummit.org.
+If you would like to email before or during the event, please contact info@opensecsummit.org.
 
 ### Who is attending?
-Visit the participants’ page - https://open-security-summit.org/participant/
+Visit the 'participants' page - https://open-security-summit.org/participant/.
 
 ### How do I get home?
-The local taxi company is A1 taxis, they can be reached on (00 44)1525 757575. You will be unable to order an Uber from Center Parcs; however, Uber will bring you to the venue.
+The local taxi company is A1 taxis, they can be reached on (00 44)1525 757575. You will be unable to order an Uber from Center Parcs; however, Uber will bring you to the Venue.
 Thameslink runs frequent services to London Paddington (via Luton Airport Parkway)
 
 ### How do the sessions work?
-This summit thrives on participation, collaboration, and sharing.
-For an overview, please see this page:  https://open-security-summit.org/faq/session-types/
+This Summit thrives on participation, collaboration, and sharing.
+For an overview, please see this page:  https://open-security-summit.org/faq/session-types/.
 
 ### What's expected of me in the sessions?
 The Open Security Summit is the most energising InfoSec event in the world. Each of the 140+ working sessions will create a published deliverable for the wider InfoSec Community to engage with. This high level of productivity does require some essential commitments from the attendees, including participation, mutual respect, and [radical candour](https://www.radicalcandor.com/). For more information, see [here](https://open-security-summit.org/faq/attendee-information/) 
 
 ### How can I invite people to join remotely?
 You can share the Google Meet URL with people who are interested in joining remotely.
-Meet URLS will be available from 10:00 p.m., Sunday, 2 June 2019.
+Meet URLs will be available from 10:00 p.m., Sunday, 2 June 2019.
 
 ### How can I create a session?
 You can create and define a session that covers the topics and subjects that you are interested in.
 
-Choose the appropriate session type (`working` or `user`), describe the session (write content), define expected outcomes and be an evangelist of the session you created to attract other people interested in the same subject. For more information about different types of sessions, and what you can do as an Organiser, see this page: https://open-security-summit.org/faq/session-types/
+Choose the appropriate session type (`working` or `user`), describe the session (write content), define expected outcomes and be an evangelist of the session you created to attract other people interested in the same subject. For more information about different types of sessions, and what you can do as an Organiser, see this page: https://open-security-summit.org/faq/session-types/.
 
 ### How do I create/update my schedule?
 Visit https://open-security-summit.org/faq/registration-info/
-To  fix or update a schedule, click the 'edit this page' button at the bottom left of each schedule, add your changes, and create a Pull Request when you're finished. 
+To fix or update a schedule, click the 'edit this page' button at the bottom left of each schedule, add your changes, and create a Pull Request when you're finished. 
 If you need help, create an issue in Git or email info@opensecsummit.org with the details.
-
-
