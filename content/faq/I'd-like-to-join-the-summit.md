@@ -6,11 +6,11 @@ layout      : FAQ
 <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
 
    
-##### How do I buy a ticket?
+### How do I buy a ticket?
 
 You will find information on buying tickets [here](https://open-security-summit.org/tickets/)
 
-##### Where can I stay?
+### Where can I stay?
 
 All on-site guests will be allocated accommodation. Unforunately, we are unable to accept ticket orders with accommodation after 26 May 2019.
 
@@ -18,7 +18,7 @@ If you need to secure your own accomodation please follow this [link](https://ww
 
 The Summit team cannot help you find off-site accomodation.
 
-##### How can I register as a participant?
+### How can I register as a participant?
 
   - [Order your ticket]({{< ref "/tickets.md" >}}) (note: remote participants MUST register on Eventbrite)
   - Create your [participant page]({{< ref "/faq/registration-info.md" >}})
@@ -26,27 +26,27 @@ The Summit team cannot help you find off-site accomodation.
   - [Register]({{< ref "/faq/registration-info.md" >}}) yourself to to attend your chosen sessions
 If you need any assistance you can reach us in Slack or find more details about how you can get help [here]({{< ref "/faq/I-need-help.md" >}}).
 
-##### How do I join a team?
+### How do I join a team?
 
 There are the multiple teams that are represented at the Summit
 
 Please feel free to join any team marked as `community team`. See the [Teams page](https://open-security-summit.org/teams/) for details.
 
-##### How do I sign up for the OSS newsletter?
+### How do I sign up for the OSS newsletter?
 
 To subscribe to the OSS Newsletter, click [here](https://opensecsummit.us18.list-manage.com/subscribe?u=b36737d10afec8efd80e5e21d&id=2c3ad4cbec)
 
-##### Where can I view schedule?
+### Where can I view schedule?
 The full schedule is available [here](https://open-security-summit.org/schedule/)
 
-##### Why should I join?
+### Why should I join?
 Here are four excellent reasons for you to join the Summit:
 1. The summit will bring together leading figures from OWASP, security, development, government agencies and vendor companies
 2. In the working sessions you will get to tackle some of the hardest security problems we face in 2019 and create actionable solutions
 3. Connect with like-minded individuals who are passionate about AppSec, get chatting over breakfast, lunch or dinner, during summit activities, or at the end of summit party
 4. Take advantage of the unique summit venue at Woburn Forest Center Parcs, an environment designed for maximum geek-time, synergies and collaboration
 
-##### Who can help me?
+### Who can help me?
 
 The team is waiting to help you! Get in touch via Slack on os-summit.slack.com workspace.
 We have various channels to support the topics that interest you.
