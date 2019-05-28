@@ -4,7 +4,7 @@ travel_from: London
 chapter_leader: ''
 company: Mimecast
 facebook: ''
-image: ''
+image: https://media.licdn.com/dms/image/C5603AQGWlnGDxWvd7A/profile-displayphoto-shrink_200_200/0?e=1564617600&v=beta&t=B8QT7fFyq6viTIvLR-annQEI8nAKYP6-e_AbT74FUng
 job_title: Performance Engineer
 linkedin: https://www.linkedin.com/in/foteiniathina/
 notes: ''
