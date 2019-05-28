@@ -3,6 +3,10 @@ chapter_leader: ''
 company: Path Dependence Limited
 facebook: ''
 image: https://media.licdn.com/dms/image/C4E03AQFd-xWgcy8aIQ/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=wms-CzSrio35r-4XUmgJ4WAyjoIZbxyt21Z-D_iMogQ
+interested in:
+- AppSensor
+- Cyber Defence Matrix
+- ZAP
 job_title: Director
 linkedin: nickdrage
 notes: ''
