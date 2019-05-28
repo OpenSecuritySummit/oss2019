@@ -3,7 +3,6 @@ company: Orion Health
 facebook: ''
 image: /participant/images/john-dileo.jpg
 interested_in:
-- OWASP SAMM
 job_title: Application Security Architect
 linkedin: john-dileo
 notes: ''
@@ -22,7 +21,7 @@ sessions:
 chapter_leader:
 - New Zealand
 project_contributor:
-- OWASP SAMM
+- SAMM
 project_leader:
 - Application Security Curriculum
 status: ''

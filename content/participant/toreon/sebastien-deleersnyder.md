@@ -8,7 +8,7 @@ interested_in:
 job_title: CEO at Toreon
 linkedin: sebadele
 project_leader:
-- OWASP SAMM
+- SAMM
 sessions: []
 status: done
 title: Sebastien Deleersnyder
