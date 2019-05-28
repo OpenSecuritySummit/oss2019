@@ -8,7 +8,13 @@ linkedin: https://www.linkedin.com/in/sven-schleier-98259194/
 notes: ''
 project_leader:
 - OWASP Mobile Security Testing Guide
-sessions: []
+sessions:
+- Agile Practices for Security Teams
+- Secrets Management
+- Securing the CI Pipeline
+- ZAP working session - automation
+- Describe different ways of implementing TM in agile organisations
+- How to scale Threat Modeling.
 status: add-details
 title: Sven Schleier
 travel_from: Singapore
