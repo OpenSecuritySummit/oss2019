@@ -3,7 +3,7 @@ chapter_leader: Cambridge
 company: Anglia Ruskin University
 image: https://avatars1.githubusercontent.com/u/9204455?s=460&v=4
 job_title: Directory of Cyber Security Research Group
-linkedin: linkedin.com/in/adrian-winckles-2582ab3
+linkedin: adrian-winckles-2582ab3
 project_leader:
 - Application Security Curriculum
 - OWASP Honeypot
@@ -28,7 +28,7 @@ status: add details
 title: Adrian Winckles
 travel_from: Cambridge
 twitter: botflowking
-type: Participant
+type: participant
 website: ''
 ---
 
