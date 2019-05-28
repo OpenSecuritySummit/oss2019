@@ -22,20 +22,37 @@ class API_Hugo_OSS:
         return self.md_files_in_folder(OSS_Participant().base_folder)
 
 
-    def load_files(self,paths):
+    def load_files(self,paths,index_by_title=False):
         results = {}
         for path in paths:
             data = Hugo_Page().load(path)
             if data:
-                results[data.get('path')] = data
+                if index_by_title:
+                    results[data.get('metadata').get('title')] = data
+                else:
+                    results[data.get('path')] = data
+        return results
+
+    def load_oss_participants(self,paths):
+        results  = {}
+        for path in paths:
+            participant = OSS_Participant(name=path)
+            if participant.exists():
+                results[participant.name] = participant
         return results
 
     #def save_file(self, data):
     #@use_local_cache_if_available
-    def participants(self,reload=True):
+    def participants(self,reload=True, return_oss_participants=False):
         if self._participants is None or reload:
-            self._participants = self.load_files(self.md_files_participants())
+            if return_oss_participants is False:         # this was the original workflow (before the creation of the OSS_Participant class)
+                self._participants = self.load_files(self.md_files_participants())
+            else:
+                self._participants = self.load_oss_participants(self.md_files_participants())
         return self._participants
+
+    def participants_oss(self, reload=True):
+        return self.participants(reload=reload,return_oss_participants=True)
 
     def participants_metadatas(self):
         #return self.participants()

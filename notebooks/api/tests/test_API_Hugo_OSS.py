@@ -4,6 +4,7 @@ from pbx_gs_python_utils.utils.Dev import Dev
 from pbx_gs_python_utils.utils.Files import Files
 
 from oss_hugo.API_Hugo_OSS import API_Hugo_OSS
+from oss_hugo.OSS_Participant import OSS_Participant
 
 
 class test_API_Hugo_OSS(TestCase):
@@ -27,6 +28,15 @@ class test_API_Hugo_OSS(TestCase):
         participants = self.api.participants()
         assert len(participants) > 50
         assert set(participants.values().__iter__().__next__()) == {'content', 'path', 'metadata'}
+
+
+    def test_participants__return_oss_participants(self):
+        participants = self.api.participants(return_oss_participants=True)
+        assert len(participants) > 50
+        assert type(list(participants.values())[0]) == OSS_Participant
+        assert 'Dinis Cruz' in set(participants)
+
+
 
     def test_participants_metadatas(self):
         assert len(self.api.participants_metadatas()) > 50

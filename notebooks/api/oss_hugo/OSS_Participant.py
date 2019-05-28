@@ -41,7 +41,7 @@ class OSS_Participant:
     def field(self, key, value=None):
         metadata = self.metadata()
         if metadata:
-            if value:
+            if value is not None:
                 metadata[key] = value
                 return self
             else:
@@ -66,6 +66,9 @@ class OSS_Participant:
                     path = self.base_folder + path
                 self.path_md_file = self.hugo_page.md_file_path(path)
             self.data = self.hugo_page.load(self.path_md_file)
+            title = self.field('title')
+            if title:
+                self.name = title
         return self
 
     def metadata(self):
@@ -76,3 +79,6 @@ class OSS_Participant:
     def save(self):
         self.hugo_page.save(self.data)
         return self
+
+    def set_field(self,key, value):
+        return self.field(key,value)

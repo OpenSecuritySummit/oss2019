@@ -29,13 +29,15 @@ class OSS_GSheet_Data:
         # data = Json.load_json(Files.path_combine(self.data_folder, 'participants_remote.json'))
         # return list(data.values())
 
-    def df_participants_onsite(self,reload=False):
-        df           = pd.DataFrame(self.data_participants_onsite(reload))
+    def df_participants_onsite(self,columns=None,reload=False):
+        df           = pd.DataFrame(self.data_participants_onsite(reload), columns=columns)
         # fix data
         df           = df.fillna('')
-        df['Days']   = df['Days'  ].apply(lambda x: x.replace(' ', '').split(','))
-        df['Nights'] = df['Nights'].apply(lambda x: x.replace(' ', '').split(','))
-        df['Nights'] = df['Nights'].apply(lambda x: x if x != [''] else [])
+        if 'Days' in df.columns:
+            df['Days']   = df['Days'  ].apply(lambda x: x.replace(' ', '').split(','))
+        if 'Nights' in df.columns:
+            df['Nights'] = df['Nights'].apply(lambda x: x.replace(' ', '').split(','))
+            df['Nights'] = df['Nights'].apply(lambda x: x if x != [''] else [])
         return df
 
     def df_participants_remote(self):
