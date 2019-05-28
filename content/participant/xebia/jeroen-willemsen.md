@@ -12,7 +12,7 @@ sessions:
 status: review-content
 title: Jeroen Willemsen
 travel_from: ''
-twitter: https://twitter.com/commjoenie
+twitter: commjoenie
 type: participant
 website: ''
 ---

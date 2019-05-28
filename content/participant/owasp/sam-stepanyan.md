@@ -1,15 +1,19 @@
 ---
 chapter_leader: London
 company: ''
+image: https://pbs.twimg.com/profile_images/1114515035865399296/V6nLLbjK_400x400.jpg
 facebook: ''
 job_title: ''
 linkedin: samstepanyan
+interested_in:
+ - SIEM
+ - WAF
 sessions:
 - OWASP Collective Defence Cluster (CDC)
 status: add details
 title: Sam Stepanyan
 travel_from: ''
-twitter: ''
+twitter: securestep9
 type: participant
 website: ''
 ---

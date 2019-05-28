@@ -2,7 +2,7 @@
 chapter_leader: WiaLondon
 company: ''
 facebook: ''
-image: ''
+image: https://pbs.twimg.com/profile_images/1126527014427594753/-Cb4otPe_400x400.jpg
 job_title: ''
 linkedin: ''
 notes: ''
@@ -11,7 +11,7 @@ sessions: []
 status: add details
 title: Lauren Chiesa
 travel-from: ''
-twitter: ''
+twitter: info_sec_girl
 type: participant
 website: ''
 ---

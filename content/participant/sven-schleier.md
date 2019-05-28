@@ -12,7 +12,7 @@ sessions: []
 status: add-details
 title: Sven Schleier
 travel_from: Singapore
-twitter: https://twitter.com/bsd_daemon
+twitter: bsd_daemon
 type: participant
 website: ''
 ---

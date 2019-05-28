@@ -2,7 +2,7 @@
 chapter_leader: ''
 company: ''
 facebook: ''
-image: ''
+image: https://pbs.twimg.com/profile_images/2150492060/P7310595_400x400.JPG
 job_title: ''
 linkedin: ''
 notes: ''
@@ -12,7 +12,7 @@ sessions: []
 status: add-details
 title: Steven van der Baan
 travel_from: ''
-twitter: ''
+twitter: vdbaan
 type: participant
 website: ''
 ---
