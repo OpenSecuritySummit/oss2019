@@ -17,6 +17,11 @@ class test_API_Hugo_OSS(TestCase):
         if self.result is not None:
             Dev.pprint(self.result)
 
+    def test_df_field(self):
+        df   = self.api.df_field('chapter_leader').set_index('title')
+        data = df.to_dict()['chapter_leader']
+        assert data['Sebastien Deleersnyder'] == 'Belgium'
+
     def test_md_files_in_folder(self):
         assert len(self.api.md_files_in_folder('content/participant')) > 50
 

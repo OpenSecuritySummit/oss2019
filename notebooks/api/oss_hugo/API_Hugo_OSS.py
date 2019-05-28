@@ -1,3 +1,4 @@
+import numpy  as np
 import pandas as pd
 import qgrid
 from pbx_gs_python_utils.utils.Files import Files
@@ -60,6 +61,13 @@ class API_Hugo_OSS:
 
     def gsheet_data(self):
         return OSS_GSheet_Data()
+
+    def df_field(self,field):
+        df = self.df_participants(['title', field])
+        df[field].replace('', np.nan, inplace=True)
+        df = df.dropna().reset_index(drop=True)
+        df.index += 1
+        return df
 
     def df_merged_gsheet_and_hugo_data(self,reload=False):
         df_hugo = pd.DataFrame(self.participants_metadatas())
