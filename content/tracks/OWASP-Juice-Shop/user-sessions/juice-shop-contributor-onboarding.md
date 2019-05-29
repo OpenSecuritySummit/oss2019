@@ -27,8 +27,7 @@ base yet.
 * Architecture overview
 * Contribution guidelines
 * How a hacking challenge is implemented and tested
-* CI/CD pipeline (just briefly, for full intro join
-  [CI/CD for Open Source Projects](/tracks/owasp-projects/user-sessions/cicd-for-opensource/))
+* CI/CD pipeline
 
 This is **not** a basic introduction into the project itself! For this
 we recommend to participate in the [Juice Shop 101](/tracks/owasp-juice-shop/user-sessions/juice-shop-101/)
