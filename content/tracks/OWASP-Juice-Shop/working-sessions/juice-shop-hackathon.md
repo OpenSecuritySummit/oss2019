@@ -37,6 +37,10 @@ This working session can result in e.g.
 * translations being improved on CrowdIn
 * the companion guide eBook being extended and improved
 
+The results of each day will be accumulated into the Release Notes for
+the release to be published at the
+[Juice Shop Release Night](/tracks/owasp-juice-shop/working-sessions/juice-shop-release-night/).
+
 ## References
 
 * Chapters
