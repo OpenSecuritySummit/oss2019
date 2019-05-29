@@ -15,7 +15,7 @@ status       : review-content              # draft, review-content, done
 description  :
 organizers   :
 participants :
-    - Sebastien Deleersnyder
+    - 
 ---
 
 ## Why
