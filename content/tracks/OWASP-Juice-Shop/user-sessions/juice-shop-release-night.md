@@ -16,7 +16,7 @@ organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Publish the results of the [Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon/) sessions in a new Juice Shop release!
 
