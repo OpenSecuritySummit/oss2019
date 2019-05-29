@@ -15,8 +15,6 @@ status       : review-content              # draft, review-content, done
 organizers   :
 description  : Secure the CI/CD pipeline
 participants :
-    - Arne Zismer
-    - Franziska Buehler
 ---
 
 ## Why

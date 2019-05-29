@@ -11,11 +11,7 @@ session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
 description  : Hands on session writing security tests
 status       : draft
 organizers   :
-    - Sotiraki Sima
 participants :
-    - Stephen Hookings
-    - John Killilea
-    - Arne Zismer
 ---
 
 Hands on session writing security tests

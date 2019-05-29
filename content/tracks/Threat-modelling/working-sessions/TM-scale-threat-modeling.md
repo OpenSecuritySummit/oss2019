@@ -14,9 +14,6 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
-    - Manish Saindane
-    - Adam Shostack
-    - Orid Ahmed
     - Irene Michlin
 description  : How to scale Threat Modeling
 locked       : true

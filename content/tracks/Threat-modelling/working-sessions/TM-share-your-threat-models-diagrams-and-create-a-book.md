@@ -14,7 +14,6 @@ description  :
 organizers   :
     - Steven Wierckx
 participants :
-    - Adam Shostack
 locked       : true
 ---
 

@@ -12,11 +12,8 @@ session_slack: https://os-summit.slack.com/messages/CAWFGK7K9
 status       : review-content                   # draft, review-content, done
 description  : Hands on sessions of mapping GDPR data to graphs
 organizers   :
-    - Dinis Cruz
 participants :
     - Mario Platt
-    - Goher Mohammad
-    - Orid Ahmed
     - Jim Newman
 ---
 
