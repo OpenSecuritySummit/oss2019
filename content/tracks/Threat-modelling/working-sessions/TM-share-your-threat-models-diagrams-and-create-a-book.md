@@ -17,7 +17,7 @@ participants :
 locked       : true
 ---
 
-Discuss the possibility and usefulness of combining all knowledge captured on the website into a book somewhat similar to the tseting guide.
+Discuss the possibility and usefulness of combining all knowledge captured on the website into a book somewhat similar to the testing guide.
 
 <!--(add intro)
 
