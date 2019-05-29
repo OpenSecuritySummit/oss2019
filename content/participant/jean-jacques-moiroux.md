@@ -2,29 +2,38 @@
 company: Mimecast
 eventbrite_id: ''
 facebook: ''
-image: https://media.licdn.com/dms/image/C4D03AQE3kgXt-24Mgg/profile-displayphoto-shrink_200_200/0?e=1564012800&v=beta&t=aJRjIBvtv2i5T5d_FpK9e_EfQdWNCP3T5NYR8CLtm4Y
+image: /participant/images/jean-jacques-moiroux.jpg
 job_title: Software Engineer
-linkedin: https://uk.linkedin.com/in/jeanjacquesmoiroux
+linkedin: jeanjacquesmoiroux
 pre-summit: ''
 sessions:
-- Securing Kubernete's hosted APIs
+# Monday
+- Mobile Security Testing Guide onboarding
+- Security Challenges - An Introduction
+# Tuesday
+- Juice Shop 101
+- Juice Shop Contributor Onboarding
 - Agile Practices for Security Teams
-- Cell based Structures for Security
-- Using Wardley Maps on SOC
+# Wednesday
 - Application Security Verification Standard
-- Using Wardley Maps on SOC
+- Wardley Maps for Security
+- Using Wardley maps on SOC
+# Thuesday
 - State and future of threat modeling
+- Securing Kubernete's hosted APIs
 - Scaling API Security
-- Customising the Chaos Engineering Toolkit
+- Cell based Structures for Security
 - Securing the CI Pipeline
+# Friday
+- Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
 status: ''
 title: Jean-Jacques MOIROUX
 travel_from: London
-twitter: https://twitter.com/jjmoiroux
+twitter: jjmoiroux
 type: participant
 venue: Mon, Tue, Wed, Thu, Fri
-website: ''
+website: https://www.mimecast.com
 ---
 
 <!-- put more details about participant here -->
