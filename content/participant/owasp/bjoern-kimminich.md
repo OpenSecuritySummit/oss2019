@@ -7,7 +7,6 @@ project_leader:
 - Juice Shop
 sessions:
 - Dealing with DevSecOps Findings
-- Zap - How to use it
 - ZAP working session - future plans
 - Writing security tests to confirm vulnerabilities and fixes
 status: add details
