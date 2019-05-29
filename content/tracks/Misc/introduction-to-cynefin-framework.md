@@ -4,6 +4,7 @@ type         : user-session
 track        : Cynefin Framework
 technology   :
 topics       :
+    - Cynefin Framework
 featured     :
 when_day     : Wed
 when_time    : AM-1

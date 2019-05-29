@@ -7,7 +7,7 @@ host_link    :
 session_type : public
 technology   :
 categories   :
-featured     : yes
+featured     :
 when_day     : Eve-2
 when_time    :
 room_layout  :

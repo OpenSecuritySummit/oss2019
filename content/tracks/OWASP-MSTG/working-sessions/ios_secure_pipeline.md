@@ -1,7 +1,7 @@
 ---
 title        : Creating an iOS build pipeline with security checks 
 type         : working-session    # working-session, user-session
-track        : Mobile Security
+track        : OWASP MSTG
 technology   : Mobile, iOS
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"

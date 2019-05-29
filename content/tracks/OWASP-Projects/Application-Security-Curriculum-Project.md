@@ -1,10 +1,11 @@
 ---
 title        : OWASP Application Security Curriculum Project 
 type         : working-session      # working-session, user-session
-track        : Education
+track        : OWASP Projects
 topics       : ["Owasp Project", "OWASP Application Security Curriculum"]
 technology   :
-categories   : ["OWASP projects"]
+categories   :
+    - Education
 featured     : yes
 when_day     : Tues
 when_time    : AM-1

@@ -1,9 +1,10 @@
 ---
 title        : Ask me anything (AMA) on GDPR
 type         : user-session
-track        : PSD2 and GDPR
+track        : Misc
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
+categories   :
+    - GDPR
 featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1

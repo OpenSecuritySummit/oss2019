@@ -5,7 +5,7 @@ track        : DevSecOps
 topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
+featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-2,PM-3
 room_layout  :                    #

@@ -1,9 +1,10 @@
 ---
 title        : Real world Chaos Engineering
 type         : working-session
-track        : API Security
+track        : Misc
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
+categories   :
+    - API Security
 featured     : yes                 # review with summit team "yes"
 when_day     : Fri
 when_time    : PM-3

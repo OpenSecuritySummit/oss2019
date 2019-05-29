@@ -1,9 +1,10 @@
 ---
 title        : Using graphs for GDPR mappings and visualisations
 type         : user-session
-track        : PSD2 and GDPR
-topics       : ["GDPR"]
-featured     : yes                  # review with summit team "yes"
+track        : Misc
+category     :
+ - GDPR
+featured     :                   # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-3
 room_layout  :

@@ -1,9 +1,10 @@
 ---
 title        : Securing Kubernete's hosted APIs
 type         : working-session
-track        : API Security
+track        : Misc
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
+categories   :
+    - API Security
 featured     : yes                   # review with summit team "yes"
 when_day     : Thu
 when_time    : DS-2

@@ -1,7 +1,7 @@
 ---
 title        : Using Wardley Maps and Cynefin for Security
 type         : user-session      # working-session, user-session, product-session
-track        : Cynefin Framework
+track        : Wardley Maps
 technology   :
 topics       :
 featured     :

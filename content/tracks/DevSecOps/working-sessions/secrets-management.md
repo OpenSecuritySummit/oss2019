@@ -5,7 +5,7 @@ track        : DevSecOps
 topics       : ["Secrets management"]
 technology   :
 categories   :                      
-featured     : yes                   
+featured     :
 when_day     : Wed
 when_time    : PM-1
 room_layout  :                    

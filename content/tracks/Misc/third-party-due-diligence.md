@@ -1,9 +1,10 @@
 ---
 title        : Third Party Due Diligence
 type         : user-session
-track        : CISO
-topics       : ["CISO"]
-featured     : yes                # if  "yes" review with summit team
+track        : Misc
+category     :
+    - API Security
+featured     :                 # if  "yes" review with summit team
 when_day     : Thu
 when_time    : DS-2
 room_layout  :                    #

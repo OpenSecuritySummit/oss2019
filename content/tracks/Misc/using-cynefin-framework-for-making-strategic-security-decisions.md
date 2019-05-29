@@ -1,9 +1,10 @@
 ---
 title        : Using Cynefin Framework making strategic security decisions
 type         : working-session      # working-session, user-session, product-session
-track        : Cynefin Framework
+track        : Misc
 technology   :
-topics       :                    # for example ["GDPR"]
+category     :
+    - Cynefin Framework
 featured     : true                   # review with summit team "yes"
 when_day     : Wed                   # i.e.    Tue
 when_time    : PM-1                   # i.e.    AM-1

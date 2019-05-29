@@ -2,7 +2,7 @@
 title        : Mobile Security Testing Guide onboarding
 type         : user-session
 technology   :
-track        : Mobile Security
+track        : OWASP MSTG
 topics       :
 featured     : yes
 when_day     : Mon, Wed

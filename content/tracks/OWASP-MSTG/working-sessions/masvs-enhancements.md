@@ -1,7 +1,7 @@
 ---
 title        : Mobile AppSec Verification Standard (MASVS)
 type         : working-session    # working-session, user-session
-track        : Mobile Security
+track        : OWASP MSTG
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes               # review with summit team "yes"

@@ -1,10 +1,11 @@
 ---
 title        : ZAP working session - future plans
 type         : working-session
-track        : OWASP ZAP
+track        : OWASP Projects
 locked       : true
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
+categories   :
+    - ZAP
 featured     : yes
 when_day     : Wed
 when_time    : AM-1
