@@ -12,8 +12,8 @@ room_layout  :                    #
 room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUSF58HF
 status       : review-content              # draft, review-content, done
-organizers   : Imran Mohammed A
-participants : Francois Raynaud
+organizers   :
+participants :
 description  : Integrate security tools as part of CI/CD pipeline to find/fix issues early in SDL
 ---
 

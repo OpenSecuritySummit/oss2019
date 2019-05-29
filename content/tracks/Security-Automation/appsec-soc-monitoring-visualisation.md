@@ -13,9 +13,7 @@ room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUAJ8GQH
 status       : review-content             # draft, review-content, done
 organizers   : Madhu Akula
-participants : 
-  - Francois Raynaud
-  - Orid Ahmed
+participants :
 description  : AppSec SOC Monitoring Visualisation
 ---
 

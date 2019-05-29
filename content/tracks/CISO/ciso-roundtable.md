@@ -12,10 +12,7 @@ session_slack: https://os-summit.slack.com/messages/CAURV0D09
 status       : draft              # draft, review-content, done
 description  : Session on Risk Modeling
 organizers   :
-    - Dinis Cruz
 participants :
-    - Ante Gulam
-    - Kevin Fielder
     - Tony Richards
 ---
 

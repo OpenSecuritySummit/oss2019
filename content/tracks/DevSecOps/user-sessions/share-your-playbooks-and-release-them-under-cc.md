@@ -11,13 +11,7 @@ session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
 description  : Session to consolidate and publish anonymised real-word playbooks
 status       : draft
 organizers   :
-    - Ann-Marie Grace
 participants:
-    - Ante Gulam
-    - Neil Barlow
-    - Kevin Fielder
-    - Wayne Moore
-    - Mark Regensberg
 ---
 
 Session to consolidate and publish anonymised real-word playbooks (provided by Summit partipants)

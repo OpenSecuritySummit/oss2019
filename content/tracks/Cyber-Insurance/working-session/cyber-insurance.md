@@ -12,9 +12,10 @@ session_slack: https://os-summit.slack.com/messages/CAV65AXGU
 status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
 organizers   :
- - Yvette Connor
 description  : Session on Cyber Insurance
 ---
+
+#(note: this is the content/text from last year's summit)
 
 According to industry veteran and Chief of Security Strategy at SentinelOne, Jeremiah Grossman, the security industry must change. Today, the security industry is one of very few businesses that does not offer any guarantees or warranties.
 As a result, almost one third of all U.S. companies have some kind of cyber insurance coverage and PWC estimates that the market for cyber insurance will grow to $7.5 billion by 2020.

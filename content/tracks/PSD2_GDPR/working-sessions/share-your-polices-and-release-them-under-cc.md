@@ -14,14 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CB0E7KB7E
 status       : draft              # draft, review-content, done
 description  : Map out what these are and what is the best way to measure them
 organizers   :
-    - Goher Mohammad
 participants:
-    - Ante Gulam
-    - Neil Barlow
-    - Kevin Fielder
-    - Wayne Moore
-    - Mark Regensberg
-    - Naushad Saboor
 ---
 
 <!--(add intro)

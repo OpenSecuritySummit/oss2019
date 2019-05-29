@@ -9,7 +9,6 @@ session_slack: https://os-summit.slack.com/messages/CAVDNF1NE
 description  : Sessions focusing on the DevSecOps tools and techniques to embed security as part of CI/CD pipelines
 organizers   :
   - Dominik de Smit
-  - Francois Raynaud
 ---
 
 This track is focused on the DevSecOps tools and techniques to embed security as part of CI/CD pipelines.

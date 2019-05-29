@@ -12,11 +12,7 @@ session_slack: https://os-summit.slack.com/messages/CAUN653QQ
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Testing Guide"]
 organizers   :
-  - Matteo Meucci
 participants :
-  - Prakash Sharma
-  - Goher Mohammad
-  - John Killilea
 description  : Working Sessions for Owasp Testing Guide v5
 ---
 

@@ -14,7 +14,6 @@ description  : Session on problem and solution discussion
 organizers   :
     - Didar Gelici
 participants :
-    - 
 ---
 
 <!--(add intro)

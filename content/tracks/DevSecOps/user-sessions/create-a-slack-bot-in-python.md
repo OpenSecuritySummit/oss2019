@@ -11,7 +11,6 @@ session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
 description  : Hands on session to show participants how to create a Slack bot in Python
 status       : review-content
 organizers   :
-    - PhotoBox-GS
 participants :
 
 ---
