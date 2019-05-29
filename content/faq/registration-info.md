@@ -7,7 +7,7 @@ layout      : FAQ
 
   1. Take a look at schedule and make a note of the sessions you're interested in attending
   
-  2. Visit your profile page. For example, https://open-security-summit.org/participant/francois-raynaud/.
+  2. Visit your profile page. For example, https://open-security-summit.org/participant/toreon/sebastien-deleersnyder/.
 
   3. Scroll to the bottom of your page and click 'edit this page'
   
