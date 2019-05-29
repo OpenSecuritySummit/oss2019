@@ -4,7 +4,7 @@ image: https://raw.githubusercontent.com/bkimminich/pwning-juice-shop/master/int
 job_title: Senior Manager IT Architecture + Application Security
 linkedin: bkimminich
 project_leader:
-- Juiceshop
+- Juice Shop
 sessions: []
 status: add details
 title: Bjoern Kimminich
