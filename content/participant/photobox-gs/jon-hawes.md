@@ -4,8 +4,7 @@ image: https://media.licdn.com/dms/image/C4D03AQHR_46RZTjhZw/profile-displayphot
 job_title: Head of Detect
 linkedin: jonhawes
 night_where: ''
-sessions:
-- null
+sessions: []
 status: done
 title: Jon Hawes
 twitter: ''

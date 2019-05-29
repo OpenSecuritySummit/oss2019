@@ -13,8 +13,7 @@ sessions:
 - Agile Practices for Security Teams
 - Cyber Insurance
 - Incident handling with DarkTrace
-- Writing Akamai rules
-- Getting more women in Cyber-security
+- Writing Akamai rulesF
 - JIRA Risk Workflow
 - Using The Hive for Incident Response
 - Integrating Security Tools in the SDL

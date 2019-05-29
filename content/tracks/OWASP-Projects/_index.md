@@ -5,9 +5,8 @@ featured     : yes
 when_day     : Mon,Wed,Fri
 owasp-project: no
 session_slack: https://os-summit.slack.com/messages/CAULHPHU2
-description  : Sessions focusing on OWASP projects
+description  : Sessions on multiple OWASP Projects
 organizers   :
-  - Pending
 ---
 
-This track is focused on OWASP projects
+Sessions on multiple OWASP Projects

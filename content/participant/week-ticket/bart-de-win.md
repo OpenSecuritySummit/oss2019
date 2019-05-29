@@ -13,6 +13,7 @@ twitter: ''
 type: participant
 website: ''
 working_sessions: ''
+sessions: []
 ---
 
 <!-- put more details about participant here -->

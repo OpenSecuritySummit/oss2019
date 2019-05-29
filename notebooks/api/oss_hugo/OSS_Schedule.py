@@ -41,3 +41,19 @@ class OSS_Schedule:
         df_sessions = df_mappings[df_mappings['page_type'] != 'track']
         df_sessions = df_sessions.sort_values(['content'], ascending=False).reset_index(drop=True)
         return df_sessions
+
+    #todo get the result below using pandas
+    def df_sessions_registered_participants(self):
+        results = {}
+        for key, value in self.hugo.df_participants().to_dict(orient='index').items():
+            title = value.get('title')
+            sessions = value.get('sessions')
+            for session in sessions:
+                if results.get(session) is None: results[session] = []
+                results[session].append(title)
+        mappings = []
+        for key, value in results.items():
+            mappings.append({'session': key, 'participants': value, 'count': len(value)})
+        df_mappings = pd.DataFrame(mappings)
+        df_mappings =  df_mappings[['session', 'count', 'participants']].set_index('session').sort_values(['count'], ascending=False)
+        return df_mappings

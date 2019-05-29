@@ -12,6 +12,7 @@ travel_from: United Kingdom
 twitter: Tutamantic_Sec
 type: participant
 working_sessions: ''
+sessions: []
 ---
 
 Founder of Artis-Secure (security consultancy, specifically sSDLC) and Tutamantic (software enabler).
