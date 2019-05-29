@@ -20,7 +20,10 @@ participants :
 
 ## What
 
-Scenarios to Map:
+Want to have a go at creating your own Wardley maps? 
+This training session will give you hands on experience in creating your maps for multiple scenarios, with experienced practitioners on hand to guide and help you.
+
+Scenarios to Map - 
 - Security Testing
 - Security Awareness and Education
 - Security Operations
