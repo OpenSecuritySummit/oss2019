@@ -1,11 +1,11 @@
 ---
-title        : Juice Shop Hack'n'Code I
+title        : Juice Shop Hack'n'Code
 type         : working-session
 technology   :
 track        : OWASP Juice Shop
 topics       :
 featured     : yes
-when_day     : Mon
+when_day     : Mon,Tue,Wed,Thu
 when_time    : Eve-1
 room_layout  :
 room_id      :
@@ -18,14 +18,17 @@ participants :
 
 ## WHY
 
-Develop new features and hacking challenges, beta-test those new challenges and improve the OWASP
-Juice Shop project across the board.
+Develop new features and hacking challenges, beta-test those new
+challenges and improve the OWASP Juice Shop project across the board.
 
 ## What
 
-* _Builders_ work on functionality, bugfixes, new challenges, translations, documentation etc.
-* _Breakers_ try to solve challenges, help fine-tune them and might even write some hints/solutions
-* _Defenders_ use their own tools against the Juice Shop to see what they might miss and get ideas how to close gaps
+* _Builders_ work on functionality, bugfixes, new challenges,
+  translations, documentation etc.
+* _Breakers_ try to solve challenges, help fine-tune them and might even
+  write some hints/solutions
+* _Defenders_ use their own tools against the Juice Shop to see what
+  they might miss and get ideas how to close gaps
 
 ## Outcomes
 
@@ -36,15 +39,19 @@ This working session can result in e.g.
 
 ## References
 
-* [CONTRIBUTING.md](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
 * Chapters
   [Codebase 101](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part3/codebase.html)
   and
   [Contribute to development](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part3/contribution.html)
   of the online-readable companion guide eBook
   [Pwning OWASP Juice Shop](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/)
-* OWASP Juice Shop's [CrowdIn project](https://crowdin.com/project/owasp-juice-shop) for i18n
+* OWASP Juice Shop's
+  [CrowdIn project](https://crowdin.com/project/owasp-juice-shop) for
+  i18n and the associated
+  [Help with translation](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part3/translation.html)
+  chapter in the eBook
 
 ## Previous
 
-* [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/) user session
+* [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/)
+  user session

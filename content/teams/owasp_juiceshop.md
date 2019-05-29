@@ -13,6 +13,7 @@ _sessions:
 members:
     - Bjoern Kimminich
     - Jannik Hollenbach
+    - Arpit Agrawal
 
 notes :
 ---

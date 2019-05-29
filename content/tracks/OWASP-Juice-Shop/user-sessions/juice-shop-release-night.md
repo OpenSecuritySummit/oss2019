@@ -18,7 +18,7 @@ participants :
 
 ## WHY
 
-Publish the results of the [Juice Shop Hack'n'Code I](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon1/), [II](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon2/), [III](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon3/) and [IV](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon4/) in a new Juice Shop release!
+Publish the results of the [Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon/) sessions in a new Juice Shop release!
 
 ## What
 
@@ -35,7 +35,4 @@ Publish the results of the [Juice Shop Hack'n'Code I](/tracks/owasp-juice-shop/w
 ## Previous
 
 * [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/) user session
-* [Juice Shop Hack'n'Code I](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon1/) evening session
-* [Juice Shop Hack'n'Code II](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon2/) evening session
-* [Juice Shop Hack'n'Code III](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon3/) evening session
-* [Juice Shop Hack'n'Code IV](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon4/) evening session
+* [Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon1/) evening sessions
