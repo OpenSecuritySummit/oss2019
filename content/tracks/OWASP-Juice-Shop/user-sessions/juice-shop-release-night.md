@@ -30,7 +30,7 @@ Publish the results of the [Juice Shop Hack'n'Code I](/tracks/owasp-juice-shop/w
 ## References
           
 * The main repository's [release notes page](https://github.com/bkimminich/juice-shop/releases)
-* Juice Shop CI/CD servers on [Travis-CI](https://travis-ci.org/bkimminich/juice-shop) and [AppVeyor](https://ci.appveyor.com/project/bkimminich/juice-shop)
+* Juice Shop CI/CD server on [Travis-CI](https://travis-ci.org/bkimminich/juice-shop)
 
 ## Previous
 
