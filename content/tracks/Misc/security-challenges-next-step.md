@@ -1,10 +1,12 @@
 ---
 title        : Security Challenges - Next step
-track        : Strategic Challenges
+track        : Misc
 type         : working-session      # working-session, user-session, product-session
 technology   :
-topics       : Where do we go from here? # for example ["GDPR"]
-featured     : yes                # review with summit team "yes"
+categories   :
+    - Where do we go from here?
+    - Strategic Challenges
+featured     :                 # review with summit team "yes"
 when_day     : Fri                # i.e.    Tue
 when_time    : PM-1               # i.e.    AM-1
 room_layout  :                    #

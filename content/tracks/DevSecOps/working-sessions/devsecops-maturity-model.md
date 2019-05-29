@@ -5,7 +5,7 @@ track        : DevSecOps
 topics       : ["DevSecOps"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :
+featured     : yes
 when_day     : Tue
 when_time    : PM-1,PM-2,PM-3
 room_layout  :                    #

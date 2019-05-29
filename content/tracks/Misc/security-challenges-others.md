@@ -1,9 +1,11 @@
 ---
 title        : Security Challenges - Analyse others
-track        : Strategic Challenges
+track        : Misc
 type         : working-session      # working-session, user-session, product-session
 technology   :
-topics       : What strategies and underlying assumptions are already in place?  # for example ["GDPR"]
+categories   :
+    - Strategic Challenges
+    # - What strategies and underlying assumptions are already in place?
 featured     : yes                # review with summit team "yes"
 when_day     : Wed                # i.e.    Tue
 when_time    :                # i.e.    AM-1

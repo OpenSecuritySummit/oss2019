@@ -1,9 +1,11 @@
 ---
 title        : Security Challenges - An Introduction
-track        : Strategic Challenges
+track        : Misc
 type         : working-session      # working-session, user-session, product-session
 technology   :
-topics       : Strategy overview  # for example ["GDPR"]
+categories   :
+    - Strategic Challenges
+    - Strategy overview
 featured     :                 # review with summit team "yes"
 when_day     : Mon                # i.e.    Tue
 when_time    : PM-1               # i.e.    AM-1

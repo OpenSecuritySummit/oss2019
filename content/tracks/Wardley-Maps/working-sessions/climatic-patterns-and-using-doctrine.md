@@ -4,7 +4,7 @@ type         : working-session      # working-session, user-session, product-ses
 track        : Wardley Maps
 technology   :
 topics       :
-featured     :
+featured     : yes
 when_day     : Thu
 when_time    : PM-2
 room_layout  :

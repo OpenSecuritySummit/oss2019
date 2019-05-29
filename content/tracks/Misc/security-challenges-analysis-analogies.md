@@ -1,10 +1,13 @@
 ---
 title        : Security Challenges - Analysis, Analogies
-track        : Strategic Challenges
+track        : Misc
 type         : working-session      # working-session, user-session, product-session
 technology   :
-topics       : Analogies, analysis of cyber security  # for example ["GDPR"]
-featured     : yes                # review with summit team "yes"
+categories   :
+    - Analogies
+    - Analysis of cyber security
+    - Strategic Challenges
+featured     :                 # review with summit team "yes"
 when_day     : Tue                # i.e.    Tue
 when_time    : PM-1               # i.e.    AM-1
 room_layout  :                    #

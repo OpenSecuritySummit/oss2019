@@ -4,7 +4,7 @@ type         : working-session
 technology   :
 track        : OWASP Juice Shop
 topics       :
-featured     : no
+featured     : yes
 when_day     : Mon
 when_time    : Eve-1
 room_layout  :

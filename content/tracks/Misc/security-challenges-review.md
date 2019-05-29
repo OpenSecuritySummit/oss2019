@@ -1,10 +1,12 @@
 ---
 title        : Security Challenges - Collate others' strategies and assumptions
-track        : Strategic Challenges
+track        : Misc
 type         : working-session      # working-session, user-session, product-session
 technology   :
-topics       : Collate the strategies and underlying assumptions already being used. # for example ["GDPR"]
-featured     : yes                # review with summit team "yes"
+categories   :
+    - Strategic Challenges
+    # - Collate the strategies and underlying assumptions already being used.
+featured     :                 # review with summit team "yes"
 when_day     : Thu                # i.e.    Tue
 when_time    : PM-1               # i.e.    AM-1
 room_layout  :                    #

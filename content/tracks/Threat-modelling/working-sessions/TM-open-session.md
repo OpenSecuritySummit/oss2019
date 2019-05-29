@@ -4,7 +4,7 @@ type         : working-session
 track        : Threat Model
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                    # review with summit team "yes"
+featured     :                     # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-2
 room_layout  :                    #

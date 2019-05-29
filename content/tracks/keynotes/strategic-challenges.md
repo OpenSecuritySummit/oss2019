@@ -1,12 +1,13 @@
 ---
 title        : Strategic Challenges
-type         : track                         
+type         : keynote
 featured     : yes
-when_day     : Mon, Tue, Wed, Thu, Fri 
-owasp-project: no
+when_day     : Tue
+when_time    : D2-2
 session_slack: 
 description  : Sessions focusing on the strategic challenges facing security practioners
-organizers   : Nick Drage
+organizers   :
+    - Nick Drage
 ---
 
 IT/Security Industry Challenges, how can we become better at our game?
