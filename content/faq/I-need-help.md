@@ -29,10 +29,10 @@ We have channels for every track and session. The following legend describes the
 *Example: the channel name for the working session "Agile Practices for Security Teams" is: `#w-agile-prac-sec-team`*
 
 ##### Go to the venue reception desk
-Please go to the registration desk, or look for a member of the summit team, they'll be wearing blue lanyards.
+Please go to the registration desk.
 
 ##### Send email message
-If you would like to email before or during the event please contact [info@opensecsummit.org](mailto:info@opensecsummit.org).
+If you would like to email before or during the event, please contact [info@opensecsummit.org](mailto:info@opensecsummit.org).
 
 ### I need help before the Summit starts
 We created dedicated Slack channel `#open-security-channel` for pre-summit correspondence on `owasp.slack.com`\
@@ -42,3 +42,4 @@ Please find details [how you can join this channel](https://open-security-summit
 We created separate Slack channels for every session. ([Join us]((https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc)) on Slack)\
 You can find all those channels monitored by our team, on `os-summit.slack.com` workspace.\
 As a shortcut, you can use clue button <img src="/img/pages/slack_message.png" alt="slack" style="height: 26px;"/> displayed on every session page, which will redirect you to the Slack channel for the session respectively.
+
