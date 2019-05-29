@@ -10,7 +10,7 @@ when_day     : Tue
 when_time    : PM-1,PM-2
 room_layout  :
 room_id      : room-5
-session_slack: 
+session_slack: #w-devsecops-findings 
 status       : review-content              # draft, review-content, done
 organizers   : 
  - Claudio Camerino
