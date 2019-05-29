@@ -16,6 +16,8 @@ travel-from: 'West Sussex, UK'
 twitter: ''
 type: participant
 website: 'https://chriscooper.co/'
+tracks: 
+- OWASP SAMM
 ---
 
 Chris Cooper is a security tester and consultant living in the UK. He works for SureCloud as the Cybersecurity Practice Manager, leading a team of penetration testers. He is a Tigerscheme Senior Security Tester (Web Apps) and a CHECK Team Leader.
