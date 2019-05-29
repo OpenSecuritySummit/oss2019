@@ -1,5 +1,5 @@
 ---
-title        : Co-ordination functions for a PST organisation
+title        : Coordinating functions within a PST organisation
 type         : working-session      # working-session, user-session, product-session
 track        : Wardley Maps
 technology   :
@@ -11,7 +11,7 @@ room_layout  :
 room_id      :
 session_slack: 
 status       : need-content
-description  : Co-ordination functions for a PST organisation
+description  : Coordinating functions within a PST organisation
 organizers   :
     - Simon Wardley
 participants :
