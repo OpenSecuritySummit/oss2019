@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Agile guidance
+title        : SAMM - Agile guidance
 type         : working-session
 track        : OWASP SAMM
 locked       : true
