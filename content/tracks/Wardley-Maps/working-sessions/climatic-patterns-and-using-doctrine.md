@@ -1,21 +1,23 @@
 ---
-title        : Simon Session 2
+title        : Climatic Patterns and Using Doctrine
 type         : working-session      # working-session, user-session, product-session
 track        : Wardley Maps
 technology   :
 topics       :
 featured     :
-when_day     : Wed
-when_time    : PM-1
+when_day     : Thu
+when_time    : PM-2
 room_layout  :
 room_id      :
 session_slack: 
-status       : draft
-description  : TBD - Session #2 with Simon Wardley
+status       : need-content
+description  : Climatic Patterns and Using Doctrines
 organizers   :
     - Simon Wardley
 participants :
     - Phil Huggins
+    - Dinis Cruz
+locked       : true
 ---
 
 

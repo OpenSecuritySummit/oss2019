@@ -18,6 +18,7 @@ organizers   :
 participants :
     - Phil Huggins
     - Dinis Cruz
+locked: true
 ---
 
 

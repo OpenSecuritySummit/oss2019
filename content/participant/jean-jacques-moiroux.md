@@ -10,11 +10,11 @@ sessions:
 - Securing Kubernete's hosted APIs
 - Agile Practices for Security Teams
 - Cell based Structures for Security
-- Using Wardley maps on SOC
+- Using Wardley Maps on SOC
 - Application Security Verification Standard
 - Using User Story Mapping for effective communication
 - SOC Monitoring Visualisation
-- Using Wardley maps on SOC
+- Using Wardley Maps on SOC
 - State and future of threat modeling
 - Scaling API Security
 - Customising the Chaos Engineering Toolkit

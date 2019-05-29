@@ -1,12 +1,12 @@
 ---
-title        : Using Wardley maps on SOC
+title        : Using Wardley Maps on SOC
 type         : user-session
 track        : Wardley Maps
 topics       :
 technology   :
 topics       :
 featured     : yes
-when_day     : Tue
+when_day     : Wed
 when_time    : PM-3
 room_layout  :
 room_id      :
@@ -15,14 +15,11 @@ status       : review-content              # draft, review-content, done
 description  :
 organizers   :
     - Tony Richards
+locked       : true
 participants :
     - Dinis Cruz
-    - Jemma Davis-Smith
     - James Wharton
     - Phil Huggins
-invited:
-    - Simon Wardley
-
 ---
 
 How to apply Wardley maps to an SOC (Securty Operations Center).

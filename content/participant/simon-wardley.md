@@ -2,16 +2,17 @@
 chapter_leader: ''
 company: ''
 facebook: ''
-image: ''
+image: https://pbs.twimg.com/profile_images/180727117/Simon_400x400.jpg
 job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+    - Using Wardley Maps on SOC
 status: add-details
 title: Simon Wardley
 travel_from: ''
-twitter: ''
+twitter: swardley
 type: participant
 website: ''
 ---

@@ -16,7 +16,8 @@ organizers   :
   - Simon Wardley
 participants:
     - Phil Huggins
-description  : Spotify compliant organizational model in security domain
+description  : Cell based Structures for Security
+locked       : true
 ---
 
 With the widespread adoption of agile development and more organisations looking to organise themselves along the lines of the Spotify Model (Squads, Tribes, Chapters and Guides), how can security functions within those organisations take advantage of Cell Based Structures to be more responsive to the business needs, while incorporating the aptitudes and attitudes of Pioneers, Settlers and Town Planners to better meet those needs.

@@ -7,7 +7,9 @@ job_title: ''
 linkedin: huggins
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+ - Wardley Maps for Security
+ - Using Wardley Maps on SOC
 status: add-details
 title: Phil Huggins
 travel_from: ''
