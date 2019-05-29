@@ -21,6 +21,8 @@ sessions:
 - From Threat Modeling to DevSecOps metrics
 - Securing the CI Pipeline
 - Coordinating functions within a PST organisation
+- Climatic Patterns and Using Doctrine
+- Coordinating functions within a PST organisation
 status: add details
 title: Tony Richards
 travel_from: London
