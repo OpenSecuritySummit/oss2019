@@ -20,8 +20,9 @@ sessions:
 status: done
 title: Claudio Camerino
 travel_from: Bracknell, UK
+interested_in: Security Automation, DevSecOps, Threat Modeling
 twitter: clazba
-type: participant
+type: organizer
 ---
 
-Head of Application Security application security,  Specialise in backend and frontend security strategies, securing CI/CD and scaling of security testing and monitoring solutions. Big advocate of continuous feedback loops and synergizing appsec practices with traditional security controls.
+Specialise in backend and frontend security strategies, securing CI/CD and scaling of security testing and monitoring solutions. Big advocate of continuous feedback loops and synergizing appsec practices with traditional security controls.
