@@ -7,18 +7,25 @@ job_title: Software Engineer
 linkedin: jeanjacquesmoiroux
 pre-summit: ''
 sessions:
-- Securing Kubernete's hosted APIs
+# Monday
+- Mobile Security Testing Guide onboarding
+- Security Challenges - An Introduction
+# Tuesday
+- Juice Shop 101
+- Juice Shop Contributor Onboarding
 - Agile Practices for Security Teams
-- Cell based Structures for Security
-- Using Wardley maps on SOC
+# Wednesday
 - Application Security Verification Standard
-- Using User Story Mapping for effective communication
-- SOC Monitoring Visualisation
+- Wardley Maps for Security
 - Using Wardley maps on SOC
+# Thuesday
 - State and future of threat modeling
+- Securing Kubernete's hosted APIs
 - Scaling API Security
-- Customising the Chaos Engineering Toolkit
+- Cell based Structures for Security
 - Securing the CI Pipeline
+# Friday
+- Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
 status: ''
 title: Jean-Jacques MOIROUX
