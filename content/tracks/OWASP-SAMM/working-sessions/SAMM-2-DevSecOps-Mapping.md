@@ -2,7 +2,7 @@
 title        : Mapping OWASP DevSecOps Maturity Model to SAMMv2
 type         : working-session
 track        : OWASP SAMM
-locked       : 
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # if  "yes" review with summit team
