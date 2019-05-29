@@ -36,7 +36,6 @@ session!
 
 ## References
 
-* [CONTRIBUTING.md](https://github.com/bkimminich/juice-shop/blob/master/CONTRIBUTING.md)
 * Chapters
   [Codebase 101](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part3/codebase.html)
   and

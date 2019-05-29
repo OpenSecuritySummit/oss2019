@@ -34,7 +34,7 @@ This is **not** an introduction into the code base or underlying
 technology! For this we recommend to participate in the
 [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/)
 session and join any of the evening
-[Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/) events!
+[Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon/) evening session series!
 
 ## References
 
