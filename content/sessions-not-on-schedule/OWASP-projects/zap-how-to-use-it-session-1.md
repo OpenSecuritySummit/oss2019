@@ -13,7 +13,7 @@ status       : draft              # draft, review-content, done
 owasp-project: yes
 description  : User session to help ZAP users
 organizers   :
-    - Simon Bennetts
+    - 
 ---
 
 <!--(add intro)
