@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Outreach wrap-up
+title        : SAMM - Outreach wrap-up
 type         : working-session
 track        : OWASP SAMM
 locked       : true
@@ -9,7 +9,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
-room_id      : villa-1
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAWEU9CRM
 status       : review-content              # draft, review-content, done
 description  : Deciding on the objectives and plans for outreach for the OWASP SAMM project
