@@ -53,7 +53,7 @@ class OSS_Schedule:
                 results[session].append(title)
         mappings = []
         for key, value in results.items():
-            mappings.append({'session': key, 'participants': value, 'count': len(value)})
+            mappings.append({'title': key, 'participants': value, 'participants_count': len(value)})
         df_mappings = pd.DataFrame(mappings)
-        df_mappings =  df_mappings[['session', 'count', 'participants']].set_index('session').sort_values(['count'], ascending=False)
+        df_mappings =  df_mappings[['title', 'participants_count', 'participants']].sort_values(['participants_count'], ascending=False)
         return df_mappings
