@@ -5,7 +5,7 @@ technology   :
 track        : OWASP Juice Shop
 topics       :
 featured     : yes
-when_day     : Wed
+when_day     : Thu
 when_time    : AM-1
 room_layout  :
 room_id      :
@@ -34,6 +34,7 @@ overall consistency and possible improvements.
 ## Outcomes
 
 This working session can result in e.g.
+
 * pros and cons of the current categorization and difficulty rating
   schemes
 * recommendation for new categories (or ones to be removed/merged)
