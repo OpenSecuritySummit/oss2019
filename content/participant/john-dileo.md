@@ -6,18 +6,7 @@ interested_in:
 job_title: Application Security Architect
 linkedin: john-dileo
 notes: ''
-sessions:
-- SAMM Introduction
-- SAMM - Best Practices
-- SAMM Round Table
-- SAMM DevOps Guidance
-- SAMMv2 working session - Governance
-- SAMMv2 working session - Design
-- SAMMv2 working session - Implementation
-- SAMMv2 working session - Verification
-- SAMMv2 working session - Operations
-- SAMMv2 Measurement Model
-- SAMMv2 Establish the Document Model
+sessions: []
 chapter_leader:
 - New Zealand
 project_contributor:

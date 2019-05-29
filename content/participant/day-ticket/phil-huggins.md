@@ -11,7 +11,7 @@ sessions:
  - Wardley Maps for Security
  - Using Wardley Maps on SOC
  - Mapping boot camp
- - Climatic Patterns and Using Doctrine
+ - Wardley Mapping - Climatic Patterns and Using Doctrine
  - Using Wardley Maps and Cynefin for Security
 
 status: add-details

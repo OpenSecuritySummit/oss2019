@@ -9,19 +9,16 @@ linkedin: tonyrichardsclas
 notes: ''
 project_leader: ''
 sessions:
-- Using Threat Models for GDPR
 - Agile Practices for Security Teams
 - Cyber Risk Modeling
-- Using Threat Models for GDPR
 - Ask me anything (AMA) on GDPR
-- OWASP Collective Defence Cluster (CDC) - two years on
 - Third Party Due Diligence
 - Lightweight privacy threat modeling using LINDDUN
 - Describe different ways of implementing TM in agile organisations
 - From Threat Modeling to DevSecOps metrics
 - Securing the CI Pipeline
 - Coordinating functions within a PST organisation
-- Climatic Patterns and Using Doctrine
+- Wardley Mapping - Climatic Patterns and Using Doctrine
 - Coordinating functions within a PST organisation
 status: add details
 title: Tony Richards

@@ -10,7 +10,7 @@ project_leader: ''
 sessions:
 - Describe different ways of implementing TM in agile organisations
 - Mapping boot camp
-- Climatic Patterns and Using Doctrine
+- Wardley Mapping - Climatic Patterns and Using Doctrine
 - Creating Appsec metrics and visualisation
 - From Threat Modeling to DevSecOps metrics
 - Mapping OWASP DevSecOps Maturity Model to SAMMv2

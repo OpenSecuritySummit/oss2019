@@ -12,8 +12,6 @@ sessions:
 - Cell based Structures for Security
 - Using Wardley Maps on SOC
 - Application Security Verification Standard
-- Using User Story Mapping for effective communication
-- SOC Monitoring Visualisation
 - Using Wardley Maps on SOC
 - State and future of threat modeling
 - Scaling API Security

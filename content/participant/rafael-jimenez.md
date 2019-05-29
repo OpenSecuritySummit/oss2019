@@ -9,7 +9,6 @@ linkedin        : rafael-jimenez-galan-95329450
 email           : rafaeljimenezgalan@gmail.com
 status          : done
 sessions:
-    - Dealing with Security Findings in the Enterprise
     - Securing Kubernete's hosted APIs
     - Agile Practices for Security Teams
     - Creating Appsec metrics and visualisation
@@ -18,5 +17,5 @@ sessions:
     - DevSecOps Maturity Model (DSOMM)
     - Securing the CI Pipeline
     - Zap - How to use it
-    - How to scale Threat Modeling.
+    - How to scale Threat Modeling
 ---

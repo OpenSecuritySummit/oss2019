@@ -4,7 +4,6 @@ image: https://pbs.twimg.com/profile_images/378800000474030050/e2d3d915fb56f536e
 job_title: DevOps Engineer
 linkedin: frannovo
 sessions:
-- Dealing with Security Findings in the Enterprise
 - Securing Kubernete's hosted APIs
 - Agile Practices for Security Teams
 - Creating Appsec metrics and visualisation
@@ -13,7 +12,7 @@ sessions:
 - DevSecOps Maturity Model (DSOMM)
 - Securing the CI Pipeline
 - Zap - How to use it
-- How to scale Threat Modeling.
+- How to scale Threat Modeling
 status: done
 title: Francisco Novo
 travel-from: Malaga, ES

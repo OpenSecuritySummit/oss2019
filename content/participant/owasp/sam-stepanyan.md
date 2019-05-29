@@ -8,8 +8,7 @@ linkedin: samstepanyan
 interested_in:
  - SIEM
  - WAF
-sessions:
-- OWASP Collective Defence Cluster (CDC)
+sessions: []
 status: add details
 title: Sam Stepanyan
 travel_from: ''

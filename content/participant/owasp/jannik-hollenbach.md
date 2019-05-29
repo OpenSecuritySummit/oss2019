@@ -12,6 +12,7 @@ sessions:
 - Juice Shop Release Night
 project_contributor:
 - Juice Shop
+- secureCodeBox
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934

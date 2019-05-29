@@ -5,11 +5,7 @@ image: https://media.licdn.com/dms/image/C4D03AQG7GcLMJCcU1w/profile-displayphot
 job_title: Cyber Risk Manager
 linkedin: didargelici
 sessions:
-- PSD2 and GDPR
-- Using Threat Models for GDPR
 - Using graphs for GDPR mappings and visualisations
-- CISO
-- OWASP Collective Defence Cluster (CDC) - two years on
 status: add details
 title: Didar Gelici
 travel_from: Earlsfield
