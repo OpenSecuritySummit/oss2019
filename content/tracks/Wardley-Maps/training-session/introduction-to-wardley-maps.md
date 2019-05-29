@@ -34,7 +34,8 @@ https://cdn-images-1.medium.com/max/800/1*aBw7WVHYdishIeMqUMlHBA.jpeg
 - The particpant in groups will have mapped a basci security function.
 
 ## Who
-The target audience for this Working Session is:
+
+The target audience for this Working Session is
 - CISO’s
 - Security professionals
 - DevSecOps
@@ -42,7 +43,7 @@ The target audience for this Working Session is:
 - Anyone interested in Wardley Mapping!
 
 ## References
-- https://youtu.be/Ty6pOVEc3bA
-- https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
-- https://medium.com/wardleymaps/finding-a-path-cdb1249078c0
+- [Situation Normal, Everything Must Change - Simon Wardley Keynote] - (https://youtu.be/Ty6pOVEc3bA)
+- [Wardley Mapping - Chapter 1 - On Being Lost] (https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
+- [Wardley Mapping - Chapter 2 - Finding a Path] (https://medium.com/wardleymaps/finding-a-path-cdb1249078c0)
 
