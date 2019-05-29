@@ -6,8 +6,8 @@ locked       :
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Timo has time from wednessday 1pm
-when_time    : 
+when_day     : Wed
+when_time    : PM-3
 room_layout  :                    #
 room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAWA9CQ14
