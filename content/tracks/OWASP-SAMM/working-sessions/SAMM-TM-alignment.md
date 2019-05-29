@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Alignment with Threat Modeling
+title        : SAMM - Alignment with Threat Modeling
 type         : working-session
 track        : OWASP SAMM
 locked       : true
@@ -9,7 +9,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-3
 room_layout  :                    #
-room_id      : villa-1
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAWEU9CRM
 status       : review-content              # draft, review-content, done
 description  : Aligning the SAMM model with the Threat Modeling project.
