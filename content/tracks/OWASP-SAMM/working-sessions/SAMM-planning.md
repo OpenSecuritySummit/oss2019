@@ -1,18 +1,18 @@
 ---
-title        : SAMM user session - Round-table
-type         : user-session
+title        : SAMMv2 working session - Planning and Roadmap
+type         : working-session
 track        : OWASP SAMM
 locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Mon
+when_day     : Fri
 when_time    : PM-2
 room_layout  :                    #
-room_id      : room-1
+room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAWEU9CRM
 status       : review-content              # draft, review-content, done
-description  : one of the 2 user sessions on the SAMM project
+description  : Spare session to cover any other topics
 organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
@@ -20,6 +20,6 @@ participants:
     - you ?
 ---
 
-A general discussion for users of the OWASP SAMM project. This session is meant to share experiences among users. 
+Based on the progress that we realised during the week, we will revise the current planning for v2 and the project roadmap for future versions.
 
-Session Requirements: None.
+Session Requirements: Familiarity with the SAMM v1.5 and v2 model

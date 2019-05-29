@@ -9,9 +9,9 @@ layout      : FAQ
 
 Keys will be available from 4.30pm-8.00pm on Monday 3 June at The Venue. After that, keys will be available from 8.30am to 8.00pm. Anyone arriving after 8.00pm will need to pick their keys up at the security gate.  
 
-When you leave, please return your keys the venue's bins.
+When you leave, please return your keys to the venue's bins.
 
-### Is there somewhere I can leave my luggaage on Monday before my villa becomes available?
+### Is there somewhere I can leave my luggage on Monday before my villa becomes available?
 
 Yes. You can leave your luggage in a room beside the reception area. A member of the Summit team will be able to direct you if necessary.
 
@@ -27,7 +27,7 @@ http://www.centerparcs.co.uk/hotels_apartments
 
 ### Local taxi information
 
-The local taxi company is A1 taxis, they can be reached on (00 44) 1525 757575. You will be unable to order an Uber from Center Parcs, however Uber will bring you to the venue.
+The local taxi company is A1 taxis, they can be reached on (00 44) 1525 757575. You will be unable to order an Uber from Center Parcs; however, Uber will bring you to the venue.
 
 ### What is included in my Summit ticket?
 
@@ -39,11 +39,11 @@ Towels and bed linen are provided at the accommodation. You may wish to bring to
 
 ### Will I have my own room?
 
-Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide the room arrangements with your house mates.
+Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide the room arrangements with your housemates.
 
 ### Where should I go on arrival?
 
-When you arrive at Center Parcs, follow the 'all traffic' signs. At the arrivals lodge you will be met by security. Let them know that you are attending the Open Security Summit in 'The Venue'. They will direct you either to parking if you have driven, or to the 'The Venue'. Attendees arriving on Monday will be able to check into their accommodation from 4.30pm, you will be able to store your luggage at 'The Venue'.
+When you arrive at Center Parcs, follow the 'all traffic' signs. At the arrivals lodge, you will be met by security. Let them know that you are attending the Open Security Summit in 'The Venue'. They will direct you either to parking if you have driven, or to the 'The Venue'. Attendees arriving on Monday will be able to check into their accommodation from 4.30pm, you will be able to store your luggage at 'The Venue'.
 
 ### Where should I check in?
 
@@ -53,9 +53,9 @@ You will be provided with your key fob (wristband) at 'The Venue' by the Open Se
 
 Security will give you a map and directions to your allocated parking.
 
-### What will I receive on check in?
+### What will I receive on check-in?
 
-The OSS team will hand you an pack, this will include your key fob and useful information about Center Parcs. In your villa, you will find information packs and guidance giving you advice on the facilities. If you have any problems, you can call guest services from your villa on extension 2855.
+The OSS team will hand you a pack, this will include your key fob and useful information about Center Parcs. In your villa, you will find information packs and guidance giving you advice on the facilities. If you have any problems, you can call guest services from your villa on extension 2855.
 
 ### Where do I go if I arrive after at Center Parcs after 8.00pm to check in?
 

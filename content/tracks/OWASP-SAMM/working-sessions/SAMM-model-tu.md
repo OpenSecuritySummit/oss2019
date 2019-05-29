@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Governance
+title        : SAMMv2 working session - Model discussions
 type         : working-session
 track        : OWASP SAMM
 locked       : true
@@ -7,21 +7,19 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Tue
-when_time    : AM-1
+when_time    : PM-2
 room_layout  :                    #
 room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAWEU9CRM
 status       : review-content              # draft, review-content, done
-description  : multiple working sessions on the new SAMMv2
+description  : Parallel editing session to improve the content of the current model
 organizers   :
     - Sebastien Deleersnyder
+    - Bart De Win
 participants:
-    - Yan Kravchenko
-    - Mark-David McLaughlin
+    - you ?
 ---
 
-One working session per business function.
-1) Review the draft business function.
-2) Identify received and on-site feedback (capture as issues).
-3) Discuss and resolve the business function issues.
-4) Create one Issue per business function with the agreed upon changes to be implemented.
+This session will be dedicated to discussing any topics that have come up during editing or based on user feedback, and that need to be discussed to prepare for further editing of the model.
+
+Session Requirements: Familiarity with the SAMM v1.5 and v2 model
