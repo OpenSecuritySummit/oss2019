@@ -9,7 +9,7 @@ layout      : FAQ
 
 The latest version of the schedule is online at https://open-security-summit.org/schedule/all/
 
-#### Daily schedule 
+### Daily schedule 
 
 {{< table "table" >}}
 |Time             | Event
@@ -65,7 +65,7 @@ We have channels for every track and session. The following legend describes the
 
 Example: the channel name for the working session “Agile Practices for Security Teams” is: `#w-agile-prac-sec-team`
 
-#### Send an email message
+### Send an email message
 
 If you would like to email before or during the event please contact info@opensecsummit.org.
 
