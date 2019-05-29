@@ -1,5 +1,6 @@
 ---
 title        : Security Challenges - Next step
+track        : Strategic Challenges
 type         : working-session      # working-session, user-session, product-session
 technology   :
 topics       : Where do we go from here? # for example ["GDPR"]

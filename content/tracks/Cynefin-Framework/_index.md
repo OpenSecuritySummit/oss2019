@@ -1,6 +1,6 @@
 ---
 title        : Cynefin Framework
-type         : track
+#type         : track
 featured     : yes
 when_day     : Mon,Tue,Wed
 owasp-project: no

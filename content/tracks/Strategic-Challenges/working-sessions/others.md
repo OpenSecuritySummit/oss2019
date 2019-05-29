@@ -1,5 +1,6 @@
 ---
 title        : Security Challenges - Analyse others
+track        : Strategic Challenges
 type         : working-session      # working-session, user-session, product-session
 technology   :
 topics       : What strategies and underlying assumptions are already in place?  # for example ["GDPR"]

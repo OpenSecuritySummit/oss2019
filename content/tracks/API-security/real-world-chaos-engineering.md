@@ -14,7 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAUN7NXFS
 status       : review-content              # draft, review-content, done                    #
 description  : An exploration and working session to characterise, explore and implement real-world DevSecOps chaos experiments.
 organizers   :
-    - TBD
+    - (one of participants)
 participants:
 
 ---

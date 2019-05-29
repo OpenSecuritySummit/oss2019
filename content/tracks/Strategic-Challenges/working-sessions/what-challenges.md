@@ -1,5 +1,6 @@
 ---
 title        : Security Challenges - An Introduction
+track        : Strategic Challenges
 type         : working-session      # working-session, user-session, product-session
 technology   :
 topics       : Strategy overview  # for example ["GDPR"]

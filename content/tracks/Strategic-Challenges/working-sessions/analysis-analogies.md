@@ -1,5 +1,6 @@
 ---
 title        : Security Challenges - Analysis, Analogies
+track        : Strategic Challenges
 type         : working-session      # working-session, user-session, product-session
 technology   :
 topics       : Analogies, analysis of cyber security  # for example ["GDPR"]

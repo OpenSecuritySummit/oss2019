@@ -13,6 +13,7 @@ room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUNFBMAL
 status       : review-content              # draft, review-content, done
 organizers   :
+    - (one of participants)
 description  : Secure the CI/CD pipeline
 participants :
 ---

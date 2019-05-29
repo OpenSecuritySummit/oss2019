@@ -11,6 +11,7 @@ session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
 description  : Hands on session writing security tests
 status       : draft
 organizers   :
+    - Dinis Cruz
 participants :
 ---
 

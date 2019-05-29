@@ -1,5 +1,6 @@
 ---
 title        : Security Challenges - Collate others' strategies and assumptions
+track        : Strategic Challenges
 type         : working-session      # working-session, user-session, product-session
 technology   :
 topics       : Collate the strategies and underlying assumptions already being used. # for example ["GDPR"]

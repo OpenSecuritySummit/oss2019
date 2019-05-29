@@ -11,6 +11,7 @@ room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWE8J5JB
 status       : review-content     # draft, review-content, done
 organizers   :
+    - (one of participants)
 description  :
 participants :
 ---

@@ -13,6 +13,7 @@ session_slack: https://os-summit.slack.com/messages/CAUS9V0CR
 room_id      : room-5
 status       : review-content              # draft, review-content, done
 organizers   :
+    - (one of participants)
 participants:
      - Mario Platt
     

@@ -13,6 +13,7 @@ session_slack:
 status       : review-content
 description  :
 organizers   :
+    - (one of participants)
 participants :
 
 ---

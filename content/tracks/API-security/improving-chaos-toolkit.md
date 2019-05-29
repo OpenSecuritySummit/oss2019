@@ -14,7 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAUS7SZEV
 status       : review-content              # draft, review-content, done
 description  : Practical Guide to Extending the Chaos Toolkit for DevSecOps concerns.
 organizers   :
-    - TBD
+    - (one of participants)
 participants:
 
 ---

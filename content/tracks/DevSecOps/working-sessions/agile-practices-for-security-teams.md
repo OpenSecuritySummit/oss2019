@@ -11,7 +11,8 @@ session_slack: https://os-summit.slack.com/messages/CAU62737S
 status       : done
 organizers   :
 track        : DevSecOps
-participants :
+organizers :
+    - (one of participants)
 description  : Agile Practices for Security Teams
 ---
 
