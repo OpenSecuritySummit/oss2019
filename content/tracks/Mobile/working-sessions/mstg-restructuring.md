@@ -13,8 +13,6 @@ session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Jeroen Willemsen, Carlos Holguera, Sven Schleier
 description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
-participants :
-    - Abderrahmane AFTAHI (remote)
 ---
 
 Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!

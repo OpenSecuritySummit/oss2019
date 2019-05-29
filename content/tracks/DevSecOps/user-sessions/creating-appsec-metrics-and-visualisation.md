@@ -15,8 +15,6 @@ status       : done
 organizers   :
     - (one of participants)
 description  : AppSec Metrics and Visualisation
-participants :
-  - Jim Newman
 ---
 
 ## Why

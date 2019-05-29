@@ -7,7 +7,9 @@ job_title: ''
 linkedin: marioplatt
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+    - Using graphs for GDPR mappings and visualisations
+    - DevSecOps Maturity Model (DSOMM)
 status: add-details
 title: Mario Platt
 travel_from: ''

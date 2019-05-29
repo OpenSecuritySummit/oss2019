@@ -14,8 +14,6 @@ status       : draft              # draft, review-content, done
 description  : Session on how to use Cynefin Framework making strategic security decisions
 organizers   :
     - Dave Snowden
-participants :
-    - Dinis Cruz
 ---
 
 

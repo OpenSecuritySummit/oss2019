@@ -15,9 +15,6 @@ description  : session on the intersection of Wardley Maps and Cynefin Framework
 organizers   :
     - Simon Wardley
     - Dave Snowden
-participants :
-    - Phil Huggins
-    - Dinis Cruz
 locked: true
 ---
 

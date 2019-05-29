@@ -14,9 +14,6 @@ status       : need-content
 description  : Coordinating functions within a PST organisation
 organizers   :
     - Simon Wardley
-participants :
-    - Tony Richards
-    - Dinis Cruz
 locked       : true
 ---
 

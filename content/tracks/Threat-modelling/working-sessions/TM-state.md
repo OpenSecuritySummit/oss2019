@@ -14,8 +14,6 @@ session_slack: https://os-summit.slack.com/messages/CAVPAADAA
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
-participants :
-    - Irene Michlin
 description  : What is the current state of TM and where do we need to go?
 locked       : true
 ---

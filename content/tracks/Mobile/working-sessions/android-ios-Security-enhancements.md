@@ -11,9 +11,11 @@ room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
-organizers   : Jeroen Willemsen, Carlos Holguera, Sven Schleier
+organizers   :
+    - Jeroen Willemsen
+    - Carlos Holguera
+    - Sven Schleier
 description  : Updating the content of the MSTG
-participants : Jeroen Willemsen, Sven Schleier, Abderrahmane AFTAHI (remote), Carlos Holguera
 ---
 
 Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!

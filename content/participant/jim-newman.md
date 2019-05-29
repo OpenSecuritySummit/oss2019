@@ -14,7 +14,8 @@ sessions        :
   - Agile Practices for Security Teams
   - Secrets Management
   - From Threat Modeling to DevSecOps metrics
-  
+  - Using graphs for GDPR mappings and visualisations
+  - Creating Appsec metrics and visualisation
 status          : ''
 title           : Jim Newman
 travel_from     : Somerset, UK

@@ -14,9 +14,6 @@ status       : need-content
 description  : Climatic Patterns and Using Doctrines
 organizers   :
     - Simon Wardley
-participants :
-    - Phil Huggins
-    - Dinis Cruz
 locked       : true
 ---
 

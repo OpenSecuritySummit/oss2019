@@ -14,8 +14,6 @@ categories   : ["CISO"]
 organizers   :
   - Tony Richards
   - Simon Wardley
-participants:
-    - Phil Huggins
 description  : Cell based Structures for Security
 locked       : true
 ---

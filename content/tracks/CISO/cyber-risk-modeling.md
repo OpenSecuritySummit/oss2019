@@ -11,9 +11,7 @@ room_id      : room-2
 session_slack: https://os-summit.slack.com/messages/CAVGVTQ85
 status       : draft              # draft, review-content, done
 organizers   :
- - Phil Huggins
-participants : 
-  - Tony Richards
+ - Phil Hugginss
 description  : Session on Risk Modeling
 ---
 

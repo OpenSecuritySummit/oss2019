@@ -16,10 +16,6 @@ description  :
 organizers   :
     - Tony Richards
 locked       : true
-participants :
-    - Dinis Cruz
-    - James Wharton
-    - Phil Huggins
 ---
 
 How to apply Wardley maps to an SOC (Securty Operations Center).

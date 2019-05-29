@@ -14,9 +14,6 @@ status       : need-content              # draft, review-content, done
 description  : Mapping boot camp
 organizers   :
     - Simon Wardley
-participants :
-    - Phil Huggins
-    - Dinis Cruz
 locked       : true
 ---
 

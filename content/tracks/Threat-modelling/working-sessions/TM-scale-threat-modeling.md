@@ -13,8 +13,6 @@ session_slack: https://os-summit.slack.com/messages/CAUMZ7NQY
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
-participants :
-    - Irene Michlin
 description  : How to scale Threat Modeling
 locked       : true
 ---

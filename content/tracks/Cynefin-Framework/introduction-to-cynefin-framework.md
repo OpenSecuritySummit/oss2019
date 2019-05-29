@@ -14,8 +14,6 @@ status       : draft
 description  : New to Cynefin Framework? This session is for you
 organizers   :
     - Dave Snowden
-participants :
-    - Dinis Cruz
 ---
 
 

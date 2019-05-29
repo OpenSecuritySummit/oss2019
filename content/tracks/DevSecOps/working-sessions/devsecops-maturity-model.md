@@ -14,8 +14,6 @@ room_id      : room-5
 status       : review-content              # draft, review-content, done
 organizers   :
     - (one of participants)
-participants:
-     - Mario Platt
     
 description  : DevSecOps Maturity Model (DSOMM)
 ---

@@ -7,7 +7,9 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+    - How to scale Threat Modeling
+    - State and future of threat modeling
 status: add-details
 title: Irene Michlin
 travel_from: UK

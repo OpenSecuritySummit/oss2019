@@ -13,9 +13,6 @@ status       : review-content                   # draft, review-content, done
 description  : Hands on sessions of mapping GDPR data to graphs
 organizers   :
     - (one of participants)
-participants :
-    - Mario Platt
-    - Jim Newman
 ---
 
 Create graphs as shows in the https://github.com/pbx-gs/gdpr-patterns project

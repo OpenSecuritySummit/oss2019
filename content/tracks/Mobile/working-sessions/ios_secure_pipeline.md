@@ -13,7 +13,6 @@ session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Sven Schleier
 description  : Brainstorming for a iOS pipeline with security checks
-participants : Sven Schleier
 ---
 
 This session is about creating a blueprint for an iOS build pipeline that includes security checks/tools.
