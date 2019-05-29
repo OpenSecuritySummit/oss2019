@@ -13,7 +13,10 @@ room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAWA9CQ14
 status       : draft              # draft, review-content, done
 description  : multiple working sessions on the new SAMMv2
-organizers   : Timo Pagel (Remote)
+organizers   : 
+    - Timo Pagel
+    - Sebastien Deleersnyder
+    - Bart De Win
 participants:
 ---
 

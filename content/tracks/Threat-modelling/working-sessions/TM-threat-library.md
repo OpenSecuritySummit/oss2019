@@ -7,7 +7,7 @@ featured     :                    # review with summit team "yes"
 when_day     :
 when_time    :
 room_layout  :                    #
-room_id      :
+room_id      : room-3
 session_slack:
 status       : draft              # draft, review-content, done
 organizers   : ["Steven van der Baan"]
