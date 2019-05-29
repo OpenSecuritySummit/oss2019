@@ -8,14 +8,13 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-2
 room_layout  :                    #
-room_id      : room-1
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAUMZ7NQY
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
     - Manish Saindane
-    - Adam Shostack
     - Orid Ahmed
     - Irene Michlin
 description  : How to scale Threat Modeling
