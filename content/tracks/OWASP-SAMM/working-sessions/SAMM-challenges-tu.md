@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Model Challenges
+title        : SAMM - Model Challenges
 type         : working-session
 track        : OWASP SAMM
 locked       : true
