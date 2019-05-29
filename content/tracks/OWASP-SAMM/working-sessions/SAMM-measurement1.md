@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Measurement model
+title        : SAMM - Measurement model
 type         : working-session
 track        : OWASP SAMM
 locked       : true
