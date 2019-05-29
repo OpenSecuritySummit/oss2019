@@ -5,7 +5,7 @@ track        : OWASP SAMM
 locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes                   # review with summit team "yes"
 when_day     : Mon
 when_time    : EV-1
 room_layout  :                    #
