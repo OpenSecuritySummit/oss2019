@@ -1,11 +1,11 @@
 ---
-title        : SAMM - Mapping OWASP DevSecOps Maturity Model activities to OWASP SAMM 2
+title        : Mapping OWASP DevSecOps Maturity Model to SAMMv2
 type         : working-session
 track        : OWASP SAMM
 locked       : 
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes                   # if  "yes" review with summit team
 when_day     : Wed
 when_time    : PM-3
 room_layout  :                    #
