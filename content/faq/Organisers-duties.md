@@ -53,7 +53,7 @@ Working materials will also be added to all working sessions, to allow both orga
 
 Two technical writers are available to support with your outcomes. 
 
-[Robert Grace](https://open-security-summit.org/participant/robert-grace/) is on-site, and [Ann-Marie Grace](https://open-security-summit.org/participant-remote/ann-marie-grace/) is  available remotely. Contact them on [Slack] (https://os-summit.slack.com/messages/CK2RL3MAQ/details/) or email outcomes@opensecsummit.org with any queries.
+[Robert Grace](https://open-security-summit.org/participant/robert-grace/) is on-site, and [Ann-Marie Grace](https://open-security-summit.org/participant-remote/ann-marie-grace/) is  available remotely. Contact them on [Slack](https://os-summit.slack.com/messages/CK2RL3MAQ/details/) or email outcomes@opensecsummit.org with any queries.
 
 #### 6. **Is there a deadline for outcomes at the Summit?**
 
