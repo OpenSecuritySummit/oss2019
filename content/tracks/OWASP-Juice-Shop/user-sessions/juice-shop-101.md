@@ -16,7 +16,7 @@ organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Pick up session for all participants who are interested in the OWASP
 Juice Shop project but have no experience with it yet.
