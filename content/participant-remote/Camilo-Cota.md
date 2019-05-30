@@ -12,4 +12,6 @@ facebook        :
 website         :
 sessions        :
   - Secret Management
+  - Dealing with DevSecOps Finding
+  - From Threat Modeling to DevSecOps metrics
 ---
