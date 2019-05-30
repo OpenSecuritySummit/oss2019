@@ -21,7 +21,6 @@ sessions:
     # Thursday
     - State and future of threat modeling
     - Scaling API Security
-    - Cyber Risk Modeling
     - Integrating Security Tools in the SDL
     - Securing the CI Pipeline
     - How to scale Threat Modeling.
