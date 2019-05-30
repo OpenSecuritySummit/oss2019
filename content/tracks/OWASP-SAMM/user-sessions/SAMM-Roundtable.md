@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
-    - you ?
+    - Yan Kravchenko
 ---
 
 A general discussion for users of the OWASP SAMM project. This session is meant to share experiences among users. 
