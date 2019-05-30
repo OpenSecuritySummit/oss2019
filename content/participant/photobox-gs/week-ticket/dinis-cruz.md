@@ -4,11 +4,10 @@ image: https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.
 job_title: CISO
 linkedin: diniscruz
 sessions:
-    - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
     - Using Wardley Maps on SOC
     - Mapping boot camp
     - Coordinating functions within a PST organisation
-    - Climatic Patterns and Using Doctrine
+    - Wardley Mapping - Climatic Patterns and Using Doctrine
     - Using Wardley Maps and Cynefin for Security
     - Introduction to Cynefin Framework (Training Session)
     - Using Cynefin Framework making strategic security decisions

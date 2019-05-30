@@ -22,20 +22,7 @@ pre-summit      :
 status          : add details
 interested_in:
 - Technical Writer
-sessions:
-- OWASP SAMM Tooling
-- SAMM DevOps Guidance
-- SAMM benchmarking
-- SAMMv2 Establish the Document Model
-- SAMMv2 Measurement Model
-- SAMMv2 working session - Design
-- SAMMv2 working session - Governance
-- SAMMv2 working session - Implementation
-- SAMMv2 working session - Operations
-- SAMMv2 working session - Verification
-- SAMM - Best Practices
-- SAMM Introduction
-- SAMM Round Table
+sessions: []
 
 
 notes :

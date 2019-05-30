@@ -10,8 +10,6 @@ sessions:
 - Creating Appsec metrics and visualisation
 - Using graphs for GDPR mappings and visualisations
 - Ask me anything (AMA) on GDPR
-- Cyber Insurances
-- SAMMv2 Measurement Model
 - Share your Threat Models diagrams and create a Book
 status: add details
 title: Yasmin Martin

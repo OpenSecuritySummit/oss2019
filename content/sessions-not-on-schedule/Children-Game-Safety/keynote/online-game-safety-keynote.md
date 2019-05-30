@@ -1,6 +1,6 @@
 ---
 title        : Making Online Gaming Safer for Children
-#type         : working-session
+#type        : working-session
 track        : Children Game Safety
 technology   :
 categories   :

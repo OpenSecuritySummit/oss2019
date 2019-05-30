@@ -1,17 +1,26 @@
 ---
 chapter_leader: ''
-company: ''
-facebook: ''
-image: ''
-job_title: ''
-linkedin: ''
+company: Crypto Facilities
+facebook: seanturner83
+image: /participant/images/sean-turner.png
+job_title: Chief Information Security Officer
+linkedin: sean-turner-secops
 notes: ''
 project_leader: ''
-sessions: []
-status: add details
+sessions:
+  - ZAP working session - automation
+  - Application Security Verification Standard
+  - Mobile AppSec Verification Standard
+  - Mobile Basic Security Testing and Reverse Engineering
+  - Lightweight Privacy Threat Modelling Using LINDUN
+  - Secrets Management
+  - Securing Kubernetes hosted APIs
+  - Writing security tests to confirm vulnerabilities and fixes
+  - Securing the CI Pipeline
+status: ''
 title: Sean Turner
-travel-from: ''
-twitter: ''
+travel-from: Coventry
+twitter: seanturner83
 type: participant
 website: ''
 ---

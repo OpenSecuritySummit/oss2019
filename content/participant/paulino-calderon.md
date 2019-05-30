@@ -14,8 +14,6 @@ sessions:
 - Mobile Security Testing Guide onboarding
 - Android and iOS Security Enhancements and Crackme Apps
 - Mobile AppSec Verification Standard (MASVS)
-- Real world Chaos Engineering
-- Hacking ML Applications
 - Agile Practices for Security Teams
 status: ''
 title: Paulino Calderon

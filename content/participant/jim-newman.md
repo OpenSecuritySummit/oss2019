@@ -10,7 +10,7 @@ project_leader  : ''
 sessions        : 
   - Lightweight privacy threat modeling using LINDDUN
   - Towards a unified way of describing threat models
-  - How to scale Threat Modeling.
+  - How to scale Threat Modeling
   - Agile Practices for Security Teams
   - Secrets Management
   - From Threat Modeling to DevSecOps metrics

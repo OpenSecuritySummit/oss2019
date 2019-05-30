@@ -19,15 +19,8 @@ night_where     : villa-1
 night_room      : 4
 eventbrite_id   :
 status          : add details
-sessions        :
-    - JIRA Risk Workflow
-    - Agile Practices for Security Teams
-    - Cyber Risk Modeling
-    - European GDPR variations
-    - Thinking in Graphs
-    - Adding security to VSTS pipeline
-    - Squad Modelling and Cross Functional Teams
-ticket          : 5x24h
+sessions        : []
+ticket          :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 

@@ -6,7 +6,7 @@ track        : OWASP Juice Shop
 topics       :
 featured     : no
 when_day     : Thu
-when_time    : Eve-2
+when_time    : Eve-1, Eve-2
 room_layout  :
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CJZJ618LQ
@@ -16,7 +16,7 @@ organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Publish the results of the [Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon/) sessions in a new Juice Shop release!
 

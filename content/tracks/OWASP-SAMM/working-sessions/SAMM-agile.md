@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
-    - you ?
+    - Yan Kravchenko
 ---
 
 SAMM is conceived as a methodology agnostic model. The specificities for a particular methodology such as Agile are specified in a separate guidance document. 

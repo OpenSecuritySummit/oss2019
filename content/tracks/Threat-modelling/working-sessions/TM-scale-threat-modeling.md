@@ -1,5 +1,5 @@
 ---
-title        : How to scale Threat Modeling.
+title        : How to scale Threat Modeling
 type         : working-session
 track        : Threat Model
 technology   :

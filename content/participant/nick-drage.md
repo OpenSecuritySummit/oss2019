@@ -14,9 +14,7 @@ project_leader: ''
 role: track "chair"
 sessions:
 - Cell based Structures for Security
-- Cynefin Framework for Security
 - Introduction to Cynefin Framework (Training Session)
-- Owasp Testing Guide v5
 - State and future of threat modeling
 - Towards a unified way of describing threat models
 - Using Cynefin Framework making strategic security decisions

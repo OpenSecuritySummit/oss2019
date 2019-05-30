@@ -3,8 +3,7 @@ company: ''
 facebook: ''
 job_title: ''
 linkedin: sherif-mansour-88a73b3
-sessions:
-- OWASP Collective Defence Cluster (CDC)
+sessions: []
 status: add details
 title: Sherif Mansour
 travel_from: ''

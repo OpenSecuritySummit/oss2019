@@ -12,14 +12,10 @@ notes: ''
 project_leader: 'OWASP Honeypot Project'
 sessions:
 - Application Security Verification Standard
-- DevSecOps
 - DevSecOps Maturity Model (DSOMM)
-- GDPR Appropriate Security Controls
 - Real world Chaos Engineering
 - Secrets Management
-- Securing Serverless applications
 - Integrating Security Tools in the SDL
-- Customising the Chaos Toolkit
 - Create a Slack bot in Python
 status: add details
 title: Felipe Zipitria
