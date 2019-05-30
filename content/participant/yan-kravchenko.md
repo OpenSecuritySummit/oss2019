@@ -10,7 +10,8 @@ notes: ''
 project_leader: ''
 project_contributor:
 - SAMM
-sessions: []
+sessions: 
+- Wardley Maps for Security
 status: add-details
 title: Yan Kravchenko
 travel_from: 'Minneapolis, MN, USA'
