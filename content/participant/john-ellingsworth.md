@@ -8,7 +8,7 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions: 
-- OWASP APPLICATION SECURITY CURRICULUM PROJECT
+- OWASP Application Security Curriculum Project
 - Mapping OWASP DevSecOps Maturity Model to SAMMv2
 - SAMM - Agile guidance
 - SAMM - Alignment with Threat Modeling
