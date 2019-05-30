@@ -15,6 +15,11 @@ sessions:
 - From Threat Modeling to DevSecOps metrics
 - Mapping OWASP DevSecOps Maturity Model to SAMMv2
 - SAMM - Alignment with Threat Modeling
+- Security Challenges - An Introduction
+- Introduction to Wardley Maps (Training Session)
+- Hand's on Wardley Maps creation (Training Session)
+- SAMM user session - Introduction
+- OWASP Mobile Security Testing Guide 101
 status: add-details
 title: Mario Platt
 travel_from: 'UK'
