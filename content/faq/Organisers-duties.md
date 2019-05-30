@@ -64,4 +64,4 @@ It is best to share outcomes immediately after each session.
 For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
 
 #### 7. **Can I make changes to the outcomes once they have been published?**
-Yes. You can edit them yourself, or can email/Slack edits to the content team Outcomes@opensecsummit.org or Slack them to #oss19-outcomes.
+Yes. You can edit them yourself, or can email/Slack edits to the content team Outcomes@opensecsummit.org or Slack them to [#oss19-outcomes](https://os-summit.slack.com/messages/CK2RL3MAQ/details/).
