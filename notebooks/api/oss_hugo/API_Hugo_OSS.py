@@ -111,10 +111,12 @@ class API_Hugo_OSS:
     def df_participants(self,columns=None):
         return pd.DataFrame(self.participants_metadatas(),columns=columns)
 
-    def df_sessions(self,columns=None, type=None):
+    def df_sessions(self,columns=None, field_type=None):
         df = pd.DataFrame(self.sessions_metadatas(), columns=columns)
-        if type:
-            return df[df['type']==type].reset_index(drop=True)
+        if field_type:
+            return df[df['type']==field_type].reset_index(drop=True)
+
+        df['organizers'] = df['organizers'].apply(lambda x: x.split(',') if type(x) is str else x)
         return df
 
     def qgrid_merged_gsheet_and_hugo_data(self,reload=False):

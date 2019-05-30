@@ -7,7 +7,6 @@ job_title: Sr Director, Product Security
 linkedin: hkparekh
 sessions:
 - OWASP SAMM
-- Serverless
 project_contributor:
 - SAMM
 status: add details

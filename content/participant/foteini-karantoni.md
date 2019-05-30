@@ -16,7 +16,6 @@ sessions:
     - Dealing with DevSecOps Findings
     # Wednesday
     - Creating Appsec metrics and visualisation
-    - SOC Monitoring Visualisation
     # Thursday
     - State and future of threat modeling
     - Integrating Security Tools in the SDL

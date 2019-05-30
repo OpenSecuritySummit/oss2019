@@ -22,7 +22,7 @@ sessions        :
   - Describe different ways of implementing TM in agile organisations
   - State and future of threat modeling
   - Mapping boot camp
-  - Climatic Patterns and Using Doctrine
+  - Wardley Mapping - Climatic Patterns and Using Doctrine
   - Towards a unified way of describing threat models
   - Real world Chaos Engineering
 notes           :

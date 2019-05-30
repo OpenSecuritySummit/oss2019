@@ -7,8 +7,6 @@ linkedin: ''
 sessions:
 - OWASP Mobile Security Testing Guide 101
 - Mobile Security Testing Guide onboarding
-- Creating content session
-- Restructure session
 status: review-content
 title: Carlos Holguera
 travel_from: ''

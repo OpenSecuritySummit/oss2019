@@ -9,21 +9,11 @@ project_leader:
 - OWASP Honeypot
 sessions:
 - Application Security Verification Standard
-- DevSecOps
 - DevSecOps Maturity Model (DSOMM)
-- GDPR Appropriate Security Controls
 - Real world Chaos Engineering
-- Hands on Chaos Experiments
-- Hands-on GDPR Patterns
 - Using graphs for GDPR mappings and visualisations
 - Integrating Security Tools in the SDL
-- Creating a Steady-State Hypothesis
-- Customising the Chaos Toolkit
-- Akamai WAF & Ruleset
-- AWS WAF for DDoS Mitigation
-- Adding CRS3 and Pixi to CircleCI pipeline
-- Web Honeypot Project
-- Application Security Curriculum Project
+- OWASP Application Security Curriculum Project
 status: add details
 title: Adrian Winckles
 travel_from: Cambridge

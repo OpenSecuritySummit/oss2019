@@ -19,5 +19,8 @@ members:
     - Sam Stepanyan
     - Sherif Mansour
     - Sam Aldis
+    - Jannik Hollenbach
+    - Arpit Agrawal
+
 notes :
 ---

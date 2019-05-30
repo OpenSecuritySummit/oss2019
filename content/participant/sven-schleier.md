@@ -14,7 +14,7 @@ sessions:
 - Securing the CI Pipeline
 - ZAP working session - automation
 - Describe different ways of implementing TM in agile organisations
-- How to scale Threat Modeling.
+- How to scale Threat Modeling
 status: add-details
 title: Sven Schleier
 travel_from: Singapore

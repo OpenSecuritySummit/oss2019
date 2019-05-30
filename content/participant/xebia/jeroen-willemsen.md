@@ -6,9 +6,7 @@ job_title: PSA / OWASP MSTG project lead
 linkedin: https://www.linkedin.com/in/jeroen-willemsen/
 project_leader:
 - Mobile Security Testing Guide
-sessions:
-- Creating content session
-- Restructure session
+sessions: []
 status: review-content
 title: Jeroen Willemsen
 travel_from: ''

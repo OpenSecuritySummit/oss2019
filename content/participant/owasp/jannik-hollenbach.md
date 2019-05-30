@@ -6,15 +6,13 @@ interested_in:
 job_title: Software Security Engineer
 notes: ''
 sessions:
-- Juice Shop Hack'n'Code I
-- Juice Shop Hack'n'Code II
-- Juice Shop Hack'n'Code III
-- Juice Shop Hack'n'Code IV
+- Juice Shop Hack'n'Code
 - Juice Shop Challenge Refactoring
 - Juice Shop Round Table
 - Juice Shop Release Night
 project_contributor:
 - Juice Shop
+- secureCodeBox
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934

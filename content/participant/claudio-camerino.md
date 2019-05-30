@@ -9,14 +9,10 @@ sessions:
 - DevSecOps Maturity Model (DSOMM)
 - Securing the CI Pipeline
 - Juice Shop 101
-- SAMM DevSecOps Version
-- SAMMv2 Measurement Model
 - Application Security Verification Standard
-- Owasp Testing Guide v5
 - Zap - How to use it
 - Creating Appsec metrics and visualisation
-- API Threat Modeling Cheat Sheet
-- How to scale Threat Modeling.
+- How to scale Threat Modeling
 status: done
 title: Claudio Camerino
 travel_from: Bracknell, UK
