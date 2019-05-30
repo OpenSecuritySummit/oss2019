@@ -14,7 +14,7 @@ categories   : ["CISO"]
 organizers   :
   - Tony Richards
   - Simon Wardley
-description  : Cell based Structures for Security
+description  : Cell based Structures for Security - Small autonomous security teams and the use of Pioneers, Settlers and Town Planners (PST)
 locked       : true
 ---
 
