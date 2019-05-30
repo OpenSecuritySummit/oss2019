@@ -18,6 +18,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
+    - Yan Kravchenko
 ---
 
 Map the activities from OWASP DevSecOps Maturity Model to activities in OWASP SAMM 2.0.
