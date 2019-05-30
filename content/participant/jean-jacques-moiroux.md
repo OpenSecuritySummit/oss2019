@@ -9,22 +9,24 @@ pre-summit: ''
 sessions:
 # Monday
 - Mobile Security Testing Guide onboarding
-- Security Challenges - An Introduction
+- SAMM user session - Introduction
+- SAMM user session - Round-table
 # Tuesday
 - Juice Shop 101
-- Juice Shop Contributor Onboarding
 - Agile Practices for Security Teams
 # Wednesday
+- SAMM - SAMM documents and parallel editing
 - Application Security Verification Standard
 - Wardley Maps for Security
 - Using Wardley maps on SOC
 # Thuesday
 - State and future of threat modeling
-- Securing Kubernete's hosted APIs
 - Scaling API Security
 - Cell based Structures for Security
 - Securing the CI Pipeline
 # Friday
+- SAMM - Tooling
+- SAMM - Alignment with other OWASP projects
 - Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
 status: ''
