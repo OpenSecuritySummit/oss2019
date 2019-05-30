@@ -1,11 +1,11 @@
 ---
 chapter_leader: ''
-company: ''
+company: 'Concord'
 facebook: ''
-image: ''
+image: 'https://yanfosec.com/img/yk-headshot.jpg'
 interested_in:
-job_title: ''
-linkedin: ''
+job_title: 'Application Security Architect'
+linkedin: 'yankravchenko'
 notes: ''
 project_leader: ''
 project_contributor:
@@ -13,10 +13,22 @@ project_contributor:
 sessions: []
 status: add-details
 title: Yan Kravchenko
-travel_from: ''
-twitter: ''
+travel_from: 'Minneapolis, MN, USA'
+twitter: 'yanfosec'
 type: participant
-website: ''
+website: 'http://yanfosec.com'
 ---
 
-<!-- put more details about participant here -->
+Yan Kravchenko, CISSP, CSSLP, CISA, CISM has over 20 years of experience in the IT / Information Security industry.  Over the past 5+ years, Yan has been developing ways to leverage OWASP SAMM to help measure application metrics portfolios for maturity and security weaknesses.  A part of the process is the concept of risk correlation that allows aligning applications with multiple risk measures, creating more realistic and useful metrics data.
+
+Summit Goals:
+* Work on pushing forward with SAMM 2.0
+* Share tools / documents / visualizations in hopes of making OWASP SAMM 2.0 more enterprise-friendly
+* Collaborate on fleshing out the new Implementation Business Function
+* Assist in developing SAMM-related questions for CertDev
+
+### OWASP Involvement
+
+* PCI Mapping
+* Enterprise Metrics Development
+* SAMM 2.0
