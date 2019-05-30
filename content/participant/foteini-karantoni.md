@@ -24,6 +24,7 @@ sessions:
     - Cyber Risk Modeling
     - Integrating Security Tools in the SDL
     - Securing the CI Pipeline
+    - How to scale Threat Modeling.
     #Friday
     - Customising the Chaos Engineering Toolkit
     - Real world Chaos Engineering
