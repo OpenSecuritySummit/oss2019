@@ -14,10 +14,14 @@ sessions:
     - Towards a unified way of describing threat models
     # Tuesday
     - Dealing with DevSecOps Findings
+    - Security Challenges - Analysis, Analogies
     # Wednesday
     - Creating Appsec metrics and visualisation
+    - Secrets Management
     # Thursday
     - State and future of threat modeling
+    - Scaling API Security
+    - Cyber Risk Modeling
     - Integrating Security Tools in the SDL
     - Securing the CI Pipeline
     #Friday
