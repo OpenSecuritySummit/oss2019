@@ -3,10 +3,7 @@ title       : Organisers' Duties
 layout      : FAQ
 ---
 
----
-title       : Organisers' Duties
-layout      : FAQ
----
+
 
 #### 1. **What is the role of a working session organiser and what activities will I be responsible for?**
 
