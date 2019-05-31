@@ -19,7 +19,7 @@ status: ''
 title: Senen Garcia
 travel_from: London
 twitter: ''
-type: participant
+type: participant-remote
 venue: Mon, Tue, Wed, Thu, Fri
 website: https://www.mimecast.com
 ---
