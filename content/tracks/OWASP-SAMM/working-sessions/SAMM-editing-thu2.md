@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Parallel editing
+title        : SAMM - Parallel editing(Thu PM)
 type         : working-session
 track        : OWASP SAMM
 locked       : true

@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Outreach program
+title        : SAMM - Outreach program (Tue)
 type         : working-session
 track        : OWASP SAMM
 locked       : true

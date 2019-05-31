@@ -1,5 +1,5 @@
 ---
-title        : SAMM - SAMM documents and parallel editing
+title        : SAMM - SAMM documents and parallel editing (Wed AM)
 type         : working-session
 track        : OWASP SAMM
 locked       : true

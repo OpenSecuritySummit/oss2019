@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Model discussions
+title        : SAMM - Model discussions (Wed)
 type         : working-session
 track        : OWASP SAMM
 locked       : true

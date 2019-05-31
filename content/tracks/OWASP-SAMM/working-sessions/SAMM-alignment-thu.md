@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Alignment with other OWASP projects
+title        : SAMM - Alignment with other OWASP projects (Thu)
 type         : working-session
 track        : OWASP SAMM
 locked       : true

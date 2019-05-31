@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Measurement model
+title        : SAMM - Measurement model (Mon PM)
 type         : working-session
 track        : OWASP SAMM
 locked       : true
