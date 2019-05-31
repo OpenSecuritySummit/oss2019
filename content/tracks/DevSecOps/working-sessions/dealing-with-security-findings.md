@@ -6,7 +6,7 @@ topics       : ["SDL"]
 technology   : Dependency Check, FindSecBugs, ZAP, Jenkins, Defect Dojo, Selenium, Jira, Juice Shop
 categories   :                      
 featured     : yes                  
-when_day     : Tue
+when_day     : Wed
 when_time    : PM-1,PM-2
 room_layout  :
 room_id      : room-5
