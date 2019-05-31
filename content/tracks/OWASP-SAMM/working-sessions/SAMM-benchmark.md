@@ -18,7 +18,7 @@ organizers   :
     - Bart De Win
     - Bruce Jenkins (?)
 participants:
-    - you ?
+    - Yan Kravchenko
 ---
 
 One of the key success factors for SAMM is the availability of comparitative data available for the organisations adopting it. One of the challenges is to have a sufficiently open data set that at the same time guarantees anonymity and sufficient quality of data. A potential solution to these challenges was designed in the past. In this session, we want to discuss how to move this forward.

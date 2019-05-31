@@ -10,7 +10,17 @@ notes: ''
 project_leader: ''
 project_contributor:
 - SAMM
-sessions: []
+sessions: 
+- Wardley Maps for Security
+- Introduction to Wardley Maps (Training Session)
+- Hand's on Wardley Maps creation (Training Session)
+- SAMMv2 - Threat Modeling
+- Share your Threat Models diagrams and create a Book
+- Lightweight privacy threat modeling using LINDDUN
+- From Threat Modeling to DevSecOps metrics
+- Integrating Security Tools in the SDL
+- Securing the CI Pipeline
+- Creating a Security Champions network
 status: add-details
 title: Yan Kravchenko
 travel_from: 'Minneapolis, MN, USA'

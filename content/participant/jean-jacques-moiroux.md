@@ -11,14 +11,16 @@ sessions:
 - Mobile Security Testing Guide onboarding
 - SAMM user session - Introduction
 - SAMM user session - Round-table
+- Hand's on Wardley Maps creation (Training Session)
 # Tuesday
 - Juice Shop 101
 - Agile Practices for Security Teams
+- SAMM - Model discussions
+- SAMM - Outreach wrap-up
 # Wednesday
 - SAMM - SAMM documents and parallel editing
 - Application Security Verification Standard
 - Wardley Maps for Security
-- Using Wardley maps on SOC
 # Thuesday
 - State and future of threat modeling
 - Scaling API Security

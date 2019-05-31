@@ -1,5 +1,5 @@
 ---
-chapter_leader: 'Maine'
+chapter_leader: Maine
 company: ''
 facebook: ''
 image: 'https://avatars1.githubusercontent.com/u/4731674?s=350&v=4'
@@ -8,6 +8,7 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions: 
+- OWASP Application Security Curriculum Project
 - Mapping OWASP DevSecOps Maturity Model to SAMMv2
 - SAMM - Agile guidance
 - SAMM - Alignment with Threat Modeling
@@ -30,8 +31,8 @@ sessions:
 - Application Security Verification Standard
 status: add-details
 title: John Ellingsworth
-travel_from: 'Maine'
-twitter: ''
+travel_from: Maine
+twitter: jellingsworth
 type: participant
 website: 'https://johnellingsworth.com'
 ---

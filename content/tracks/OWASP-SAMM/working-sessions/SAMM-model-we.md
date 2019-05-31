@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
-    - you ?
+    - Yan Kravchenko
 ---
 
 This session will be dedicated to discussing any topics that have come up during editing or based on user feedback, and that need to be discussed to prepare for further editing of the model.
