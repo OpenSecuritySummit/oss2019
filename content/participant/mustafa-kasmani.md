@@ -11,7 +11,7 @@ notes: 'CONSTRAINT - I can only attend on the Thursday. Could some TM sessions b
 * Towards a unified way of describing threat models 
 * Lightweight privacy threat modeling using LINDDUN ? Thanks.'
 project_leader: ''
-sessions: [State and future of threat modeling, How to scale Threat Modeling, ]
+sessions: [State and future of threat modeling, How to scale Threat Modeling, Creating a Threat Library]
 status: add-details
 title: Mustafa Kasmani
 travel_from: ''
@@ -20,5 +20,4 @@ type: participant
 website: ''
 ---
 
-<!-- 
---!>
+<!-- --!>
