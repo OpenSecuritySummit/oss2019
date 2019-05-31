@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
-    - you ?
+    - Yan Kravchenko
 ---
 
 Based on the outstanding Github issues, the user feedback, and any challenges that have come up during editing, we will use this session to have in-depth discussions on how to resolve these. We know from experience that evening sessions are often the most productive ones, so we reserve the evening sessions for core discussions on the model, if any.
