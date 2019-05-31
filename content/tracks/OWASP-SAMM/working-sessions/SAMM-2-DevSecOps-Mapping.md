@@ -21,9 +21,16 @@ participants:
     - Yan Kravchenko
 ---
 
-Map the activities from OWASP DevSecOps Maturity Model to activities in OWASP SAMM 2.0.
+OWASP DevSecOps Maturity Model activities reference, based on Timo Pagels opinion, to OWASP SAMM activities.
+
+Check out https://dsomm.timo-pagel.de/report-samm.php
+
+Questions:
+* Is the current mapping valid?
+* Some DSOMM activities are not easy to map to SAMM, where should it belong to? (Is it accepted/expected/questioned to have mappings for one DSOMM activity to multiple SAMM activities?)
+* Are the differences of having activities of maturity level 3 in SAMM and in OWASP DSOMM on maturity 1 accepted/expected/questioned?
 
 Outcome:
 * OWASP SAMM team verfies by mapping that no important actvities are missing
 * OWASP SAMM might add references to OWASP DevSecOps Maturity Model
-* OWASP DevSecOps Maturity Model will referene to OWASP SAMM 2.0 activities 
+* OWASP DevSecOps Maturity Model will have a more precise mapping
