@@ -11,6 +11,6 @@ twitter         :
 facebook        :
 website         :
 sessions        :
-  - Dealing with DevSecOps Finding
+  - Dealing with DevSecOps Findings
   - From Threat Modeling to DevSecOps metrics
 ---
