@@ -11,7 +11,7 @@ twitter         :
 facebook        :
 website         :
 sessions        :
-  - Secret Management
-  - Dealing with DevSecOps Finding
+  - Secrets Management
+  - Dealing with DevSecOps Findings
   - From Threat Modeling to DevSecOps metrics
 ---
