@@ -15,8 +15,9 @@ organizers   :
   - Sven Schleier
 description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
 participants:
-  - Jeroen Willemsen
+  - Jeroen Beckers
   - Carlos Holguera
+  - Jeroen Willemsen
 ---
 
 Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!

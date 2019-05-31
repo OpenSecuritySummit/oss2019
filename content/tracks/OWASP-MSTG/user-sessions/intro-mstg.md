@@ -16,6 +16,8 @@ organizers   :
     - Jeroen Willemsen
 participants :
     - Sven Schleier 
+    - Jeroen Beckers
+    - Carlos Holguera
 ---
 
 ## Why

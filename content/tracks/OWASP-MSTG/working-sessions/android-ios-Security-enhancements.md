@@ -16,6 +16,7 @@ organizers   :
 description  : Updating the content of the MSTG
 participants:
     - Jeroen Willemsen
+    - Jeroen Beckers
     - Carlos Holguera
 ---
 

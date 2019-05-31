@@ -15,8 +15,9 @@ organizers   :
     - Jeroen Beckers
 description  : Work on the open issues of the MASVS
 participants :
-    - Jeroen Willemsen
     - Sven Schleier
+    - Jeroen Willemsen
+    - Carlos Holguera
 ---
 
 Welcome to the OWASP MASVS session!

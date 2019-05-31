@@ -15,8 +15,9 @@ description  : MSTG introduction for new contributors
 organizers   :
     - Jeroen Willemsen
 participants:
+    - Sven Schleier 
+    - Jeroen Beckers
     - Carlos Holguera
-    - Sven Schleier
 ---
 
 ## Why
