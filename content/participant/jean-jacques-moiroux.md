@@ -15,10 +15,10 @@ sessions:
 - Juice Shop 101
 - Agile Practices for Security Teams
 # Wednesday
-- SAMM - SAMM documents and parallel editing
+- SAMM - SAMM documents and parallel editing (Wed AM)
 - Application Security Verification Standard
 - Wardley Maps for Security
-- Using Wardley maps on SOC
+- Using Wardley Maps on SOC
 # Thuesday
 - State and future of threat modeling
 - Scaling API Security
@@ -26,7 +26,7 @@ sessions:
 - Securing the CI Pipeline
 # Friday
 - SAMM - Tooling
-- SAMM - Alignment with other OWASP projects
+- SAMM - Alignment with other OWASP projects (Fri)
 - Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
 status: ''

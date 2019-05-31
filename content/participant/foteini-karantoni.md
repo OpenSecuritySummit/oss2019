@@ -23,7 +23,7 @@ sessions:
     - Scaling API Security
     - Integrating Security Tools in the SDL
     - Securing the CI Pipeline
-    - How to scale Threat Modeling.
+    - How to scale Threat Modeling
     #Friday
     - Customising the Chaos Engineering Toolkit
     - Real world Chaos Engineering

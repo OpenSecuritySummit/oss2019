@@ -6,7 +6,7 @@ linkedin: diniscruz
 sessions:
     - Using Wardley Maps on SOC
     - Mapping boot camp
-    - Coordinating functions within a PST organisation
+    - Wardley Mapping - Coordinating functions within a PST organisation
     - Wardley Mapping - Climatic Patterns and Using Doctrine
     - Using Wardley Maps and Cynefin for Security
     - Introduction to Cynefin Framework (Training Session)

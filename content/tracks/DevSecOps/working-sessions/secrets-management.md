@@ -2,7 +2,7 @@
 title        : Secrets Management
 type         : working-session
 track        : DevSecOps
-topics       : ["Secrets management"]
+topics       :
 technology   :
 categories   :                      
 featured     :

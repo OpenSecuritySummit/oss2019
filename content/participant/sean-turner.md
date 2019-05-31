@@ -10,11 +10,10 @@ project_leader: ''
 sessions:
   - ZAP working session - automation
   - Application Security Verification Standard
-  - Mobile AppSec Verification Standard
+  - Mobile AppSec Verification Standard (MASVS)
   - Mobile Basic Security Testing and Reverse Engineering
-  - Lightweight Privacy Threat Modelling Using LINDUN
+  #- Lightweight Privacy Threat Modelling Using LINDUN
   - Secrets Management
-  - Securing Kubernetes hosted APIs
   - Writing security tests to confirm vulnerabilities and fixes
   - Securing the CI Pipeline
 status: ''

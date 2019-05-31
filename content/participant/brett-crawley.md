@@ -9,32 +9,33 @@ notes: ''
 project_leader: ''
 sessions: 
   # Monday
-  - SAMM - Outreach program
+  - SAMM - Outreach program (Mon)
   - SAMM user session - Introduction
   - SAMM user session - Round-table
-  - SAMM - Measurement model
+  - SAMM - Measurement model (Mon PM)
+  - SAMM - Measurement model (Mon EV)
   # Tuesday
   - SAMM - Editing agreements and parallel editing
-  - SAMM - Outreach program
-  - SAMM - Parallel editing
-  - SAMM - Model discussions
+  - SAMM - Outreach program (Tue)
+  - SAMM - Parallel editing (Tue)
+  - SAMM - Model discussions (Tue)
   - SAMM - Outreach wrap-up
   # Wednesday
-  - SAMM - SAMM documents and parallel editing
-  - SAMM - Alignment with other OWASP projects
-  - SAMM - Parallel editing
-  - SAMM - Model discussions
+  - SAMM - SAMM documents and parallel editing (Wed AM)
+  - SAMM - Alignment with other OWASP projects (Wed)
+  - SAMM - Parallel editing (Wed PM)
+  - SAMM - Model discussions (Wed)
   - Mapping OWASP DevSecOps Maturity Model to SAMMv2
   - SAMM - DevOps guidance
   # Thursday
-  - SAMM - Parallel editing
-  - SAMM - Alignment with other OWASP projects
-  - SAMM - Parallel editing
+  - SAMM - Parallel editing (Thu AM)
+  - SAMM - Alignment with other OWASP projects (Thu)
+  - SAMM - Parallel editing (Thu PM)
   - SAMM - SAMM benchmarking
   - SAMM - Alignment with Threat Modeling
   # Friday
   - SAMM - Tooling
-  - SAMM - Alignment with other OWASP projects
+  - SAMM - Alignment with other OWASP projects (Fri)
   - SAMM - Any Other Business
   - SAMM - Planning and Roadmap
   

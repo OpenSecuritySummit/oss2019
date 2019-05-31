@@ -9,25 +9,31 @@ notes: ''
 project_leader: ''
 sessions        :
    - Mobile Security Testing Guide onboarding
-   - SAMM - Outreach program
+   - SAMM - Outreach program (Mon)
+   - SAMM - Outreach program (Tue)
    - SAMM user session - Introduction
    - SAMM user session - Round-table
-   - SAMM - Measurement model
+   - SAMM - Measurement model (Mon PM)
+   - SAMM - Measurement model (Mon EV)
    - Mobile AppSec Verification Standard (MASVS)
    - Mobile Basic Security Testing and Reverse Engineering
    - SAMM - Editing agreements and parallel editing
-   - SAMM - Outreach program
-   - SAMM - Parallel editing
-   - SAMM - Model discussions
+   - SAMM - Parallel editing (Tue)
+   - SAMM - Parallel editing (Wed PM)
+   - SAMM - Parallel editing (Thu AM)
+   - SAMM - Parallel editing (Thu PM)
+   - SAMM - Model discussions (Tue)
+   - SAMM - Model discussions (Wed)
    - SAMM - Outreach wrap-up
    - Zap - How to use it
    - Threat Model Examples Project
-   - SAMM - SAMM documents and parallel editing
-   - SAMM - Alignment with other OWASP projects
+   - SAMM - SAMM documents and parallel editing (Wed AM)
+   - SAMM - Alignment with other OWASP projects (Wed)
+   - SAMM - Alignment with other OWASP projects (Thu)
+   - SAMM - Alignment with other OWASP projects (Fri)
    - Application Security Verification Standard
    - Mapping OWASP DevSecOps Maturity Model to SAMMv2
    - Integrating Security Tools in the SDL
-   - SAMM - Alignment with other OWASP projects
    - From Threat Modeling to DevSecOps metrics
    - SAMM - SAMM benchmarking
    - SAMM - Alignment with Threat Modeling
