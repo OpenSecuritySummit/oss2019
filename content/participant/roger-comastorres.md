@@ -9,7 +9,7 @@ notes: ''
 project_leader: ''
 sessions: 
 - Juice Shop Contributor Onboarding
-- Creating Appsec metrics and visualisation 
+- Creating Appsec metrics and visualisation
 - Writing security tests to confirm vulnerabilities and fixes
 - Third Party Due Diligence
 - Ask me anything (AMA) on GDPR
