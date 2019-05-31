@@ -7,9 +7,7 @@ linkedin: https://www.linkedin.com/in/jeroen-willemsen/
 project_leader:
 - Mobile Security Testing Guide
 sessions: 
-- Securing the CI Pipeline
 - Creating an iOS build pipeline with security checks
-- Secrets Management
 status: review-content
 title: Jeroen Willemsen
 travel_from: ''
