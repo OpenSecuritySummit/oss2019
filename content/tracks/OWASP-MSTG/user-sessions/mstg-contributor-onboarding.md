@@ -14,6 +14,7 @@ status       : review-content
 description  : MSTG introduction for new contributors
 organizers   :
     - Jeroen Willemsen
+participants:
     - Carlos Holguera
     - Sven Schleier
 ---

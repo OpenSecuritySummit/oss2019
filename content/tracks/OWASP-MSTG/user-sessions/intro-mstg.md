@@ -14,8 +14,8 @@ status       : review-content
 description  : MSTG introduction for newbies (PM-1 on Mon, AM-1 on Wed)
 organizers   :
     - Jeroen Willemsen
-    - Sven Schleier 
 participants :
+    - Sven Schleier 
 ---
 
 ## Why

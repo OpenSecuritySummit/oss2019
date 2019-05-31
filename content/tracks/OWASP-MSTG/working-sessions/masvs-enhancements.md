@@ -12,11 +12,11 @@ room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : 
-    - Jeroen Willemsen
-    - Sven Schleier
+    - Jeroen Beckers
 description  : Work on the open issues of the MASVS
 participants :
-
+    - Jeroen Willemsen
+    - Sven Schleier
 ---
 
 Welcome to the OWASP MASVS session!
