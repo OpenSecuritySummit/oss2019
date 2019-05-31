@@ -7,9 +7,7 @@ interested_in:
 - Threat modeling
 job_title: ''
 linkedin: ''
-notes: 'CONSTRAINT - I can only attend on the Thursday. Could some TM sessions be moved to Thursday like:
-* Towards a unified way of describing threat models 
-* Lightweight privacy threat modeling using LINDDUN ? Thanks.'
+notes: ''
 project_leader: ''
 sessions: 
     - State and future of threat modeling
