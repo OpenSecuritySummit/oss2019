@@ -16,7 +16,7 @@ organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Friendly get-together (possibly over lunch) to talk and exchange
 experience about the OWASP Juice Shop.

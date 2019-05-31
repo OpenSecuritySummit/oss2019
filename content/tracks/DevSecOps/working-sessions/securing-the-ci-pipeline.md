@@ -49,7 +49,7 @@ This Working Session will publish:
 
 - [How to Secure a Continuous Integration Process](https://www.nccgroup.trust/uk/our-research/securing-the-continuous-integration-process)
 - [DEF CON 22 - Kyle Kelley and Greg Anderson - Is This Your Pipe? Hijacking the Build Pipeline](https://www.youtube.com/watch?v=nBR7Kru6JX0)
-
+- [Devops Pro Europe 2019 - Jeroen Willemsen - Securing your CI/CD Pipeline](https://youtu.be/4tRYmw7KwOo)
 
 ## Previous Summit Working Session
 

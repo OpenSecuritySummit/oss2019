@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
-    - you ?
+    - Yan Kravchenko
 ---
 
 One of the core challenges for SAMM v2 is the new way of measuring maturity according to the core model. While in the past, measurements have been focussing on coverage, we're also looking into measuring quality of implementation. In this (and the following) session, we want to take a final decision on this topic.
