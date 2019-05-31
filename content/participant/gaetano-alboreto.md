@@ -9,7 +9,7 @@ notes: ''
 project_leader: ''
 sessions: []
 status: add-details
-title: ''
+title: 'Gaetano Alboreto'
 travel_from: ''
 twitter: ''
 type: participant
