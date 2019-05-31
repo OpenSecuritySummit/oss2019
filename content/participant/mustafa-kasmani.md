@@ -15,6 +15,7 @@ sessions:
     - State and future of threat modeling
     - How to scale Threat Modeling
     - Creating a Threat Library
+    - Writing security tests to confirm vulnerabilities and fixes
 status: add-details
 title: Mustafa Kasmani
 travel_from: ''
