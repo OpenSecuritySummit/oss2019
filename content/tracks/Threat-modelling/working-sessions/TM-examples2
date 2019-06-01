@@ -5,25 +5,22 @@ track        : Threat Model
 technology   : pytm,plantuml
 topics       :                    # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
-when_day     : Tue,Wed            # i.e.    Tue
+when_day     : Wed            # i.e.    Tue
 when_time    : PM-3              # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack: 
 status       : done              # draft, review-content, done
-description  : Kick off of the OWASP Threat Model Examples Project
+description  : Let's get some work done!
 organizers   :
     - Jonathan Marcil
     - Tash Norris
 participants :
     - Steven Wierckx
-    - Yan Kravchenko 
-    - Yasmin Martin 
-    - Zuhal Vargun
 ---
 ## WHY
 
-This working session will kick start the OWASP Project and we will jam some threat models on the spot!
+This working session will continue the OWASP Project started yesterday and we will jam some threat models on the spot!
 
 ## What
 
@@ -32,6 +29,4 @@ Details about content formats and some examples are already available on https:/
 
 ## Outcomes
 
-Explenation on the way of working.
 Threat models being added to the repository.
-Call to action

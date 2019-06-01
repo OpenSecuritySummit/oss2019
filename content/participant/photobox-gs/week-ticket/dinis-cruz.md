@@ -3,16 +3,12 @@ company: PhotoBox Group
 image: https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
 job_title: CISO
 linkedin: diniscruz
-sessions:
-    - Using Wardley Maps on SOC
-    - Mapping boot camp
-    - Wardley Mapping - Coordinating functions within a PST organisation
-    - Wardley Mapping - Climatic Patterns and Using Doctrine
-    - Using Wardley Maps and Cynefin for Security
-    - Introduction to Cynefin Framework (Training Session)
-    - Using Cynefin Framework making strategic security decisions
-project_user:
-- ASVS
+owasp_leadership:
+- Board Member (20??-2011)
+- London Chapter
+- Portugal AppSec 20??
+- OWASP Seasons of Code
+- OWASP Books
 project_contributor:
 - SAMM
 - Top 10
@@ -20,12 +16,16 @@ project_leader:
 - O2 Plattform
 - Maturity Models Tool
 - Summits
-owasp_leadership:
-- Board Member (20??-2011)
-- London Chapter
-- Portugal AppSec 20??
-- OWASP Seasons of Code
-- OWASP Books
+project_user:
+- ASVS
+sessions:
+- Using Wardley Maps on SOC
+- Mapping boot camp
+- Wardley Mapping - Coordinating functions within a PST organisation
+- Wardley Mapping - Climatic Patterns and Using Doctrine
+- Using Wardley Maps and Cynefin for Security
+- Introduction to Cynefin Framework (Training Session)
+- Using Cynefin Framework making strategic security decisions
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
