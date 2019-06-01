@@ -9,7 +9,7 @@ notes: ''
 project_leader: ''
 sessions: []
 status: add-details
-test-field: test-value
+test-field: GRNTBL
 title: OSS Bot
 travel_from: ''
 twitter: ''
