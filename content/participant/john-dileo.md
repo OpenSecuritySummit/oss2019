@@ -14,7 +14,7 @@ project_contributor:
 project_leader:
 - Application Security Curriculum
 status: ''
-title: John Dileo
+title: John DiLeo
 travel-from: Auckland, New Zealand
 twitter: gr4ybeard
 type: participant
