@@ -15,6 +15,9 @@ description  : Kick off of the OWASP Threat Model Examples Project
 organizers   :
     - Jonathan Marcil
 participants :
+    - Yan Kravchenko 
+    - Yasmin Martin 
+    - Zuhal Vargun
 ---
 
 Organizer and main contributors for this session will be remote, but we'll have a room (if available) during the evening for on site participants.
