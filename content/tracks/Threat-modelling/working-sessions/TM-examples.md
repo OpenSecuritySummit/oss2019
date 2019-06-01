@@ -5,12 +5,12 @@ track        : Threat Model
 technology   : pytm,plantuml
 topics       :                    # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
-when_day     : Tue,Wed            # i.e.    Tue
-when_time    : Eve-2              # i.e.    AM-1
+when_day     : Tue            # i.e.    Tue
+when_time    : PM-3              # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack: 
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  : Kick off of the OWASP Threat Model Examples Project
 organizers   :
     - Jonathan Marcil
