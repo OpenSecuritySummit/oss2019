@@ -8,10 +8,10 @@ image           : https://media.licdn.com/dms/image/C5103AQGG5VKQuJ-xyw/profile-
 linkedin        : mihidalgo
 twitter         : michael_hidalgo
 facebook        :
-website         :https://blog.michaelhidalgo.info/
-email           :michael.hidalgo@owasp.org
+website         : https://blog.michaelhidalgo.info/
+email           : michael.hidalgo@owasp.org
 project_leader  :
-chapter_leader  :https://www.owasp.org/index.php/Costa_Rica
+chapter_leader  : https://www.owasp.org/index.php/Costa_Rica
 eventbrite_id   :
 status          : add-details
 sessions        :
