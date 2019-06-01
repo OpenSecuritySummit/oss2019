@@ -11,9 +11,9 @@ room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWE8J5JB
 status       : review-content     # draft, review-content, done
 organizers   :
+    - (one of participants)
 description  :
 participants :
-    - Arne Zismer
 ---
 
 Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.

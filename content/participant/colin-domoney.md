@@ -1,21 +1,17 @@
 ---
-title           : Colin Domoney
-type            : participant
-job-title       : Veracode
-image           : https://pbs.twimg.com/profile_images/605061658977947649/TyIb7res_400x400.png
-linkedin        :
-twitter         : colindomoney
-facebook        :
-website         :
-email           :
-project_leader  :
-chapter_leader  :
-regonline       :
-pre-summit      :
-status          : add details
-notes :
-sessions:
-
+chapter_leader: ''
+facebook: ''
+image: https://pbs.twimg.com/profile_images/605061658977947649/TyIb7res_400x400.png
+job_title: Veracode
+linkedin: ''
+notes: ''
+project_leader: ''
+sessions: []
+status: add details
+title: Colin Domoney
+twitter: colindomoney
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->

@@ -6,15 +6,14 @@ topics       :
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Wed
+when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
-room_id      : room-1
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAVPAADAA
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
-participants :
 description  : What is the current state of TM and where do we need to go?
 locked       : true
 ---

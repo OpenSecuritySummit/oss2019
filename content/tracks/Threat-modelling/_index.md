@@ -5,9 +5,8 @@ featured     : yes
 when_day     : Wed,Thu
 owasp-project: no
 session_slack: https://os-summit.slack.com/messages/CAUNNK1S4
-description  : Sessions focusing on Threat modelling
+description  : Sessions focusing on Threat Modeling
 organizers   :
-  - Pending
 ---
 
-This track is focused on Threat modelling
+This track is focused on Threat Modeling

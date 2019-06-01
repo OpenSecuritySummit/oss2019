@@ -5,7 +5,7 @@ track        : DevSecOps
 topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
+featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-2,PM-3
 room_layout  :                    #
@@ -13,12 +13,9 @@ room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUNFBMAL
 status       : review-content              # draft, review-content, done
 organizers   :
-    - Imran Mohammed A
-    - Francois Raynaud
+    - (one of participants)
 description  : Secure the CI/CD pipeline
 participants :
-    - Arne Zismer
-    - Franziska Buehler
 ---
 
 ## Why
@@ -52,7 +49,7 @@ This Working Session will publish:
 
 - [How to Secure a Continuous Integration Process](https://www.nccgroup.trust/uk/our-research/securing-the-continuous-integration-process)
 - [DEF CON 22 - Kyle Kelley and Greg Anderson - Is This Your Pipe? Hijacking the Build Pipeline](https://www.youtube.com/watch?v=nBR7Kru6JX0)
-
+- [Devops Pro Europe 2019 - Jeroen Willemsen - Securing your CI/CD Pipeline](https://youtu.be/4tRYmw7KwOo)
 
 ## Previous Summit Working Session
 

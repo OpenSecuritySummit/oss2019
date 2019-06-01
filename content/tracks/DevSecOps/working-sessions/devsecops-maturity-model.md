@@ -13,13 +13,7 @@ session_slack: https://os-summit.slack.com/messages/CAUS9V0CR
 room_id      : room-5
 status       : review-content              # draft, review-content, done
 organizers   :
-    - Francois Raynaud
-    - Puneet Thapliyal
-    - Imran Mohammed A
-    - Paul Dubourg
-    - Timo Pagel
-participants:
-     - Mario Platt
+    - (one of participants)
     
 description  : DevSecOps Maturity Model (DSOMM)
 ---

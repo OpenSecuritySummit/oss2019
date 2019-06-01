@@ -9,14 +9,14 @@ when_day     : Tue
 when_time    : AM-1
 room_layout  :
 room_id      :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CK1P3HBU6
 status       : review-content
 description  : OWASP Juice Shop introduction for newbies
 organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Pick up session for all participants who are interested in the OWASP
 Juice Shop project but have no experience with it yet.
@@ -34,7 +34,7 @@ This is **not** an introduction into the code base or underlying
 technology! For this we recommend to participate in the
 [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/)
 session and join any of the evening
-[Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/) events!
+[Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon/) evening session series!
 
 ## References
 

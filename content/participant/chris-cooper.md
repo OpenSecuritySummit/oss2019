@@ -1,24 +1,25 @@
 ---
-title           : Chris Cooper
-type            : participant
-job_title       :
-company         :
-travel-from     :
-image           :
-linkedin        :
-twitter         :
-facebook        :
-website         :
-email           :
-project_leader  :
-chapter_leader  :
-regonline       :
-pre-summit      :
-status          : add details
-sessions:
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
+chapter_leader: ''
+company: 'SureCloud Limited'
+facebook: ''
+image: 'https://en.gravatar.com/userimage/139813658/a4c14e9c3c3a0c70a0fd0fa4099636fb.jpg?size=200'
+project_contributor:
+- SAMM
+job_title: 'Cybersecurity Practice Manager'
+linkedin: 'https://www.linkedin.com/in/itscooper'
+notes: ''
+project_leader: ''
+sessions: []
+status: done
+title: Chris Cooper
+travel-from: 'West Sussex, UK'
+twitter: ''
+type: participant
+website: 'https://chriscooper.co/'
+tracks: 
+- OWASP SAMM
 ---
 
-<!-- put more details about participant here -->
+Chris Cooper is a security tester and consultant living in the UK. He works for SureCloud as the Cybersecurity Practice Manager, leading a team of penetration testers. He is a Tigerscheme Senior Security Tester (Web Apps) and a CHECK Team Leader.
+
+Chris contributes towards the OWASP SAMM project which is currently working towards it's 2.0 release.

@@ -1,24 +1,28 @@
 ---
-title           : Sean Siford
-type            : participant
-job_title       :
-company         :
-travel-from     :
-image           :
-linkedin        :
-twitter         :
-facebook        :
-website         :
-email           :
-project_leader  :
-chapter_leader  :
-regonline       :
-pre-summit      :
-status          : add details
+chapter_leader: ''
+company: UK Hydrographic Office
+facebook: ''
+image: ''
+job_title: Senior Software Engineer
+linkedin: ''
+notes: ''
+project_leader: ''
 sessions:
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
+- Towards a unified way of describing threat models
+- DevSecOps Maturity Model (DSOMM)
+- Application Security Verification Standard
+- Secrets Management
+- Writing security tests to confirm vulnerabilities and fixes
+- Securing the CI Pipeline
+- State and future of threat modeling
+- Customising the Chaos Engineering Toolkit
+- Real world Chaos Engineering
+status: add details
+title: Sean Siford
+travel-from: Devon
+twitter: ''
+type: participant
+website: ''
 ---
 
 <!-- put more details about participant here -->

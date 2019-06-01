@@ -3,54 +3,65 @@ title       : Organisers' Duties
 layout      : FAQ
 ---
 
-#### 1. **What is the role of a working session organiser at the Open Security Summit, and what activities will I be responsible for?**
 
-The Open Security Summit is a five day participant-driven event, dedicated to the collaboration of Development and Security professionals, facilitated through numerous Working Sessions.
 
-Each working session has an organiser, and the organiser's main responsibility is to create the most effective and productive working  environment for the participants.
+#### 1. **What is the role of a working session organiser and what activities will I be responsible for?**
 
-The organiser's main duties cover providing the vision for the working session content and outcomes. The energy you bring to your working session will impact its success.
+Being a working session organiser gives you the opportunity to create something special at the Summit, and the energy you bring to your working session will impact its success. 
+The organiser's main responsibilities are to: 
+-	Create the most productive working environment for participants
+-	Provide the vision for the working session content and 
+-	Deliver meaningful outcomes. 
+
 
 #### 2. **How do I ensure a productive working session takes place?**
 
-As the organiser, you should have a clear idea of what will happen during the working session, as this will allow each session to create something tangible and actionable.
+As the organiser, you should have a clear idea of what will happen during the session, as this will allow each session to produce something tangible and workable.
 
-Working session organisers should create detailed action plans and to-dos lists that are easy pick up and start contributing to (we recommend you use GitHub Issues and Projects).
+Organisers should create detailed action plans and to-do lists that are easy to build on before and during the session. We recommend GitHub Issues and Projects.
 
-Each organiser should collaborate with the registered participants of their working session to identify and define what the ‘Outcomes’ of their working session(s) will be, as these will affect the location and duration of that working session in the main Summit schedule.
+Organisers should collaborate with the registered participants of their working sessions to identify and define the ‘Outcomes’ of their session(s).
 
-Please add the outcomes to the appropriate working session in https://github.com/OpenSecuritySummit/oss2018
-
-Don’t wait for the Summit to start thinking/sharing/working on either your working session or its outcomes.
 
 #### 3. **Can you give me some examples of possible outcomes?**
 
-Here are some examples of what these outcomes/deliverables could look like:
+Possible outcomes/deliverables include:
+ - Diagrams
+ - Documents or Books
+ - Playbooks
+ - Roadmaps (for next meeting)
+ - Wiki pages (namely on owasp.org)
+ - Code
+ - Statement or Position (signed by the Working Sessions Participants)
+ - Security Review (or an application or API)
+ - Lessons Learned
+ 
+Please add your outcomes to your working session via the [session webpage](https://open-security-summit.org/tracks/) or email them to outcomes@opensecsummit.org 
 
-- Artefacts (Diagrams)
-- Documents or Books
-- Playbooks
-- Roadmaps (for next meeting)
-- Wiki pages
-- Code
-- Statement or Position (signed by the Working Sessions Participants)
-- Security Review (or a particular application or api)
-- Lessons Learned
+#### 4. **When should I start defining the outcomes for my working session?**
 
-#### 4. **How long will we have to finalise the outcomes at the Summit?**
+The best way to achieve solid results at the Summit is to start on the working session's topics and outcomes before the Summit.
 
-All materials must be ready by end of the day (or working session), so that we can release them to the world in a consumable format. Tthere will be some logistical support provided to working session organizers. For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
-
-#### 5. **When should I start defining the outcomes for my working session?**
-
-The best way to achieve solid results at the Summit, is to start on the working sessions topics and outcomes before the Summit.
-
-If you are a working session organiser, please start mapping the outcomes for your working session today!
-
-Outcomes have been added to all working sessions, and any working session that doesn’t have one, will NOT be added to the main schedule and will not benefit from being part of the Summit participants' individual daily schedule.
+Every working session has 'Outcomes' listed as a heading, and any working session that doesn’t have one will NOT be added to the main schedule and will not benefit from being part of the Summit participants' individual daily schedule.
 
 Working materials will also be added to all working sessions, to allow both organisers and participants to consider and contribute draft materials.
 
-This is your time to create something special.
+#### 5. **I’m organising a session, and attending several more, can I get help with my outcomes?** 
 
-Thanks again for giving us and the Security industry your most valuable assets: your time and knowledge.
+Two technical writers are available to support with your outcomes. 
+
+[Robert Grace](https://open-security-summit.org/participant/robert-grace/) is on-site, and [Ann-Marie Grace](https://open-security-summit.org/participant-remote/ann-marie-grace/) is  available remotely. Contact them on [Slack](https://os-summit.slack.com/messages/CK2RL3MAQ/details/) or email outcomes@opensecsummit.org with any queries.
+
+#### 6. **Is there a deadline for outcomes at the Summit?**
+
+All materials must be ready by the end of the day your session takes place.
+It is best to share outcomes immediately after each session.  
+ - Appoint someone to note the key takeaways during the session
+ - Email the takeaways to Outcomes@opensecsummit.org or Slack them to  #oss19-outcomes
+ - There will be an Outcomes corner in the lobby, by the sofa near the bar. It will be manned by Robert during breaks, where you can drop off handwritten pages - the Outcomes team will format and publish them in GitHub
+ - We will publish outcomes daily, so it is important that organisers ensure outcomes are dropped off or emailed, along with back-up photos/slides/pages as soon after your meeting as possible 
+
+For reference, all materials need to be released under CC BY 4.0 or Apache 2.0 licenses.
+
+#### 7. **Can I make changes to the outcomes once they have been published?**
+Yes. You can edit them yourself, or can email/Slack edits to the content team Outcomes@opensecsummit.org or Slack them to [#oss19-outcomes](https://os-summit.slack.com/messages/CK2RL3MAQ/details/).

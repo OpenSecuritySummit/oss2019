@@ -18,6 +18,9 @@ members:
     - Felipe Zipitria
     - Sam Stepanyan
     - Sherif Mansour
+    - Sam Aldis
+    - Jannik Hollenbach
+    - Arpit Agrawal
 
 notes :
 ---

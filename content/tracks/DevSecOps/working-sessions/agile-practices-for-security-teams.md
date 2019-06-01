@@ -9,9 +9,10 @@ room_layout  :                    #
 room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAU62737S
 status       : done
-organizers   : Ante Gulam
+organizers   :
 track        : DevSecOps
-participants :
+organizers :
+    - (one of participants)
 description  : Agile Practices for Security Teams
 ---
 

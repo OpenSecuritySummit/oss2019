@@ -2,15 +2,13 @@ version: 0.2
 
 environment_variables:
   plaintext:
-    HUGO_VERSION: "0.49"
     BUCKET_NAME: "open-security-summit.com-cdn"
-    DISTRIBUTION_ID: "E22WEBPD6529KA"
+    DISTRIBUTION_ID: "E10Y1IDSCYIUQ5"
     AWS_DEFAULT_REGION: "eu-west-2"
 
 phases:
   pre_build:
     commands:
-      - cd $CODEBUILD_SRC_DIR && git submodule init && git submodule update
       - echo "CODEBUILD_WEBHOOK_TRIGGER - $CODEBUILD_WEBHOOK_TRIGGER"
   build:
     commands:

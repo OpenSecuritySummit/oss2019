@@ -4,11 +4,11 @@ type         : working-session
 track        : Threat Model
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                    # review with summit team "yes"
+featured     :                     # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-2
 room_layout  :                    #
-room_id      : room-1
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAUSLQKRQ
 status       : done              # draft, review-content, done
 organizers   : ["Steven Wierckx"]

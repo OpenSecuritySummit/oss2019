@@ -1,22 +1,25 @@
 ---
-title        : SAMM Round Table
+title        : SAMM user session - Round-table
 type         : user-session
 track        : OWASP SAMM
 locked       : true
-featured     : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes                   # if  "yes" review with summit team
 when_day     : Mon
-when_time    : PM-3
+when_time    : PM-2
 room_layout  :                    #
-room_id      : room-2
-session_slack: https://os-summit.slack.com/messages/CAXEB4GR2
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAWEU9CRM
 status       : review-content              # draft, review-content, done
-description  : Round table session with SAMM users
+description  : one of the 2 user sessions on the SAMM project
 organizers   :
     - Sebastien Deleersnyder
+    - Bart De Win
 participants:
+    - Yan Kravchenko
 ---
 
-SAMM users sharing experiences with each other
+A general discussion for users of the OWASP SAMM project. This session is meant to share experiences among users. 
+
+Session Requirements: None.

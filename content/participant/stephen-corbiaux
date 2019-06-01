@@ -1,0 +1,24 @@
+---
+title           : Stephen Corbiaux
+type            : participant
+role            : 
+job_title       : 
+company         : 
+travel_from     : 
+image           : 
+twitter         : 
+facebook        :
+website         : 
+email           : 
+project_leader  :
+chapter_leader  :
+eventbrite_id   :
+status          : add-details
+sessions        :
+   - OWASP Mobile Security Testing Guide 101
+   - Mobile Basic Security Testing and Reverse Engineering
+   - Mobile Security Testing Guide onboarding
+notes           :
+---
+
+<!-- put more details about participant here -->

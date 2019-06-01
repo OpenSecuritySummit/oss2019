@@ -4,7 +4,7 @@ layout      : FAQ
 ---
 
 ### Working Sessions
-**Working Sessions** focus on creating and evolving ideas, in order to create outcomes that will have an impact in the real world. They are a great way to join a group of practitioners to share expertise and knowledge on a particular subject.
+**Working Sessions** focus on creating and evolving ideas to create outcomes that will have an impact in the real world. They are a great way to join a group of practitioners to share expertise and knowledge on a particular subject.
 
 <img src="/img/pages/working_session_properties.png" alt="working sessions properties" style="width: 45%;"/>
 <img src="/img/pages/working_session_approach.png" alt="working sessions approach" style="width: 45%;"/><br/>
@@ -37,7 +37,7 @@ Find more details on the current [Product Sessions](https://open-security-summit
 <br/>
 
 ### Keynotes
-**Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in his speech giving an overview of the spirit in which the summit will be realized.
+**Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in their speech, giving an overview of the spirit in which the summit will be realized.
 
 <a name="draft-status"></a>
 <img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 55%;"/>
@@ -46,7 +46,7 @@ Find more details on the current [Product Sessions](https://open-security-summit
 <br/>
 
 ### Draft
-Content has not been finalised yet. Some of the required content is already available but further details will be added. The session description is not fully ready.  Further updates is expected.
+Content has not been finalized yet. Some of the required content is already available, but further details will be added. The session description is not fully ready.  Further updates are expected.
 
 <br/>
 
@@ -59,6 +59,6 @@ An **organizer** leads a sessions, a **practitioner** gives strong support by sh
 ### Why Create a Session?
 We would like to hear from you about your `challenges`, `passions` and `interests`. You can define a session which would cover the topic and subjects that you are interested in.
 
-Choose the appropraite session type (`working` or `user`), describe the session (write content), define expected outcomes and be evangelist of the session you created thus you will recruit attendees (other persons who are interested in the same subjects).
+Choose the appropriate session type (`working` or `user`), describe the session (write content), define expected outcomes and be an evangelist of the session you created thus you will recruit attendees (other persons who are interested in the same subjects).
 
 <img src="/img/pages/why_create_session.png" alt="Why create a session?" style="width: 90%;"/>
