@@ -13,6 +13,7 @@ sessions:
 - ZAP working session - automation
 - How to scale Threat Modeling
 - Creating an iOS build pipeline with security checks
+- Dealing with DevSecOps Findings
 status: done
 title: Dominik de Smit
 travel_from: ''
