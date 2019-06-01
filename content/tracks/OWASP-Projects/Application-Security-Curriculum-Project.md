@@ -7,7 +7,7 @@ technology   :
 categories   :
     - Education
 featured     : yes
-when_day     : Tues
+when_day     : Tue
 when_time    : AM-1
 room_layout  :                    
 room_id      : 

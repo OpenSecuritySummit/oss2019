@@ -12,11 +12,11 @@ room_id      :
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : 
-  - Sven Schleier
+  - Carlos Holguera
 description  : Work on the Mobile Basic Security Testing and Reverse Engineering topics with focus on restructuring the contents of the MSTG
 participants:
   - Jeroen Beckers
-  - Carlos Holguera
+  - Sven Schleier
   - Jeroen Willemsen
 ---
 

@@ -1,5 +1,5 @@
 ---
-title           :
+title           : Ethan Schorer
 type            : participant-remote
 job_title       : Security Leader
 company         : Check Point Software Technologies Ltd.
