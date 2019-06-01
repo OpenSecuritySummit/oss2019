@@ -13,6 +13,9 @@ sessions:
 - Securing the CI Pipeline
 - Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
+- Writing security tests to confirm vulnerabilities and fixes
+- Describe different ways of implementing TM in agile organisations
+- Dealing with DevSecOps Findings
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
