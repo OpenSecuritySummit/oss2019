@@ -1,17 +1,17 @@
 ---
-title        : OWASP Mobile Security Testing Guide 101
+title        : OWASP Mobile Security Testing Guide 101 (Session 2)
 type         : user-session
 technology   :
 track        : OWASP MSTG
 topics       :
 featured     :
-when_day     : Mon, Wed
-when_time    : PM-1, AM-1
+when_day     : Wed
+when_time    : AM-1
 room_layout  :
 room_id      :
 session_slack:
 status       : review-content
-description  : MSTG introduction for newbies (PM-1 on Mon, AM-1 on Wed)
+description  : MSTG introduction for newbies (Two sessions available: PM-1 on Mon, AM-1 on Wed)
 organizers   :
     - Jeroen Willemsen
 participants :
