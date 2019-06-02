@@ -8,9 +8,9 @@ categories   :
     - Strategy overview
 featured     :                 # review with summit team "yes"
 when_day     : Mon                # i.e.    Tue
-when_time    : PM-1               # i.e.    AM-1
+when_time    : PM-2               # i.e.    AM-1
 room_layout  :                    #
-room_id      : room-4
+room_id      : room-2
 session_slack: 
 status       : draft              # draft, review-content, done
 description  : Introduction and overview

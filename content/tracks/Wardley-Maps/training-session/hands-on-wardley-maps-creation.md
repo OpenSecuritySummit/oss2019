@@ -8,7 +8,7 @@ featured     :
 when_day     : Mon
 when_time    : PM-3
 room_layout  :
-room_id      : room-4
+room_id      : room-2
 session_slack: 
 status       : done
 description  : Want to have a go at creating your own Wardley maps? This training session will give you hands on experience in creating maps for multiple scenarios, with experienced practitioners on hand to guide and help you.

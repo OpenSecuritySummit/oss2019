@@ -7,7 +7,7 @@ topics       :
 featured     :
 when_day     : Mon
 when_time    : PM-1
-room_id      : room-4
+room_id      : room-2
 room_layout  :
 session_slack: 
 status       : done
