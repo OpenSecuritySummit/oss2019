@@ -32,7 +32,7 @@
     {{ $usessions := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
     {{ $sessions := union $wsessions $usessions }}
 
-    {{ partial "sessions/simple-table-show-all.html" $sessions }}
+    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
 
     <h2>Pre-Summit Working Sessions</h2>
 
@@ -41,7 +41,7 @@
     </p>
 
     {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
-    {{ partial "sessions/simple-table-show-all.html" $sessions }}
+    {{ partial "sessions/simple-table-all-columns.html" $sessions }}
 
     <br>
 
