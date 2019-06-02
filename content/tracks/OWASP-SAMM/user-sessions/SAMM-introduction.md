@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
     - Bart De Win
 participants:
-    - you ?
+    - 
 ---
 
 A general introduction on the OWASP SAMM project. We will discuss the history of the project, give an overview of the current model and discuss some of the challenges leading to the new SAMM v2 model. If you're not familiar with the SAMM project and want to join other SAMM sessions this week, then this session is for you !
