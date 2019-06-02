@@ -15,7 +15,7 @@ status       : done             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
-description  : A presentation and discussion of a new language to describe a threat model
+description  : Track closure
 locked       : true
 ---
 
