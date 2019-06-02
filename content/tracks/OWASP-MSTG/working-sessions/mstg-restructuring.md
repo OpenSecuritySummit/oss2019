@@ -5,7 +5,7 @@ track        : OWASP MSTG
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     :                # review with summit team "yes"
-when_day     : Mon,Tue
+when_day     : Mon,Tue,Wed,Thu
 when_time    : AM-1, DS-2, PM-1, PM-2, Eve-1, Eve-2
 room_layout  :                    #
 room_id      :

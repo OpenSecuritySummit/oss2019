@@ -15,8 +15,9 @@ status       : review-content              # draft, review-content, done
 description  : Discuss the SAMM threat modeling practice together with the SAMM team
 organizers   :
     - Steven Wierckx
+    - Sebastien Deleersnyder
 participants:
-    - you ?
+    - Bart De Win
 ---
 
 This session will be dedicated to align the SAMM threat modeling practice between the 2 tracks

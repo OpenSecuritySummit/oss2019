@@ -4,9 +4,16 @@ facebook: ''
 image: ''
 job_title: Security Engineer
 linkedin: ''
+project_contributor:
+- OWASP Mobile Security Testing Guide
+project_user:
+- OWASP Mobile Security Testing Guide
 sessions:
+- Mobile Basic Security Testing and Reverse Engineering	
 - OWASP Mobile Security Testing Guide 101
 - Mobile Security Testing Guide onboarding
+- Mobile AppSec Verification Standard (MASVS)
+- Android and iOS Security Enhancements and Crackme Apps
 status: review-content
 title: Carlos Holguera
 travel_from: ''
