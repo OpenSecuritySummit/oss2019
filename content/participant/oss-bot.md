@@ -11,7 +11,7 @@ sessions:
 - Agile Practices for Security Teams
 status: add-details
 test-field: Y1ONBK
-test_field: NLIHBZXOSOHV
+test_field: NLIHBZXOSOHVQ3V4M4
 test_field_2: MPMY1N
 title: OSS Bot
 travel_from: ''
