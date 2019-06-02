@@ -8,7 +8,7 @@ featured     :                # review with summit team "yes"
 when_day     : Mon,Tue,Wed,Thu
 when_time    : AM-1,DS-2,PM-1,PM-2
 room_layout  :                    #
-room_id      :
+room_id      : room-6
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : 
@@ -19,7 +19,7 @@ participants:
   - Sven Schleier
   - Jeroen Willemsen
 ---
-
+Mobile Basic Security Testing and Reverse Engineering
 Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
 
 ## Why
