@@ -12,6 +12,7 @@ sessions:
 - F4V1YI
 - CKA55G
 - 188AY6
+- new session
 status: add-details
 test_field: changed !!!added value
 title: OSS Bot
