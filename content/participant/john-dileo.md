@@ -12,7 +12,8 @@ project_contributor:
 - SAMM
 project_leader:
 - Application Security Curriculum
-sessions: Zap - How to use it
+sessions:
+    - Zap - How to use it
 status: ''
 test_field: Hello World
 title: John DiLeo
