@@ -14,7 +14,7 @@ sessions:
 - 188AY6
 status: add-details
 test-field: Y1ONBK
-test_field: KWB1CMICZF4A
+test_field: an value - 123
 test_field_2: MPMY1N
 title: OSS Bot
 travel_from: ''
