@@ -1,14 +1,15 @@
 from pbx_gs_python_utils.utils.Files import Files
 
+from oss_hugo.Files_Utils import Files_Utils
 from oss_hugo.Hugo_Page import Hugo_Page
 
 
 class OSS_Participant:
 
-    def __init__(self,name=None):
+    def __init__(self, name=None, folder_oss=None):
         self.base_folder  = 'content/participant/'
-        self.hugo_page    = Hugo_Page(base_folder=self.base_folder)
-        self.name         = name
+        self.hugo_page    = Hugo_Page(base_folder=self.base_folder,folder_oss=folder_oss)
+        self.name         = name.strip()
         self.data         = None
         self.path_md_file = None
         if self.name:
@@ -65,6 +66,8 @@ class OSS_Participant:
                 if self.name.startswith(self.base_folder) is False:     # fix path
                     path = self.base_folder + path
                 self.path_md_file = self.hugo_page.md_file_path(path)
+            if Files.not_exists(self.path_md_file):
+                self.path_md_file = self.hugo_page.find_in_md_files(self.name)
             self.data = self.hugo_page.load(self.path_md_file)
             title = self.field('title')
             if title:

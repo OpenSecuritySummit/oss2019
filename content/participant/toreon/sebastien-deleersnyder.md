@@ -12,7 +12,7 @@ project_leader:
 sessions: []
 status: done
 title: Sebastien Deleersnyder
-travel_from: ''
+travel_from: Belgium
 twitter: sebadele
 type: participant
 ---

@@ -1,19 +1,22 @@
 ---
+chapter_leader:
+- New Zealand
 company: Orion Health
 facebook: ''
 image: /participant/images/john-dileo.jpg
-interested_in:
+interested_in: ''
 job_title: Application Security Architect
 linkedin: john-dileo
 notes: ''
-sessions: []
-chapter_leader:
-- New Zealand
 project_contributor:
 - SAMM
 project_leader:
 - Application Security Curriculum
+sessions:
+- Incremental Threat Modeling
+- Creating Appsec metrics and visualisation
 status: ''
+test_field: Hello World
 title: John DiLeo
 travel-from: Auckland, New Zealand
 twitter: gr4ybeard

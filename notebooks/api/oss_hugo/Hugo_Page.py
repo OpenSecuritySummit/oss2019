@@ -1,12 +1,19 @@
 import frontmatter
 from pbx_gs_python_utils.utils.Files import Files
 
-class Hugo_Page():
-    def __init__(self, base_folder=None):
-        self.folder_oss    = Files.path_combine(__file__, '../../../..')
-        self.base_folder   = base_folder
-        self.file_template = Files.path_combine(self.folder_oss,"{0}/{1}".format(self.base_folder,'_template.md'))
+from oss_hugo.Files_Utils import Files_Utils
 
+
+class Hugo_Page():
+    def __init__(self, base_folder=None, folder_oss=None):
+        self.folder_oss  = folder_oss
+        self.base_folder = base_folder
+
+        if folder_oss  is None: self.folder_oss  = Files.path_combine(__file__, '../../../..')
+        if base_folder is None: self.base_folder = '.'
+
+        self.file_template = Files.path_combine(self.folder_oss,"{0}/{1}".format(self.base_folder,'_template.md'))
+        self._all_md_files = None
 
     def create(self, name):
         name = name.replace('.md','')
@@ -29,6 +36,19 @@ class Hugo_Page():
         Files.delete(full_path)
 
         return Files.exists(full_path) is False
+
+    def all_md_files(self):
+        if self._all_md_files is None:
+            path = Files.path_combine(self.folder_oss, self.base_folder)
+            self._all_md_files = Files_Utils.all_files_recursive_with_extension(path, '.md')
+        return self._all_md_files
+
+    def find_in_md_files(self, name):
+        target_file = "{0}.md".format(self.fix_name(name))
+        for md_file in self.all_md_files():
+            if Files.file_name(md_file) == target_file:
+                return md_file
+        return None
 
     def fix_name(self, name):
         return name.replace(' ','-').lower()

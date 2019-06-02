@@ -22,6 +22,21 @@ class test_OSS_Participant(TestCase):
     def test__init__(self):
         assert self.participant.base_folder == 'content/participant/'
 
+    def test_exists(self):
+        assert self.participant          .exists() is True
+        assert OSS_Participant('OSS Bot').exists() is True
+        assert OSS_Participant('OSS bot').exists() is True
+        assert OSS_Participant('oss bot').exists() is True
+        assert OSS_Participant('oss-bot').exists() is True
+        assert OSS_Participant('oss_bot').exists() is False
+        assert OSS_Participant('oss_bbb').exists() is False
+        assert OSS_Participant('Dinis Cruz' ).exists() is True
+        assert OSS_Participant('dinis cruz' ).exists() is True
+        assert OSS_Participant('Dinis-Cruz' ).exists() is True
+        assert OSS_Participant('Dinis Cruz ').exists() is True
+        assert OSS_Participant('Dinis_Cruz' ).exists() is False
+        assert OSS_Participant('Dinis Cruz_').exists() is False
+
     def test_field(self):
         self.participant.field('type', 'abc')
         assert self.participant.field('type') == 'abc'
