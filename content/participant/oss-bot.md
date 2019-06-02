@@ -1,5 +1,5 @@
 ---
-OSS Bot: &id001
+sessions:
 - Agile Practices for Security Teams
 - F4V1YI
 - CKA55G
@@ -12,7 +12,6 @@ job_title: Bot for the Open Security Summit
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: *id001
 status: add-details
 test_field: an value - 123
 title: OSS Bot
