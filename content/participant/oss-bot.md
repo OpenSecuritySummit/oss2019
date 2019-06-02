@@ -8,7 +8,6 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions:
-- Agile Practices for Security Teams
 - 188AY6
 - new session
 - Creating Appsec metrics and visualisation
