@@ -10,3 +10,4 @@ organizers   :
     - Dave Snowden 
 ---
 
+Dave presenting the Cynefin framework, a conceptual framework used to aid decision-making
