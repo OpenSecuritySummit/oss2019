@@ -10,3 +10,4 @@ organizers   :
     - Dinis Cruz
 ---
 
+Expect Graphs, and Jypiter notebooks ...
