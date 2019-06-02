@@ -17,9 +17,11 @@
     <th>
         <div class="schedule-by-track-cell-room-name">
             {{ $value.title}}
+            {{ with $value.topic }}
             <div class="schedule-by-track-cell-room-id">
-                {{ $value.topic}}
+                {{ . }}
             </div>
+            {{ end }}
         </div>
         <!--<div class="schedule-by-track-cell-room-id">{{$key}}</div>-->
     </th>
