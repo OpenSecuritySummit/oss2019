@@ -13,7 +13,7 @@ room_layout  :
 room_id      : 
 session_slack: https://os-summit.slack.com/messages/CAVABULJF
 status       : review-content              # draft, review-content, done
-description  :
+description  : Kick-off session for the new AppSec Curriculum Project, to discuss goals, deliverables, roadmap, etc.
 organizers   :
     - Adrian Winckles
     - John DiLeo

@@ -13,9 +13,15 @@ project_contributor:
 project_leader:
 - Application Security Curriculum
 sessions: 
-   - Incremental Threat Modeling
+- SAMM track - Onboarding
+- OWASP Mobile Security Testing Guide 101
+- Zap - How to use it
+- Creating a Security Champions network
+- Creating Appsec metrics and visualisation
+- Application Security Verification Standard
+- Integrating Security Tools in the SDL
+- Incremental Threat Modeling
 status: ''
-test_field: Hello World
 title: John DiLeo
 travel-from: Auckland, New Zealand
 twitter: gr4ybeard

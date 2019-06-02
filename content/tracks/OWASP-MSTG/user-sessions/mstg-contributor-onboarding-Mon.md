@@ -5,13 +5,13 @@ technology   :
 track        : OWASP MSTG
 topics       :
 featured     : yes
-when_day     : Mon, Wed
-when_time    : AM-1
+when_day     : Mon
+when_time    : PM-1
 room_layout  :
 room_id      :
 session_slack:
 status       : review-content
-description  : MSTG introduction for new contributors
+description  : MSTG introduction for new contributors (Two sessions available: PM-1 on Mon, AM-1 on Wed)
 organizers   :
     - Jeroen Willemsen
 participants:
