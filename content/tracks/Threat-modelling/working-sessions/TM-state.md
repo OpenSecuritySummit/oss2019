@@ -6,7 +6,7 @@ topics       :
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Thu
+when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
 room_id      : room-3

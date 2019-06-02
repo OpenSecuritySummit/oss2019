@@ -7,7 +7,7 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Mon
-when_time    : PM-2
+when_time    : PM-1
 room_layout  :                    #
 room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAVPAADAA
@@ -22,7 +22,7 @@ locked       : true
 ## Why
 
 In order to get the most of this summit and the threat model track we will give a short introduction on our way of working and discuss all planned sessions. any new and refreshing ideas can then be added to the backlog so we can choose topics that have a large support within the community.
-This session ismeant for all participants that are new to threat modeling and/or new to the summit or threat model track.
+This session is meant for all participants that are new to threat modeling and/or new to the summit or threat model track.
 
 ## What
 
