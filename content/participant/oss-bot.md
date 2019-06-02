@@ -13,6 +13,7 @@ sessions:
 - F4V1YI
 - CKA55G
 - 188AY6
+- temp_session
 status: add-details
 test-field: Y1ONBK
 test_field: an value - 123
