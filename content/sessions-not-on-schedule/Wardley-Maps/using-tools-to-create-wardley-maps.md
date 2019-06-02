@@ -5,8 +5,8 @@ title        : Using tools to create Wardley Maps (Training Session)
 technology   :
 topics       :
 featured     :
-when_day     : Mon
-when_time    : PM-2
+#when_day     : Mon
+#when_time    : PM-2
 room_layout  :
 room_id      :
 session_slack: 
