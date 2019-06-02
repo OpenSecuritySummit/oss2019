@@ -7,7 +7,8 @@ job_title: Bot for the Open Security Summit
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Creating Appsec metrics and visualisation
 status: add-details
 test_field: changed !!!added value
 title: OSS Bot
