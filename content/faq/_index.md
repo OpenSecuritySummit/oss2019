@@ -2,4 +2,4 @@
 title    : FAQs and Logistics
 ---
 
-Current FAQs and logistics pages (see also these [help](/faq/help) pages:)
+See below for our list of FAQs and [help](/faq/help) pages
