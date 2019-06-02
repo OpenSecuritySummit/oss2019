@@ -1,0 +1,34 @@
+{{ partial "widgets/session-clues.html" . }}
+
+<table class="table">
+    <tr>
+        <th>When:</th>
+        <td>
+            {{ partial "session/when-as-links.html" . }}
+        </td>
+    </tr>
+    <!--<tr>
+        <th>Where:</th>
+        <td>
+            {{ with .Params.room_id }}
+            {{ if index $.Site.Data.schedule.rooms . }}
+            {{   $room := index $.Site.Data.schedule.rooms . }}
+            {{ $room.title }}
+            {{ end }}
+            {{ if index $.Site.Data.schedule.villas . }}
+            {{   $room := index $.Site.Data.schedule.villas . }}
+            {{ $room.title }}
+            {{ end }}
+            {{ end }}
+        </td>
+    </tr>-->
+    <tr>
+        <th>Speaker</th>
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.organizers)   }}
+        </td>
+    </tr>
+
+    {{ partial "session/participants-as-links.html" . }}
+    {{ partial "session/invited-as-links.html" . }}
+</table>
