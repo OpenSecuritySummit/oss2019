@@ -16,7 +16,7 @@ sessions:
 - Real world Chaos Engineering
 - Secrets Management
 - Integrating Security Tools in the SDL
-- Create a Slack bot in Python
+- OSS Onboarding - Welcome and Content (1st session)
 status: add details
 title: Felipe Zipitria
 travel_from: Uruguay
