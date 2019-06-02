@@ -13,7 +13,7 @@ sessions:
 - CKA55G
 status: add-details
 test-field: Y1ONBK
-test_field: K97Y5A
+test_field: 33UDCD
 test_field_2: MPMY1N
 title: OSS Bot
 travel_from: ''
