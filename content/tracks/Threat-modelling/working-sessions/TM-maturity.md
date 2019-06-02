@@ -6,7 +6,7 @@ topics       :
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Thu
+when_day     : Mon
 when_time    : PM-1
 room_layout  :                    #
 room_id      : room-1
@@ -32,4 +32,4 @@ Can maturity frameworks be updated with our measurements?
 
 ## Outcomes
 
-A list of points and onformation to measure the maturity of a TM and a TM process.
+A list of points and information to measure the maturity of a TM and a TM process.
