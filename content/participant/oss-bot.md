@@ -10,7 +10,6 @@ project_leader: ''
 sessions:
 - Agile Practices for Security Teams
 - F4V1YI
-- ZYNRM9
 - CKA55G
 status: add-details
 test-field: Y1ONBK
