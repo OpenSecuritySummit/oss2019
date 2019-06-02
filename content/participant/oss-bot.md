@@ -12,7 +12,6 @@ sessions:
 - F4V1YI
 - 188AY6
 - new session
-- Ask me anything (AMA) on GDPR
 status: add-details
 test_field: changed !!!added value
 title: OSS Bot
