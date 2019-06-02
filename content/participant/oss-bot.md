@@ -1,4 +1,9 @@
 ---
+OSS Bot: &id001
+- Agile Practices for Security Teams
+- F4V1YI
+- CKA55G
+- 188AY6
 chapter_leader: ''
 company: GMCNU3
 facebook: ''
@@ -7,12 +12,7 @@ job_title: Bot for the Open Security Summit
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions:
-- Agile Practices for Security Teams
-- F4V1YI
-- CKA55G
-- 188AY6
-- temp_session
+sessions: *id001
 status: add-details
 test_field: an value - 123
 title: OSS Bot
