@@ -11,7 +11,7 @@ room_layout  :
 room_id      :
 session_slack:
 status       : review-content
-description  : MSTG introduction for newbies (Two sessions available: PM-1 on Mon, AM-1 on Wed)
+description  : MSTG introduction for newbies (Two sessions available -  PM-1 on Mon, AM-1 on Wed)
 organizers   :
     - Jeroen Willemsen
 participants :
