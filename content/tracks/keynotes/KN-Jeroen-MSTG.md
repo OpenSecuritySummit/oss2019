@@ -10,3 +10,4 @@ organizers   :
     - Jeroen Willemsen
 ---
 
+The MSTG team is working hard on the new release of the Mobile Security Testing Guide (MSTG) during this summit.
