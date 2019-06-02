@@ -1,5 +1,5 @@
 ---
-title        : OSS Onboarding - Schedule Outcomes (3rd session)
+title        : Schedule Outcomes (#3)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon
