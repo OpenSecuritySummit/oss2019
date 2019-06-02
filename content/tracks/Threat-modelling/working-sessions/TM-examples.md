@@ -1,5 +1,5 @@
 ---
-title        : Threat Model Examples Project
+title        : Threat Model Examples Project (PM-3)
 type         : working-session      # working-session, user-session, product-session
 track        : Threat Model
 technology   : pytm,plantuml

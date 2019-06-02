@@ -59,10 +59,14 @@ class Hugo_Page():
 
     def load(self, path):
         if Files.exists(path):
-            file_data     = frontmatter.load(path)
-            relative_path = path.replace(self.folder_oss,'')
-            data = { 'path': relative_path , 'content': file_data.content, 'metadata': file_data.metadata }
-            return data
+            try:
+                file_data     = frontmatter.load(path)
+                relative_path = path.replace(self.folder_oss,'')
+                data = { 'path': relative_path , 'content': file_data.content, 'metadata': file_data.metadata }
+                return data
+            except Exception as error:
+                print('[Hugo_Page][load] for {0} error: {1}'.format(path,error))
+                
 
     def save(self, data):
         try:

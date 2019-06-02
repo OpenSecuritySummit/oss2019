@@ -1,9 +1,9 @@
 ---
-title        : Strategic Challenges
+title        : Lessons from the Legion
 type         : keynote
 featured     : yes
-when_day     : Tue
-when_time    : D2-2
+when_day     : Mon
+when_time    : DS-2
 session_slack: 
 description  : Sessions focusing on the strategic challenges facing security practioners
 organizers   :

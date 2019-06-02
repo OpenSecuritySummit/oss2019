@@ -19,4 +19,8 @@ class test_OSS_Schedule(TestCase):
     def test_sessions_mapped_by_size(self):
         self.result = self.schedule.sessions_mapped_by_size()
 
+    def test_df_sessions_registered_participants(self):
+        self.result = self.schedule.df_sessions_registered_participants()
+
+
 
