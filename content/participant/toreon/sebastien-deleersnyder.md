@@ -9,7 +9,8 @@ job_title: CEO at Toreon
 linkedin: sebadele
 project_leader:
 - SAMM
-sessions: []
+sessions:
+- SAMM user session - Introduction
 status: done
 title: Sebastien Deleersnyder
 travel_from: Belgium
