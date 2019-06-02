@@ -14,7 +14,6 @@ project_leader:
 - Application Security Curriculum
 sessions:
 - Incremental Threat Modeling
-- Creating Appsec metrics and visualisation
 status: ''
 test_field: Hello World
 title: John DiLeo
