@@ -7,9 +7,8 @@ linkedin: ''
 project_contributor:
 - OWASP Mobile Security Testing Guide
 project_user:
-- OWASP Mobile Security Testing Guide
 sessions:
-- Mobile Basic Security Testing and Reverse Engineering	
+- Mobile Basic Security Testing and Reverse Engineering
 - OWASP Mobile Security Testing Guide 101
 - Mobile Security Testing Guide onboarding
 - Mobile AppSec Verification Standard (MASVS)
