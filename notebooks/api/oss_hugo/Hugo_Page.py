@@ -2,8 +2,11 @@ import frontmatter
 from pbx_gs_python_utils.utils.Files import Files
 
 class Hugo_Page():
-    def __init__(self, base_folder=None):
-        self.folder_oss    = Files.path_combine(__file__, '../../../..')
+    def __init__(self, base_folder=None, folder_oss=None):
+        if folder_oss is None:
+            self.folder_oss    = Files.path_combine(__file__, '../../../..')
+        if base_folder is None:
+            base_folder = '.'
         self.base_folder   = base_folder
         self.file_template = Files.path_combine(self.folder_oss,"{0}/{1}".format(self.base_folder,'_template.md'))
 

@@ -1,7 +1,7 @@
 ---
-# title        : Share your Threat Models diagrams and create a Book
-# type         : working-session      # working-session, user-session, product-session
-# track        : Threat Model
+title        : Share your Threat Models diagrams and create a Book
+type         : working-session      # working-session, user-session, product-session
+track        : Threat Model
 topics       :                    # for example ["GDPR"]
 featured     : no                   # review with summit team "yes"
 when_day     : Fri                    # i.e.    Tue
