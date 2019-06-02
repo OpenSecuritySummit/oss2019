@@ -4,8 +4,8 @@ title        : Zap - How to use it (session 1)
 #track        : OWASP ZAP
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
-when_day     : Mon
-when_time    : Eve-1
+#when_day     : Mon
+#when_time    : Eve-1
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAUP27C2C
