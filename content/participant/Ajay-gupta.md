@@ -13,7 +13,7 @@ sessions:
 - Dealing with DevSecOps Findings 
 - Secrets Management
 status: add-details
-title: 'Ajy Gupta'
+title: Ajy Gupta
 travel_from: ''
 twitter: ''
 type: participant
