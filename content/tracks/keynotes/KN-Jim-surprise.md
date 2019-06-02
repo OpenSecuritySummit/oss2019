@@ -10,3 +10,4 @@ organizers   :
     - Jim Manico
 ---
 
+Jim will be entertaining us during lunch
