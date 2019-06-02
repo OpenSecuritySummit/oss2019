@@ -9,7 +9,6 @@ notes: ''
 project_leader: ''
 sessions:
 - Agile Practices for Security Teams
-- F4V1YI
 - 188AY6
 - new session
 status: add-details
