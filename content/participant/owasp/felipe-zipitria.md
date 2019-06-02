@@ -16,7 +16,6 @@ sessions:
 - Real world Chaos Engineering
 - Secrets Management
 - Integrating Security Tools in the SDL
-- OSS Onboarding - Welcome and Content (1st session)
 status: add details
 title: Felipe Zipitria
 travel_from: Uruguay
