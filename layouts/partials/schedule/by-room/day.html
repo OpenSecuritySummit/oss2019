@@ -18,7 +18,7 @@
     {{  end }}
 {{ end }}
 
-{{ partial "schedule/by-room/location.html" (dict "self" .self "location" "Conference Rooms" "where" .self.Site.Data.schedule.rooms "times" (slice "AM-1" "PM-1" "PM-2" "PM-3") )}}
+{{ partial "schedule/by-room/location.html" (dict "self" .self "location" "Conference Rooms" "where" .self.Site.Data.schedule.rooms "times" (slice "TS-1" "TS-2" "TS-3" "TS-4" "TS-5" "TS-6" "AM-1" "PM-1" "PM-2" "PM-3") )}}
 
 {{ partial "schedule/by-room/location.html" (dict "self" .self "location" "Main conference Hall" "where" .self.Site.Data.schedule.main_hall "times" (slice "KN-1" "KN-2" "DS-1" "DS-2" "DS-3" ) )}}
 
