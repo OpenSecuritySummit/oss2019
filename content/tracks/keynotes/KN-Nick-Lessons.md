@@ -4,7 +4,8 @@ type         : keynote
 featured     : yes
 when_day     : Mon
 when_time    : DS-2
-session_slack: 
+room_id      : main-stage
+session_slack:
 description  : Sessions focusing on the strategic challenges facing security practioners
 organizers   :
     - Nick Drage
