@@ -1345,6 +1345,7 @@ hr.container.no-margin {
 /** OSS container for participant cards */
   .list-attendees-container {
     display: flex;
+    flex-grow: 0;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 10px;
@@ -1482,6 +1483,11 @@ hr.container.no-margin {
 }
 
 /* 30/05/2018 the following style is for the summit teams page */
+.team_image {
+  margin-top: 20px;  
+}
+
+
 .list_team_attendees h2 {
   padding-top: 40px;
   font-size: 48px;
