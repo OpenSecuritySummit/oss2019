@@ -11,7 +11,6 @@ sessions:
 - Agile Practices for Security Teams
 - F4V1YI
 - CKA55G
-- temp_session
 status: add-details
 test-field: Y1ONBK
 test_field: an value
