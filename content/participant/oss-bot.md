@@ -13,7 +13,7 @@ sessions:
 - CKA55G
 - 188AY6
 status: add-details
-test_field: abc
+test_field: changed !!!
 title: OSS Bot
 travel_from: ''
 twitter: ''
