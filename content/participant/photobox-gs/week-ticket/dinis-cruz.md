@@ -26,6 +26,7 @@ sessions:
 - Using Wardley Maps and Cynefin for Security
 - Introduction to Cynefin Framework (Training Session)
 - Using Cynefin Framework making strategic security decisions
+- Ask me anything (AMA) on GDPR
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
