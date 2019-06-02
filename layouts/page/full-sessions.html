@@ -24,9 +24,12 @@
 
     <h2>Sessions List</h2>
 
-    <p>
-        Here are the Sessions currently planned for the Summit
-    </p>
+    <p>Here are the Keynotes currently planned for the Summit</p>
+
+    {{ $keynotes := where (where .Site.Pages ".Params.type" "keynote") ".Params.title" "ne" "" }}
+    {{ partial "sessions/simple-table-all-columns.html" $keynotes }}
+
+    <p>Here are the Sessions currently planned for the Summit</p>
 
     {{ $wsessions := where (where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit") ".Params.title" "ne" "" }}
     {{ $usessions := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
