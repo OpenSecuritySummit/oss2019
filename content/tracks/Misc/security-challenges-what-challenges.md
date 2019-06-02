@@ -15,6 +15,10 @@ session_slack:
 status       : draft              # draft, review-content, done
 description  : Introduction and overview
 organizers   : Nick Drage
+outcomes_slide: https://docs.google.com/presentation/d/1-oIbl9U_CKx3kua9YI9wutK6ZCa3_OHd7JhrtIkZbsE/edit
+outcome_summary: 
+outcome_items:
+outcome_next_steps:
 participants :
 ---
 
