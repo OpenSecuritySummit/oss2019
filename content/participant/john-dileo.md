@@ -12,7 +12,8 @@ project_contributor:
 - SAMM
 project_leader:
 - Application Security Curriculum
-sessions: Incremental Threat Modeling
+sessions: 
+- Incremental Threat Modeling
 status: ''
 test_field: Hello World
 title: John DiLeo
