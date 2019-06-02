@@ -23,3 +23,8 @@ villa-5:
   layout   : tbd
   location : 180
   capacity : 40
+villa-6:
+  title    : MSTG
+  layout   : tbd
+  location : 708
+  capacity : 10
