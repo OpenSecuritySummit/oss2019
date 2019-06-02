@@ -10,7 +10,6 @@ project_leader: ''
 sessions:
 - Agile Practices for Security Teams
 - F4V1YI
-- CKA55G
 - 188AY6
 - new session
 - Ask me anything (AMA) on GDPR
