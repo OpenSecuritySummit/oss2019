@@ -11,6 +11,7 @@ sessions:
 - Agile Practices for Security Teams
 - 188AY6
 - new session
+- Creating Appsec metrics and visualisation
 status: add-details
 test_field: changed !!!added value
 title: OSS Bot
