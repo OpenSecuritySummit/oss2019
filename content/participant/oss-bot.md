@@ -7,8 +7,7 @@ job_title: Bot for the Open Security Summit
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions:
-- abc
+sessions: []
 status: add-details
 test_field: changed !!!added value
 title: OSS Bot
