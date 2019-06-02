@@ -9,6 +9,7 @@ notes: ''
 project_leader: ''
 sessions:
 - Creating Appsec metrics and visualisation
+- an session that doesn’t exist
 status: add-details
 test_field: changed !!!added value
 title: OSS Bot
