@@ -5,7 +5,7 @@ from oss_hugo.Hugo_Page import Hugo_Page
 
 class OSS_Participant:
 
-    def __init__(self,name=None,folder_oss=None):
+    def __init__(self, name=None, folder_oss=None):
         self.base_folder  = 'content/participant/'
         self.hugo_page    = Hugo_Page(base_folder=self.base_folder,folder_oss=folder_oss)
         self.name         = name
