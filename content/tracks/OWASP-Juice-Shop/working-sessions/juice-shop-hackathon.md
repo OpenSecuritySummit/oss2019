@@ -16,7 +16,7 @@ organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Develop new features and hacking challenges, beta-test those new
 challenges and improve the OWASP Juice Shop project across the board.
