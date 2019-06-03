@@ -11,7 +11,7 @@ sessions:
 - Creating a Security Champions network
 - Wardley Maps for Security
 - Using Wardley Maps on SOC
-- Introduction to Cynefin Framework (Training Session)
+- SOC Monitoring Visualisation
 status: add-details
 title: Hwee Ching Neo
 travel_from: ''
