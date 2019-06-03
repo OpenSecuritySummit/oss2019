@@ -7,7 +7,8 @@ job_title: Security Engineer
 linkedin: https://www.linkedin.com/in/phil-winstanley/
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Agile Practices for Security Teams
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
