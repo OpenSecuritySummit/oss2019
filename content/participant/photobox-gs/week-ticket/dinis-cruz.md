@@ -26,6 +26,7 @@ sessions:
 - Introduction to Cynefin Framework (Training Session)
 - Using Cynefin Framework making strategic security decisions
 - Lightweight privacy threat modeling using LINDDUN
+- Mapping boot camp
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
