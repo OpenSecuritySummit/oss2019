@@ -18,6 +18,7 @@ sessions        :
     - Creating a generic diagram of a threat model
     - TM maturity
     - Automated Threat Hunting Project Collaboration
+    - Threat pattern libraries
     - Incremental Threat Modeling
 
 notes           :
