@@ -21,6 +21,7 @@ sessions:
 - Hand's on Wardley Maps creation
 - Introduction to Wardley Maps
 - TM maturity
+- Secrets Management
 status: add details
 title: Tom Ling
 travel-from: Somerset
