@@ -6,6 +6,14 @@ job_title: Cyber Risk Manager
 linkedin: didargelici
 sessions:
 - Using graphs for GDPR mappings and visualisations
+- ZAP working session - automation
+- Ask me anything (AMA) on GDPR
+- DevSecOps Maturity Model (DSOMM)
+- Zap - How to use it
+- Integrating Security Tools in the SDL
+- Third Party Due Diligence
+- From Threat Modeling to DevSecOps metrics
+- 
 status: add details
 title: Didar Gelici
 travel_from: Earlsfield

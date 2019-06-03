@@ -1,6 +1,5 @@
 ---
 title       : Summit Catering
-date        : 2019-06-02T16:46:38-03:00
 layout      : FAQ
 ---
 

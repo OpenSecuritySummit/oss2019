@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- <https://open-security-summit.org/tracks/owasp-samm/working-sessions/samm-outreach/>
 status: add details
 title: Tanja Peeters
 travel-from: ''

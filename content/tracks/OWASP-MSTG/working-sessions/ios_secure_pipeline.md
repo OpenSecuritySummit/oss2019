@@ -8,7 +8,7 @@ featured     : yes                # review with summit team "yes"
 when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-5
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Sven Schleier

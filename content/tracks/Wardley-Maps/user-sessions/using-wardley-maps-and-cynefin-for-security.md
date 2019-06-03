@@ -11,7 +11,7 @@ room_layout  :
 room_id      :
 session_slack: 
 status       : draft
-description  : session on the intersection of Wardley Maps and Cynefin Framework for Security
+description  : An introduction to the Cynefin Framework, and its intersection with Wardley Maps, for Security
 organizers   :
     - Simon Wardley
     - Dave Snowden

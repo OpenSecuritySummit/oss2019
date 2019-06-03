@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Wed
 when_time    : AM-1
 room_layout  :
-room_id      :
+room_id      : room-6
 session_slack:
 status       : review-content
 description  : MSTG introduction for new contributors (Two sessions available - PM-1 on Mon, AM-1 on Wed)

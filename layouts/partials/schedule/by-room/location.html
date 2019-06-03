@@ -9,17 +9,18 @@
     <h2> {{.location}} </h2>
 </div>
 
-
-<table class="table">
+<table class="table" id="{{replace .location " " "_"}}">
     <thead>
     <th class="schedule-by-track-row-time"></th>
     {{ range $key ,$value := .where}}
     <th>
         <div class="schedule-by-track-cell-room-name">
             {{ $value.title}}
+            {{ with $value.topic }}
             <div class="schedule-by-track-cell-room-id">
-                {{ $value.topic}}
+                {{ . }}
             </div>
+            {{ end }}
         </div>
         <!--<div class="schedule-by-track-cell-room-id">{{$key}}</div>-->
     </th>

@@ -1,14 +1,14 @@
 ---
-title        : Juice Shop Hack'n'Code
+title        : Juice Shop Hack'n'Code (Mon)
 type         : working-session
 technology   :
 track        : OWASP Juice Shop
 topics       :
 featured     : yes
-when_day     : Mon,Tue,Wed
-when_time    : Eve-1, Eve-2
+when_day     : Mon
+when_time    : Eve-1,Eve-2
 room_layout  :
-room_id      :
+room_id      : villa-2
 session_slack: https://os-summit.slack.com/messages/CJN571RB5
 status       : review-content
 description  : Coding for and hacking of the OWASP Juice Shop
@@ -16,7 +16,7 @@ organizers   : Bjoern Kimminich
 participants :
 ---
 
-## WHY
+## Why
 
 Develop new features and hacking challenges, beta-test those new
 challenges and improve the OWASP Juice Shop project across the board.

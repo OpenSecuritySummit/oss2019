@@ -7,9 +7,12 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- oss-oboarding-welcome-content-3rd
+- security-challenges-what-challenges
+- kn-nick-lessons
 status: add details
-title: Ben Scofield
+title: Philippe De Ryck
 travel-from: ''
 twitter: ''
 type: participant

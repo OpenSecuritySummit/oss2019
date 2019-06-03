@@ -8,14 +8,15 @@ linkedin: sean-turner-secops
 notes: ''
 project_leader: ''
 sessions:
-  - ZAP working session - automation
-  - Application Security Verification Standard
-  - Mobile AppSec Verification Standard (MASVS)
-  - Mobile Basic Security Testing and Reverse Engineering
-  #- Lightweight Privacy Threat Modelling Using LINDUN
-  - Secrets Management
-  - Writing security tests to confirm vulnerabilities and fixes
-  - Securing the CI Pipeline
+- ZAP working session - automation
+- Application Security Verification Standard
+- Mobile AppSec Verification Standard (MASVS)
+- Mobile Basic Security Testing and Reverse Engineering
+- Secrets Management
+- Writing security tests to confirm vulnerabilities and fixes
+- Securing the CI Pipeline
+- Real World chaos Engineering
+- Real world Chaos Engineering
 status: ''
 title: Sean Turner
 travel-from: Coventry

@@ -17,7 +17,8 @@ status          : add-details
 sessions        :
     - State and future of threat modeling
     - Towards a unified way of describing threat models
-    - How to scale Threat Modeling
+    - Threat Model Cookbook Project (Part 1)
+    - Threat Model Cookbook Project (Part 2)
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---

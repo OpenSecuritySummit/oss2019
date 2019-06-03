@@ -13,7 +13,6 @@ sessions:
 - Real world Chaos Engineering
 - Using graphs for GDPR mappings and visualisations
 - Integrating Security Tools in the SDL
-- OWASP Application Security Curriculum Project
 status: add details
 title: Adrian Winckles
 travel_from: Cambridge

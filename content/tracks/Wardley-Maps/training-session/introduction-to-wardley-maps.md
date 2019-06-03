@@ -1,5 +1,5 @@
 ---
-title        : Introduction to Wardley Maps (Training Session)
+title        : Introduction to Wardley Maps
 type         : working-session      # working-session, user-session, product-session
 track        : Wardley Maps
 technology   :
@@ -7,8 +7,8 @@ topics       :
 featured     :
 when_day     : Mon
 when_time    : PM-1
+room_id      : room-2
 room_layout  :
-room_id      :
 session_slack: 
 status       : done
 description  : New to Wardley maps? This session is for you

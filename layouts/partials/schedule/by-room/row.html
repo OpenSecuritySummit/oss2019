@@ -1,4 +1,4 @@
-<tr>
+<tr id="{{ replace .time  "-" "_" }}">
     <td>{{ .time }}
         <div class="session-time">
         {{ index .self.Site.Data.schedule.times .time}}

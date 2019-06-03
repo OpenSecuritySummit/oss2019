@@ -12,7 +12,7 @@ project_contributor:
 - SAMM
 project_leader:
 - Application Security Curriculum
-sessions: 
+sessions:
 - SAMM track - Onboarding
 - OWASP Mobile Security Testing Guide 101
 - Zap - How to use it
@@ -21,6 +21,7 @@ sessions:
 - Application Security Verification Standard
 - Integrating Security Tools in the SDL
 - Incremental Threat Modeling
+- SAMMv2 - Threat Modeling
 status: ''
 title: John DiLeo
 travel-from: Auckland, New Zealand

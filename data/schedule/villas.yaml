@@ -1,35 +1,30 @@
 villa-1:
-  title    : OWASP SAMM
+  title    : SAMM
   layout   : tbd
-  location : 311
-  capacity : 40
+  location : 157
+  capacity : 10
 villa-2:
-  title    : DevSecCon
+  title    : Juice Shop
   layout   : tbd
-  location : 313
-  capacity : 40
+  location : 174
+  capacity : 10
 villa-3:
-  title    : Owasp Projects
+  title    : Sessions 1
   layout   : tbd
-  location : 314
-  capacity : 40
+  location : 178
+  capacity : 10
 villa-4:
-  title    : CertDev
+  title    : Sessions 2
   layout   : tbd
-  location : 316
-  capacity : 40
+  location : 179
+  capacity : 10
 villa-5:
-  title    : Photobox
+  title    : Dinner Villa
   layout   : tbd
-  location : 317
+  location : 180
   capacity : 40
 villa-6:
-  title    : Threat Modeling
+  title    : MSTG
   layout   : tbd
-  location : 320
-  capacity : 40
-villa-7:
-  title    : Women in Tech
-  layout   : tbd
-  location : 321
-  capacity : 40
+  location : 708
+  capacity : 10

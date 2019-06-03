@@ -15,10 +15,9 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
-    - Towards a unified way of describing threat models
-    - How do we persist the information from the TM Slack channel?
-    - How to scale Threat Modeling
     - State and future of threat modeling
+    - Towards a unified way of describing threat models
+    - Incremental Threat Modeling
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
