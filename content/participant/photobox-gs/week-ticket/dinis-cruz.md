@@ -28,6 +28,7 @@ sessions:
 - Lightweight privacy threat modeling using LINDDUN
 - Mapping boot camp
 - another
+- Zap - How to use it
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
