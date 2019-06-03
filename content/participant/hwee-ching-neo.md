@@ -7,7 +7,11 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Creating a Security Champions network
+- Wardley Maps for Security
+- Using Wardley Maps on SOC
+- Introduction to Cynefin Framework (Training Session)
 status: add-details
 title: Hwee Ching Neo
 travel_from: ''
