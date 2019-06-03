@@ -18,7 +18,6 @@ sessions:
 - Creating a generic diagram of a threat model
 - TM maturity
 - Threat Model Cookbook Project (Part 1)
-- Security data science
 - Zap - How to use it
 - Juice Shop 101
 status: add details
