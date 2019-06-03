@@ -8,7 +8,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue            # i.e.    Tue
 when_time    : PM-3              # i.e.    AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-3
 session_slack: 
 status       : done              # draft, review-content, done
 description  : Kick off of the OWASP Threat Model Examples Project
