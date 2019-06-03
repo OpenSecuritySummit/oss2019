@@ -13,6 +13,7 @@ sessions:
 - samm-roundtable
 - samm-measurement2
 - tm-samm
+- samm-outreach
 status: add details
 title: Tanja Peeters
 travel-from: ''
