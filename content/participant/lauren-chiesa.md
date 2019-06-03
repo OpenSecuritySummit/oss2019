@@ -20,7 +20,6 @@ sessions:
 - Threat Model Cookbook Project (Part 1)
 - Security data science
 - Zap - How to use it
-- Agile Practices for Security Teams
 status: add details
 title: Lauren Chiesa
 travel-from: ''
