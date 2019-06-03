@@ -13,6 +13,7 @@ sessions:
 - DevSecOps Maturity Model (DSOMM)
 - State and future of threat modeling
 - TM track introduction
+- TM maturity
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
