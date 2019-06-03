@@ -20,6 +20,7 @@ sessions:
 - Threat Model Cookbook Project (Part 1)
 - Zap - How to use it
 - Juice Shop 101
+- Security data science
 status: add details
 title: Lauren Chiesa
 travel-from: ''
