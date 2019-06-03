@@ -8,7 +8,8 @@ linkedin: ''
 notes: ''
 project_leader:
 - Capture The Flag
-sessions: []
+sessions:
+- TM track introduction
 status: add-details
 title: Steven van der Baan
 travel_from: ''
