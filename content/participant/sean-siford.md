@@ -18,6 +18,7 @@ sessions:
 - State and future of threat modeling
 - Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
+- Lightweight privacy threat modeling using LINDDUN
 status: add details
 title: Sean Siford
 travel-from: Devon
