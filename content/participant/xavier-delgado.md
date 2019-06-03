@@ -1,6 +1,6 @@
 ---
 chapter_leader: ''
-company: ''
+company: Axa Assistance
 facebook: ''
 image: ''
 job_title: ''
