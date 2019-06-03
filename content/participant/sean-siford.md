@@ -19,6 +19,7 @@ sessions:
 - Real world Chaos Engineering
 - Lightweight privacy threat modeling using LINDDUN
 - Agile Practices for Security Teams
+- Zap - How to use it
 status: add details
 title: Sean Siford
 travel-from: Devon
