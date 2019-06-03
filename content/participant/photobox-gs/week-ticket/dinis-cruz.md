@@ -29,7 +29,6 @@ sessions:
 - Mapping boot camp
 - Zap - How to use it
 - Introduction to Wardley Maps
-- asd
 - Security Challenges - An Introduction
 status: done
 title: Dinis Cruz
