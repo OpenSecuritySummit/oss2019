@@ -1,5 +1,5 @@
 ---
-title        : Training Jupyter (3rd session)
+title        : Jupyter Training (#3)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon

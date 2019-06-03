@@ -1,5 +1,5 @@
 ---
-title        : OSS Onboarding - Welcome and Content (1st session)
+title        : Welcome and Content (#1)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon

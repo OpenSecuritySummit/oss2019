@@ -1,5 +1,5 @@
 ---
-title        : Training Wardley Maps (1st session)
+title        : Wardley Maps Training (#1)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon
