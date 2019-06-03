@@ -18,9 +18,8 @@ participants :
 
 ## Why
 
-Publish the results of the
-[Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon/)
-sessions in a new Juice Shop release!
+Publish the results of the _Juice Shop Hack'n'Code_ sessions on 
+[Monday](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-mon/), [Tuesday](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-tue/) and [Wednesday](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-wed/) in a new Juice Shop release!
 
 ## What
 
@@ -33,8 +32,9 @@ sessions in a new Juice Shop release!
 
 This working session will result in the public release of `v8.7.0` of
 OWASP Juice Shop. The results accumulated from each
-[Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon1/)
-evening session will be part of this release.
+_Juice Shop Hack'n'Code_ session on 
+[Mon](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-mon/), [Tue](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-tue/) and [Wed](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-wed/)
+evening will be part of this release.
 
 ## References
 
@@ -47,5 +47,5 @@ evening session will be part of this release.
 
 * [Juice Shop Contributor Onboarding](/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/)
   user session
-* [Juice Shop Hack'n'Code](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon1/)
-  evening sessions
+* _Juice Shop Hack'n'Code_ evening sessions on 
+[Mon](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-mon/), [Tue](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-tue/) and [Wed](/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-wed/)
