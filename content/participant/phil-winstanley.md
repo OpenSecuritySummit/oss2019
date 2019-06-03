@@ -15,6 +15,7 @@ sessions:
 - TM track introduction
 - TM maturity
 - Lightweight privacy threat modeling using LINDDUN
+- Creating Appsec metrics and visualisation
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
