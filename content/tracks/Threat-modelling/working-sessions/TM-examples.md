@@ -1,5 +1,5 @@
 ---
-title        : Threat Model Examples Project (PM-3)
+title        : Threat Model Cookbook Project (Part 1)
 type         : working-session      # working-session, user-session, product-session
 track        : Threat Model
 technology   : pytm,plantuml
@@ -11,7 +11,7 @@ room_layout  :                    #
 room_id      :
 session_slack: 
 status       : done              # draft, review-content, done
-description  : Kick off of the OWASP Threat Model Examples Project
+description  : Kick off of the OWASP Threat Model Cookbook Project
 organizers   :
     - Jonathan Marcil
     - Tash Norris
@@ -23,16 +23,19 @@ participants :
 ---
 ## WHY
 
-This working session will kick start the OWASP Project and we will jam some threat models on the spot!
+This working session will kick start the OWASP Project!
 
 ## What
 
-Details about content formats and some examples are already available on https://linktr.ee/threatmodel.
+We created that repository last year: https://github.com/OWASP/threat-model-cookbook.
+
+This year another project code named "Threat Model Examples" was in the work, and now it will merge and be the Cookbooks since it's pretty much the same project idea.
 
 
 ## Outcomes
 
-Explenation on the way of working.
-Threat models being added to the repository.
-Call to action
-
+- Explanation on the way of working
+- Leadership of the project defined
+- Naming of the project decided (cookbooks or cookbook?)
+- Restructuration of repository (access rights, folders and files)
+- Registration of the project started

@@ -4,13 +4,13 @@ type         : working-session
 track        : Misc
 technology   :
 categories   :
-when_day     :
-when_time    : Eve-1,Eve-2
+when_day     : Tue
+when_time    : Eve-1
 room_layout  :
 room_id      :
 session_slack: 
 status       : draft              # draft, review-content, done
-description  : Documents related to community outreach promoting OWASP content.
+description  : Documents related to community outreach promoting OWASP content
 organizers   :
     - Jonathan Marcil
 participants:
