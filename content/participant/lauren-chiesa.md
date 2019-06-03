@@ -17,6 +17,7 @@ sessions:
 - Agile Practices for Security Teams
 - How do we persist the information from the TM Slack channel?
 - Creating a generic diagram of a threat model
+- TM maturity
 status: add details
 title: Lauren Chiesa
 travel-from: ''
