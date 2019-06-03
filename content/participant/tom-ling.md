@@ -17,6 +17,7 @@ sessions:
 - Writing security tests to confirm vulnerabilities and fixes
 - Securing the CI Pipeline
 - Security Challenges - Next step
+- Wardley Maps
 status: add details
 title: Tom Ling
 travel-from: Somerset
