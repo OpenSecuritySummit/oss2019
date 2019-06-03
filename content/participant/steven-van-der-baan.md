@@ -17,6 +17,7 @@ sessions:
 - THREAT MODEL COOKBOOK PROJECT (PART 2)
 - Towards a unified way of describing threat models
 - Threat Model Cookbook Project (Part 1)
+- Threat Model Cookbook Project (Part 2)
 status: add-details
 title: Steven van der Baan
 travel_from: ''
