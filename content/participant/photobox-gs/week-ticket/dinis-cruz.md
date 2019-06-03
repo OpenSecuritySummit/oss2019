@@ -27,6 +27,7 @@ sessions:
 - Using Cynefin Framework making strategic security decisions
 - Lightweight privacy threat modeling using LINDDUN
 - Mapping boot camp
+- another
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
