@@ -1,7 +1,7 @@
 ---
 company: ''
 facebook: ''
-image: ''
+image: https://pbs.twimg.com/profile_images/690298072262377472/UA1GLnzU_400x400.jpg
 job_title: ''
 linkedin: ''
 sessions:
@@ -12,7 +12,7 @@ sessions:
 status: add details
 title: Dave Snowden
 travel_from: ''
-twitter: ''
+twitter: snowded
 type: participant
 website: ''
 ---
