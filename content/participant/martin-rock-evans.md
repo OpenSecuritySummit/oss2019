@@ -23,6 +23,7 @@ sessions:
 - Writing security tests to confirm vulnerabilities and fixes
 - Dealing with DevSecOps Findings
 - TM track introduction
+- Lightweight privacy threat modeling using LINDDUN
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
