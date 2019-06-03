@@ -12,7 +12,7 @@ website         :
 email           : 
 project_leader  :
 chapter_leader  :
-eventbrite_id   : 961372842
+eventbrite_id   : 9613728421221627440001
 status          : add-details
 sessions        : 
 notes           :
