@@ -13,6 +13,8 @@ sessions:
 - JUPYTER TRAINING (#2)
 - DEVSECOPS MATURITY MODEL (DSOMM)
 - devsecops maturity model (dsomm)
+- JUPYTER TRAINING (#2)
+- USING CYNEFIN FRAMEWORK MAKING STRATEGIC SECURITY DECISIONS
 status: add details
 title: Ben Schofield
 travel-from: ''

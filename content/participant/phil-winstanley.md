@@ -7,7 +7,16 @@ job_title: Security Engineer
 linkedin: https://www.linkedin.com/in/phil-winstanley/
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Agile Practices for Security Teams
+- Creating Appsec metrics and visualisation
+- DevSecOps Maturity Model (DSOMM)
+- State and future of threat modeling
+- TM track introduction
+- TM maturity
+- Lightweight privacy threat modeling using LINDDUN
+- Creating Appsec metrics and visualisation
+- Incremental Threat Modeling
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
