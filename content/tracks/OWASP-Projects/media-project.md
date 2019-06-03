@@ -4,7 +4,7 @@ type         : working-session
 track        : OWASP Projects
 technology   :
 categories   :
-when_day     : Tue, Wed
+when_day     : Wed
 when_time    : Eve-1
 room_layout  :
 room_id      :
