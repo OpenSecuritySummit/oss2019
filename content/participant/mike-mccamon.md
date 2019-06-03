@@ -9,6 +9,7 @@ notes: ''
 project_leader: ''
 sessions: 
 - Security Challenges - An Introduction
+- Ask me anything (AMA) on GDPR
 status: add-details
 title: Mike McCamon
 travel_from: US
