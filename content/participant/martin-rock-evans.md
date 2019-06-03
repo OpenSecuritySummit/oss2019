@@ -24,6 +24,7 @@ sessions:
 - Dealing with DevSecOps Findings
 - TM track introduction
 - Lightweight privacy threat modeling using LINDDUN
+- Lightweight privacy threat modeling using LINDDUN Part II
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
