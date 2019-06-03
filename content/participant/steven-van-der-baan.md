@@ -10,6 +10,7 @@ project_leader:
 - Capture The Flag
 sessions:
 - TM track introduction
+- Lightweight privacy threat modeling using LINDDUN
 status: add-details
 title: Steven van der Baan
 travel_from: ''
