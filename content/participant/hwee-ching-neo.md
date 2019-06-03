@@ -7,7 +7,7 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions: [Creating a Security Champions network]
 status: add-details
 title: Hwee Ching Neo
 travel_from: ''
