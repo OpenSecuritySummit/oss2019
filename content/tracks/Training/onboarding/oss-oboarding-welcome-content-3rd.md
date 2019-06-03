@@ -10,6 +10,3 @@ organizers   :
     - Sebastien Deleersnyder
 participants :
 ---
-
-
-Wardley Maps for Securitycreat

@@ -10,7 +10,7 @@ featured     : yes
 when_day     : Tue
 when_time    : AM-1
 room_layout  :                    #
-room_id      : 
+room_id      : room-2
 session_slack: 
 status       : review-content              # draft, review-content, done
 description  : Working session on ZAP automation

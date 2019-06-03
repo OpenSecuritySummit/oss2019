@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Thu
 when_time    : AM-1
 room_layout  :
-room_id      :
+room_id      : room-4
 session_slack: https://os-summit.slack.com/messages/CK1D4FCSK
 status       : review-content
 description  : Refactoring the categories and difficulty ratings of the OWASP Juice Shop challenges

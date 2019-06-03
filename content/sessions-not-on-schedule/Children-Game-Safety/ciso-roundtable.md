@@ -4,8 +4,8 @@ title        : CISO Ask Me Anything (AMA)
 track        : CISO
 topics       : ["CISO"]
 featured     : yes                # if  "yes" review with summit team
-when_day     : Thu
-when_time    : PM-2
+#when_day     : Thu
+#when_time    : PM-2
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAURV0D09

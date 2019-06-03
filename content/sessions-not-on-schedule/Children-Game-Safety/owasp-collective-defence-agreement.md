@@ -1,13 +1,13 @@
 ---
 title        : OWASP Collective Defence Cluster (CDC) - two years on
 #type         : working-session
-track        : CISO
+#track        : CISO
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
-when_day     : Tue
-when_time    : DS-2
+#when_day     : Tue
+#when_time    : DS-2
 room_layout  :
-room_id      : table-3
+#room_id      : table-3
 session_slack: https://os-summit.slack.com/messages/CAUSJ7P4H
 status       : review-content     # draft, review-content, done
 organizers   :

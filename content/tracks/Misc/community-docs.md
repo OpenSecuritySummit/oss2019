@@ -7,7 +7,7 @@ categories   :
 when_day     : Tue
 when_time    : Eve-1
 room_layout  :
-room_id      :
+room_id      : virtual-1
 session_slack: https://os-summit.slack.com/messages/CK7JX129W
 status       : done              # draft, review-content, done
 description  : Documents related to community outreach promoting OWASP content

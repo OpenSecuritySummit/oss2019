@@ -29,7 +29,7 @@ sessions        :
 - Threat Model Examples Project
 - Threat Model Examples Project
 - Towards a unified way of describing threat models
-- Hand's on Wardley Maps creation (Training Session)
+- Hand's on Wardley Maps creation
 - Introduction to Wardley Maps (Training Session)
 - Mapping boot camp
 - Wardley Mapping - Climatic Patterns and Using Doctrine

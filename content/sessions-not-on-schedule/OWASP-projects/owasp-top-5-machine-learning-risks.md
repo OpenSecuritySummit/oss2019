@@ -6,7 +6,7 @@ topics       : ["Owasp Project", "AI & ML"]
 technology   :
 categories   : ["OWASP projects"]
 featured     :
-when_day     : Fri
+#when_day     : Fri
 when_time    : AM-1
 room_layout  :                    #
 room_id      : room-2

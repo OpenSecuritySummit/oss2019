@@ -3,7 +3,8 @@ title        : Security data science
 type         : keynote
 featured     : yes
 when_day     : Tue
-when_time    : DS-1
+when_time    : KN-1
+room_id      : main-stage
 session_slack: 
 description  : Expect Graphs, and Jypiter notebooks ...
 organizers   :

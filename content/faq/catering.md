@@ -30,7 +30,7 @@ Lunch is served in the dining area of The Venue, from 12:30 - 13:30.
 |Churros in cinnamon sugar                  |Tiramisu jar                 |Banoffee cheesecake jar                             |Eton mess                          |Passion fruit and ginger cheesecake jar |
 
 ### Dinner
-Dinner is served in the Dinner Villa, from 18:30 - 19:30. Each evening will feature a different theme.
+Dinner is served in the Dinner Villa (180), from 18:30 - 19:30. Each evening will feature a different theme.
 
 {{< table "table" >}}
 |Monday    |Tuesday          |Wednesday   |Thursday   |
