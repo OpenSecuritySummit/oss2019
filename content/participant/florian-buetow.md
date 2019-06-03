@@ -13,7 +13,9 @@ sessions:
     #Monday
     - Towards a unified way of describing threat models
     - Lightweight privacy threat modeling using LINDDUN
+    - Introduction to Wardley Maps
     - Security Challenges - An Introduction
+    - Hand's on Wardley Maps creation
     # Tuesday
     - Agile Practices for Security Teams
     - Security Challenges - Analysis, Analogies
