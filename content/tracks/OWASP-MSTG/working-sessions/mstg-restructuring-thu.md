@@ -1,14 +1,14 @@
 ---
-title        : Mobile Basic Security Testing and Reverse Engineering
+title        : Mobile Basic Security Testing and Reverse Engineering (Thu)
 type         : working-session    # working-session, user-session
 track        : OWASP MSTG
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     :                # review with summit team "yes"
-when_day     : Mon,Tue,Wed,Thu
+when_day     : Thu
 when_time    : AM-1,DS-2,PM-1,PM-2
 room_layout  :                    #
-room_id      : room-4
+room_id      : room-6
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : 
