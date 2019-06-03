@@ -10,7 +10,7 @@ project_leader: ''
 sessions: []
 status: add-details
 title: Xavier Delgado
-travel_from: ''
+travel_from: Spai
 twitter: ''
 type: participant
 website: ''
