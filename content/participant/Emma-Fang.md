@@ -7,7 +7,7 @@ job_title: 'Information Security Consultant'
 linkedin: 'linkedin.com/in/emma-fang-67b8b250'
 notes: ''
 project_leader: ''
-sessions: []
+sessions: [Creating a generic diagram of a threat model]
 status: add-details
 title: 'Emma Fang'
 travel_from: 'London'
