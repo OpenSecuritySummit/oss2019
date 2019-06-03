@@ -9,9 +9,9 @@ project_contributor:
 - Juice Shop
 - secureCodeBox
 sessions:
-- Juice Shop Hack’n’Code (Mon)
-- Juice Shop Hack’n’Code (Tue)
-- Juice Shop Hack’n’Code (Wed)
+- Juice Shop Hack'n'Code (Mon)
+- Juice Shop Hack'n'Code (Tue)
+- Juice Shop Hack'n'Code (Wed)
 - Juice Shop Challenge Refactoring
 - Juice Shop Round Table
 - Juice Shop Release Night
