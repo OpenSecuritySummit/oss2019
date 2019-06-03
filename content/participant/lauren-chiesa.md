@@ -11,6 +11,7 @@ sessions:
 - Wardley Maps Training (#2)
 - Threat Modeling Training (#3)
 - OWASP SAMM Training (#3)
+- TM track introduction
 status: add details
 title: Lauren Chiesa
 travel-from: ''
