@@ -4,7 +4,7 @@ company: Axa Assistance
 facebook: ''
 image: //xavi.al/xavi.png
 job_title: CyberSecurity Developer
-linkedin: <https://www.linkedin.com/in/xavi-al/>
+linkedin: ///www.linkedin.com/in/xavi-al/
 notes: ''
 project_leader: ''
 sessions: []
