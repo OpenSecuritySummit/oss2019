@@ -1,5 +1,5 @@
 ---
-title        : Welcome and Content (#1)
+title        : Welcome & Content (#1)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon

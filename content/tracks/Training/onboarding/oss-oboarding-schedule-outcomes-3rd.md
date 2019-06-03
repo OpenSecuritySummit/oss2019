@@ -1,5 +1,5 @@
 ---
-title        : Schedule Outcomes (#3)
+title        : Schedule & Outcomes (#3)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon
