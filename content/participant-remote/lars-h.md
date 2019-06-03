@@ -15,6 +15,8 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
+- Threat Modeling Training (#1)
+- TM track introduction
 - SAMM user session - Introduction
 - DevSecOps Maturity Model (DSOMM)
 - Agile Practices for Security Teams
