@@ -4,7 +4,7 @@ company: ''
 facebook: ''
 image: ''
 job_title: ''
-linkedin: ''
+linkedin: <https://www.linkedin.com/in/xavi-al/>
 notes: ''
 project_leader: ''
 sessions: []
