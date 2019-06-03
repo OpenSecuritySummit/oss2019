@@ -9,6 +9,7 @@ notes: ''
 project_leader: ''
 sessions:
 - Agile Practices for Security Teams
+- Creating Appsec metrics and visualisation
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
