@@ -17,12 +17,13 @@ sessions        :
   - ZAP working session - automation
   - ZAP working session - future plans
   - ZAP working session - the HUD
-  - ZAP - How to use it
+  - Zap - How to use it
   - OWASP HoneyPot
   - Dealing with DevSecOps Findings
   - DevSecOps Maturity Model (DSOMM)
   - From Threat Modeling to DevSecOps metrics
-  - Secrets Management / Creating Appsec metrics and visualisation
+  - Secrets Management
+  - Creating Appsec metrics and visualisation
   - Integrating Security Tools in the SDL
   - Writing security tests to confirm vulnerabilities and fixes
   - Securing the CI Pipeline
