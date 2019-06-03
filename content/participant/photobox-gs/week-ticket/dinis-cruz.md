@@ -26,6 +26,7 @@ sessions:
 - Using Wardley Maps and Cynefin for Security
 - Introduction to Cynefin Framework (Training Session)
 - Using Cynefin Framework making strategic security decisions
+- Lightweight privacy threat modeling using LINDDUN
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
