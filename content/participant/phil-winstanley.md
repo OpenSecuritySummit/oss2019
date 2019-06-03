@@ -11,6 +11,7 @@ sessions:
 - Agile Practices for Security Teams
 - Creating Appsec metrics and visualisation
 - DevSecOps Maturity Model (DSOMM)
+- State and future of threat modeling
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
