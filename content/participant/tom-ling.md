@@ -18,6 +18,7 @@ sessions:
 - Securing the CI Pipeline
 - Security Challenges - Next step
 - Wardley Maps
+- Security Challenges - An Introduction
 status: add details
 title: Tom Ling
 travel-from: Somerset
