@@ -4,7 +4,7 @@ company: OWASP Foundation
 facebook: ''
 image: https://pbs.twimg.com/profile_images/973599103010594817/idYy_iW__400x400.jpg
 job_title: ''
-linkedin: https://linkedin.com/in/mccamon
+linkedin: mccamon
 notes: ''
 project_leader: ''
 sessions: 
