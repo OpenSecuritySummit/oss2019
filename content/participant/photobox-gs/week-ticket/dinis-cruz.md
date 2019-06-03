@@ -20,7 +20,6 @@ project_user:
 - ASVS
 sessions:
 - Using Wardley Maps on SOC
-- Mapping boot camp
 - Wardley Mapping - Coordinating functions within a PST organisation
 - Wardley Mapping - Climatic Patterns and Using Doctrine
 - Using Wardley Maps and Cynefin for Security
