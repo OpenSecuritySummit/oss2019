@@ -25,6 +25,7 @@ sessions:
 - TM track introduction
 - Lightweight privacy threat modeling using LINDDUN
 - Lightweight privacy threat modeling using LINDDUN Part II
+- Juice Shop Hack'n'Code (Mon)
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
