@@ -49,7 +49,7 @@
             <li class="pull-right bg-danger"><a class="bg-danger" href="#"><i class="fa fa-phone"></i> No Video feed for table sessions</a></li>
          {{ else }}
            {{/* use configured remote url in data */}}
-           {{/* $url := index $.Site.Data.schedule.meet_url . }}
+           {{ $url := index $.Site.Data.schedule.meet_url . }}
            <li class="pull-right bg-sucess"><a class="bg-success" href="{{ $url }}" target="_blank"><i class="fa fa-phone"></i> Join Remotely</a></li>
         {{ end }}
       {{ end }}
