@@ -10,6 +10,7 @@ project_leader: ''
 sessions:
 - Agile Practices for Security Teams
 - Creating Appsec metrics and visualisation
+- DevSecOps Maturity Model (DSOMM)
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
