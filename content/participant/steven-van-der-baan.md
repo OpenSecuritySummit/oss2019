@@ -11,6 +11,7 @@ project_leader:
 sessions:
 - TM track introduction
 - Lightweight privacy threat modeling using LINDDUN
+- Lightweight privacy threat modeling using LINDDUN Part II
 status: add-details
 title: Steven van der Baan
 travel_from: ''
