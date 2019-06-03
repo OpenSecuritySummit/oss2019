@@ -13,6 +13,7 @@ sessions:
 - OWASP SAMM Training (#3)
 - TM track introduction
 - Security Challenges - An Introduction
+- Hand's on Wardley Maps creation
 status: add details
 title: Lauren Chiesa
 travel-from: ''
