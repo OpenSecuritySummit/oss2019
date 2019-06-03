@@ -13,6 +13,7 @@ sessions:
 - JUPYTER TRAINING (#2)
 - DEVSECOPS MATURITY MODEL (DSOMM)
 - devsecops maturity model (dsomm)
+- JUPYTER TRAINING (#2)
 status: add details
 title: Ben Schofield
 travel-from: ''
