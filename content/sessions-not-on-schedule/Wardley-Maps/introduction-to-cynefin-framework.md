@@ -7,7 +7,7 @@ topics       :
     - Cynefin Framework
 featured     :
 when_day     : Wed
-when_time    : AM-1
+when_time    : PM-1
 room_layout  :
 room_id      :
 session_slack: 

@@ -1,14 +1,14 @@
 ---
-title        : Android and iOS Security Enhancements and Crackme Apps
+title        : Android and iOS Security Enhancements and Crackme Apps (Mon Eve)
 type         : working-session    # working-session, user-session
 track        : OWASP MSTG
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"
-when_day     : Mon,Tue,Wed,Thu,Fri
-when_time    : AM-1, DS-2, PM-1, PM-2
+when_day     : Mon
+when_time    : Eve-1, Eve-2
 room_layout  :                    #
-room_id      : room-6
+room_id      : villa-6
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   :
