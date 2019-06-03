@@ -9,6 +9,7 @@ notes: ''
 project_leader: ''
 sessions:
 - Wardley Maps Training (#2)
+- Threat Modeling Training (#3)
 status: add details
 title: Lauren Chiesa
 travel-from: ''
