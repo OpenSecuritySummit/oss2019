@@ -8,8 +8,8 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions:
-- Introduction to Wardley Maps (Training Session)
-- Hand's on Wardley Maps creation (Training Session)
+- Introduction to Wardley Maps
+- Hand's on Wardley Maps creation
 - Towards a unified way of describing threat models
 - DevSecOps Maturity Model (DSOMM)
 - Secrets Management
