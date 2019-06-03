@@ -11,7 +11,6 @@ project_leader: ''
 sessions:
 - Agile Practices for Security Teams
 - Cyber Risk Modeling
-- Ask me anything (AMA) on GDPR
 - Third Party Due Diligence
 - Lightweight privacy threat modeling using LINDDUN
 - Describe different ways of implementing TM in agile organisations
