@@ -14,13 +14,13 @@ sessions:
 - Security Challenges - An Introduction
 - Hand's on Wardley Maps creation
 - Introduction to Wardley Maps
-- Agile Practices for Security Teams
 - How do we persist the information from the TM Slack channel?
 - Creating a generic diagram of a threat model
 - TM maturity
 - Threat Model Cookbook Project (Part 1)
-- Security data science
 - Zap - How to use it
+- Juice Shop 101
+- Security data science
 status: add details
 title: Lauren Chiesa
 travel-from: ''
