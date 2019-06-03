@@ -1,7 +1,7 @@
 ---
 chapter_leader: ''
 company: Axa Assistance
-facebook: test" onload="alert(1);"
+facebook: ''
 image: //xavi.al/xavi.png
 job_title: CyberSecurity Developer
 linkedin: xavi-al
