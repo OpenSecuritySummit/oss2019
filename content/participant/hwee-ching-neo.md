@@ -7,7 +7,7 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions: [Wardley Maps for Security]
 status: add-details
 title: Hwee Ching Neo
 travel_from: ''
