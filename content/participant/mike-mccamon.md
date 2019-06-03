@@ -12,6 +12,7 @@ sessions:
 - Ask me anything (AMA) on GDPR
 - OWASP Juice Shop
 - Wardley Maps Training (#3)
+- SAMM user session - Introduction
 status: add-details
 title: Mike McCamon
 travel_from: US
