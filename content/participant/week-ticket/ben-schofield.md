@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Wardley Maps Training (#1)
 status: add details
 title: Ben Schofield
 travel-from: ''
