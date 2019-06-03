@@ -5,14 +5,15 @@ interested_in:
 - OWASP Juice Shop
 job_title: Software Security Engineer
 notes: ''
+project_contributor:
+- Juice Shop
+- secureCodeBox
 sessions:
 - Juice Shop Hack'n'Code
 - Juice Shop Challenge Refactoring
 - Juice Shop Round Table
 - Juice Shop Release Night
-project_contributor:
-- Juice Shop
-- secureCodeBox
+- Juice Shop Hack’n’Code (Mon)
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
