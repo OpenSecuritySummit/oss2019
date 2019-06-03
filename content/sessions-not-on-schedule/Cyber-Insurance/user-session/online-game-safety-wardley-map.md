@@ -5,7 +5,7 @@ title        : Wardley Map - Cyber Insurance
 technology   :
 categories   :
 featured     : yes
-when_day     : Thu
+#when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_id      :

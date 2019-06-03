@@ -5,7 +5,7 @@ title        : Azure Serverless for security
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Thu
+#when_day     : Thu
 when_time    : DS-2
 room_layout  :                    #
 room_id      :

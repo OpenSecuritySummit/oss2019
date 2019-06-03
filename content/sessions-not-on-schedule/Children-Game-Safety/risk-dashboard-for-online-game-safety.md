@@ -4,7 +4,7 @@ title        : Risk Dashboard - Online Gaming Safety
 track        : Children Game Safety
 topics       :
 featured     : yes                # if  "yes" review with summit team
-when_day     : Thu
+#when_day     : Thu
 when_time    : PM-1
 room_id      : room-2
 session_slack:

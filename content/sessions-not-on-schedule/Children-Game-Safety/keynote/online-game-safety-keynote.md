@@ -5,8 +5,8 @@ track        : Children Game Safety
 technology   :
 categories   :
 featured     : no
-when_day     : Wed
-when_time    : DS-1
+when_day     :
+when_time    :
 room_layout  :
 room_id      :
 session_slack:

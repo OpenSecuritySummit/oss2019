@@ -5,8 +5,8 @@ title        : Meet the ICO
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : no                   # review with summit team "yes"
-when_day     : Thu
-when_time    : DS-2
+#when_day     : Thu
+#when_time    : DS-2
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVH5J485
