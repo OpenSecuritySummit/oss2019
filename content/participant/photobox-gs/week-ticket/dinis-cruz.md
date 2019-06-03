@@ -27,6 +27,7 @@ sessions:
 - Introduction to Cynefin Framework (Training Session)
 - Using Cynefin Framework making strategic security decisions
 - Aaa
+- Another Session
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
