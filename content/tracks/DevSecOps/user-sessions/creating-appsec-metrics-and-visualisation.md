@@ -6,14 +6,14 @@ topics       : ["Visualisation"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :  Wed
+when_day     :  Tue
 when_time    :  PM-1
 room_layout  :                    #
 room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   :
-    - (one of participants)
+    - Dinis Cruz
 description  : AppSec Metrics and Visualisation
 ---
 
