@@ -16,6 +16,7 @@ sessions:
 - Writing security tests to confirm vulnerabilities and fixes
 - Securing the CI Pipeline
 - Real World chaos Engineering
+- Real world Chaos Engineering
 status: ''
 title: Sean Turner
 travel-from: Coventry
