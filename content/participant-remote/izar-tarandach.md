@@ -15,10 +15,13 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
+    - TM Track Introduction
     - State and future of threat modeling
     - Towards a unified way of describing threat models
     - Threat Model Cookbook Project (Part 1)
     - Threat Model Cookbook Project (Part 2)
+    - Creating a generic diagram of a threat model
+    - Incremental Threat Modeling
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
