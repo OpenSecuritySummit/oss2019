@@ -12,6 +12,7 @@ sessions:
 - samm-introduction
 - samm-roundtable
 - samm-measurement2
+- tm-samm
 status: add details
 title: Tanja Peeters
 travel-from: ''
