@@ -29,6 +29,7 @@ sessions:
 - Aaa
 - Another Session
 - Another Session aa
+- Another Session
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
