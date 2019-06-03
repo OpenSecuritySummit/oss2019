@@ -9,7 +9,7 @@
     <h2> {{.location}} </h2>
 </div>
 
-<table class="table" id="{{.location}}">
+<table class="table" id="{{replace .location " " "_"}}">
     <thead>
     <th class="schedule-by-track-row-time"></th>
     {{ range $key ,$value := .where}}
