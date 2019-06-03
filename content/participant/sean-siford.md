@@ -21,6 +21,7 @@ sessions:
 - Agile Practices for Security Teams
 - Zap - How to use it
 - ZAP working session - the HUD
+- ZAP working session - automation
 status: add details
 title: Sean Siford
 travel-from: Devon
