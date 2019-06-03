@@ -14,6 +14,7 @@ sessions:
 - State and future of threat modeling
 - TM track introduction
 - TM maturity
+- Lightweight privacy threat modeling using LINDDUN
 status: add details
 title: Phil Winstanley
 travel-from: Dublin
