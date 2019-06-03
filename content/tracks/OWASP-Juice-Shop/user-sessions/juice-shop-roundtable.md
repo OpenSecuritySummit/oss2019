@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Thu
 when_time    : PM-2
 room_layout  :
-room_id      :
+room_id      : room-4
 session_slack: https://os-summit.slack.com/messages/CJN55C1QT
 status       : review-content
 description  : Round table of OWASP Juice Shop users
