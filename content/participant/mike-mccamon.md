@@ -1,17 +1,20 @@
 ---
 chapter_leader: ''
-company: ''
+company: OWASP Foundation
 facebook: ''
-image: ''
+image: https://pbs.twimg.com/profile_images/973599103010594817/idYy_iW__400x400.jpg
 job_title: ''
-linkedin: ''
+linkedin: https://linkedin.com/in/mccamon
 notes: ''
 project_leader: ''
-sessions: []
+sessions: 
+- Security Challenges - An Introduction
 status: add-details
 title: Mike McCamon
-travel_from: ''
-twitter: ''
+travel_from: US
+twitter: 
+- @mccamon
+- @owasped
 type: participant
 website: ''
 ---
