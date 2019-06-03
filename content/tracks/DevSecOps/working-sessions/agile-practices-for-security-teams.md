@@ -4,7 +4,7 @@ type         : working-session
 topics       : ["Agile"]
 featured     : yes                   # if  "yes" review with summit team
 when_day     : Tue
-when_time    : PM-1
+when_time    : AM-1
 room_layout  :                    #
 room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAU62737S
