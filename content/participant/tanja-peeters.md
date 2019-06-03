@@ -11,6 +11,7 @@ sessions:
 - <https://open-security-summit.org/tracks/owasp-samm/working-sessions/samm-outreach/>
 - samm-introduction
 - samm-roundtable
+- samm-measurement2
 status: add details
 title: Tanja Peeters
 travel-from: ''
