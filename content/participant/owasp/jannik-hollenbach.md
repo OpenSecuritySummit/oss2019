@@ -15,6 +15,7 @@ sessions:
 - Juice Shop Release Night
 - Juice Shop Hack’n’Code (Mon)
 - Juice Shop Hack’n’Code (Tue)
+- Juice Shop Hack’n’Code (Wed)
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
