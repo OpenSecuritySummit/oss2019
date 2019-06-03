@@ -11,7 +11,6 @@ sessions:
 - Introduction to Wardley Maps
 - Hand's on Wardley Maps creation
 - Towards a unified way of describing threat models
-- DevSecOps Maturity Model (DSOMM)
 - Secrets Management
 - Writing security tests to confirm vulnerabilities and fixes
 - Securing the CI Pipeline
