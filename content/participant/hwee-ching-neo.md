@@ -7,7 +7,7 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions: [Using Wardley Maps on SOC]
 status: add-details
 title: Hwee Ching Neo
 travel_from: ''
