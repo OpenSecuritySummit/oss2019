@@ -2,7 +2,7 @@
 title       : Working session checklist
 layout      : FAQ
 ---
-   <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
+   <a href="https://join.slack.com/t/os-summit/shared_invite/enQtNDg3MzM4NjcyNDcwLTc4NGM0NDUwZmU5NjBiZGYzYzQ3M2RlYjZjOGYwM2I2NzBmNTFjMzAyNGNlMDA0OTZlMjAzNjFiNDgzMTliZjA" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
    
 ### Required roles
 

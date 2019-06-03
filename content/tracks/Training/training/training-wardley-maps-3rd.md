@@ -3,7 +3,7 @@ title        : Wardley Maps Training (#3)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon
-room_id      : room-2
+room_id      : room-1
 when_time    : TS-6
 description  : New to Wardley maps? This session is for you
 organizers   :

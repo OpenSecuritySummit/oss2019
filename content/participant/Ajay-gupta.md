@@ -8,14 +8,14 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions:
-- Ask me anything (AMA) on GDPR
-- OWASP Juice Shop
+- Creating an iOS build pipeline with security checks
+- Creating Appsec metrics and visualisation
+- Dealing with DevSecOps Findings 
+- Secrets Management
 status: add-details
-title: Mike McCamon
+title: Ajy Gupta
 travel_from: ''
 twitter: ''
 type: participant
 website: ''
 ---
-
-<!-- put more details about participant here -->

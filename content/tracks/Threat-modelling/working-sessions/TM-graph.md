@@ -21,7 +21,7 @@ locked       : true
 
 ## Why & What
 
-We want to create a model of a threat model. It needs to be generic so it fits all threat modelling methodologies. Later we can try to use this model to create graph based websites detailing the different techniques and methodologies as well as linking the examples we will have to these different elements of a threat model.
+We want to create a model of a threat model. It needs to be generic so it fits all threat modeling methodologies. Later we can try to use this model to create graph based websites detailing the different techniques and methodologies as well as linking the examples we will have to these different elements of a threat model.
 
 ## Outcomes
 
