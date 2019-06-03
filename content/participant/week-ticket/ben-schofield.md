@@ -18,6 +18,7 @@ sessions:
 - Security Challenges - An Introduction
 - Hand’s on Wardley Maps creation
 - DevSecOps Maturity Model (DSOMM)
+- Agile Practices for Security Teams
 status: add details
 title: Ben Schofield
 travel-from: ''
