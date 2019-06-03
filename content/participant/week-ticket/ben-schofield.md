@@ -9,6 +9,7 @@ notes: ''
 project_leader: ''
 sessions:
 - Wardley Maps Training (#1)
+- USING CYNEFIN FRAMEWORK MAKING STRATEGIC SECURITY DECISIONS
 status: add details
 title: Ben Schofield
 travel-from: ''
