@@ -11,7 +11,7 @@ sessions: []
 status: add-details
 title: Xavier Delgado
 travel_from: Spain
-twitter: ''
+twitter: kn0wm4d
 type: participant
 website: ''
 ---
