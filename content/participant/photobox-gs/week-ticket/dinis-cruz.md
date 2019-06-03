@@ -28,6 +28,7 @@ sessions:
 - Using Cynefin Framework making strategic security decisions
 - Aaa
 - Another Session
+- Another Session aa
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
