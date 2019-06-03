@@ -13,7 +13,7 @@ sessions:
 - Jupyter Training (#2)
 - DevSecOps Maturity Model (DSOMM)
 - Security Challenges - An Introduction
-- Hand’s on Wardley Maps creation
+- Hand's on Wardley Maps creation
 - Agile Practices for Security Teams
 status: add details
 title: Ben Schofield

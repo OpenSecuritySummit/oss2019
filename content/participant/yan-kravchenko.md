@@ -13,7 +13,7 @@ project_contributor:
 sessions: 
 - Wardley Maps for Security
 - Introduction to Wardley Maps (Training Session)
-- Hand's on Wardley Maps creation (Training Session)
+- Hand's on Wardley Maps creation
 - SAMMv2 - Threat Modeling
 - Share your Threat Models diagrams and create a Book
 - Lightweight privacy threat modeling using LINDDUN
