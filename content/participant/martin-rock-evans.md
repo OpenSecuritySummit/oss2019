@@ -12,7 +12,6 @@ sessions:
 - Juice Shop 101
 - Juice Shop Contributor Onboarding
 - Juice Shop Challenge Refactoring
-- Juice Shop Hack'n'Code
 - Juice Shop Release Night
 - Zap - How to use it
 - ZAP working session - future plans
