@@ -12,7 +12,6 @@ sessions:
 - Threat Modeling Training (#3)
 - OWASP SAMM Training (#3)
 - TM track introduction
-- Lightweight privacy threat modeling using LINDDUN
 - Lightweight privacy threat modeling using LINDDUN Part II
 status: add details
 title: Lauren Chiesa
