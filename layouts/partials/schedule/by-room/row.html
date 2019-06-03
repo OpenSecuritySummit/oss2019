@@ -1,7 +1,7 @@
-<tr>
+<tr id="#{{ .time }}">
     <td>{{ .time }}
         <div class="session-time">
-        {{ index .self.Site.Data.schedule.times .time}}
+        {{ index .self.Site.Data.schedule.times .time}}...
         </div>
     </td>
     {{ range $key ,$value := .where}}
