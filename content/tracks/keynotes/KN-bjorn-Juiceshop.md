@@ -1,5 +1,5 @@
 ---
-title        : OWASP Juice Shop
+title        : OWASP Juice Shop (Keynote)
 type         : keynote
 featured     : yes
 when_day     : Fri
