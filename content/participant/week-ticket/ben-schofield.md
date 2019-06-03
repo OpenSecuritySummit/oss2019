@@ -9,7 +9,7 @@ notes: ''
 project_leader: ''
 sessions: []
 status: add details
-title: Ben Scofield
+title: Ben Schofield
 travel-from: ''
 twitter: ''
 type: participant
