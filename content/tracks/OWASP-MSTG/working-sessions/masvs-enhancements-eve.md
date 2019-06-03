@@ -1,5 +1,5 @@
 ---
-title        : Mobile AppSec Verification Standard (MASVS) - Evening
+title        : Mobile AppSec Verification Standard (MASVS) (Evening)
 type         : working-session    # working-session, user-session
 track        : OWASP MSTG
 technology   : Mobile, iOS, Android
