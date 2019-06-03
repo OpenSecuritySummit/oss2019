@@ -14,6 +14,7 @@ sessions:
 - Lightweight privacy threat modeling using LINDDUN Part II
 - TM maturity
 - THREAT MODEL COOKBOOK PROJECT (PART 1)
+- THREAT MODEL COOKBOOK PROJECT (PART 2)
 status: add-details
 title: Steven van der Baan
 travel_from: ''
