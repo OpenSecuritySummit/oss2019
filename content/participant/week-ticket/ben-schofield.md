@@ -17,6 +17,7 @@ sessions:
 - USING CYNEFIN FRAMEWORK MAKING STRATEGIC SECURITY DECISIONS
 - Security Challenges - An Introduction
 - Hand’s on Wardley Maps creation
+- DevSecOps Maturity Model (DSOMM)
 status: add details
 title: Ben Schofield
 travel-from: ''
