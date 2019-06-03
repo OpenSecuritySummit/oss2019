@@ -11,7 +11,6 @@ sessions:
 - Wardley Maps Training (#2)
 - Threat Modeling Training (#3)
 - OWASP SAMM Training (#3)
-- TM track introduction
 - Security Challenges - An Introduction
 - Hand's on Wardley Maps creation
 status: add details
