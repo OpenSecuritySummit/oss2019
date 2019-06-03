@@ -19,6 +19,7 @@ sessions:
 - Creating a generic diagram of a threat model
 - TM maturity
 - Threat Model Cookbook Project (Part 1)
+- Security data science
 status: add details
 title: Lauren Chiesa
 travel-from: ''
