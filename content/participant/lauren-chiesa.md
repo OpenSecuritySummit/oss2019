@@ -18,6 +18,7 @@ sessions:
 - How do we persist the information from the TM Slack channel?
 - Creating a generic diagram of a threat model
 - TM maturity
+- Threat Model Cookbook Project (Part 1)
 status: add details
 title: Lauren Chiesa
 travel-from: ''
