@@ -16,6 +16,7 @@ sessions:
 - JUPYTER TRAINING (#2)
 - USING CYNEFIN FRAMEWORK MAKING STRATEGIC SECURITY DECISIONS
 - Security Challenges - An Introduction
+- Hand’s on Wardley Maps creation
 status: add details
 title: Ben Schofield
 travel-from: ''
