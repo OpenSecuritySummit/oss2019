@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Ask me anything (AMA) on GDPR
 status: add-details
 title: Mike McCamon
 travel_from: ''
