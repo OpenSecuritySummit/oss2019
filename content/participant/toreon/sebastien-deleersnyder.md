@@ -13,6 +13,7 @@ project_leader:
 sessions:
 - SAMM user session - Introduction
 - creating a threat library
+- Agile Practices for Security Teams
 status: done
 title: Sebastien Deleersnyder
 travel_from: Belgium
