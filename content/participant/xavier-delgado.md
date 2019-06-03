@@ -2,7 +2,7 @@
 chapter_leader: ''
 company: Axa Assistance
 facebook: ''
-image: ''
+image: <https://xavi.al/xavi.png>
 job_title: ''
 linkedin: <https://www.linkedin.com/in/xavi-al/>
 notes: ''
