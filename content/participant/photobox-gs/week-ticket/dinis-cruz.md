@@ -26,14 +26,6 @@ sessions:
 - Using Wardley Maps and Cynefin for Security
 - Introduction to Cynefin Framework (Training Session)
 - Using Cynefin Framework making strategic security decisions
-- Aaa
-- Another Session
-- Another Session aa
-- Another Session
-- Another Session aa
-- Another Session
-- Another Session aa
-- Another Session 123
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
