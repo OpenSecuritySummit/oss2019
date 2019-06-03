@@ -29,6 +29,7 @@ sessions:
 - Mapping boot camp
 - Zap - How to use it
 - Introduction to Wardley Maps
+- asd
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
