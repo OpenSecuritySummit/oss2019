@@ -15,6 +15,7 @@ sessions:
 - Hand's on Wardley Maps creation
 - Introduction to Wardley Maps
 - Agile Practices for Security Teams
+- How do we persist the information from the TM Slack channel?
 status: add details
 title: Lauren Chiesa
 travel-from: ''
