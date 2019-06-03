@@ -9,7 +9,6 @@ notes: ''
 project_leader: ''
 sessions:
 - <https://open-security-summit.org/tracks/owasp-samm/working-sessions/samm-outreach/>
-- <#CAWEU9CRM|w-sammv2-wrk-sess-gov>
 status: add details
 title: Tanja Peeters
 travel-from: ''
