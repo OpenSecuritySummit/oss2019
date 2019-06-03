@@ -6,7 +6,7 @@ track        : OWASP Juice Shop
 topics       :
 featured     : no
 when_day     : Thu
-when_time    : Eve-1, Eve-2
+when_time    : Eve-1,Eve-2
 room_layout  :
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CJZJ618LQ
