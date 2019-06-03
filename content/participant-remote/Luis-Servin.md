@@ -15,7 +15,6 @@ chapter_leader  :
 eventbrite_id   : 9613728421221627440001
 status          : add-details
 sessions        : 
-notes           :
 - Creating a Threat Library
 - Creating a generic diagram of a threat model
 - How do we persist the information from the TM Slack channel?
@@ -30,6 +29,7 @@ notes           :
 - Threat Model Examples Project
 - Towards a unified way of describing threat models
 - Wardley Maps for Security
+notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
