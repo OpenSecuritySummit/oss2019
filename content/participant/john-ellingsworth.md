@@ -17,7 +17,6 @@ sessions:
     - SAMM - Alignment with other OWASP projects (Fri)
     - SAMM - Any Other Business
     - SAMM - DevOps guidance
-    - SAMM - Editing agreements and parallel editing
     - SAMM - Measurement model (Mon PM)
     - SAMM - Measurement model (Mon EV)
     - SAMM - Model Challenges (Tue)
@@ -30,7 +29,6 @@ sessions:
     - SAMM - Parallel editing (Tue)
     - SAMM - Parallel editing (Thu AM)
     - SAMM - Parallel editing (Thu PM)
-    - SAMM - Parallel editing (Wed PM)
     - SAMM - Planning and Roadmap
     - SAMM - SAMM benchmarking
     - SAMM - SAMM documents and parallel editing (Wed AM)
