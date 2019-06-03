@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- oss-oboarding-welcome-content-3rd
 status: add details
 title: Philippe De Ryck
 travel-from: ''
