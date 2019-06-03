@@ -56,7 +56,7 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 2
 #    parent = "sessions"
-    url = "/schedule/day/mon/"
+    url = "/schedule/day/tue/"
 #[[menu.main]]
 #    name = "Topics"
 #    identifier = "topics"
