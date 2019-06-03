@@ -12,6 +12,7 @@ sessions:
 - Threat Modeling Training (#3)
 - OWASP SAMM Training (#3)
 - TM track introduction
+- Security Challenges - An Introduction
 status: add details
 title: Lauren Chiesa
 travel-from: ''
