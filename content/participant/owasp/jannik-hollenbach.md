@@ -16,6 +16,7 @@ sessions:
 - Juice Shop Round Table
 - Juice Shop Release Night
 - ZAP working session - automation
+- ZAP working session - future plans
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
