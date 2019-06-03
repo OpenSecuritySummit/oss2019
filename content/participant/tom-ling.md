@@ -20,6 +20,7 @@ sessions:
 - Wardley Maps
 - Security Challenges - An Introduction
 - Hand's on Wardley Maps creation
+- Introduction to Wardley Maps
 status: add details
 title: Tom Ling
 travel-from: Somerset
