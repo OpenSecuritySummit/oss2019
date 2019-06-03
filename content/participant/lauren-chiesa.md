@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Wardley Maps Training (#2)
 status: add details
 title: Lauren Chiesa
 travel-from: ''
