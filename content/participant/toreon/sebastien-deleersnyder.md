@@ -12,6 +12,7 @@ project_leader:
 - SAMM
 sessions:
 - SAMM user session - Introduction
+- creating a threat library
 status: done
 title: Sebastien Deleersnyder
 travel_from: Belgium
