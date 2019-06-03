@@ -18,6 +18,7 @@ sessions:
 - Towards a unified way of describing threat models
 - Threat Model Cookbook Project (Part 1)
 - Threat Model Cookbook Project (Part 2)
+- State and future of threat modeling
 status: add-details
 title: Steven van der Baan
 travel_from: ''
