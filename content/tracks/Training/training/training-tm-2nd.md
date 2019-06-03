@@ -1,5 +1,5 @@
 ---
-title        : Training Threat Modeling (2nd session)
+title        : Threat Modeling Training (#2)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon

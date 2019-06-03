@@ -1,4 +1,4 @@
-<div class="hidden-print">
+<div class="hidden-print" id="no-room-booked">
     <h3>Sessions with no room booked for {{ .day}}</h3>
     <ul>
         {{ range .self.Scratch.Get "no room" }}

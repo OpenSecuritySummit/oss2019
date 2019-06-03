@@ -14,12 +14,11 @@ chapter_leader  : Orange County
 eventbrite_id   :
 status          : add-details
 sessions        :
-    - Open Session
-    - Towards a unified way of describing threat models
-    - How do we persist the information from the TM Slack channel?
-    - How to scale Threat Modeling
-    - Share your Threat Models diagrams and create a Book
-    - Creating a Threat Library
+    - TM track introduction
+    - Creating a generic diagram of a threat model
+    - TM maturity
+    - Automated Threat Hunting Project Collaboration
+    - Incremental Threat Modeling
 
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions

@@ -1,5 +1,5 @@
 ---
-title        : Training OWASP SAMM (2nd session)
+title        : OWASP SAMM Training (#2)
 type         : working-session
 track        : Onboarding and Training
 when_day     : Mon

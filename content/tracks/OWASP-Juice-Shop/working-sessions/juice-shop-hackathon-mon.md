@@ -1,11 +1,11 @@
 ---
-title        : Juice Shop Hack'n'Code
+title        : Juice Shop Hack'n'Code (Mon)
 type         : working-session
 technology   :
 track        : OWASP Juice Shop
 topics       :
 featured     : yes
-when_day     : Mon,Tue,Wed
+when_day     : Mon
 when_time    : Eve-1,Eve-2
 room_layout  :
 room_id      : villa-2
