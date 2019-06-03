@@ -10,6 +10,7 @@ project_leader: ''
 sessions:
 - oss-oboarding-welcome-content-3rd
 - security-challenges-what-challenges
+- kn-nick-lessons
 status: add details
 title: Philippe De Ryck
 travel-from: ''
