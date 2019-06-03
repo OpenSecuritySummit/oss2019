@@ -15,6 +15,7 @@ sessions:
 - TM maturity
 - THREAT MODEL COOKBOOK PROJECT (PART 1)
 - THREAT MODEL COOKBOOK PROJECT (PART 2)
+- Towards a unified way of describing threat models
 status: add-details
 title: Steven van der Baan
 travel_from: ''
