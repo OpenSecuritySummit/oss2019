@@ -17,6 +17,7 @@ sessions:
 - Juice Shop Release Night
 - ZAP working session - automation
 - ZAP working session - future plans
+- Dealing with DevSecOps Findings
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
