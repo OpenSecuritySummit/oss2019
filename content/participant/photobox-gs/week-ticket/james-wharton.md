@@ -5,7 +5,8 @@ job_title: ''
 linkedin: ''
 night_where: ''
 notes: ''
-sessions: []
+sessions:
+    - Introduction to Cynefin Framework
 status: add details
 title: James Wharton
 travel_from: ''

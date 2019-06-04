@@ -1,7 +1,7 @@
 ---
 title        : Using Cynefin Framework for Security
-#type         : working-session      # working-session, user-session, product-session
-#track        : Cynefin Framework
+#type        : working-session      # working-session, user-session, product-session
+#track       : Cynefin Framework
 technology   :
 topics       :                    # for example ["GDPR"]
 featured     : true                   # review with summit team "yes"

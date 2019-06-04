@@ -8,9 +8,9 @@ categories   :
     # - What strategies and underlying assumptions are already in place?
 featured     : yes                # review with summit team "yes"
 when_day     : Wed                # i.e.    Tue
-when_time    :                # i.e.    AM-1
+when_time    : AM-1               # i.e.    AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-4
 session_slack: 
 status       : draft              # draft, review-content, done
 description  : What strategies are already in use?

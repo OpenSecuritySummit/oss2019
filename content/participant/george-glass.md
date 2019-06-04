@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+    - Introduction to Cynefin Framework
 status: add-details
 title: George Glass
 travel_from: ''
