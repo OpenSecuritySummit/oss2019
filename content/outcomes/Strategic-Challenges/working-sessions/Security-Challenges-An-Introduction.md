@@ -67,11 +67,15 @@ The list of characteristics is below:
 * There is a much greater interest in this analogical approach than the organiser originally expected.
 * Expecting to define characteristics in a single word or phrase was overly optimistic. I suggest we work with what we have for now, but this approach should be modified in future.
 
-## Working Materials (recommend)
+## Working Materials 
 
-A list was made on the available A3 sheets as work progressed, 
+A list was made on the available A3 sheets as work progressed, including the following:
 
-## References (recommend)
+<img src="https://user-images.githubusercontent.com/22427294/58892144-a11a5100-86e5-11e9-9f8e-4ba8939064bf.jpg" width="75%">
+<img src="https://user-images.githubusercontent.com/22427294/58892137-9e1f6080-86e5-11e9-8784-f35bf2bf409a.jpg" width="75%">
+<img src="https://user-images.githubusercontent.com/22427294/58892132-9bbd0680-86e5-11e9-983f-a86586768785.jpg" width="75%">
+
+## References
 N/A
 
 ### Additional/External References
