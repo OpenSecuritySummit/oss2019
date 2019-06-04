@@ -22,6 +22,7 @@ sessions:
 - Introduction to Wardley Maps
 - TM maturity
 - Secrets Management
+- Security Challenges - Analysis Analogies
 status: add details
 title: Tom Ling
 travel-from: Somerset
