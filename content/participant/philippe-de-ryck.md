@@ -16,6 +16,7 @@ sessions:
 - OWASP ZAP Heads Up Display (HUD)
 - Security Challenges - Analysis Analogies
 - JUICE SHOP 101
+- Juice Shop 101
 status: add details
 title: Philippe De Ryck
 travel-from: ''
