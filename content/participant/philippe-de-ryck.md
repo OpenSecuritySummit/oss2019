@@ -12,6 +12,7 @@ sessions:
 - security-challenges-what-challenges
 - kn-nick-lessons
 - os-summit
+- Security Data Science
 status: add details
 title: Philippe De Ryck
 travel-from: ''
