@@ -1,17 +1,17 @@
 ---
 chapter_leader: ''
-company: ''
+company: 'BBVA'
 facebook: ''
-image: ''
+image: 'https://avatars1.githubusercontent.com/u/1224006?s=460&v=4'
 job_title: ''
-linkedin: ''
+linkedin: 'https://es.linkedin.com/in/nilp0inter'
 notes: ''
 project_leader: ''
 sessions: []
 status: add-details
-title: Roberto Pérez
-travel_from: ''
-twitter: ''
+title: Roberto Abdelkader Martínez Pérez
+travel_from: 'Madrid'
+twitter: 'nilp0inter'
 type: participant
 website: ''
 ---
