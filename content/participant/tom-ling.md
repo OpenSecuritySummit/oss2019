@@ -24,6 +24,7 @@ sessions:
 - Security Challenges - Analysis Analogies
 - Towards a unified way of describing threat models
 - Security Challenges - Analysis Analogies
+- Dealing with DevSecOps Findings
 status: add details
 title: Tom Ling
 travel-from: Somerset
