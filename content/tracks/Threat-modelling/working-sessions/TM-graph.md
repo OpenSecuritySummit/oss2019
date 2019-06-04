@@ -15,6 +15,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Tash Norris
 description  : Creating a generic diagram of a threat model
 locked       : true
 ---
