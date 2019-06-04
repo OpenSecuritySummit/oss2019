@@ -7,7 +7,6 @@ project_leader:
 - Juice Shop
 sessions:
 - Dealing with DevSecOps Findings
-- ZAP working session - future plans
 - Writing security tests to confirm vulnerabilities and fixes
 - OWASP Application Security Curriculum Project
 status: add details
