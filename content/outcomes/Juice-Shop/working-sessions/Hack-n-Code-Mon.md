@@ -4,6 +4,7 @@ track        : OWASP Juice Shop
 video        : none
 slides       : none
 images       : none
+type         : outcome
 session_type : working-session         
 status       : draft  
 ---
