@@ -38,4 +38,5 @@ This year another project code named "Threat Model Examples" was in the work, an
 - Leadership of the project defined
 - Naming of the project decided (cookbooks or cookbook?)
 - Restructuration of repository (access rights, folders and files)
+- Twitter access shared via Tweetdeck
 - Registration of the project started

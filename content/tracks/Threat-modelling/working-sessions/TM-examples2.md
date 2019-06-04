@@ -19,7 +19,6 @@ participants :
     - Steven Wierckx
     - Yasmin Martin 
     - Zuhal Vargun
-    - Jon McCoy (?)
 ---
 ## WHY
 
