@@ -15,7 +15,7 @@ session_slack:
 status       : draft              # draft, review-content, done
 description  : Collate results from Wednesday.
 organizers   : Nick Drage
-participants :
+participants : Jim Newman
 ---
 
 After Wednesday everyone comes together and collates their ideas on what strategies are already being used, what underlying assumptions is beneath those strategies, and whether they work or not.
