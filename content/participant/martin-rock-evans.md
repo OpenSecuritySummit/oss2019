@@ -11,7 +11,6 @@ sessions:
 - Juice Shop Contributor Onboarding
 - Juice Shop Challenge Refactoring
 - Juice Shop Release Night
-- Zap - How to use it
 - ZAP working session - future plans
 - Scaling API Security
 - Securing the CI Pipeline
