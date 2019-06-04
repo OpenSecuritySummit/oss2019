@@ -49,12 +49,18 @@ Q4. validation|Checklist
 ### Notes
 
 #### Summary of ISO 42010:
-Model kind: conventions for a type of modelling. Examples of model kinds include data flow diagrams, class diagrams, Petri nets, balance sheets, organization charts and state transition models.
-architecture viewpoint
+ - Model kind: conventions for a type of modelling. Examples of model kinds include data flow diagrams, class diagrams, Petri nets, balance sheets, organization charts and state transition models.
+ - Architecture viewpoint:
 Work product establishing the conventions for the construction, interpretation and use of architecture views to frame specific system concerns
-architecture view
+ - Architecture view:
 Work product expressing the architecture of a system from the perspective of specific system concerns
-architecture description AD
+ - Architecture description AD:
 Work product used to express an architecture
+
+### Diagram
+
+<img src="https://user-images.githubusercontent.com/22427294/58893966-0de31a80-86e9-11e9-90c5-debda7526773.png" width="75%">
+
+
 
 
