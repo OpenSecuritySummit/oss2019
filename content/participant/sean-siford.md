@@ -22,6 +22,7 @@ sessions:
 - ZAP working session - automation
 - TM maturity
 - Threat Model Cookbook Project (Part 1)
+- Dealing with DevSecOps Findings
 status: add details
 title: Sean Siford
 travel-from: Devon
