@@ -16,6 +16,7 @@ sessions:
 - Real world Chaos Engineering
 - Secrets Management
 - Integrating Security Tools in the SDL
+- ZAP working session - automation
 status: add details
 title: Felipe Zipitria
 travel_from: Uruguay
