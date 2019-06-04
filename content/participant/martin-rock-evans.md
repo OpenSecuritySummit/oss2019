@@ -24,6 +24,7 @@ sessions:
 - Juice Shop Hack'n'Code (Wed)
 - TM maturity
 - ZAP working session - automation
+- Juice Shop Hack'n'Code (Tue)
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
