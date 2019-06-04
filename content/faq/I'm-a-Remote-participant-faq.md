@@ -3,7 +3,7 @@ title       : I'm a remote participant
 layout      : FAQ
 ---
 
-<a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
+<a href="https://join.slack.com/t/os-summit/shared_invite/enQtNTUwMzczMjc1NDQxLTk3OTQxNzM1YzdkNGNjMDMwMGYwN2UxZjFlNGUxMjVkMGVlM2NmMTA5YjkwNDJiZTg0MmEwZDhkMjg1OGZiZjU" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
    
 ### How do I find the daily schedule for remote participants?
 
@@ -30,8 +30,8 @@ The latest version of the schedule is online at https://open-security-summit.org
 On Monday, we start with light/planning Working Sessions in the morning and carry out a briefing over lunch.
 
 ### How can I join the sessions I've registered for?
-Open the Google Meet URL and join the session.
-Meet URLs will be available from 10:00 p.m., Sunday, 3 June 2018.
+Open the Google Meet/Zoom URL and join the session.
+Remote URLs will be available from 10:00 p.m., Sunday, 3 June 2018.
 
 ### How do the sessions work for remote participants?
 Join the Google Meet and follow and participate in the session using Chat to ask questions or to indicate that you wish to address the session. You can request copies of slides, etc., and contribute to the outcomes.

@@ -7,7 +7,7 @@ featured     : no                   # if  "yes" review with summit team
 when_day     : Wed
 when_time    : PM-2
 room_layout  :                    #
-room_id      : villa-3
+room_id      : villa-158
 session_slack: https://os-summit.slack.com/messages/CAU646WRE
 status       : review-content     # draft, review-content, done
 description  : Session on OWASP Honeypot
