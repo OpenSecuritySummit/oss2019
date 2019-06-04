@@ -6,7 +6,7 @@ technology   : Mobile, iOS
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"
 when_day     : Wed
-when_time    : AM-1
+when_time    : PM-2
 room_layout  :                    #
 room_id      : room-4
 session_slack:
