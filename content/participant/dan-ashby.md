@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+  - Mapping boot camp
 status: add-details
 title: Dan Ashby
 travel_from: ''
