@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Wed
 when_time    : PM-2
 room_layout  :
-room_id      : room-2
+room_id      : room-4
 session_slack: 
 status       : need content
 description  : An introduction to the Cynefin Framework, and its intersection with Wardley Maps, for Security
