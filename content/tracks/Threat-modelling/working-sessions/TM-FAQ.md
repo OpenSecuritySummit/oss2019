@@ -15,6 +15,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Tash Norris
 description  : How do we persist the information from the TM Slack channel?
 locked       : true
 ---
