@@ -7,7 +7,7 @@ technology   : Dependency Check, FindSecBugs, ZAP, Jenkins, Defect Dojo, Seleniu
 categories   :                      
 featured     : yes                  
 when_day     : Wed
-when_time    : PM-1,PM-2
+when_time    : AM-1,PM-2,PM-3
 room_layout  :
 room_id      : room-5
 session_slack: #w-devsecops-findings 
@@ -22,6 +22,11 @@ description  : How to deal with the security findings in an appsec pipeline and 
 ---
 
 Security testing is vital to validate the correct implementation of controls and that security requirements. To scale securty testing to often hundreds of different software products, many organisations now implement automated tools to scale security testing practices. In this hands-on working session we'll learn how to build a working DevSecOps POC and, more importantly, how to deal with the myriad of security findings it generates.
+
+Schedule:
+- Slot 1 (AM1) - Architectiure and Setup
+- Slot 2 (PM2) - Objectives and Chellenges
+- Slot 3 (PM3) - Outcomes
 
 ## Why
 
