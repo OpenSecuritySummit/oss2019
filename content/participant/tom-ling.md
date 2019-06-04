@@ -23,6 +23,7 @@ sessions:
 - TM maturity
 - Secrets Management
 - Security Challenges - Analysis Analogies
+- Towards a unified way of describing threat models
 status: add details
 title: Tom Ling
 travel-from: Somerset
