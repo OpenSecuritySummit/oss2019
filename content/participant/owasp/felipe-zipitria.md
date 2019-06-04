@@ -16,7 +16,6 @@ sessions:
 - Real world Chaos Engineering
 - Secrets Management
 - Integrating Security Tools in the SDL
-- Security data science
 status: add details
 title: Felipe Zipitria
 travel_from: Uruguay

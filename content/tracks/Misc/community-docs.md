@@ -7,7 +7,7 @@ categories   :
 when_day     : Tue
 when_time    : Eve-1
 room_layout  :
-room_id      :
+room_id      : villa-4
 session_slack: 
 status       : draft              # draft, review-content, done
 description  : Documents related to community outreach promoting OWASP content

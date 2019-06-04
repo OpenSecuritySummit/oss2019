@@ -11,9 +11,16 @@ sessions:
 - Wardley Maps Training (#2)
 - Threat Modeling Training (#3)
 - OWASP SAMM Training (#3)
-- TM track introduction
 - Security Challenges - An Introduction
 - Hand's on Wardley Maps creation
+- Introduction to Wardley Maps
+- How do we persist the information from the TM Slack channel?
+- Creating a generic diagram of a threat model
+- TM maturity
+- Threat Model Cookbook Project (Part 1)
+- Zap - How to use it
+- Juice Shop 101
+- Security Data Science
 status: add details
 title: Lauren Chiesa
 travel-from: ''

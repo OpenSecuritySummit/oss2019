@@ -5,8 +5,8 @@ title        : Using User Story Mapping for effective communication
 technology   :
 topics       :                    # for example ["GDPR"]
 featured     : no                 # review with summit team "yes"
-when_day     : Wed
-when_time    : PM-1
+#when_day     : Wed
+#when_time    : PM-1
 room_id      : room-3
 locked       : true
 session_slack: https://os-summit.slack.com/messages/CAX9L015H

@@ -11,7 +11,7 @@ sessions:
 - Mobile Security Testing Guide onboarding
 - SAMM user session - Introduction
 - SAMM user session - Round-table
-- Hand's on Wardley Maps creation (Training Session)
+- Hand's on Wardley Maps creation
 # Tuesday
 - Juice Shop 101
 - Agile Practices for Security Teams

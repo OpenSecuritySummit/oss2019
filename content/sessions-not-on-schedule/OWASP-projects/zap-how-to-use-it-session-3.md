@@ -4,7 +4,7 @@ title        : Zap - How to use it (session 3)
 #track        : OWASP ZAP
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
-when_day     : Wed
+#when_day     : Wed
 when_time    : Eve-1
 room_layout  :                    #
 room_id      :

@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+- Agile Practices for Security Teams
 status: add-details
 title: Wouter de Meijer
 travel_from: ''

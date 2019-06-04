@@ -18,6 +18,11 @@ sessions:
 - Towards a unified way of describing threat models
 - Threat Model Cookbook Project (Part 1)
 - Threat Model Cookbook Project (Part 2)
+- State and future of threat modeling
+- SAMMv2 - Threat Modeling
+- Creating a generic diagram of a threat model
+- Automated Threat Hunting Project Collaboration
+- Incremental Threat Modeling
 status: add-details
 title: Steven van der Baan
 travel_from: ''

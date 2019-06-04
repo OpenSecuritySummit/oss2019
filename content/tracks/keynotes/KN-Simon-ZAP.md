@@ -3,7 +3,8 @@ title        : OWASP ZAP Heads Up Display (HUD)
 type         : keynote
 featured     : yes
 when_day     : Tue
-when_time    : DS-2
+when_time    : KN-2
+room_id      : main-stage
 session_slack: 
 description  : Demonstration of the new OWASP ZAP Heads Up Display (HUD) by Simon
 organizers   :

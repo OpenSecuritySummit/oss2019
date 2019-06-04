@@ -21,7 +21,7 @@ participants :
 
 ## WHY
 
-(...)
+(How do we get the business people interested in (and putting a value on) security.  They need to understand how exposed they are, high profile celebrities and major company execs will have active cyber protection programmes.  How can we share basic good cyber hygiene good practice to help those outside the cyber community )
 
 ## What
 

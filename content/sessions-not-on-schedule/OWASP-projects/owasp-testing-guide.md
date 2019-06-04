@@ -4,7 +4,7 @@ title        : Owasp Testing Guide v5
 #track        : OWASP Projects
 topics       : ["Owasp Project"]
 featured     : yes                  # review with summit team "yes"
-when_day     : Thu
+#when_day     : Thu
 when_time    : PM-2,PM-3
 room_layout  :                    #
 room_id      : villa-3

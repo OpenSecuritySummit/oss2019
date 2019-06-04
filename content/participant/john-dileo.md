@@ -14,7 +14,6 @@ project_leader:
 - Application Security Curriculum
 sessions:
 - SAMM track - Onboarding
-- OWASP Mobile Security Testing Guide 101
 - Zap - How to use it
 - Creating a Security Champions network
 - Creating Appsec metrics and visualisation
@@ -22,6 +21,11 @@ sessions:
 - Integrating Security Tools in the SDL
 - Incremental Threat Modeling
 - SAMMv2 - Threat Modeling
+- SAMM - Outreach program (Mon)
+- SAMM user session - Introduction
+- SAMM user session - Round-table
+- SAMM - Measurement model (Mon PM)
+- SAMM - Measurement model (Mon EV)
 status: ''
 title: John DiLeo
 travel-from: Auckland, New Zealand

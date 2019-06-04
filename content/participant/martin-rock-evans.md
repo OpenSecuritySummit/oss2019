@@ -9,7 +9,6 @@ notes: ''
 project_leader: ''
 sessions:
 - Agile Practices for Security Teams
-- Juice Shop 101
 - Juice Shop Contributor Onboarding
 - Juice Shop Challenge Refactoring
 - Juice Shop Release Night
@@ -23,9 +22,9 @@ sessions:
 - Dealing with DevSecOps Findings
 - TM track introduction
 - Lightweight privacy threat modeling using LINDDUN
-- Lightweight privacy threat modeling using LINDDUN Part II
 - Juice Shop Hack'n'Code (Mon)
 - Juice Shop Hack'n'Code (Wed)
+- TM maturity
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon

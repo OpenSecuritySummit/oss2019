@@ -9,13 +9,15 @@ project_contributor:
 - Juice Shop
 - secureCodeBox
 sessions:
-- Juice Shop Hack'n'Code
+- Juice Shop Hack'n'Code (Mon)
+- Juice Shop Hack'n'Code (Tue)
+- Juice Shop Hack'n'Code (Wed)
 - Juice Shop Challenge Refactoring
 - Juice Shop Round Table
 - Juice Shop Release Night
-- Juice Shop Hack’n’Code (Mon)
-- Juice Shop Hack’n’Code (Tue)
-- Juice Shop Hack’n’Code (Wed)
+- ZAP working session - automation
+- ZAP working session - future plans
+- Dealing with DevSecOps Findings
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934

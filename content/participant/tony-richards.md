@@ -11,6 +11,9 @@ project_leader: ''
 sessions:
 - Agile Practices for Security Teams
 - Cyber Risk Modeling
+- Creating a generic diagram of a threat model
+- DevSecOps Maturity Model (DSOMM)
+- Threat Model Cookbook Project (Part 1)
 - Third Party Due Diligence
 - Lightweight privacy threat modeling using LINDDUN
 - Describe different ways of implementing TM in agile organisations

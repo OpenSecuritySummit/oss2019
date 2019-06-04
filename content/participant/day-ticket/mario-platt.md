@@ -17,7 +17,7 @@ sessions:
 - SAMM - Alignment with Threat Modeling
 - Security Challenges - An Introduction
 - Introduction to Wardley Maps (Training Session)
-- Hand's on Wardley Maps creation (Training Session)
+- Hand's on Wardley Maps creation
 - SAMM user session - Introduction
 - OWASP Mobile Security Testing Guide 101
 status: add-details

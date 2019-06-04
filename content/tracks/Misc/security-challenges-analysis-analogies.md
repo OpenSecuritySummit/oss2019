@@ -9,10 +9,10 @@ categories   :
     - Strategic Challenges
 featured     :                 # review with summit team "yes"
 when_day     : Tue                # i.e.    Tue
-when_time    : PM-1               # i.e.    AM-1
+when_time    : PM-3               # i.e.    AM-1
 room_layout  :                    #
-room_id      :
-session_slack: 
+room_id      : room-2
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Next step, analyse cyber security in very general terms
 organizers   : Nick Drage

@@ -4,10 +4,10 @@ title        : Using Cynefin Framework for Weak Signal Detection
 #track        : Cynefin Framework
 technology   :
 topics       :                    # for example ["GDPR"]
-featured     : true                    # review with summit team "yes"
-when_day     : Wed                   # i.e.    Tue
-when_time    : PM-2                   # i.e.    AM-1
-room_layout  :                    #
+#featured     : true                    # review with summit team "yes"
+#when_day     : Wed                   # i.e.    Tue
+#when_time    : PM-2                   # i.e.    AM-1
+#room_layout  :                    #
 room_id      :
 session_slack: 
 status       : draft              # draft, review-content, done

@@ -1,5 +1,5 @@
 ---
-title        : Automated Threat Hunting Project Collaboration
+title        : Threat pattern libraries
 type         : working-session
 track        : Threat Model
 locked       : false
@@ -7,17 +7,17 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-1
+when_time    : PM-2
 room_layout  :                    #
 room_id      : room-3
 session_slack: 
 status       : done              # draft, review-content, done
-description  : Discuss the OWASP Automated Threat Hunting Project and potential cross-over / collaboration options. 
+description  : Starting the threat model threat model library project 
 organizers   :
     - Steven Wierckx
-    - Tash Norris
+    - Steven van der Baan
 participants:
-    - you ?
+    - Tash Norris
 ---
 
-This session will be referencing the work done by Tin Zaw as part of the Automated Threat Hunting OWASP project. Info: https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications
+This session will be the start of a sub-project for threat modeling that will be lead by Steven and Steven that will create a database of attacks and mitigations that will be categorised in some kind of pattern.

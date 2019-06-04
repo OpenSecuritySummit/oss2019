@@ -11,7 +11,8 @@ when_time    : PM-1
 room_layout  :                    
 room_id      : room-5
 session_slack: 
-status       : review-content              
+status       : review-content      
+fixed        : true
 organizers   :
     - Dominik de Smit
 description  : Secrets Management in a DevSecOps world

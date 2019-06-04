@@ -9,14 +9,14 @@ notes: ''
 project_leader: ''
 sessions:
 - Wardley Maps Training (#1)
-- USING CYNEFIN FRAMEWORK MAKING STRATEGIC SECURITY DECISIONS
-- JUPYTER TRAINING (#2)
-- DEVSECOPS MATURITY MODEL (DSOMM)
-- devsecops maturity model (dsomm)
-- JUPYTER TRAINING (#2)
-- USING CYNEFIN FRAMEWORK MAKING STRATEGIC SECURITY DECISIONS
+- Using Cynefin Framework making strategic security decisions
+- Jupyter Training (#2)
+- DevSecOps Maturity Model (DSOMM)
 - Security Challenges - An Introduction
-- Hand’s on Wardley Maps creation
+- Hand's on Wardley Maps creation
+- Agile Practices for Security Teams
+- Threat Model Cookbook Project (Part 1)
+- Creating Appsec metrics and visualisation
 status: add details
 title: Ben Schofield
 travel-from: ''

@@ -4,7 +4,7 @@ title        : Cynefin Framework for Security
 #track        : Maps and Graphs
 topics       : ["Wardley Maps"]
 featured     : yes
-when_day     : Thu
+#when_day     : Thu
 when_time    : PM-1
 room_layout  :
 room_id      : room-3

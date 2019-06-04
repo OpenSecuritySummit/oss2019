@@ -27,9 +27,9 @@ sessions:
 - Using Cynefin Framework making strategic security decisions
 - Lightweight privacy threat modeling using LINDDUN
 - Mapping boot camp
-- another
 - Zap - How to use it
-- AaaaBvvvv
+- Introduction to Wardley Maps
+- Security Challenges - An Introduction
 status: done
 title: Dinis Cruz
 twitter: DinisCruz
