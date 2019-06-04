@@ -27,4 +27,6 @@ Feedback from the industry is needed for the researcher in academia. In the prev
 ## Outcomes
 
 Remarks and comments on the usability of the reasearch presented.
-Input for the University of Leuven on future topics for reasearch.
+Input for the University of Leuven on future topics for research, including:
+ - Specific (as opposed to abstract) examples from the TM project group to the LINDDUN researchers (Kim)
+ - Low expertise / lightweight methodology examples
