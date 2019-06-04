@@ -7,7 +7,8 @@ job_title: ''
 linkedin: ''
 notes: ''
 project_leader: ''
-sessions: [Agile Practices for Security Teams]
+sessions:
+  - Agile Practices for Security Teams
 status: add-details
 title: Deepak Subramanian
 travel_from: ''
