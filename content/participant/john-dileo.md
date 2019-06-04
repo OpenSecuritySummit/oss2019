@@ -23,6 +23,7 @@ sessions:
 - Incremental Threat Modeling
 - SAMMv2 - Threat Modeling
 - SAMM - Outreach program (Mon)
+- SAMM user session - Introduction
 status: ''
 title: John DiLeo
 travel-from: Auckland, New Zealand
