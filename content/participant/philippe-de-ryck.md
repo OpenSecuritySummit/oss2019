@@ -11,6 +11,7 @@ sessions:
 - oss-oboarding-welcome-content-3rd
 - security-challenges-what-challenges
 - kn-nick-lessons
+- os-summit
 status: add details
 title: Philippe De Ryck
 travel-from: ''
