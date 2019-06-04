@@ -60,7 +60,13 @@ Thanks to the proliferation of automated security scanning tools we are generati
 -- SAST SonarQube quality profiles
 -- Dependency Check Configuration
 -- Defect Dojo/Jira integration Scripts
--- Jenkins groovy scripts to tie it all together ..
+-- Jenkins groovy scripts to tie it all together
+
+### Long-term Outcomes 
+
+1.  Publish Repo with Automation scripts
+2.  Pull Request for Defect Dojo
+3.  Document process to handle findings
 
 
 ## Who
