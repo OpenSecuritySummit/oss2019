@@ -5,7 +5,7 @@ technology   :
 topics       :                    # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
 when_day     : Tue                # i.e.    Tue
-when_time    : Ev-1               # i.e.    AM-1
+when_time    : Eve-1               # i.e.    AM-1
 room_layout  :                    #
 room_id      : villa-2
 session_slack: 
