@@ -25,6 +25,7 @@ sessions:
 - SAMM - Outreach program (Mon)
 - SAMM user session - Introduction
 - SAMM user session - Round-table
+- SAMM - Measurement model (Mon PM)
 status: ''
 title: John DiLeo
 travel-from: Auckland, New Zealand
