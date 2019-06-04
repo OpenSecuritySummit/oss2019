@@ -24,6 +24,7 @@ sessions:
 - Secrets Management
 - Security Challenges - Analysis Analogies
 - Towards a unified way of describing threat models
+- Security Challenges - Analysis Analogies
 status: add details
 title: Tom Ling
 travel-from: Somerset
