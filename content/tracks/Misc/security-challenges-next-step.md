@@ -15,7 +15,7 @@ session_slack:
 status       : draft              # draft, review-content, done
 description  : Is this viable? Where do we go?
 organizers   : Nick Drage
-participants :
+participants : Jim Newman
 ---
 
 The final session needs careful thought, so this will be updated.
