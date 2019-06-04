@@ -14,7 +14,6 @@ project_leader:
 - Application Security Curriculum
 sessions:
 - SAMM track - Onboarding
-- OWASP Mobile Security Testing Guide 101
 - Zap - How to use it
 - Creating a Security Champions network
 - Creating Appsec metrics and visualisation
