@@ -4,7 +4,7 @@ type         : working-session
 track        : Threat Model
 topics       : 
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
+categories   :  Threat modeling                    # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-1
@@ -21,8 +21,8 @@ locked       : true
 
 ## Why
 
-In order to get the most of this summit and the threat model track we will give a short introduction on our way of working and discuss all planned sessions. any new and refreshing ideas can then be added to the backlog so we can choose topics that have a large support within the community.
-This session is meant for all participants that are new to threat modeling and/or new to the summit or threat model track.
+In order to get the most from this summit and the threat model track we will give a short introduction on our way of working and discuss all planned sessions. any new and refreshing ideas can then be added to the backlog so we can choose topics that have a large support within the community.
+This session is meant for all participants who are new to threat modeling and/or new to the summit or threat model track.
 
 ## What
 
@@ -33,4 +33,7 @@ This session is meant for all participants that are new to threat modeling and/o
 
 ## Outcomes
 
-A more finalised list of topics to be handled during the summit
+ - Set objectives for the Summit
+ - Discussed project structure
+ - Discussed any crossover with other OWASP projects
+ - Identified list of sub-modules to create in OWASP project
