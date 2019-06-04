@@ -12,7 +12,7 @@ when_time    : AM-1               # i.e.    AM-1
 room_layout  :                    #
 room_id      : room-4
 session_slack: 
-status       : draft              # draft, review-content, done
+status       : ok              # draft, review-content, done
 description  : What strategies are already in use?
 organizers   : Nick Drage
 participants :

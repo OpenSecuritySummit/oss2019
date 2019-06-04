@@ -8,7 +8,9 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions:
+    - Security Challenges - Analyse others
     - Using Wardley Maps on SOC
+    - Wardley Maps for Security
 status: add-details
 title: Simon Wardley
 travel_from: ''
