@@ -8,7 +8,6 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions:
-- Agile Practices for Security Teams
 - Juice Shop Contributor Onboarding
 - Juice Shop Challenge Refactoring
 - Juice Shop Release Night
