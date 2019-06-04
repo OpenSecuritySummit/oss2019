@@ -13,6 +13,7 @@ sessions:
 - kn-nick-lessons
 - os-summit
 - Security Data Science
+- OWASP ZAP Heads Up Display (HUD)
 status: add details
 title: Philippe De Ryck
 travel-from: ''
