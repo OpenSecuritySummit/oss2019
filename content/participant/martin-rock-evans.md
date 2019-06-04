@@ -25,6 +25,7 @@ sessions:
 - TM maturity
 - ZAP working session - automation
 - Juice Shop Hack'n'Code (Tue)
+- Threat Model Cookbook Project (Part 1)
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
