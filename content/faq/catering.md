@@ -33,9 +33,19 @@ Lunch is served in the dining area of The Venue, from 12:30 - 13:30.
 Dinner is served in the Dinner Villa (180), from 18:30 - 19:30. Each evening will feature a different theme.
 
 {{< table "table" >}}
-|Monday    |Tuesday          |Wednesday   |Thursday   |
-|----------|-----------------|------------|-----------|
-|USA       |China/Thailand   |Italy       |India      |
+|Monday          |Tuesday                   |Wednesday           |Thursday                 |
+|----------------|--------------------------|--------------------|-------------------------|
+|**American**    |**Asian**                 |**Italian**         |**Indian**               |
+|Lasagna         |Singapore Noodles         |Margarita Pizza (V) |Chicken Tikka            |
+|Mac & Cheese    |Chicken with Cashew Nuts  |Pepperoni Pizza     |Lamb Rogan Josh          |
+|Greek Salad (V) |Vegetable Chow Mein (V)   |'Fully Loaded' Pizza|Vegetable Veg Masala (V) |
+|Caesar Salad (V)|Chinese Mixed Platter     |Tapas Platter       |Vegetable Rogan Josh (V) |
+|Garlic Bread    |Steamed Dumplings         |Caesar Salad (V)    |Chili Balti              |
+|Chicken Wings   |Vegetable Spring Rolls (V)|Garlic Bread        |Pilai/Plain Rice (V)     |
+|Hot Wings       |Egg Fried/Plain Rice (V)  |                    |Plain/Garlic Naan (V)    |
+|Tapas           |Prawn Crackers            |                    |Bombay Aloo (V)          |
+|                |                          |                    |Saag Aloo (V)            |
+|                |                          |                    |Poppadum (V)             |
 
 Drinks provided (wine, beer, cider, soft drinks).
 
