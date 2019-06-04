@@ -8,7 +8,7 @@
             {{ .Content }}
 
             <ul>
-            {{ range where (where (where .Pages ".Params.title" "!=" "") ".Params.status" "!=" "draft") ".Params.type" "==" "outcome"}}
+              {{ range where (where .Data.Pages ".Params.type" "outcome") ".Params.title" "ne" "" }}
                 <li><a href="{{.Permalink}}">{{ .Title }}</a> ({{ partial "outcomes/status-badge.html" . }})</li>
             {{ end }}
             </ul>
