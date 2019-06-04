@@ -1,20 +1,20 @@
 ---
-title        : Security Challenges - An Introduction  # same as the corresponding user|working|product-session
+title        : Security Challenges - An Introduction  
 type         : outcome
 track        : Misc
 images       :
-session_type : working-session                   # working-session, user-session, product-session            
+session_type : working-session                             
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : Misc                    
+status       : draft              
 description  : Outcomes from Monday's "Strategic Challenges"
 ---
 
-## Outcomes/Deliverables (recommend)
+## Outcomes/Deliverables 
 
-The outcome was a list of characteristics that could be used to describe the cyber security industry and the problems within it. This was sourced from everyone in attendance.
+The outcome was a list of characteristics that describe the cyber security industry and the problems within it. This was sourced from everyone in attendance.
 
-## Synopsis and Takeaways (recommend)
+## Synopsis and Takeaways 
 
 The list of characteristics is below:
 
@@ -25,14 +25,14 @@ The list of characteristics is below:
 * Auto-didacts - self-taught
 * Blame culture 
 * Breach fatigue
-* Built in feature
+* Built-in feature
 * Career paths undefined
 * Constant Evolution (speed)
 * Direct opponent to progress of other business areas
 * Eternal, the game doesn't end
-* Expert driven, technical experts
+* Expert-driven, technical experts
 * Failure seen as normal
-* Fear motivated
+* Fear-motivated
 * Fragmented ( many different types of role? )
 * Hoodie, public perception is incorrect
 * Idiolect - it's own language and jargon
