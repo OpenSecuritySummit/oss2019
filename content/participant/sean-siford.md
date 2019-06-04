@@ -18,7 +18,6 @@ sessions:
 - Customising the Chaos Engineering Toolkit
 - Real world Chaos Engineering
 - Lightweight privacy threat modeling using LINDDUN
-- Zap - How to use it
 - ZAP working session - the HUD
 - ZAP working session - automation
 - TM maturity
