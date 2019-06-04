@@ -15,6 +15,7 @@ sessions:
 - Security Challenges - An Introduction
 - Hand's on Wardley Maps creation
 - Agile Practices for Security Teams
+- Threat Model Cookbook Project (Part 1)
 status: add details
 title: Ben Schofield
 travel-from: ''
