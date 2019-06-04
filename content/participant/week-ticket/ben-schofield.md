@@ -3,7 +3,7 @@ chapter_leader: ''
 company: ''
 facebook: ''
 image: ''
-job_title: 'Digital media consultant'
+job_title: Digital media consultant
 linkedin: ''
 notes: ''
 project_leader: ''
@@ -15,9 +15,10 @@ sessions:
 - Security Challenges - An Introduction
 - Hand's on Wardley Maps creation
 - Agile Practices for Security Teams
+- Dealing with DevSecOps Findings
 status: add details
 title: Ben Schofield
-travel-from: 'Oxfordshire'
+travel-from: Oxfordshire
 twitter: ''
 type: participant
 website: ''
