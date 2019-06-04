@@ -7,7 +7,7 @@ images       : none
 session_type : working-session         
 categories   : OWASP SAMM
 status       : draft              
-
+type         : outcome
 ---
 
 ## Description of session
