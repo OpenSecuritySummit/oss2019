@@ -12,7 +12,6 @@ sessions:
 - ZAP working session - the HUD
 - Zap - How to use it
 - ZAP working session - future plans
-- State and future of threat modeling
 - Writing security tests to confirm vulnerabilities and fixes
 - Securing the CI Pipeline
 - Security Challenges - Next step
