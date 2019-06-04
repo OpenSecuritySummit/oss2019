@@ -8,6 +8,7 @@ when_day     : Wed
 when_time    : PM-2
 room_layout  :                    #
 room_id      : villa-158
+meet_url     : https://zoom.us/j/966416810
 session_slack: https://os-summit.slack.com/messages/CAU646WRE
 status       : review-content     # draft, review-content, done
 description  : Session on OWASP Honeypot
