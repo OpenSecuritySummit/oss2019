@@ -14,6 +14,7 @@ sessions:
 - os-summit
 - Security Data Science
 - OWASP ZAP Heads Up Display (HUD)
+- Security Challenges - Analysis Analogies
 status: add details
 title: Philippe De Ryck
 travel-from: ''
