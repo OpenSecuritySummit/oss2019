@@ -3,7 +3,7 @@ chapter_leader: ''
 company: ''
 facebook: ''
 image: ''
-job_title: ''
+job_title: 'Digital media consultant'
 linkedin: ''
 notes: ''
 project_leader: ''
@@ -19,7 +19,7 @@ sessions:
 - Creating Appsec metrics and visualisation
 status: add details
 title: Ben Schofield
-travel-from: ''
+travel-from: 'Oxfordshire'
 twitter: ''
 type: participant
 website: ''
