@@ -13,7 +13,6 @@ sessions:
 - Integrating Security Tools in the SDL
 - Third Party Due Diligence
 - From Threat Modeling to DevSecOps metrics
-- 
 status: add details
 title: Didar Gelici
 travel_from: Earlsfield
