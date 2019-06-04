@@ -8,7 +8,7 @@ session_type : working-session
 technology   : Data schema
 categories   : Threat Modelling
 status       : draft              
-
+type         : outcome
 ---
 
 ## Description of session
