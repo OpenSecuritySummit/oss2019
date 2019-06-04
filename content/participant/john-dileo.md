@@ -24,6 +24,7 @@ sessions:
 - SAMMv2 - Threat Modeling
 - SAMM - Outreach program (Mon)
 - SAMM user session - Introduction
+- SAMM user session - Round-table
 status: ''
 title: John DiLeo
 travel-from: Auckland, New Zealand
