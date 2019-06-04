@@ -8,6 +8,8 @@ linkedin: ''
 notes: ''
 project_leader: ''
 sessions: 
+    - Agile Practices for Security Teams
+    - Creating Appsec metrics and visualisation
     - OWASP Application Security Curriculum Project
     - Mapping OWASP DevSecOps Maturity Model to SAMMv2
     - SAMM - Agile guidance
@@ -21,12 +23,9 @@ sessions:
     - SAMM - Measurement model (Mon EV)
     - SAMM - Model Challenges (Tue)
     - SAMM - Model Challenges (Wed)
-    - SAMM - Model discussions (Tue)
     - SAMM - Model discussions (Wed)
     - SAMM - Outreach program (Mon)
-    - SAMM - Outreach program (Tue)
     - SAMM - Outreach wrap-up
-    - SAMM - Parallel editing (Tue)
     - SAMM - Parallel editing (Thu AM)
     - SAMM - Parallel editing (Thu PM)
     - SAMM - Planning and Roadmap
