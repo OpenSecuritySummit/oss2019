@@ -7,7 +7,8 @@ job_title: CyberSecurity Developer
 linkedin: xavi-al
 notes: ''
 project_leader: ''
-sessions: '[zap-automation]'
+sessions: 
+- zap-automation
 status: add-details
 title: Xavier Delgado
 travel_from: Spain
