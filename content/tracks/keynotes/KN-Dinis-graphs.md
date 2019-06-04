@@ -1,5 +1,5 @@
 ---
-title        : Security data science
+title        : Security Data Science
 type         : keynote
 featured     : yes
 when_day     : Tue
