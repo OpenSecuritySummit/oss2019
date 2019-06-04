@@ -13,11 +13,12 @@ notes: ''
 project_leader: ''
 role: track "chair"
 sessions:
-- Cell based Structures for Security
 - Introduction to Cynefin Framework (Training Session)
 - State and future of threat modeling
 - Towards a unified way of describing threat models
+- The Cynefin framework
 - Using Cynefin Framework making strategic security decisions
+- Wardley Maps for Security
 status: add-details
 title: Nick Drage
 travel_from: United Kingdom
