@@ -8,7 +8,7 @@ session_type : working-session
 technology   : LINDUNN
 categories   : Threat Modeling / User session
 status       : draft              
-
+type         : outcome
 ---
 
 ## Description of session
