@@ -22,6 +22,7 @@ sessions:
 - Integrating Security Tools in the SDL
 - Incremental Threat Modeling
 - SAMMv2 - Threat Modeling
+- SAMM - Outreach program (Mon)
 status: ''
 title: John DiLeo
 travel-from: Auckland, New Zealand
