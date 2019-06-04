@@ -15,6 +15,7 @@ sessions:
 - Security Data Science
 - OWASP ZAP Heads Up Display (HUD)
 - Security Challenges - Analysis Analogies
+- JUICE SHOP 101
 status: add details
 title: Philippe De Ryck
 travel-from: ''
