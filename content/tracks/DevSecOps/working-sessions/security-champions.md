@@ -5,13 +5,12 @@ track        : DevSecOps
 topics       : ["Security Champions"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Wed
-when_time    : AM-1
+when_time    : Eve-1
 room_layout  :                    #
-room_id      :
+room_id      : Dinner Villa
 session_slack: https://os-summit.slack.com/messages/CAWE8J5JB
 status       : review-content     # draft, review-content, done
-organizers   :
-    - (one of participants)
+organizers   : Claudio Camerino, Dinis Cruz
 description  :
 participants :
 ---
