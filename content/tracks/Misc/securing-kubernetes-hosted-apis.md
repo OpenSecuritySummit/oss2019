@@ -9,7 +9,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Thu
 when_time    : DS-2
 room_layout  :                    #
-room_id      :
+room_id      : main-stage
 session_slack:
 status       : review-content
 description  :

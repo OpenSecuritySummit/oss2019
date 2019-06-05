@@ -8,7 +8,7 @@ categories   :                      # GDPR, Juice Shop, etc.
 when_day     :  Thu
 when_time    :  PM-1
 room_layout  :                    #
-room_id      : room-5
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   :

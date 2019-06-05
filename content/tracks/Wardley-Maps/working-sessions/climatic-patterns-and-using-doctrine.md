@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Thu
 when_time    : PM-2
 room_layout  :
-room_id      :
+room_id      : room-2
 session_slack: 
 status       : need-content
 description  : Wardley Mapping, Understanding Climatic Patterns and Using Doctrine
