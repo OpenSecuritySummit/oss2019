@@ -5,8 +5,8 @@ job_title       :
 company         : Bounce Security
 travel_from     :
 image           : https://media.licdn.com/dms/image/C4D03AQF7xwm94V6Zhw/profile-displayphoto-shrink_200_200/0?e=1565222400&v=beta&t=u0Ho5FcXp53BjOyWcLW1QINitCVU9HgGZCrEok1xZOU
-linkedin        : https://www.linkedin.com/in/avidouglen/
-twitter         : https://twitter.com/sec_tigger
+linkedin        : avidouglen
+twitter         : sec_tigger
 facebook        :
 website         :
 email           : avi.douglen@owasp.org
@@ -15,7 +15,6 @@ chapter_leader  : Israel chapter
 eventbrite_id   : 
 status          : add-details
 sessions        :
-- Automated Threat Hunting Project Collaboration
 - Creating a Threat Library
 - Creating a generic diagram of a threat model
 - How do we persist the information from the TM Slack channel?
@@ -29,7 +28,7 @@ sessions        :
 - Threat Model Examples Project
 - Threat Model Examples Project
 - Towards a unified way of describing threat models
-- Hand's on Wardley Maps creation
+- Hand's on Wardley Maps creation (Training Session)
 - Introduction to Wardley Maps (Training Session)
 - Mapping boot camp
 - Wardley Mapping - Climatic Patterns and Using Doctrine

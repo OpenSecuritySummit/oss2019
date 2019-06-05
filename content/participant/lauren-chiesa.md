@@ -21,6 +21,8 @@ sessions:
 - Zap - How to use it
 - Juice Shop 101
 - Security Data Science
+- threat pattern libraries
+- Creating a Security Champions network
 status: add details
 title: Lauren Chiesa
 travel-from: ''

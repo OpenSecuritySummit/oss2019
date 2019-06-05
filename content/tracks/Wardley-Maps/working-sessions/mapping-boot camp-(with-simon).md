@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Thu
 when_time    : AM-1
 room_layout  :
-room_id      :
+room_id      : room-2
 session_slack: 
 status       : need-content              # draft, review-content, done
 description  : Wardely Mapping boot camp - Zero to Mapping Hero - By Simon Wardley

@@ -1,6 +1,6 @@
 ---
 title        : Automated Threat Hunting Project Collaboration
-type         : working-session
+type         : outcome
 track        : Threat Model
 locked       : false
 technology   :
@@ -21,3 +21,18 @@ participants:
 ---
 
 This session will be referencing the work done by Tin Zaw as part of the Automated Threat Hunting OWASP project. Info: https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications
+
+## Notes
+
+Tin gives an overview on the project. The project has been running for 5 years.
+
+## Outcomes
+
+ * Close collaboration between the projects, any change on either end will be triggered (automated) so the other party is notified
+ * Keep track of the data origin to notify the party of changes
+
+
+## Future
+
+ * Communicate the data schema to the other parties where we retrieve data from
+ * Figure out a way to have some kind of integration with other projects
