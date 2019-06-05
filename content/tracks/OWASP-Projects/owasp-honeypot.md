@@ -33,6 +33,7 @@ The session will focus on discussing the topics of the project.
 ## Outcomes
 
 Revised deliveries on the activities of the project:
+ 
 - Review timeline and activities
 - Additional needs for project participants
 - Discussion
