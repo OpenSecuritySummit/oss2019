@@ -1,5 +1,5 @@
 ---
-title        : Hack’n’Code (Tue)
+title        : Juice Shop Hack’n’Code (Tue)
 track        : 
 video        : none
 slides       : none
