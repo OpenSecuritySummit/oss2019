@@ -16,6 +16,7 @@ sessions:
 - Hand's on Wardley Maps creation
 - Agile Practices for Security Teams
 - Dealing with DevSecOps Findings
+- State and future of threat modeling
 status: add details
 title: Ben Schofield
 travel-from: Oxfordshire
