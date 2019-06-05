@@ -1,6 +1,6 @@
 ---
-title        : 
-track        : 
+title        : SAMM - Parallel Editing
+track        : OWASP SAMM
 video        : none
 slides       : none
 images       : none
