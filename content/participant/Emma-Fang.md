@@ -4,7 +4,7 @@ company: 'dunnhumby Ltd'
 facebook: ''
 image: ''
 job_title: 'Information Security Consultant'
-linkedin: 'linkedin.com/in/emma-fang-67b8b250'
+linkedin: emma-fang-67b8b250
 notes: ''
 project_leader: ''
 sessions:
@@ -17,11 +17,10 @@ sessions:
 - From Threat Modeling to DevSecOps metrics
 - Securing the CI Pipeline
 - Wardley Maps for Security
-
 status: add-details
 title: Emma Fang
 travel_from: London
-twitter: @girl_who_hacks
+twitter: girl_who_hacks
 type: participant
 website: ''
 ---
