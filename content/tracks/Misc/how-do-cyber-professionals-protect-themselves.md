@@ -16,9 +16,6 @@ organizers   :
 participants :
 ---
 
-
-<!--(add intro)
-
 ## WHY
 
 How do we get the business people interested in (and putting a value on) security.  They need to understand how exposed they are, high profile celebrities and major company execs will have active cyber protection programmes.  How can we share basic good cyber hygiene good practice to help those outside the cyber community
@@ -35,5 +32,3 @@ https://4711ac07.ngrok.io/notebooks/users/BenSchofield/How%20do%20Cyber%20Profes
 
 (...)
 
-
-## Previous-->
