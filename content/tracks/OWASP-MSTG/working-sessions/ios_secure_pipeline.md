@@ -5,10 +5,10 @@ track        : OWASP MSTG
 technology   : Mobile, iOS
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     : yes                # review with summit team "yes"
-when_day     : Wed
-when_time    : PM-2
+when_day     : Thu
+when_time    : AM-1
 room_layout  :                    #
-room_id      : room-4
+room_id      : room-2
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Sven Schleier
