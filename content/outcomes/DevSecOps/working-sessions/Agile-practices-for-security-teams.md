@@ -11,6 +11,8 @@ status       : draft
 
 ## Description of session
 
+The session considered how agile methodologies benefit the development lifecycle, and how security should and could be approached in the same, or a similar, way.
+
 ## Outcomes/Deliverables 
 
 | ### SiA  | ### AiS |
