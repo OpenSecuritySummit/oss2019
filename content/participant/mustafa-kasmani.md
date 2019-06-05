@@ -15,6 +15,7 @@ sessions:
     - Creating a Threat Library
     - Writing security tests to confirm vulnerabilities and fixes
     - Securing the CI Pipeline
+    - Towards a unified way of describing threat models
 status: add-details
 title: Mustafa Kasmani
 travel_from: ''
