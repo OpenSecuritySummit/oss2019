@@ -7,7 +7,11 @@ job_title: Systems Architect
 linkedin: chrisotherwise
 notes: ''
 project_leader: ''
-sessions: []
+sessions:
+  - Integrating Security Tools in the SDL
+  - Incremental Threat Modeling
+  - Securing the CI Pipeline
+  - Cyber Risk Modeling
 status: add-details
 title: Chris Allen
 travel_from: ''
