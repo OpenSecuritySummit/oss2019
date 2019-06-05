@@ -1,5 +1,5 @@
 ---
-title        : Android and iOS Security Enhancements and Crackme Apps (Mon Eve)
+title        : Android and iOS Security Enhancements and Crackme Apps (Wed Eve)
 type         : working-session    # working-session, user-session
 track        : OWASP MSTG
 technology   : Mobile, iOS, Android
