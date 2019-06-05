@@ -21,16 +21,17 @@ participants :
     - Zuhal Vargun
 ---
 ## WHY
-
-This working session will continue the project by adding threat models and we will jam some threat models on the spot!
+This working session will collect threat models to add to our project.
 
 ## What
+We will look at existing examples and jam some threat models on the spot!
 
 Details about content formats and some examples are already available on https://linktr.ee/threatmodel.
-
-Will merge into https://github.com/OWASP/threat-model-cookbook.
 
 
 ## Outcomes
 
-Threat models being added to the repository.
+Have some threat models to add to the repository.
+
+The official repository is not ready yet, but work will be on https://github.com/jmarcil/threat-model-cookbook at some point this week.
+
