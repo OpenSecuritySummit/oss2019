@@ -1,14 +1,15 @@
 ---
-title        : Mobile Basic Security Testing and Reverse Engineering (Tue Evening)
+title        : Mobile Basic Security Testing and Reverse Engineering (Evening Session)
 type         : working-session    # working-session, user-session
 track        : OWASP MSTG
 technology   : Mobile, iOS, Android
 categories   : MSTG                   # GDPR, Juice Shop, etc.
 featured     :                # review with summit team "yes"
-when_day     : Tue
+when_day     : Wed,Thu
 when_time    : Eve-1,Eve-2
 room_layout  :                    #
-room_id      : villa-5
+room_id      : villa-6
+meet_url     : https://zoom.us/j/605888944
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : 
@@ -19,7 +20,7 @@ participants:
   - Sven Schleier
   - Jeroen Willemsen
 ---
-
+Mobile Basic Security Testing and Reverse Engineering
 Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
 
 ## Why
