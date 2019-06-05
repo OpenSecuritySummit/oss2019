@@ -37,7 +37,3 @@ The session considered how agile methodologies benefit the development lifecycle
 | Decision for the right triggers based on predefined rules |
           
 
- 
-## Follow up
-
-## References
