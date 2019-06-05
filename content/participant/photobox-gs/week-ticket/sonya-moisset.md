@@ -9,7 +9,8 @@ travel-from: United Kingdom
 twitter: sonyamoisset
 type: participant
 website: https://pbx-group-security.com/
-sessions: []
+sessions:
+    - Introduction to Cynefin Framework
 ---
 
 Sonya Moisset is a Senior AppSec Engineer at Photobox Group and the Tech Lead at Pride in London

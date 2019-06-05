@@ -10,6 +10,8 @@ title: Tash Norris
 twitter: TashJNorris
 type: participant
 website: https://pbx-group-security.com/
+sessions:
+    - Introduction to Cynefin Framework
 ---
 
 Tash Norris is the Senior Cloud Security and Threat Modeler at Photobox Group.

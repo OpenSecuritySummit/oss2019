@@ -1,5 +1,5 @@
 ---
-title        : SAMM - SAMM benchmarking
+title        : SAMM - SAMM benchmarking and tooling
 type         : working-session
 track        : OWASP SAMM
 locked       : true

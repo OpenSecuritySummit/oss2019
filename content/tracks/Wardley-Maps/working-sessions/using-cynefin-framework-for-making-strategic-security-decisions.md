@@ -9,8 +9,8 @@ featured     : true                   # review with summit team "yes"
 when_day     : Wed                   # i.e.    Tue
 when_time    : PM-3                   # i.e.    AM-1
 room_layout  :                    #
-room_id      :
-session_slack: 
+room_id      : room-2
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Session on how to use Cynefin Framework making strategic security decisions
 organizers   :
