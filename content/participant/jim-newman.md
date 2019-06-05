@@ -12,13 +12,12 @@ sessions        :
   - Towards a unified way of describing threat models
   - Agile Practices for Security Teams
   - Secrets Management
-  - From Threat Modeling to DevSecOps metrics
   - Creating Appsec metrics and visualisation
   - Security Data Science
   - Security Challenges - Analysis, Analogies
-  - State and future of threat modeling
-  - Threat Model Cookbook Project (Part 2)
+  - Using Cynefin Framework making strategic security decisions
   - Security Challenges - Analyse others
+  - Using Wardley Maps and Cynefin for Security
 status          : ''
 title           : Jim Newman
 travel_from     : Somerset, UK
