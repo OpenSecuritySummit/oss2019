@@ -29,7 +29,7 @@ How do we get the business people interested in (and putting a value on) securit
 
 ## Outcomes
 
-(...)
+https://4711ac07.ngrok.io/notebooks/users/BenSchofield/How%20do%20Cyber%20Professionals%20protect%20themselves.ipynb
 
 ## References
 
