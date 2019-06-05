@@ -49,7 +49,7 @@ The target audiences for this Working Session are:
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
-- <a href="https://github.com/OWASP/ASVS/raw/master/OWASP%20Application%20Security%20Verification%20Standard%203.1.pdf">ASVS 3.1 in English (pdf)</a>
+- <a href="https://github.com/OWASP/ASVS/raw/master/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0-en.pdf">ASVS 4.1 in English (pdf)</a> (note that the "bleeding edge" version is what is in the GitHub repository.) 
 - <a href="https://github.com/OWASP/ASVS">ASVS GitHub</a>
 
 
