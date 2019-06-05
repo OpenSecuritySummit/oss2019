@@ -19,6 +19,7 @@ sessions        :
     - TM maturity
     - Automated Threat Hunting Project Collaboration
     - Threat pattern libraries
+    - Track closure
 
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
