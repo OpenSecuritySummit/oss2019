@@ -17,6 +17,7 @@ sessions:
 - Secrets Management
 - Integrating Security Tools in the SDL
 - ZAP working session - automation
+- Dealing with DevSecOps Findings
 status: add details
 title: Felipe Zipitria
 travel_from: Uruguay
