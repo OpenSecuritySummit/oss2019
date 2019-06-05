@@ -9,6 +9,7 @@ when_day     : Wed,Thu
 when_time    : Eve-1,Eve-2
 room_layout  :                    #
 room_id      : villa-6
+meet_url     : https://zoom.us/j/605888944
 session_slack:
 status       : review-content              # draft, review-content, done
 organizers   :
