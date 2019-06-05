@@ -19,6 +19,7 @@ sessions:
 - State and future of threat modeling
 - Wardley Maps for Security
 - Using Wardley Maps and Cynefin for Security
+- SAMM - Model Challenges (Wed)
 status: add details
 title: Ben Schofield
 travel-from: Oxfordshire
