@@ -8,7 +8,7 @@ categories   :
     - Strategic Challenges
 featured     :                 # review with summit team "yes"
 when_day     : Fri                # i.e.    Tue
-when_time    : PM-1               # i.e.    AM-1
+when_time    : AM-1               # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack: 
@@ -18,17 +18,19 @@ organizers   : Nick Drage
 participants : Jim Newman
 ---
 
-The final session needs careful thought, so this will be updated.
+This is the latest version of this idea, partly inspired by a quick conversation with Dinis on Thursday evening.
 
 ## Outcomes
 
-Answers to the original questions:
+Answers to the following questions, raised during the week:
 
-* What are current strategies, explicit or implicit, that the industry uses or advocates as a whole?
-* What are the underlying assumptions of the current strategies? Are those underlying assumptions valid?
-* Assuming those strategies are incorrect, what are the correct strategies the industry should be using, to solve the problems it faces?
-* What methodologies should be used to create or find, and test, the correct strategies?
+* Is the approach of finding similar industries or situations valid?
+* Does Dave Snowden's experience support following or abandoning this methodology?
+* If it's not valid, what methodologies should be used to create or find, and test, the correct strategies?
 * Can we learn from other practitioners in related areas as a useable "hack" to choose effective new strategies rapidly?
+
+* What are the underlying assumptions of the current strategies? Are those underlying assumptions valid?
+
 * Is this area of study financially or practically viable?
 
 ## References
