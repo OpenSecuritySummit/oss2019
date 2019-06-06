@@ -23,6 +23,7 @@ sessions:
 - Security Data Science
 - threat pattern libraries
 - Creating a Security Champions network
+- Integrating Security Tools in the SDL
 status: add details
 title: Lauren Chiesa
 travel-from: ''
