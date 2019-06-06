@@ -22,6 +22,7 @@ sessions:
 - SAMM - Model Challenges (Wed)
 - Mapping boot camp
 - Cell based Structures for Security
+- SAMM - Alignment with Threat Modeling
 status: add details
 title: Ben Schofield
 travel-from: Oxfordshire
