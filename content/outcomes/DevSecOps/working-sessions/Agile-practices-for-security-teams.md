@@ -15,7 +15,7 @@ The session considered how agile methodologies benefit the development lifecycle
 
 ## Outcomes/Deliverables 
 
-| ### SiA  | ### AiS |
+| **SiA**  |  **AiS** |
 | -------- | ------- |
 | Backlog  | Backlog |
 | Priorities  | Priorities  |
@@ -26,7 +26,7 @@ The session considered how agile methodologies benefit the development lifecycle
 |                    | Continuous risk management and threat modelling |
 
 
-| ### For SiA | ### For AiS |
+| **For SiA** |  **For AiS** |
 | ----------- | ----------- |
 | Playbooks with security requirements | Incident response |
 | Sec requirements over Sec stories | Reserved points |
