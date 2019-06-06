@@ -24,6 +24,10 @@ description  :
 4.  Chaotic, and 
 5.  Disorder
 
+ - These help managers identify how they perceive situations and make sense of their own and other people's behaviour.
+ - The framework draws on research into systems theory, complexity theory, network theory and learning theories.
+
+
 ### Obvious 
 
  - Sense - Categorise - Respond
@@ -32,6 +36,8 @@ description  :
  - Only effective where high degree of success all the time
  - If so over rigid people cannot do job, they will find workarounds
  - Workarounds teach people to ignore rules
+ 
+ <img src="https://www.agile42.com/media/images/Cynefin_Framework.original.png" width="100%">
 
 ### Complicated 
 
@@ -79,7 +85,7 @@ description  :
   
 ### Further Reading
 
- - “The Wisdom of the Crowds” - https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
+ - [The Wisdom of the Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)
 
 
 
