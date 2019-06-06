@@ -25,6 +25,7 @@ sessions:
 - Creating a Security Champions network
 - Integrating Security Tools in the SDL
 - Cell based Structures for Security
+- Securing the CI Pipeline
 status: add details
 title: Lauren Chiesa
 travel-from: ''
