@@ -28,15 +28,15 @@ A model of threat modeling
 
 Are 4 questions sufficient?
 
-Question| Description 
+Question|Description 
 --------|------------
 Q1: System description|Model or Text? 
 -|DSL would require some structure (e.g. (P)->(EE) )
 -|Model - Diagram - View - Viewpoint
 -|ISO 42010 (summary: http://www.iso-architecture.org/ieee-1471/cm/ - see notes below)
 Q2: What can go wrong?|Risk vs. Threat?
--|* Synopsis
--|* OWASP risk rating
+-|  - Synopsis
+-|  - OWASP risk rating
 -| Firesmith - specifying reusable security requirements: http://www.jot.fm/issues/issue_2004_01/column6/
 -|Use of kill chain
 -|Meta language (to describe graphs, etc.)
