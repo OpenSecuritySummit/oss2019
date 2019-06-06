@@ -1,7 +1,7 @@
 ---
 title        : Talking security risk to business - practical games to learn through failure
 track        : Wardley Maps
-type         : working-session      # working-session, user-session, product-session
+type         : user-session      # working-session, user-session, product-session
 technology   :
 topics       :                    # for example ["GDPR"]
 featured     :                    # review with summit team "yes"
