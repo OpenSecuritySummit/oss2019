@@ -11,6 +11,7 @@ sessions:
 - Agile Practices for Security Teams
 - Creating a Security Champions network
 - DevSecOps Maturity Model (DSOMM)
+- TOWARDS A UNIFIED WAY OF DESCRIBING THREAT MODELS
 status: add-details
 title: Wouter de Meijer
 travel_from: ''
