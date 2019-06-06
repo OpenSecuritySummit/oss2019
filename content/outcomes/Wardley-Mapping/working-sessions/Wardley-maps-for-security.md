@@ -13,28 +13,28 @@ status       : draft
 
 This practical session on creating Wardley maps considered the following aspects of Wardley maps:
 
- - Shared and reviewed Wardley maps
-⋅⋅* Non-security specific
-⋅⋅* Across a number of different industries
-⋅⋅* Use-cases as examples of good mapping
+ * Shared and reviewed Wardley maps
+    * Non-security specific
+    * Across a number of different industries
+    * Use-cases as examples of good mapping
 
- - High-level review of related articles to
- ⋅⋅* Lay out processes or approaches to develop Wardley maps
- ⋅⋅* Resources [here](https://opensecsummit.org/tracks/wardley-maps/)
+ * High-level review of related articles to
+    * Lay out processes or approaches to develop Wardley maps
+    * Resources [here](https://opensecsummit.org/tracks/wardley-maps/)
  
-  - Analysed proposal for "map of security mapping"
- ⋅⋅* Generated useful conversations
- ⋅⋅* Sharing of insight in terms of 
- ⋅⋅* Positioning of elements on the map
- ⋅⋅* Consensus -approach was appropriate and the elements relevant
- ⋅⋅* See [proposal](https://twitter.com/madplatt/status/1135850419538804736) 
+  * Analysed proposal for "map of security mapping"
+   * Generated useful conversations
+   * Sharing of insight in terms of 
+     * Positioning of elements on the map
+     * Consensus -approach was appropriate and the elements relevant
+     * See [proposal](https://twitter.com/madplatt/status/1135850419538804736) 
  
- - Presented a set of proposals on using Wardley Maps to capture security scenarios based on Cyber Essentials compliance, which covers 
-⋅⋅* Patch Management
-⋅⋅* User access control
-⋅⋅* Malware protection
-⋅⋅* Firewalls 
-⋅⋅* Hardening/Secure Configuration.
+ * Presented a set of proposals on using Wardley Maps to capture security scenarios based on Cyber Essentials compliance, which covers 
+   * Patch Management
+   * User access control
+   * Malware protection
+   * Firewalls 
+   * Hardening/Secure Configuration.
 
 
 ## Outcomes/Deliverables 
