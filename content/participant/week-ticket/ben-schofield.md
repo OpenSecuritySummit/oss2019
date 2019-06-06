@@ -23,6 +23,7 @@ sessions:
 - Mapping boot camp
 - Cell based Structures for Security
 - SAMM - Alignment with Threat Modeling
+- Cyber Risk Modeling
 status: add details
 title: Ben Schofield
 travel-from: Oxfordshire
