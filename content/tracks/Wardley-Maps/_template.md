@@ -1,5 +1,5 @@
 ---
-title        : Talking security risk to business - practical games
+title        : Talking security risk to business - practical games to learn through failure
 track        : Wardley Mapss
 type         : working-session      # working-session, user-session, product-session
 technology   :
@@ -12,8 +12,8 @@ room_id      : room-2
 session_slack: 
 status       : draft              # draft, review-content, done
 description  :
-organizers   :
-participants :
+organizers   : Ben Schofield
+participants : Dave Snowden, Simon Wardley
 ---
 
 
@@ -21,7 +21,7 @@ participants :
 
 ## WHY
 
-(...)
+How do security teams engage effectively with the business. Dave and Simon will draw on their extensive consulting experience to suggest some interesting thought exercises
 
 ## What
 
