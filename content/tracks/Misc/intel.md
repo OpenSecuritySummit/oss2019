@@ -7,13 +7,13 @@ categories   :
     - Emotional Intelligence 
     - Multiple Intelligence
     - Inclusivity
-featured     :                 # review with summit team "yes"
+featured     : yes                 # review with summit team "yes"
 when_day     : Fri                # i.e.    Tue
 when_time    : AM-1               # i.e.    AM-1
 room_layout  :                    #
 room_id      : Portland
 session_slack: 
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  : 
 organizers   : Jemma Davis
 participants : Robert Grace
