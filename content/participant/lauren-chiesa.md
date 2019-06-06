@@ -24,6 +24,7 @@ sessions:
 - threat pattern libraries
 - Creating a Security Champions network
 - Integrating Security Tools in the SDL
+- Cell based Structures for Security
 status: add details
 title: Lauren Chiesa
 travel-from: ''
