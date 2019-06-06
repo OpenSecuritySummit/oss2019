@@ -23,6 +23,7 @@ sessions:
 - TM maturity
 - Threat Model Cookbook Project (Part 1)
 - Dealing with DevSecOps Findings
+- Threat Modeling Training (Thu)
 status: add details
 title: Sean Siford
 travel-from: Devon
