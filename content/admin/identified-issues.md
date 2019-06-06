@@ -28,7 +28,7 @@ The identified issues has been collected during the Summit realization. Some of 
 #### Live Stream / Remote Participation
 5. **Technical obstacles** has been experienced for the **remote participants**, **including remote technical writers** who had to cover some sessions and write outcomes.
 6. In some cases, for some sessions, **remote participants** were **not able** to **listen** the **onsite audience** and **the speaker very well**.
-7. There was **join remotely link** on a sessions for which **there was not remote environment setup** at all. (Not correct information on the website for some of the sessions. For instance, one of the main conference rooms did not had remote participation setup and on the website session pages happening in that room there was a link for join remotely.)
+7. There was **join remotely link** on a sessions for which **there was not remote environment setup** at all. (Not correct information on the website for some of the sessions. For instance, one of the main Xconference rooms did not had remote participation setup and on the website session pages happening in that room there was a link for join remotely.)
 8. For some sessions (especially those in Portland) **remote organizers** were **not able** to share **video and audio** with acceptable level of quality during their sessions. (**Only audio streaming was realized**. The organizer(s) shared presentation materials on Slack and participants were following presentation off line while they were listening audio stream). The might case is low Internet connection but not confirmed.
 9. The **setup for remote environment** has been done **too late**. (The first day of the Summit.) **No test** of the **remote environment before the Summit**.
 

@@ -29,7 +29,7 @@
 
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="conference-rooms">
-        {{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Conference Rooms" "where" .self.Site.Data.schedule.rooms "times" (slice "AM-1" "PM-1" "PM-2" "PM-3") )}}
+        {{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Conference Rooms" "where" .self.Site.Data.schedule.rooms "times" (slice "AM-1" "PM-1" "DS-3" "PM-2" "PM-3") )}}
     </div>
 
     <div role="tabpanel" class="tab-pane"        id="main-conference-hall">
