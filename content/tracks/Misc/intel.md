@@ -11,7 +11,7 @@ featured     : yes                 # review with summit team "yes"
 when_day     : Fri                # i.e.    Tue
 when_time    : AM-1               # i.e.    AM-1
 room_layout  :                    #
-room_id      : Portland
+room_id      : room-2
 session_slack: 
 status       : done              # draft, review-content, done
 description  : 
