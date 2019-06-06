@@ -1,6 +1,6 @@
 ---
 title : Thursday's schedule
 type  : schedule
-day   : Thu
+day   : Fri
 layout: day
 ---
