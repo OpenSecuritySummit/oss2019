@@ -1,6 +1,6 @@
 ---
 title        : Talking security risk to business - practical games to learn through failure
-track        : Wardley Mapss
+track        : Wardley Maps
 type         : working-session      # working-session, user-session, product-session
 technology   :
 topics       :                    # for example ["GDPR"]
@@ -21,7 +21,7 @@ participants : Dave Snowden, Simon Wardley
 
 ## WHY
 
-How do security teams engage effectively with the business. Dave and Simon will draw on their extensive consulting experience to suggest some interesting thought exercises
+How do security teams engage effectively with the business. Dave and Simon will draw on their extensive consulting experience to suggest some interesting thought exercises and practical games to help cross-functional teams to learn through failure
 
 ## What
 
