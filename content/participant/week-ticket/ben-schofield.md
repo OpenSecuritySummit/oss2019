@@ -21,6 +21,7 @@ sessions:
 - Using Wardley Maps and Cynefin for Security
 - SAMM - Model Challenges (Wed)
 - Mapping boot camp
+- Cell based Structures for Security
 status: add details
 title: Ben Schofield
 travel-from: Oxfordshire
