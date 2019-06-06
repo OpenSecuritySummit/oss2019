@@ -17,8 +17,9 @@ The SAMM Summit is not a regular conference with speaking slots, but a summit wh
 
 This is an excellent opportunity to influence the direction of SAMM and exchange experiences with your peers.
 
-Thank you to our supporting "Leader" sponsors that made this summit possible:
-* [Micro Focus Fortify](https://www.microfocus.com/en-us/solutions/application-security)
-* [NCC Group](https://www.nccgroup.trust)
-* [Splunk](https://www.splunk.com/)
-* [Concord](https://concordusa.com/)
+<p>
+Thank you to our supporting "Leader" sponsors that made this summit possible:<br>
+* [Micro Focus Fortify](https://www.microfocus.com/en-us/solutions/application-security)<br>
+* [NCC Group](https://www.nccgroup.trust)<br>
+* [Splunk](https://www.splunk.com/)<br>
+* [Concord](https://concordusa.com/)<br>
