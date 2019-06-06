@@ -39,7 +39,7 @@ oss_bot APP [1:53 PM]
 
 ### Open the server link
 
-https://4711ac07.ngrok.io/notebooks/users/BenSchofield/How%20do%20Cyber%20Professionals%20protect%20themselves.ipynb
+https://XXXXXXXXXX.ngrok.io/notebooks/users/BenSchofield/How%20do%20Cyber%20Professionals%20protect%20themselves.ipynb
 
 ### Run the notebook
 
