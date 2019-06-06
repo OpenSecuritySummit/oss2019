@@ -16,3 +16,9 @@ In addition to specific Maturity Models sessions, a large number of [OWASP SAMM]
 The SAMM Summit is not a regular conference with speaking slots, but a summit where the participants work together in a 5-day sprint on SAMMv2. If you are interested in contributing to this, you are most welcome (knowledge of SAMM or other secure development methodology experience is a prerequisite).
 
 This is an excellent opportunity to influence the direction of SAMM and exchange experiences with your peers.
+
+Thank you to our supporting "Leader" sponsors that made this summit possible:
+* [Micro Focus Fortify](https://www.microfocus.com/en-us/solutions/application-security)
+* [NCC Group](https://www.nccgroup.trust)
+* [Splunk](https://www.splunk.com/)
+* [Concord](https://concordusa.com/)
