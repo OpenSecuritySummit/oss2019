@@ -7,7 +7,6 @@ project_leader:
 - Juice Shop
 sessions:
 - Dealing with DevSecOps Findings
-- Writing security tests to confirm vulnerabilities and fixes
 - OWASP Application Security Curriculum Project
 status: add details
 title: Bjoern Kimminich
