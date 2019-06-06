@@ -13,7 +13,7 @@ status       : draft
 
 This practical session on creating Wardley maps considered the following aspects of Wardley maps:
 
- <img src="https://user-images.githubusercontent.com/22427294/59031375-65a19300-885b-11e9-9747-c3defcc26908.png">" width="75%">
+ <img src="https://user-images.githubusercontent.com/22427294/59031375-65a19300-885b-11e9-9747-c3defcc26908.png">" width="50%">
  
 ## Outcomes/Deliverables 
 
