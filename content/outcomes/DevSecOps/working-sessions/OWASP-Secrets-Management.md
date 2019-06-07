@@ -1,15 +1,12 @@
 ---
-title        :                    # same as the corresponding user|working|product-session
+title        : DevSecOps Secrets Management
 type         : outcome
-track        :
-video        :                    #url i.e. youtube, vimeo, etc
-slides       :                    #url i.e. slideshare
+track        : OWASP DevSecOps
+video        :                   
+slides       :                    
 images       :
-session_type :                    # working-session, user-session, product-session            
-technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
-description  :
+session_type : working-session                                           
+status       : done             
 ---
 
 ## Outcomes 
