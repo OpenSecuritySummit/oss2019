@@ -7,7 +7,7 @@ images       : none
 session_type : working-session         
 technology   : Project Introduction
 categories   : Threat Modeling
-status       : draft              
+status       : done              
 type         : outcome
 ---
 
