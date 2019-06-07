@@ -6,7 +6,7 @@ slides       : none
 images       : none
 session_type : working-session         
 categories   : OWASP SAMM
-status       : draft              
+status       : done              
 type         : outcome
 ---
 
@@ -18,7 +18,7 @@ The purpose of this session was to discuss measurement model aspects SAMM v2.0
 
 The following are notes from the session - at this stage nothing was decided, rather a set of requirements were gathered to help aid and direct future conversations/ work in this space.
 
-**Topics discussed:**
+**Topics discussed**
 
 - Should we measure "ownership" for the activities, practices? (RACI ?)
 
@@ -29,7 +29,7 @@ The following are notes from the session - at this stage nothing was decided, ra
 - Objectives versus actual state
 
 
-**We considered qualitative indicators for STA1 during the call:**
+**We considered qualitative indicators for STA1 during the call**
 - The use of different tools
 - The type of tools and if they are "fit for purpose"
 - Tools support regression testing
@@ -37,7 +37,7 @@ The following are notes from the session - at this stage nothing was decided, ra
 - Are the vulnerabilities that are tested for regularly updated
 - Is the tooling outcome standardised (e.g. CVE numbers)
 
-**Other remarks or questions on the Security Testing practice:**
+**Other remarks or questions on the Security Testing practice**
 - Are bug bounties part of security testing?
 - Can known vulnerabilities be replicated (and are tests created for this)?
 - The questions to score the maturity should be optimised to discover the maturity with a minimum number of questions
@@ -47,7 +47,7 @@ e.g. what are the 5 most important questions to measure the maturity? Requiring 
 (to be included as part of the guidance sections)
 - Also add (links to the) evidence whenever questions are answered.
 
-## Suggested followup actions:
+## Suggested followup actions
 - Consider and build a conversion tool to upgrade V1.5 to V2.0 scores
 - Investigate SAMM scoring in Jupyter, Jira, Slackbot besides the Excel toolbox
 - Consider a graph database to collect scores and supporting facts and data points 
