@@ -9,7 +9,7 @@ featured     : yes                 # review with summit team "yes"
 when_day     : Fri
 when_time    : AM-1
 room_layout  :                    #
-room_id      : room-5
+room_id      : room-4
 session_slack: https://os-summit.slack.com/messages/CAUN7NXFS
 status       : review-content              # draft, review-content, done                    #
 description  : An exploration and working session to characterise, explore and implement real-world DevSecOps chaos experiments.
