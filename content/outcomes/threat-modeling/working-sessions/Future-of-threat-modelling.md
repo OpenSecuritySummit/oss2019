@@ -20,27 +20,31 @@ We all have different understanding of threat models, different use cases and di
 
 
 ## Description of session
-Discussion on what is the current state of threat modeling? Are there any new and exciting things happening? What is needed for the future?
 
+Discussion on:
+- What is the current state of threat modeling? 
+- Are there any new and exciting things happening? 
+- What is needed for the future?
 
 ## Discussion
 
 Question to start conversation: 
  - Since Adam's book has there been any tools released that truly aid in threat modeling? 
  
-  - There's a few tools in beta or supporting the documentation but are they supporting the process at all. 
-Threat models aiding playbook creation/ improvement is something not covered by existing tools - how can we as a project add impact here.
+ - There's a few tools in beta or supporting the documentation but are they supporting the process at all? 
+Threat models aiding playbook creation / improvement is something not covered by existing tools - how can we as a project add impact here?
 
 ## Examples of current to 'future state' of threat modeling
+
 *disclaimer - no endorsement given for these.
 
 - User story mapping / abuse stories (attack centric) 
 - Asset centric/ value driven approach (Avi douglan) 
-- Hybrid approaches (  - Rapid Threat Modeling process (open source tool by Geoff Hill - link in references) 
+- Hybrid approaches (- Rapid Threat Modeling process (open source tool by Geoff Hill - link in references) 
 - LINDDUN
 - Using DREAD not just to support rating of threats but support rating of mitigations to determine what should be done. 
 
-Tools;
+**Tools:**
 
 - Irius risk (beta) 
 - PyTM
@@ -51,21 +55,21 @@ Tools;
 It's clear that moving on since Adam's book that there has been a significant movement on methodologies for threat modeling. 
 
 
-
-
 ### Why don't companies threat model? 
+
 Is the future of threat modeling that it actually just happens continuously?
 - How do we shift left?
 - Frame in terms of financials (cost of fixing earlier etc)
 - How do we get involved in scoping conversations? 
-- How do we communicate the value?  - How do we communicate the likelihood and impact of the threats that have been found - 
+- How do we communicate the value?  
+- How do we communicate the likelihood and impact of the threats that have been found? 
 - We should get rid of "Threat Modellers" - it should become part of the ways of working of the technology teams, part of the architectural process, design reviews etc.  
 
 
 
-The business care about the following:
+**The business cares about the following:**
 
-- the likelihood and impact - what's the tagline 'what's the risk that I'm mitigating here (or not)?'
+- The likelihood and impact - what's the tagline 'what's the risk that I'm mitigating here (or not)?'
 - The business case is valuable - how does this increase revenues, decrease costs?
 - How do we utilise our risk teams as customers of the threat modelling process to support the conversation to the business? 
 - Utilise a narrative - facts/ inputs that tell a story -> utilise graphs and examples to support the request. 
@@ -74,10 +78,10 @@ The business care about the following:
 
 ## Outcomes/Deliverables 
 
-- Reverse attack tree examples - a useful way of using attack tree's (Tash to deliver) 
+- Reverse attack tree examples - a useful way of using attack trees (Tash to deliver) 
 - A good threat tool/ methodology is something that can be re-used / has examples and is consumable 
 - We need to be better at communicating with technical and business stakeholders in communicating the value of threat modeling 
-- Do we create a value statement
+- Do we create a value statement?
 - Do we need a unified language for communicating threats? 
 - We need guidelines or examples on how to keep an up to date TM (Cases studies of implementing the TM process in an organisation)
 
@@ -123,7 +127,7 @@ By [Test1]
 
 ## Identified Questions
 
-- How does agile methodologies impact the future of threat modeling? 
+- How do agile methodologies impact the future of threat modeling? 
 
  
 ## References 
@@ -133,10 +137,7 @@ By [Test1]
 - PyTM https://github.com/izar/pytm 
 
 
-
-
-
-# Value of a threat model
+## Value of a threat model
 
 - Secure by Design
 - Secure by Default

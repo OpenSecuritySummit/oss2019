@@ -12,8 +12,6 @@ sessions:
 - Juice Shop Challenge Refactoring
 - Juice Shop Release Night
 - Securing the CI Pipeline
-- Customising the Chaos Engineering Toolkit
-- Real world Chaos Engineering
 - Writing security tests to confirm vulnerabilities and fixes
 - Dealing with DevSecOps Findings
 - TM track introduction

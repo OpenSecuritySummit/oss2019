@@ -13,7 +13,7 @@ type         : outcome
 
 ## Description of session
 
-description  : The purpose of this session was to discuss requirements around a data schema for threat modelling to enable and/or support repeatable and automated threat modelling.
+The purpose of this session was to discuss requirements around a data schema for threat modelling to enable and/or support repeatable and automated threat modelling.
 
 ## Outcomes/Deliverables 
 
@@ -51,7 +51,7 @@ The following are notes from the session - at this stage nothing was decided, ra
 - By removing the manual process are we potentially missing threats captured from engineers' contributions?
 - How much data should be captured in a threat model? When is there too much data?
 - What data shouldn't be in a threat model (assuming it's captured elsewhere?)
-- Should CVE's be present?
+- Should CVEs be present?
 - Should SAST/ pen test output be present?
 
 ## Follow up

@@ -5,9 +5,9 @@ organiser    : Nick Drages
 video        : none
 slides       : none
 images       : none
-type         : 
+type         : Outcome
 session_type : working-session         
-status       : WIP draft  
+status       : draft  
 ---
 
 ## Description of session
