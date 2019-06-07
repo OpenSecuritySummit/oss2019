@@ -6,7 +6,7 @@ slides       : none
 images       : none
 type         : outcome
 session_type : working-session         
-status       : draft  
+status       : done  
 ---
 
 ## Description of session
@@ -15,7 +15,6 @@ status       : draft
 
  - Created a sample threat model using PyTM with PyTM creator Izar Tarandach
  - Created a sample attack tree using PlantUML with attack tree SME Bryant Zadegan
-
 
 ## Follow up
 
