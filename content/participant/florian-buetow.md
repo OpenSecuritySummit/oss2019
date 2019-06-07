@@ -1,8 +1,8 @@
 ---
-title: Florian Buetow
-travel_from: London
+title: Florian B
+travel_from: 
 chapter_leader: ''
-company: Mimecast Ltd
+company: Mimecast
 facebook: ''
 image   : 
 job_title: Senior Software Engineer
