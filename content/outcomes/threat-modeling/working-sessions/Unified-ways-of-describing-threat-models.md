@@ -7,7 +7,7 @@ images       : none
 session_type : working-session         
 technology   : Threat Modeling
 categories   : Threat Modeling / User session
-status       : draft              
+status       : done              
 type         : outcome
 ---
 
