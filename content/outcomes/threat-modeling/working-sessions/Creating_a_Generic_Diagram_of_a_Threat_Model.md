@@ -8,7 +8,7 @@ images       :
 session_type :                    # working-session, user-session, product-session            
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  :
 ---
 
@@ -45,8 +45,6 @@ Q3. Mitigation|Focus on mitigations
 Q4. validation|Checklist
 -|Formal model
 -|Context conditions
-
-### Notes
 
 #### Summary of ISO 42010:
  - Model kind: conventions for a type of modelling. Examples of model kinds include data flow diagrams, class diagrams, Petri nets, balance sheets, organization charts and state transition models.
