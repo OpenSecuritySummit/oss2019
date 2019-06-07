@@ -24,6 +24,7 @@ sessions:
 - Cell based Structures for Security
 - SAMM - Alignment with Threat Modeling
 - Cyber Risk Modeling
+- Emotional/Multiple Intelligence
 status: add details
 title: Ben Schofield
 travel-from: Oxfordshire
