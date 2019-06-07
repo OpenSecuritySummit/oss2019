@@ -7,7 +7,7 @@ images       : none
 session_type : working-session         
 technology   : Data schema
 categories   : Threat Modelling
-status       : draft              
+status       : done              
 type         : outcome
 ---
 
