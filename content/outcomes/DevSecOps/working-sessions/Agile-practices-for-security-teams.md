@@ -28,7 +28,7 @@ The session considered how agile methodologies benefit the development lifecycle
 <br />
 
 | **For SiA** |  **For AiS** |
-| ----------- | ----------- |
+| ----------- |  ----------- |
 | Playbooks with security requirements | Incident response |
 | Sec requirements over Sec stories | Reserved points |
 | Link discovery phase  with analysis | ITIL (IT Infrastructure Library) |
