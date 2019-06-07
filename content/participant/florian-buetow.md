@@ -28,14 +28,13 @@ sessions:
     # Thursday
     - Mapping boot camp
     - Cell based Structures for Security
+    - Talking security risk to business - practical games to learn through failure
     - Wardley Mapping - Climatic Patterns and Using Doctrine
-    - Wardley Mapping - Coordinating functions within a PST organisation
-    - State and future of threat modeling
-    - How to scale Threat Modeling
-    - Writing security tests to confirm vulnerabilities and fixes
-    - Scaling API Security
+    - Wardley Mapping - Coordinating functions within a PST organisation    
     #Friday
     - Security Challenges - Next step
+    - SAMM - Any Other Business
+    - SAMM - Planning and Roadmap
 status: add-details
 twitter: ''
 type: participant
