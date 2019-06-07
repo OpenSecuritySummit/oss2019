@@ -23,6 +23,7 @@ sessions:
 - Juice Shop Hack'n'Code (Tue)
 - Secrets Management
 - Threat Modeling Training (Thu)
+- Protecting JuiceShop with AWS WAF
 status: add details
 title: Martin Rock-Evans
 travel-from: Devon
