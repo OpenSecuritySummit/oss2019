@@ -19,6 +19,7 @@ sessions:
 - Dealing with DevSecOps Findings
 - DevSecOps Maturity Model (DSOMM)
 - PROTECTING JUICESHOP WITH AWS WAF
+- Protecting JuiceShop with AWS WAF
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
