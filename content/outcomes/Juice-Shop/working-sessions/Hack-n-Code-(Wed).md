@@ -1,12 +1,12 @@
 ---
-title        : Juice Shop Hack'n'Code (Wed)
+title        : Juice Shop Hack'n'Code-Wed
 track        : OWASP Juice Shop
 video        : none
 slides       : none
 images       : none
 type         : outcome
 session_type : working-session         
-status       : draft  
+status       : done 
 ---
 
 ## Description of session
