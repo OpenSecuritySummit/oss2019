@@ -6,7 +6,7 @@ images       :
 session_type : working-session                             
 technology   :
 categories   : Misc                    
-status       : draft              
+status       : done              
 description  : Outcomes from Monday's "Strategic Challenges"
 ---
 
