@@ -18,6 +18,7 @@ sessions:
 - ZAP working session - future plans
 - Dealing with DevSecOps Findings
 - DevSecOps Maturity Model (DSOMM)
+- PROTECTING JUICESHOP WITH AWS WAF
 status: add-details
 title: Jannik Hollenbach
 twitter: j12934
