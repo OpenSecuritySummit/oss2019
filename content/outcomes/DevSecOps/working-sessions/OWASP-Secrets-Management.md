@@ -12,6 +12,6 @@ status       : draft              # draft, review-content, done
 description  :
 ---
 
-##Outcomes 
+## Outcomes 
 
 Outcomes available at https://github.com/dominikdesmit/owasp-secrets-management
