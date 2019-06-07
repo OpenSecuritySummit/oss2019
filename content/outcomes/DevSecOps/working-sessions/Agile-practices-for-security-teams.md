@@ -13,18 +13,19 @@ status       : done
 
 The session considered how agile methodologies benefit the development lifecycle, and how security should and could be approached in the same, or a similar, way.
 
-## Outcomes/Deliverables 
+## Outcomes/Deliverables  
 
-| **SiA**  |  **AiS** |
-| -------- | ------- |
-| Backlog  | Backlog |
-| Priorities  | Priorities  |
+| **SiA** | **AiS** |
+| --------| ------- |
+| Backlog |Backlog |
+| Priorities | Priorities  |
 | Risk of not doing S | Not as such |
 | Reacting to change | More strategic, less agile |
 | Scaling is easy | Not scalable |
 | Automation is easy | Difficult to automate |
 |                    | Continuous risk management and threat modelling |
 
+<br />
 
 | **For SiA** |  **For AiS** |
 | ----------- | ----------- |
