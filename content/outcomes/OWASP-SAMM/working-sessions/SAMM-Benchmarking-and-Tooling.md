@@ -24,7 +24,7 @@ These sessions reviewed progress made during the week and discussed the tools we
     - Get feedback
 
 - Have Seba and Bart as overviewers	
-- Update the template for writing Practices
+- Update the template for writing practices
 
 
 ## Follow up
