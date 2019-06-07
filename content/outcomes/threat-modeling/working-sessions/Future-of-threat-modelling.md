@@ -7,12 +7,12 @@ images       : none
 session_type : working-session         
 technology   : Threat Modeling
 categories   : Threat Modeling / User session
-status       : draft              
+status       : done              
 type         : outcome
 ---
 
 
-Reminder:
+## Reminder
 
 Threat Modeling: The sooner the better, never too late. 
 
@@ -31,8 +31,10 @@ Discussion on:
 Question to start conversation: 
  - Since Adam's book has there been any tools released that truly aid in threat modeling? 
  
- - There's a few tools in beta or supporting the documentation but are they supporting the process at all? 
-Threat models aiding playbook creation / improvement is something not covered by existing tools - how can we as a project add impact here?
+ - There are a few tools in beta, or which support documentation; however, do they supporting the process at all? 
+ - Threat models aiding playbook creation
+   - Improvement is something not covered by existing tools
+   - How can we add impact as a project?
 
 ## Examples of current to 'future state' of threat modeling
 
@@ -52,7 +54,7 @@ Threat models aiding playbook creation / improvement is something not covered by
 - Microsoft TM tool
 - ThreatSpec (in dev) 
 
-It's clear that moving on since Adam's book that there has been a significant movement on methodologies for threat modeling. 
+It's clear that since Adam's book was published, there has been significant movement on methodologies for threat modeling. 
 
 
 ### Why don't companies threat model? 
