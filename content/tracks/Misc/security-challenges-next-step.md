@@ -10,9 +10,9 @@ featured     :                 # review with summit team "yes"
 when_day     : Fri                # i.e.    Tue
 when_time    : AM-1               # i.e.    AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-3
 session_slack: 
-status       : draft              # draft, review-content, done
+status       :               # draft, review-content, done
 description  : Is this viable? Where do we go?
 organizers   : Nick Drage
 participants : Jim Newman

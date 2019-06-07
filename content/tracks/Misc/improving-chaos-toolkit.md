@@ -10,7 +10,7 @@ when_day     : Fri
 when_time    : PM-1
 locked       : false
 room_layout  :                    #
-room_id      : room-6
+room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUS7SZEV
 status       : review-content              # draft, review-content, done
 description  : Practical Guide to Extending the Chaos Toolkit for DevSecOps concerns.
