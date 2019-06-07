@@ -8,7 +8,7 @@ images       :
 session_type :                    # working-session, user-session, product-session            
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  :
 ---
 
