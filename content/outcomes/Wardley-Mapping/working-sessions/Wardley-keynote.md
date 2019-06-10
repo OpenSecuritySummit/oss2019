@@ -13,5 +13,7 @@ status       : done
 
 Please see below Simon Wardley's keynote delivered to the participants on Thursday 6 June.
 
-[![](http://img.youtube.com/vi/dZ26iUojVLE/0.jpg)](http://www.youtube.com/watch?v=dZ26iUojVLE "Simon Wardley keynote")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dZ26iUojVLE/0.jpg
+" target="_blank"><img src="http://img.youtube.com/vi/dZ26iUojVLE/0.jpg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
