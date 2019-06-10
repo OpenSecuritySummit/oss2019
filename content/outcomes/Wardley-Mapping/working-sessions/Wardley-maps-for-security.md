@@ -51,4 +51,10 @@ This practical session on creating Wardley maps considered the following aspects
 
  - Update in the relevant section all the resources that were reviewed plus additional ones that were shared during the session
  - Add the security scenarios and use cases discussed in the meeting to an OSS template
+ 
+ ## Resources
+ 
+See the session's presentation on [Slideshare](https://www.slideshare.net/AnnMarieGrace/wardley-mapping-for-cyber-essentials-open-security-summit-2019)
+ 
+ 
 
