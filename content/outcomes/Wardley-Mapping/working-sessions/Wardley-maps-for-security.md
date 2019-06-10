@@ -42,10 +42,13 @@ This practical session on creating Wardley maps considered the following aspects
 
  - Review and feedback on map of security mapping
  - Agreement on usefulness of maps for assessing particular parts of a security landscape
+ - Following feedback received, the map was updated as follows:
+ 
+ <img src="https://user-images.githubusercontent.com/22427294/59189235-79a60700-8b71-11e9-9f05-2d1629f0a157.jpg" width="75%">
+ 
 
 ## Next steps
 
- - Update map of security mapping based on feedback received
  - Update in the relevant section all the resources that were reviewed plus additional ones that were shared during the session
  - Add the security scenarios and use cases discussed in the meeting to an OSS template
 
