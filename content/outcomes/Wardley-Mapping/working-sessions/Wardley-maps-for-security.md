@@ -2,7 +2,7 @@
 title        : Wardley Maps for Security
 track        : Wardley maps
 video        : none
-slides       : none
+slides       : https://www.slideshare.net/AnnMarieGrace/wardley-mapping-for-cyber-essentials-open-security-summit-2019
 images       : none
 type         : outcome
 session_type : working-session         
