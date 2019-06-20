@@ -43,6 +43,7 @@ Sense - Categorise - Respond
 ### Complicated 
 
 Sense - Analyse - Respond
+
   - Experts may know the correct response
   - See - Attend - Act
   - Seeing the data may not lead to action
@@ -51,8 +52,8 @@ Sense - Analyse - Respond
 
 ### Complex
 
-Exaptive* practice 
-   - *a process in which a feature acquires a function that was not acquired through natural selection*)
+Exaptive* practice (*a process in which a feature acquires a function that was not acquired through natural selection*)
+
   - Scale complex system by decomposition and recombination
   - Rapidly repurpose things you are good at to solve problems
   - Build capability to adapt to unknown situations that may occur in the future
@@ -60,7 +61,9 @@ Exaptive* practice
   - Probe in parallel
   - Create safe to fail experiments that look at 2 competing hypotheses
   - Short experiments - 2-3 months
+  
 Success
+
   - Application of constraints produces repeatable results
   - Move to “good practice”
   - Test frequently to ensure still successful, if not move back
