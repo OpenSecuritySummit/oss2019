@@ -30,44 +30,45 @@ description  :
 
 ### Obvious 
 
- Sense - Categorise - Respond
- - Rigid constraints
- - High risk of catastrophic failure (?)
- - Only effective where there is a consistently high degree of success
- - If the system is too rigid, people will find workarounds
- - Workarounds teach people to ignore rules
+Sense - Categorise - Respond
+ 
+  - Rigid constraints
+  - High risk of catastrophic failure (?)
+  - Only effective where there is a consistently high degree of success
+  - If the system is too rigid, people will find workarounds
+  - Workarounds teach people to ignore rules
  
  <img src="https://www.agile42.com/media/images/Cynefin_Framework.original.png" width="100%">
 
 ### Complicated 
 
- Sense - Analyse - Respond
+Sense - Analyse - Respond
   - Experts may know the correct response
   - See - Attend - Act
   - Seeing the data may not lead to action
- - Good practice not best practice as variation is allowed
- - Discretion to change response, where experience assured
+  - Good practice not best practice as variation is allowed
+  - Discretion to change response, where experience assured
 
 ### Complex
 
- Exaptive* practice 
-   - (*a process in which a feature acquires a function that was not acquired through natural selection*)
- - Scale complex system by decomposition and recombination
- - Rapidly repurpose things you are good at to solve problems
- - Build capability to adapt to unknown situations that may occur in the future
- - Test for coherence - what might be causing it?
- - Probe in parallel
- - Create safe to fail experiments that look at 2 competing hypotheses
- - Short experiments - 2-3 months
- - Success
- - Application of constraints produces repeatable results
+Exaptive* practice 
+   - *a process in which a feature acquires a function that was not acquired through natural selection*)
+  - Scale complex system by decomposition and recombination
+  - Rapidly repurpose things you are good at to solve problems
+  - Build capability to adapt to unknown situations that may occur in the future
+  - Test for coherence - what might be causing it?
+  - Probe in parallel
+  - Create safe to fail experiments that look at 2 competing hypotheses
+  - Short experiments - 2-3 months
+Success
+  - Application of constraints produces repeatable results
   - Move to “good practice”
- - Test frequently to ensure still successful, if not move back
- - If successful for long periods, move to “best practice”
- - Complexity is about understanding disposition states. Disposition changes can cause massive changes in the system.
+  - Test frequently to ensure still successful, if not move back
+  - If successful for long periods, move to “best practice”
+  - Complexity is about understanding disposition states. Disposition changes can cause massive changes in the system.
 
- - These help managers identify how they perceive situations and make sense of their own and other people's behaviour.
- - The framework draws on research into systems theory, complexity theory, network theory and learning theories.
+  - These help managers identify how they perceive situations and make sense of their own and other people's behaviour.
+  - The framework draws on research into systems theory, complexity theory, network theory and learning theories.
  
 ### Chaos was not addressed in this session
 
