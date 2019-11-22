@@ -25,7 +25,7 @@
 <section class="mid_wrap" >
 
 <div class="container">
-  <div class="t_rw text-center"><h1>Summit 2019 tickets are now for sale</h1></div>
+  <div class="t_rw text-center"><h1>Summit tickets are now for sale</h1></div>
   <div class="t_rw text-center"><h2>Limited number of Super Early Bird tickets available!</h2></div>
 
   <!--<div class="t_rw text-center"><h2>We have multiple types of tickets available at the Summit, please see below for details.</h2></div>-->
@@ -46,62 +46,31 @@
         <div class="buy_using ul_bx">
           <h3>Buy using invoice</h3>
           <ul>
-            <li>If you want to purchase via an invoice or more than 4 tickets please contact <a href="mailto:francois@devseccon.com" class="link_1">Francois Raynaud</a></li>
+            <li>If you want to purchase via an invoice please <a href="mailto:info@opensecsummit.org" class="link_1">contact us</a></li>
 
           </ul>
 
 
-        </div>
+       <div id="eventbrite-widget-container-61289312985"></div>
 
-      </div>
-      <div class="col-sm-4 text-center"><img src="/img/blocks/ticket.png" class="img-responsive"  alt="ticket img"></div>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-    </div>
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
 
-  </div>
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '61289312985',
+        iframeContainerId: 'eventbrite-widget-container-61289312985',
 
-  <div class="pricing m_b_160">
-    <div class="row">
-        {{ range $index, $ticket := sort .Site.Data.tickets "weight" }}
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="price_bx">
-            <div class="head_price text-center">
-              <a href="{{ $ticket.buy }}" target="_blank">
-                <h3>{{ $ticket.type }}</h3>
-                <h4>{{ $ticket.early_bird }}</h4>
-              </a>
-            </div>
-            <div class="mid_price">
-              <div class="text-center price_gbp"><span class="price_cl">&pound;{{ $ticket.cost }}*</span><span class="gbp">GBP</span></div>
-              <p class="plus_free text-center">* plus fee and VAT</p>
-              <h4 class="participant">{{ $ticket.duration }}</h4>
-              <div class="ul_bx">
-                <ul>
-                  {{ range $ticket.description }}
-                  <li>{{ . }}</li>
-                  {{ end }}
-                </ul>
-              </div>
-              {{ if eq $ticket.cost 0 }}
-                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn" target="_blank">{{$ticket.text }}</a></div>
-              {{ else}}
-                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn" target="_blank">Buy Ticket</a></div>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-    <!--
-    <div class="row">
-        <div class="col-lg-offset-3 col-lg-6">
-          <img class="img img-responsive" src="/img/pages/tickets_explained.png" />
-        </div>
-    </div>
-    -->
-  </div>
-
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 </div><!-- container -->
 
 </section>
