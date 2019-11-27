@@ -7,7 +7,7 @@ googleAnalytics         = "UA-97001849-2"
 enableGitInfo           = true
 preserveTaxonomyNames   = true
 disableKinds            = ["taxonomy"]
-
+#add dummy comment to force rebuild
 # Define the number of posts per page
 paginate = 10
 
