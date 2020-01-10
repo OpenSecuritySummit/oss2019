@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracks on Open Security Summit</title>
+    <link>/tracks/</link>
+    <description>Recent content in Tracks on Open Security Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tracks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/tracks/_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/_template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/tracks/json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons from the Legion</title>
+      <link>/tracks/keynotes/kn-nick-lessons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-nick-lessons/</guid>
+      <description>IT/Security Industry Challenges, how can we become better at our game?
+For a relatively fast, dense, noisy introduction, please see https://www.youtube.com/watch?v=516Z420BgkE from OWASP BeNeLux 2018.
+It can seem that the cyber security industry has evolved ways of working, and preferences in solutions and methods, as a series of point solutions that have become accepted traditions / rituals, rather than as a collective effort at forward thinking. A vendor-led industry mainly driven by technical experts may have come up with the best overall strategies to solve the incredibly complex problems of cyber security, but it doesn&#39;t feel that way.</description>
+    </item>
+    
+    <item>
+      <title>OWASP Juice Shop (Keynote)</title>
+      <link>/tracks/keynotes/kn-bjorn-juiceshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-bjorn-juiceshop/</guid>
+      <description>Bjoern will introduce to us the OWASP Juice Shop, probably the most modern and sophisticated insecure web application</description>
+    </item>
+    
+    <item>
+      <title>OWASP SAMM v2</title>
+      <link>/tracks/keynotes/kn-bart-seba-samm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-bart-seba-samm/</guid>
+      <description>Update on the new version 2.0 of SAMM</description>
+    </item>
+    
+    <item>
+      <title>OWASP ZAP Heads Up Display (HUD)</title>
+      <link>/tracks/keynotes/kn-simon-zap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-simon-zap/</guid>
+      <description>Demonstration of the new OWASP ZAP Heads Up Display (HUD) by Simon</description>
+    </item>
+    
+    <item>
+      <title>Security Data Science</title>
+      <link>/tracks/keynotes/kn-dinis-graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-dinis-graphs/</guid>
+      <description>Expect Graphs, and Jypiter notebooks &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Cynefin framework</title>
+      <link>/tracks/keynotes/kn-dave-cynefin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-dave-cynefin/</guid>
+      <description>Dave presenting the Cynefin framework, a conceptual framework used to aid decision-making</description>
+    </item>
+    
+    <item>
+      <title>The Mobile Security Testing Guide (MSTG)</title>
+      <link>/tracks/keynotes/kn-jeroen-mstg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-jeroen-mstg/</guid>
+      <description>The MSTG team is working hard on the new release of the Mobile Security Testing Guide (MSTG) during this summit.</description>
+    </item>
+    
+    <item>
+      <title>The OWASP Top Ten Proactive Controls 2018</title>
+      <link>/tracks/keynotes/kn-jim-t10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-jim-t10/</guid>
+      <description>Jim will cover the OWASP Top Ten Proactive Controls 2018, a list of security techniques that should be included in every software development project</description>
+    </item>
+    
+    <item>
+      <title>Wardley maps</title>
+      <link>/tracks/keynotes/kn-simon-wardley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/keynotes/kn-simon-wardley/</guid>
+      <description>Simon presenting Wardley maps, and the use of topographical intelligence in business strategy</description>
+    </item>
+    
+  </channel>
+</rss>

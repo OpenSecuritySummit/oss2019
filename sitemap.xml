@@ -1,0 +1,2384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/faq/attendee-information/</loc>
+    <lastmod>2019-05-28T21:55:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/_template/</loc>
+    <lastmod>2019-05-23T13:49:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-projects/gitkeep/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/_template-remote/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/_template/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/owasp-projects/samm-onboarding/</loc>
+    <lastmod>2019-06-03T01:45:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/owasp-projects/zap-how-to-use-it-session/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/_template/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/psd2_and_gdpr/using-threat-models-for-gdpr/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/serverless/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/_template/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/json/</loc>
+    <lastmod>2019-05-07T09:14:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/using-graphs-for-gdpr-mappings/</loc>
+    <lastmod>2019-06-05T20:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/_template/</loc>
+    <lastmod>2019-06-06T14:40:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/abderrahmane-aftahi/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/accommodation/</loc>
+    <lastmod>2019-05-28T21:56:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/ade-yoseman/</loc>
+    <lastmod>2019-05-13T09:38:40+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/admin/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/adrian-taylor/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/adrian-winckles/</loc>
+    <lastmod>2019-06-02T22:37:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/agile-practices-for-security-teams/</loc>
+    <lastmod>2019-06-03T15:52:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/devsecops/working-sessions/agile-practices-for-security-teams/</loc>
+    <lastmod>2019-06-07T13:24:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/ajay-gupta/</loc>
+    <lastmod>2019-06-02T21:49:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/alicia-barnes/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/all/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/andra-lezza/</loc>
+    <lastmod>2019-05-28T07:48:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-fri/</loc>
+    <lastmod>2019-06-03T01:50:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon-eve/</loc>
+    <lastmod>2019-06-03T01:50:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-thu/</loc>
+    <lastmod>2019-06-05T12:19:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-thu/</loc>
+    <lastmod>2019-06-05T12:30:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-tue/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-wed/</loc>
+    <lastmod>2019-06-05T12:19:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-wed/</loc>
+    <lastmod>2019-06-05T12:30:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/andre_rainho/</loc>
+    <lastmod>2019-06-03T10:31:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/andy-cleveland/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/ann-marie-grace/</loc>
+    <lastmod>2019-06-01T12:11:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/application-security-verification-standard/</loc>
+    <lastmod>2019-06-05T10:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/arpit-agrawal/</loc>
+    <lastmod>2019-06-06T13:25:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/arriving/</loc>
+    <lastmod>2019-06-02T19:03:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/artem-vasiuk/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/ashleigh-eastway/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/ashraf-aboukass/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/ask-me-anything-on-gdpr/</loc>
+    <lastmod>2019-06-03T23:35:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-automated-theat-patterns/</loc>
+    <lastmod>2019-06-05T17:20:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/avi-douglen/</loc>
+    <lastmod>2019-06-05T15:08:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/serverless/azure-serverless-for-security-analysis/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/azzeddine-ramrami/</loc>
+    <lastmod>2019-05-28T18:40:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/week-ticket/bart-de-win/</loc>
+    <lastmod>2019-05-29T13:24:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/week-ticket/ben-schofield/</loc>
+    <lastmod>2019-06-07T09:54:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/best-practices-for-security-of-online-platforms/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/bjoern-kimminich/</loc>
+    <lastmod>2019-06-06T11:32:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/brett-crawley/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/brian-johnson/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/brian-lawrence/</loc>
+    <lastmod>2019-05-29T12:56:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/bryant-zadegan/</loc>
+    <lastmod>2019-06-04T23:53:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/camilo-cota/</loc>
+    <lastmod>2019-05-31T10:45:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/carlos-holguera/</loc>
+    <lastmod>2019-06-02T15:00:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/working-sessions/cell-based-structures-for-security/</loc>
+    <lastmod>2019-06-05T20:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/day-ticket/chris-allen/</loc>
+    <lastmod>2019-06-05T18:16:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/chris-cooper/</loc>
+    <lastmod>2019-05-29T11:10:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/christopher-dobson/</loc>
+    <lastmod>2019-05-29T18:47:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/christoph-jung/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/ciso-roundtable/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/claudio-camerino/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/colin-domoney/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/colin-lobley/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/content-support/</loc>
+    <lastmod>2019-05-28T21:34:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/creating_a_generic_diagram_of_a_threat_model/</loc>
+    <lastmod>2019-06-07T13:18:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-graph/</loc>
+    <lastmod>2019-06-02T21:49:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/security-champions/</loc>
+    <lastmod>2019-06-04T09:54:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/content_from_last_year/tm-threat-library/</loc>
+    <lastmod>2019-06-02T20:40:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/ios_secure_pipeline/</loc>
+    <lastmod>2019-06-05T20:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/user-sessions/creating-appsec-metrics-and-visualisation/</loc>
+    <lastmod>2019-06-03T15:23:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/maps-and-graphs/user-sessions/creating-elk-dashboards/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/crowdstrike-api-and-workflow-automation/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/improving-chaos-toolkit/</loc>
+    <lastmod>2019-06-07T09:30:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/content_from_last_year/cyber-insurance/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cyber-insurance/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cyber-insurance/working-session/online-game-safety-round-table/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/cyber-risk-modeling/</loc>
+    <lastmod>2019-06-06T17:13:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/cybil-colaco/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/maps-and-graphs/working-sessions/cynefin-framework-for-security/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/dan-ashby/</loc>
+    <lastmod>2019-06-04T10:12:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/daniel-kefer/</loc>
+    <lastmod>2019-06-02T15:10:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/darktrace-consuming-apis-using-aws/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/dave-snowden/</loc>
+    <lastmod>2019-06-03T11:16:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/david-cervigni/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/david-english/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/guest/david-james-roll/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/david-jensen/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/dealing-with-security-findings/</loc>
+    <lastmod>2019-06-04T13:44:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/deepak-subramanian/</loc>
+    <lastmod>2019-06-04T10:11:22-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/</loc>
+    <lastmod>2019-05-29T07:46:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/devsecops-maturity-model/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/devsecops/working-sessions/owasp-secrets-management/</loc>
+    <lastmod>2019-06-07T13:08:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/didar-gelici/</loc>
+    <lastmod>2019-06-04T12:31:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/session-types/</loc>
+    <lastmod>2019-05-28T21:59:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/dinis-cruz/</loc>
+    <lastmod>2019-06-03T14:40:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/dominik-de-smit/</loc>
+    <lastmod>2019-06-04T07:26:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/dsc-5/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/dsc-6/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/ej-quinn/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/emily-berman/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/emma-fang/</loc>
+    <lastmod>2019-06-05T11:53:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/intel/</loc>
+    <lastmod>2019-06-06T19:54:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/ethan-schorer/</loc>
+    <lastmod>2019-06-03T08:06:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/fahad-ahmed/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
+    <lastmod>2019-06-02T20:40:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/felipe-zipitria/</loc>
+    <lastmod>2019-06-05T09:41:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/felix-kariuki/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/fernanda-almeida/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/florian-buetow/</loc>
+    <lastmod>2019-06-03T15:17:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/foteini-karantoni/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/francisco-novo/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/francois-raynaud/</loc>
+    <lastmod>2019-05-29T07:46:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/day/fri/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/threat-modeling-to-devsecops/</loc>
+    <lastmod>2019-06-06T06:59:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/gabor-pek/</loc>
+    <lastmod>2019-06-03T20:34:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/gaetano-alboreto/</loc>
+    <lastmod>2019-05-31T09:57:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/serverless/gcp-serverless-for-security-analysis/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/gdpr-implications-for-online-games/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/geoff-hill/</loc>
+    <lastmod>2019-05-29T13:24:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/george-glass/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tickets/</loc>
+    <lastmod>2019-11-22T16:53:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/machine-learning/securing-ml-workflows/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/training-session/hands-on-wardley-maps-creation/</loc>
+    <lastmod>2019-06-03T00:04:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/hardik-parekh/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/harold-blankenship/</loc>
+    <lastmod>2019-06-03T09:16:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/help/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cyber-insurance/working-session/how-can-owasp-and-oss-help-with-online-game-safety/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/how-can-owasp-and-oss-help-with-online-game-safety/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/how-do-cyber-professionals-protect-themselves/</loc>
+    <lastmod>2019-06-06T16:13:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-faq/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/how_do_we_save_information_from_the_tm_slack_channel/</loc>
+    <lastmod>2019-06-07T13:18:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/hwee-ching-neo/</loc>
+    <lastmod>2019-06-03T16:01:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/i-need-help/</loc>
+    <lastmod>2019-06-04T13:30:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/id-like-to-join-the-summit/</loc>
+    <lastmod>2019-05-28T21:36:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/im-a-remote-participant-faq/</loc>
+    <lastmod>2019-06-04T14:33:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/im-an-on-site-participant/</loc>
+    <lastmod>2019-05-28T22:08:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/im-an-organiser/</loc>
+    <lastmod>2019-06-02T13:07:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-incremental/</loc>
+    <lastmod>2019-06-02T10:20:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/infrastructure-needs/</loc>
+    <lastmod>2019-06-01T21:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/</loc>
+    <lastmod>2019-06-03T01:50:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/misc/introduction-to-cynefin-framework/</loc>
+    <lastmod>2019-06-20T11:24:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/introduction-to-cynefin-framework/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/training-session/introduction-to-wardley-maps/</loc>
+    <lastmod>2019-06-03T00:04:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/irene-michlin/</loc>
+    <lastmod>2019-05-29T11:23:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/izar-tarandach/</loc>
+    <lastmod>2019-06-03T05:39:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/james-osborn/</loc>
+    <lastmod>2019-05-28T08:17:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/james-wharton/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/jannik-hollenbach/</loc>
+    <lastmod>2019-06-07T10:07:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/jay-mbolda-yamdjeu/</loc>
+    <lastmod>2019-06-04T08:59:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/jean-jacques-moiroux/</loc>
+    <lastmod>2019-06-03T21:50:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/jemma-davis/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/jeroen-beckers/</loc>
+    <lastmod>2019-06-03T09:53:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/xebia/jeroen-willemsen/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/jill-mcdonald/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/jim-manico/</loc>
+    <lastmod>2019-05-28T10:06:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/jim-newman/</loc>
+    <lastmod>2019-06-05T07:53:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/jira-automation/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pre-summit/london/pbx-offices/14-may-2019/jira-schema/</loc>
+    <lastmod>2019-05-13T10:46:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/john-dileo/</loc>
+    <lastmod>2019-06-04T07:37:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/john-ellingsworth/</loc>
+    <lastmod>2019-06-04T09:08:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/jon-hawes/</loc>
+    <lastmod>2019-05-29T13:24:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/jon-mccoy/</loc>
+    <lastmod>2019-06-03T11:01:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/jonathan-marcil/</loc>
+    <lastmod>2019-06-05T00:15:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/joris-van-den-broeck/</loc>
+    <lastmod>2019-05-27T11:55:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/user-sessions/juice-shop-101/</loc>
+    <lastmod>2019-06-03T23:35:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/juice-shop/working-sessions/juice-shop-challenge-refactoring/</loc>
+    <lastmod>2019-06-07T12:47:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/working-sessions/juice-shop-challenge-refactoring/</loc>
+    <lastmod>2019-06-03T22:29:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/</loc>
+    <lastmod>2019-06-03T22:29:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/juice-shop/working-sessions/hack-n-code-mon/</loc>
+    <lastmod>2019-06-07T11:55:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-mon/</loc>
+    <lastmod>2019-06-03T02:06:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-tue/</loc>
+    <lastmod>2019-06-03T02:06:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-wed/</loc>
+    <lastmod>2019-06-03T02:06:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/juice-shop/working-sessions/hack-n-code-wed/</loc>
+    <lastmod>2019-06-07T12:42:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/juice-shop/working-sessions/hack-n-code-tues/</loc>
+    <lastmod>2019-06-07T11:58:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/juice-shop/working-sessions/juice-shop-release-night-thurs/</loc>
+    <lastmod>2019-06-07T12:49:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/working-sessions/juice-shop-release-night/</loc>
+    <lastmod>2019-06-03T13:35:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-jupyter-1st/</loc>
+    <lastmod>2019-06-03T08:46:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-jupyter-2nd/</loc>
+    <lastmod>2019-06-03T08:47:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-jupyter-3rd/</loc>
+    <lastmod>2019-06-03T08:47:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/kr-bard/</loc>
+    <lastmod>2019-06-03T22:18:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/karen-navas/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/wardley-mapping/working-sessions/wardley-keynote/</loc>
+    <lastmod>2019-06-10T11:55:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/keynote/khaled-fattal/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/kim-wuyts/</loc>
+    <lastmod>2019-05-28T08:26:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/konstantinos-damianakis/</loc>
+    <lastmod>2019-06-06T10:59:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/lars-h/</loc>
+    <lastmod>2019-06-03T10:42:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/lars-svensson/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/lauren-chiesa/</loc>
+    <lastmod>2019-06-06T09:01:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-nick-lessons/</loc>
+    <lastmod>2019-06-02T23:38:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-lindunn/</loc>
+    <lastmod>2019-05-29T08:35:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-lindunn2/</loc>
+    <lastmod>2019-06-04T13:54:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/linddun/</loc>
+    <lastmod>2019-06-07T12:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/louise-bayliss/</loc>
+    <lastmod>2019-05-29T18:55:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/luis-saiz/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/luis-servin/</loc>
+    <lastmod>2019-06-03T13:13:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/machine-learning/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/maeve-scarry/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/keynote/online-game-safety-keynote/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/manuel-almeida/</loc>
+    <lastmod>2019-06-05T09:15:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/working-sessions/mapping-boot-camp-with-simon/</loc>
+    <lastmod>2019-06-05T20:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-2-devsecops-mapping/</loc>
+    <lastmod>2019-05-31T13:12:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/maps-and-graphs/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/marco-mancini/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/day-ticket/mario-platt/</loc>
+    <lastmod>2019-06-03T21:50:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/martin-rock-evans/</loc>
+    <lastmod>2019-06-07T08:45:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cyber-insurance/working-session/maturity-model-for-cyber-insurance/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/maturity-model-for-online-game-safety/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/psd2_and_gdpr/meet-the-ico/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/michael-duff/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/michael-hidalgo/</loc>
+    <lastmod>2019-06-01T13:16:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/michael-madsen/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/mike-mccamon/</loc>
+    <lastmod>2019-06-03T11:05:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/</loc>
+    <lastmod>2019-05-29T13:24:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/machine-learning/ml-for-scaling-security-analysis/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/masvs-enhancements/</loc>
+    <lastmod>2019-06-03T10:06:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/masvs-enhancements-eve/</loc>
+    <lastmod>2019-06-03T02:11:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-eve/</loc>
+    <lastmod>2019-06-05T11:46:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon-eve/</loc>
+    <lastmod>2019-06-03T02:11:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-thu/</loc>
+    <lastmod>2019-06-05T12:30:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue-eve/</loc>
+    <lastmod>2019-06-04T07:59:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/working-sessions/mstg-restructuring-wed/</loc>
+    <lastmod>2019-06-05T12:30:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teams/mobile_security/</loc>
+    <lastmod>2019-06-02T12:33:17-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-mon/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-wed/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/day/mon/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/mustafa-kasmani/</loc>
+    <lastmod>2019-06-05T11:37:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/nessim-kisserli/</loc>
+    <lastmod>2019-05-28T11:47:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/nick-drage/</loc>
+    <lastmod>2019-06-04T14:24:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/omer-levi-hevroni/</loc>
+    <lastmod>2019-05-05T16:10:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/</loc>
+    <lastmod>2019-06-02T22:17:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/online-game-safety-round-table/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-06T10:13:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/organisers-duties/</loc>
+    <lastmod>2019-06-01T21:41:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/photo-gallery/</loc>
+    <lastmod>2019-05-09T01:03:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/oss-bot/</loc>
+    <lastmod>2019-06-02T08:47:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/oss-bot-and-argumentation-models/</loc>
+    <lastmod>2019-06-07T09:40:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/</loc>
+    <lastmod>2018-11-19T21:07:33-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/admin/outcomes-status/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teams/owasp/</loc>
+    <lastmod>2019-05-29T17:17:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-projects/working-sessions/owasp-appsec-curriculum-project/</loc>
+    <lastmod>2019-06-07T12:18:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/application-security-curriculum-project/</loc>
+    <lastmod>2019-06-04T10:33:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/owasp-collective-defence-agreement/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/community-docs/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/devsecops/working-sessions/owasp-devsecops-cheat-sheet/</loc>
+    <lastmod>2019-06-07T12:01:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/owasp-honeypot/</loc>
+    <lastmod>2019-06-05T15:16:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teams/owasp_juiceshop/</loc>
+    <lastmod>2019-05-29T17:17:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/</loc>
+    <lastmod>2019-05-29T12:58:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-bjorn-juiceshop/</loc>
+    <lastmod>2019-06-07T09:30:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/media-project/</loc>
+    <lastmod>2019-06-03T15:09:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/user-sessions/intro-mstg-mon/</loc>
+    <lastmod>2019-06-02T23:38:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/user-sessions/intro-mstg-wed/</loc>
+    <lastmod>2019-06-03T09:50:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-mstg/</loc>
+    <lastmod>2019-05-29T13:24:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/</loc>
+    <lastmod>2019-05-29T13:24:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/</loc>
+    <lastmod>2019-06-06T07:43:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/pre-summit-ws/samm-maturity-measuring/</loc>
+    <lastmod>2019-06-07T12:03:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-samm-1st/</loc>
+    <lastmod>2019-06-03T03:25:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-samm-2nd/</loc>
+    <lastmod>2019-06-03T03:25:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-samm-3rd/</loc>
+    <lastmod>2019-06-03T03:25:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-bart-seba-samm/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/owasp-projects/owasp-testing-guide/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/owasp-projects/owasp-top-5-machine-learning-risks/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-projects/working-sessions/owasp-web-honeypot-project/</loc>
+    <lastmod>2019-06-07T12:34:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-simon-zap/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/pablo-garcia/</loc>
+    <lastmod>2019-05-31T08:37:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/</loc>
+    <lastmod>2019-06-06T10:59:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/</loc>
+    <lastmod>2019-06-07T10:07:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/partners/</loc>
+    <lastmod>2019-05-29T19:28:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/patricia-duarte/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/day-ticket/paul-davies/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/paulino-calderon/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/pedro-dantas/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/peter-hicks/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/day-ticket/phil-huggins/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/phil-winstanley/</loc>
+    <lastmod>2019-06-03T09:18:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/philippe-de-ryck/</loc>
+    <lastmod>2019-06-04T06:31:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/pravinder-arora/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pre-summit/</loc>
+    <lastmod>2019-05-13T10:46:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-juice-shop/protecting-juice-shop-waf/</loc>
+    <lastmod>2019-06-07T09:37:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/psd2_and_gdpr/psd2-security/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/rafael-jimenez/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/reach-us-in-slack/</loc>
+    <lastmod>2019-06-01T21:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/misc/real-world-chaos-engineering/</loc>
+    <lastmod>2019-06-08T12:12:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/real-world-chaos-engineering/</loc>
+    <lastmod>2019-06-08T12:12:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/machine-learning/real-world-ml-case-studies/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/rebecca-ditchburn/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/registration-info/</loc>
+    <lastmod>2019-06-01T21:44:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/remote-participants/</loc>
+    <lastmod>2019-05-16T16:14:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks-remote/israel/remote-session-1/</loc>
+    <lastmod>2019-05-05T16:10:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cyber-insurance/user-session/risk-dashboard-for-online-game-safety/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/risk-dashboard-for-online-game-safety/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/robert-grace/</loc>
+    <lastmod>2019-06-01T18:12:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/roberto-p%C3%A9rez/</loc>
+  </url>
+  
+  <url>
+    <loc>/participant/roger-comastorres/</loc>
+    <lastmod>2019-05-30T18:35:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sam-ellis/</loc>
+    <lastmod>2019-06-05T07:35:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/sam-stepanyan/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teams/samm/</loc>
+    <lastmod>2019-06-02T12:33:17-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-agile/</loc>
+    <lastmod>2019-06-02T23:47:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-alignment-fri/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-alignment-thu/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-alignment-we/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-tm-alignment/</loc>
+    <lastmod>2019-06-02T06:15:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-alignment-with-threat-modelling/</loc>
+    <lastmod>2019-06-07T13:09:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-aob/</loc>
+    <lastmod>2019-05-29T08:41:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-benchmarking-and-tooling/</loc>
+    <lastmod>2019-06-07T13:10:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-defined-writing-guidelines-for-questions-and-quality-criteria/</loc>
+    <lastmod>2019-06-07T12:09:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-devops/</loc>
+    <lastmod>2019-05-29T08:45:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-editing-agreements-and-parallel-editing-tues-am/</loc>
+    <lastmod>2019-06-07T12:10:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-editing/</loc>
+    <lastmod>2019-05-29T08:47:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-measurement1/</loc>
+    <lastmod>2019-06-02T23:47:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-measurement2/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-model-challenges-tues-ev1/</loc>
+    <lastmod>2019-06-07T12:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-challenges-tu/</loc>
+    <lastmod>2019-06-02T23:47:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-model-challenges-weds-ev/</loc>
+    <lastmod>2019-06-07T12:14:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-challenges-we/</loc>
+    <lastmod>2019-06-02T23:47:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-model-tu/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-model-we/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-outreach/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-outreach-tu/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-outreach-wu/</loc>
+    <lastmod>2019-05-29T08:50:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-tues-pm1/</loc>
+    <lastmod>2019-06-07T12:16:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-editing-thu/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-editing-thu2/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-editing-tu/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-editing-we2/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-model-discussions-devsecops-weds-pm/</loc>
+    <lastmod>2019-06-07T12:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-thurs/</loc>
+    <lastmod>2019-06-07T13:09:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-planning/</loc>
+    <lastmod>2019-05-29T08:49:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-benchmark/</loc>
+    <lastmod>2019-06-04T22:01:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-editing-we/</loc>
+    <lastmod>2019-05-31T13:47:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/working-sessions/samm-tooling/</loc>
+    <lastmod>2019-05-29T09:06:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/owasp-samm/working-sessions/samm-model-discussions-tues-pm2/</loc>
+    <lastmod>2019-06-07T12:18:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/user-sessions/samm-introduction/</loc>
+    <lastmod>2019-06-02T09:48:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-samm/user-sessions/samm-roundtable/</loc>
+    <lastmod>2019-05-29T22:36:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-samm/</loc>
+    <lastmod>2019-06-02T17:03:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sara-davis/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sarah-clark/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/scaling-api-security/</loc>
+    <lastmod>2019-06-06T10:30:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/schedule/</loc>
+    <lastmod>2019-06-01T21:47:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/onboarding/oss-oboarding-schedule-outcomes-1st/</loc>
+    <lastmod>2019-06-03T08:45:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/onboarding/oss-oboarding-schedule-outcomes-2nd/</loc>
+    <lastmod>2019-06-03T08:45:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/onboarding/oss-oboarding-schedule-outcomes-3rd/</loc>
+    <lastmod>2019-06-03T08:46:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/by-day/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/scott-hayward/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sean-siford/</loc>
+    <lastmod>2019-06-06T07:52:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sean-turner/</loc>
+    <lastmod>2019-06-03T10:05:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sebastian-arriada/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/toreon/sebastien-deleersnyder/</loc>
+    <lastmod>2019-06-03T09:57:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/secrets-management/</loc>
+    <lastmod>2019-06-03T15:23:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/securing-kubernetes-hosted-apis/</loc>
+    <lastmod>2019-06-06T10:30:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/serverless/securing-serverless-applications/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/working-sessions/securing-the-ci-pipeline/</loc>
+    <lastmod>2019-05-31T09:19:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/strategic-challenges/working-sessions/security-challenges-an-introduction/</loc>
+    <lastmod>2019-06-07T12:19:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/security-challenges-what-challenges/</loc>
+    <lastmod>2019-06-03T00:04:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/security-challenges-others/</loc>
+    <lastmod>2019-06-05T10:12:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/strategic-challenges/working-sessions/security-challenges-analysis-and-analogies/</loc>
+    <lastmod>2019-06-06T15:42:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/security-challenges-analysis-analogies/</loc>
+    <lastmod>2019-06-04T12:17:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/security-challenges-review/</loc>
+    <lastmod>2019-06-05T22:09:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/strategic-challenges/working-sessions/security-challenges-next-steps/</loc>
+    <lastmod>2019-06-07T13:46:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/security-challenges-next-step/</loc>
+    <lastmod>2019-06-07T09:30:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-dinis-graphs/</loc>
+    <lastmod>2019-06-03T23:29:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/senen-garcia/</loc>
+    <lastmod>2019-05-31T09:56:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/help/session-not-found/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions/</loc>
+    <lastmod>2019-06-02T16:33:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/admin/organizers/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/devsecops/share-your-playbooks-and-release-them-under-cc/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/psd2_and_gdpr/share-your-polices-and-release-them-under-cc/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/sherif-mansour/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/owasp/simon-bennetts/</loc>
+    <lastmod>2019-05-28T10:06:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/simon-pavillon/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/simon-wardley/</loc>
+    <lastmod>2019-06-04T22:37:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/slack-creating-security-workflows/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/devsecops/appsec-soc-monitoring-visualisation/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/sonya-moisset/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/sponsored_tickets/</loc>
+    <lastmod>2019-05-16T16:09:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sponsors/</loc>
+    <lastmod>2019-02-15T14:09:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/future-of-threat-modelling/</loc>
+    <lastmod>2019-06-07T12:22:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-state/</loc>
+    <lastmod>2019-06-02T11:16:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/steven-van-der-baan/</loc>
+    <lastmod>2019-06-03T12:34:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/toreon/steven-wierckx/</loc>
+    <lastmod>2019-05-28T10:06:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/stu-hirst/</loc>
+    <lastmod>2019-05-27T11:55:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/catering/</loc>
+    <lastmod>2019-06-04T13:22:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/</loc>
+    <lastmod>2019-02-09T18:29:23-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/sven-schleier/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/product-sessions/symatect-av-apis-automation-and-visulalisation/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/user-sessions/talking-security-risk-to-business-practical-games/</loc>
+    <lastmod>2019-06-06T14:43:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/tanja-peeters/</loc>
+    <lastmod>2019-06-03T11:22:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/tash-norris/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teams/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-dave-cynefin/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-jeroen-mstg/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-jim-t10/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about2019/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/misc/third-party-due-diligence/</loc>
+    <lastmod>2019-06-06T10:30:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/thomas-heyman/</loc>
+    <lastmod>2019-05-27T19:44:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/</loc>
+    <lastmod>2019-05-31T16:29:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/threat-model-lessons-learned/</loc>
+    <lastmod>2019-06-07T12:41:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-examples/</loc>
+    <lastmod>2019-06-03T11:01:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/threat-model-cookbook-project-2/</loc>
+    <lastmod>2019-06-07T12:25:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-examples2/</loc>
+    <lastmod>2019-06-05T00:10:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/threat-model-maturity/</loc>
+    <lastmod>2019-06-07T12:26:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-tm-1st/</loc>
+    <lastmod>2019-06-03T03:25:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-tm-2nd/</loc>
+    <lastmod>2019-06-03T03:25:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-tm-3rd/</loc>
+    <lastmod>2019-06-03T03:25:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-tm-thu/</loc>
+    <lastmod>2019-06-06T06:36:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/pre-summit-ws/threat-modelling-data-schema/</loc>
+    <lastmod>2019-06-07T12:31:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/project-roadmap/</loc>
+    <lastmod>2019-06-07T12:32:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-attack-pattern/</loc>
+    <lastmod>2019-06-05T17:36:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/day/thu/</loc>
+    <lastmod>2019-06-06T19:49:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/tickets/</loc>
+    <lastmod>2019-06-01T21:48:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/time-slots/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-maturity/</loc>
+    <lastmod>2019-06-03T09:40:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/track-intro/</loc>
+    <lastmod>2019-06-04T13:51:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/tom-ling/</loc>
+    <lastmod>2019-06-04T21:52:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/tony-richards/</loc>
+    <lastmod>2019-06-04T08:26:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
+    <lastmod>2019-06-06T06:59:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-sdl/</loc>
+    <lastmod>2019-06-02T11:17:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/threat-modelling/working-sessions/tm-closure/</loc>
+    <lastmod>2019-06-02T17:03:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/tracks/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks-remote/</loc>
+    <lastmod>2019-05-05T16:10:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/transport-and-directions/</loc>
+    <lastmod>2019-06-02T18:59:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/day/tue/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cynefin-framework/using-cynefin-framework-for-security/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cynefin-framework/using-cynefin-framework-for-weak-signal-detection/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/working-sessions/using-cynefin-framework-for-making-strategic-security-decisions/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/maps-and-graphs/working-sessions/using-data-science-for-log-analysis/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/machine-learning/hacking-ml-applications/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/serverless/using-lambda-to-scale-security-teams/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/wardley-maps/using-tools-to-create-wardley-maps/</loc>
+    <lastmod>2019-06-02T23:38:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/content_from_last_year/user-story-mapping-for-effective-communication/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/user-sessions/using-wardley-maps-and-cynefin-for-security/</loc>
+    <lastmod>2019-06-04T23:21:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/user-sessions/using-wardley-maps-on-soc/</loc>
+    <lastmod>2019-06-04T23:21:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/vasil-buraliev/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/venue/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant-remote/vinod-anandan/</loc>
+    <lastmod>2019-06-03T21:50:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/user-sessions/wafs-understanding-and-meauring-how-they-behave/</loc>
+    <lastmod>2019-05-29T13:37:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/cyber-insurance/user-session/online-game-safety-wardley-map/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/children-game-safety/online-game-safety-wardley-map/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/working-sessions/climatic-patterns-and-using-doctrine/</loc>
+    <lastmod>2019-06-05T20:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/working-sessions/coordinating-functions-within-a-pst-organisation/</loc>
+    <lastmod>2019-06-05T20:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/</loc>
+    <lastmod>2019-05-30T22:30:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/keynotes/kn-simon-wardley/</loc>
+    <lastmod>2019-06-04T22:29:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/wardley-mapping/working-sessions/wardley-maps-for-security/</loc>
+    <lastmod>2019-06-10T11:51:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/wardley-maps/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/</loc>
+    <lastmod>2019-06-06T08:49:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-wardley-maps-1st/</loc>
+    <lastmod>2019-06-03T08:48:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-wardley-maps-2nd/</loc>
+    <lastmod>2019-06-03T08:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/training/training-wardley-maps-3rd/</loc>
+    <lastmod>2019-06-03T08:48:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/schedule/day/wed/</loc>
+    <lastmod>2018-10-06T23:37:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/onboarding/oss-oboarding-welcome-content-1st/</loc>
+    <lastmod>2019-06-03T08:44:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/onboarding/oss-oboarding-welcome-content-2nd/</loc>
+    <lastmod>2019-06-03T08:44:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/training/onboarding/oss-oboarding-welcome-content-3rd/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/william-devos/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/working-session-checklist/</loc>
+    <lastmod>2019-06-03T09:47:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/outcomes/threat-modeling/working-sessions/unified-ways-of-describing-threat-models/</loc>
+    <lastmod>2019-06-07T13:12:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/wouter-de-meijer/</loc>
+    <lastmod>2019-06-06T09:28:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/devsecops/user-sessions/writing-security-tests-to-confirm-vulnerabilities-and-fixes/</loc>
+    <lastmod>2019-05-29T10:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/xavier-delgado/</loc>
+    <lastmod>2019-06-04T16:50:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/yan-kravchenko/</loc>
+    <lastmod>2019-06-03T21:50:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/photobox-gs/week-ticket/yasmin-martin/</loc>
+    <lastmod>2019-05-29T20:32:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/owasp-projects/zap-how-to-use-it-session-1/</loc>
+    <lastmod>2019-06-02T23:38:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sessions-not-on-schedule/owasp-projects/zap-how-to-use-it-session-3/</loc>
+    <lastmod>2019-06-03T21:43:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/zap-automation/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/zap-future-plans/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tracks/owasp-projects/zap-the-hud/</loc>
+    <lastmod>2019-06-03T22:21:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/zsolt-kalman/</loc>
+    <lastmod>2019-05-27T19:59:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/participant/zuhal-vargun/</loc>
+    <lastmod>2019-05-30T09:24:08+01:00</lastmod>
+  </url>
+  
+</urlset>

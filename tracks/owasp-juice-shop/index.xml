@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWASP Juice Shop on Open Security Summit</title>
+    <link>/tracks/owasp-juice-shop/</link>
+    <description>Recent content in OWASP Juice Shop on Open Security Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tracks/owasp-juice-shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Juice Shop 101</title>
+      <link>/tracks/owasp-juice-shop/user-sessions/juice-shop-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/user-sessions/juice-shop-101/</guid>
+      <description>Why Pick up session for all participants who are interested in the OWASP Juice Shop project but have no experience with it yet.
+What Target audience are all interested users from Breaker, Builder and Defender communities alike!
+ Demo of the project Installation walk-through Advanced features (CTF mode, custom themes etc.)  This is not an introduction into the code base or underlying technology! For this we recommend to participate in the Juice Shop Contributor Onboarding session and join any of the evening Juice Shop Hack&#39;n&#39;Code evening session series!</description>
+    </item>
+    
+    <item>
+      <title>Juice Shop Challenge Refactoring</title>
+      <link>/tracks/owasp-juice-shop/working-sessions/juice-shop-challenge-refactoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/working-sessions/juice-shop-challenge-refactoring/</guid>
+      <description>Why The Juice Shop offers 85+ hacking challenges spread across 6 difficulty levels. It is time to review their categories and difficulty ratings for overall consistency and possible improvements.
+What  Discuss the need for more (or less?) challenge categories  Map to additional existing vulnerability catalogs   Discuss the need for more (or less?) difficulty levels  Define criteria to map challenges to difficulties more easily (e.g. &amp;ldquo;Scripting needed?</description>
+    </item>
+    
+    <item>
+      <title>Juice Shop Contributor Onboarding</title>
+      <link>/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/user-sessions/juice-shop-contributor-onboarding/</guid>
+      <description>Why Pick up session for all participants who are interested in contributing to the OWASP Juice Shop project but have no experience with its code base yet.
+What  Architecture overview Contribution guidelines How a hacking challenge is implemented and tested CI/CD pipeline  This is not a basic introduction into the project itself! For this we recommend to participate in the Juice Shop 101 session!
+References  Chapters Codebase 101 and Contribute to development of the online-readable companion guide eBook Pwning OWASP Juice Shop  </description>
+    </item>
+    
+    <item>
+      <title>Juice Shop Hack&#39;n&#39;Code (Mon)</title>
+      <link>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-mon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-mon/</guid>
+      <description>Why Develop new features and hacking challenges, beta-test those new challenges and improve the OWASP Juice Shop project across the board.
+What  Builders work on functionality, bugfixes, new challenges, translations, documentation etc. Breakers try to solve challenges, help fine-tune them and might even write some hints/solutions Defenders use their own tools against the Juice Shop to see what they might miss and get ideas how to close gaps  Outcomes This working session can result in e.</description>
+    </item>
+    
+    <item>
+      <title>Juice Shop Hack&#39;n&#39;Code (Tue)</title>
+      <link>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-tue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-tue/</guid>
+      <description>Why Develop new features and hacking challenges, beta-test those new challenges and improve the OWASP Juice Shop project across the board.
+What  Builders work on functionality, bugfixes, new challenges, translations, documentation etc. Breakers try to solve challenges, help fine-tune them and might even write some hints/solutions Defenders use their own tools against the Juice Shop to see what they might miss and get ideas how to close gaps  Outcomes This working session can result in e.</description>
+    </item>
+    
+    <item>
+      <title>Juice Shop Hack&#39;n&#39;Code (Wed)</title>
+      <link>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-wed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/working-sessions/juice-shop-hackathon-wed/</guid>
+      <description>Why Develop new features and hacking challenges, beta-test those new challenges and improve the OWASP Juice Shop project across the board.
+What  Builders work on functionality, bugfixes, new challenges, translations, documentation etc. Breakers try to solve challenges, help fine-tune them and might even write some hints/solutions Defenders use their own tools against the Juice Shop to see what they might miss and get ideas how to close gaps  Outcomes This working session can result in e.</description>
+    </item>
+    
+    <item>
+      <title>Juice Shop Release Night</title>
+      <link>/tracks/owasp-juice-shop/working-sessions/juice-shop-release-night/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/working-sessions/juice-shop-release-night/</guid>
+      <description>Why Publish the results of the Juice Shop Hack&#39;n&#39;Code sessions on Monday, Tuesday and Wednesday in a new Juice Shop release!
+What  Wrap up all changes and perform final QA Update release notes and documentation Merge changes into master branch for final CI/CD run Tag new release and trigger automated deployment  Outcomes This working session will result in the public release of v8.7.0 of OWASP Juice Shop. The results accumulated from each Juice Shop Hack&#39;n&#39;Code session on Mon, Tue and Wed evening will be part of this release.</description>
+    </item>
+    
+    <item>
+      <title>Protecting JuiceShop with AWS WAF</title>
+      <link>/tracks/owasp-juice-shop/protecting-juice-shop-waf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/owasp-juice-shop/protecting-juice-shop-waf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

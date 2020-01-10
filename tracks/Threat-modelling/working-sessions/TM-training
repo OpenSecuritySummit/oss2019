@@ -1,0 +1,23 @@
+---
+title        : Threat Model introduction
+type         : user-session
+track        : Threat Model
+topics       : 
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     : Wed
+when_time    : TS-1
+room_layout  :                    #
+room_id      : room-3
+session_slack: https://os-summit.slack.com/messages/CAVPAADAA
+status       : review-content             # draft, review-content, done
+organizers   :
+    - Steven Wierckx
+description  : Threat Model introduction
+locked       : true
+---
+
+## Why
+
+In order to participate in the discussions a basic understanding of threat modeling is needed. This 30 minute training will give you just enough knowledge to follow and participate in the threat model track as well as teach you how to navigate the OWASP project and other practical information.

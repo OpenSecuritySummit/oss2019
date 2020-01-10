@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Security Summit</title>
+    <link>/sessions-not-on-schedule/product-sessions/</link>
+    <description>Recent content on Open Security Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/sessions-not-on-schedule/product-sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/sessions-not-on-schedule/product-sessions/_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/product-sessions/_template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdstrike - API and Workflows automation</title>
+      <link>/sessions-not-on-schedule/product-sessions/crowdstrike-api-and-workflow-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/product-sessions/crowdstrike-api-and-workflow-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darktrace - Consuming APIs using AWS</title>
+      <link>/sessions-not-on-schedule/product-sessions/darktrace-consuming-apis-using-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/product-sessions/darktrace-consuming-apis-using-aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jira - Workflows and Automation</title>
+      <link>/sessions-not-on-schedule/product-sessions/jira-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/product-sessions/jira-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slack - Creating Security Workflows</title>
+      <link>/sessions-not-on-schedule/product-sessions/slack-creating-security-workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/product-sessions/slack-creating-security-workflows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symantec AV - Apis, Automation and Visualisations</title>
+      <link>/sessions-not-on-schedule/product-sessions/symatect-av-apis-automation-and-visulalisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/product-sessions/symatect-av-apis-automation-and-visulalisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Open Security Summit</title>
+    <link>/tracks/misc/</link>
+    <description>Recent content in Misc on Open Security Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tracks/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/tracks/misc/using-graphs-for-gdpr-mappings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/using-graphs-for-gdpr-mappings/</guid>
+      <description>Create graphs as shows in the https://github.com/pbx-gs/gdpr-patterns project</description>
+    </item>
+    
+    <item>
+      <title>Ask me anything (AMA) on GDPR</title>
+      <link>/tracks/misc/ask-me-anything-on-gdpr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/ask-me-anything-on-gdpr/</guid>
+      <description>&amp;lsquo;Ask Me Anything&amp;rsquo; session where tech and non-tech people can ask anything someone who is from the industry relating to GDPR</description>
+    </item>
+    
+    <item>
+      <title>Customising the Chaos Engineering Toolkit</title>
+      <link>/tracks/misc/improving-chaos-toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/improving-chaos-toolkit/</guid>
+      <description>The Chaos Toolkit provides a Universal API for Chaos Engineering experiments that is then used to drive various implementations of chaos-causing and system-state-probing functions.
+This session will focus on how the Chaos Toolkit, and the project&#39;s open source ecosystem, can be practically used and extended for DevSecOps concerns to deliver on the needs of automation and collaboration.
+WHY Chaos is about introducing learning loops so that trust and confidence in systems can be maintained in the face of constant change.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Risk Modeling</title>
+      <link>/tracks/misc/cyber-risk-modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/cyber-risk-modeling/</guid>
+      <description>Why Phil brings his extensive experience to a discussion on modelling (general) risk and comparing security risk modelling maturity to other markets (finance, insurance, medical..). This also involves attribution of $ value to risk and how security teams can talk the language of the business
+What Current Security Risk Management is Broken There is a lot of complexity and uncertainty in cyber risk. Current practice tends to hide uncertainty and present certainty.</description>
+    </item>
+    
+    <item>
+      <title>Emotional/Multiple Intelligence</title>
+      <link>/tracks/misc/intel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/intel/</guid>
+      <description>We all bring value to a diverse team, are you aware of the intelligences your colleagues bring and how to best communicate with them?
+Outcomes TBD
+References TBD
+Previous&amp;ndash;&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>How do Cyber Professionals protect themselves</title>
+      <link>/tracks/misc/how-do-cyber-professionals-protect-themselves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/how-do-cyber-professionals-protect-themselves/</guid>
+      <description>WHY How do we get the business people interested in (and putting a value on) security. They need to understand how exposed they are, high profile celebrities and major company execs will have active cyber protection programmes. How can we share basic good cyber hygiene good practice to help those outside the cyber community
+What (&amp;hellip;)
+Outcomes In the oss_bot channel on Open Security Summit (os-summit.slack.com)
+List running servers &amp;ldquo;jp servers&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Cynefin Framework</title>
+      <link>/tracks/misc/introduction-to-cynefin-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/introduction-to-cynefin-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSS BOT and Argumentation Models</title>
+      <link>/tracks/misc/oss-bot-and-argumentation-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/oss-bot-and-argumentation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP community-docs</title>
+      <link>/tracks/misc/community-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/community-docs/</guid>
+      <description>We&#39;ll work on creating new content for the repo https://github.com/OWASP/community-docs.
+Will also contribute to https://github.com/OWASP/owasp-swag.
+Come and create content for others to promote your own project!
+Backed by the OWASP Orange County Chapter</description>
+    </item>
+    
+    <item>
+      <title>Real world Chaos Engineering</title>
+      <link>/tracks/misc/real-world-chaos-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/real-world-chaos-engineering/</guid>
+      <description>In this session a collection of real-world security cases will be explored through the lens of the chaos engineering discipline.
+WHY In the face of increased speed of system evolution and complexity, systems are becoming harder to trust and have confidence in expecially from a security perspective.
+Chaos engineering provides a specific mindset that augments the existing security mindset to provide a basis for automated exploring and discovering of weaknesses before your customers experience them.</description>
+    </item>
+    
+    <item>
+      <title>Scaling API Security</title>
+      <link>/tracks/misc/scaling-api-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/scaling-api-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing Kubernete&#39;s hosted APIs</title>
+      <link>/tracks/misc/securing-kubernetes-hosted-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/securing-kubernetes-hosted-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Challenges - An Introduction</title>
+      <link>/tracks/misc/security-challenges-what-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/security-challenges-what-challenges/</guid>
+      <description>If we&#39;re all so smart, and are working so hard, why does everything seem so awful?
+WHY Considering how intelligent security practioners are, how well funded they are, and how hard they work, it feels as though the industry should be obtaining better results than it is currently receiving.
+Therefore there must be something systematically wrong with the way that cyber security is being run, and must be a way to achieve better results with the same resources.</description>
+    </item>
+    
+    <item>
+      <title>Security Challenges - Analyse others</title>
+      <link>/tracks/misc/security-challenges-others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/security-challenges-others/</guid>
+      <description>Wednesday is a busy day for the summit, and some participants may have commitments elsewhere, such as at InfoSec Europe and BSides London. Therefore, wherever you are today, spend your time looking at what strategies and assumptons are already in use:
+WHY By looking at the challenges we face abstractly, away from the day to day docket of tasks that must simply be dealt with as quickly as possible, we can find better ways of preventing fires rather than always putting them out.</description>
+    </item>
+    
+    <item>
+      <title>Security Challenges - Analysis, Analogies</title>
+      <link>/tracks/misc/security-challenges-analysis-analogies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/security-challenges-analysis-analogies/</guid>
+      <description>Having looked at some of the characteristics of the cyber security industry, we will now brainstorm on other industries or busineses or organisations or systems or situations that exhibit similar characteristics. What do specific charactertistics remind you of, what are the factors that determine whether you succeed or fail?
+WHY By looking at the challenges we face abstractly, away from the day to day docket of tasks that must simply be dealt with as quickly as possible, we can find better ways of preventing fires rather than always putting them out.</description>
+    </item>
+    
+    <item>
+      <title>Security Challenges - Collate others&#39; strategies and assumptions</title>
+      <link>/tracks/misc/security-challenges-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/security-challenges-review/</guid>
+      <description>The &amp;ldquo;underlying assumptions&amp;rdquo; idea wasn&#39;t put forward on Tuesday, and is still half-formed; and I under-estimated how many people would be here for the entire week. Also my idea wasn&#39;t relevant to the participants of the Summit, as almost everyone is here for the entire week.
+Also I think everyone interested in the higher strategic issues we face should attend the available Wardley Mapping sessions.
+I&#39;m available to discuss this at any point during the day during the breaks.</description>
+    </item>
+    
+    <item>
+      <title>Security Challenges - Next step</title>
+      <link>/tracks/misc/security-challenges-next-step/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/security-challenges-next-step/</guid>
+      <description>This is the latest version of this idea, partly inspired by a quick conversation with Dinis on Thursday evening.
+Outcomes Answers to the following questions, raised during the week:
+  Is the approach of finding similar industries or situations valid?
+  Does Dave Snowden&#39;s experience support following or abandoning this methodology?
+  If it&#39;s not valid, what methodologies should be used to create or find, and test, the correct strategies?</description>
+    </item>
+    
+    <item>
+      <title>Third Party Due Diligence</title>
+      <link>/tracks/misc/third-party-due-diligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tracks/misc/third-party-due-diligence/</guid>
+      <description>Why Every company has their own third party due diligence methods. Mostly a mix of questionnaires, open source investigations, sometimes onsite assessments. This is not efficient in today&#39;s world as poor vendors are forced to spend 100s of hours each year filling in questionniares with same or similar questions over and over again.
+What I believe we should have a restricted opensource platform where the members would agree on a framework and scoring system for third party due diigence from cyber perspective.</description>
+    </item>
+    
+  </channel>
+</rss>

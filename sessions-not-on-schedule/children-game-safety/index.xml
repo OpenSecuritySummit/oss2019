@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Children Game Safety on Open Security Summit</title>
+    <link>/sessions-not-on-schedule/children-game-safety/</link>
+    <description>Recent content in Children Game Safety on Open Security Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/sessions-not-on-schedule/children-game-safety/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best practices for the security of online Gaming platforms</title>
+      <link>/sessions-not-on-schedule/children-game-safety/best-practices-for-security-of-online-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/best-practices-for-security-of-online-platforms/</guid>
+      <description>Online gaming platforms manage large volumes of sensitive data which needs to protected and managed securely</description>
+    </item>
+    
+    <item>
+      <title>CISO Ask Me Anything (AMA)</title>
+      <link>/sessions-not-on-schedule/children-game-safety/ciso-roundtable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/ciso-roundtable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDPR Implications for Online Games (for players, parents and platform owners)</title>
+      <link>/sessions-not-on-schedule/children-game-safety/gdpr-implications-for-online-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/gdpr-implications-for-online-games/</guid>
+      <description>What are the GDPR implications for online gaming platforms? What are the platform developers responsibilities? What are the users (and parents rights?)</description>
+    </item>
+    
+    <item>
+      <title>How can OWASP and OSS help with Online Game Safety</title>
+      <link>/sessions-not-on-schedule/children-game-safety/how-can-owasp-and-oss-help-with-online-game-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/how-can-owasp-and-oss-help-with-online-game-safety/</guid>
+      <description>OWASP and OSS (Open Security Summit) community sit at the center of a large community that has all the players and resources required to find good solutions
+What  for example map which OWASP projects are related to Online Game Safety (and how they can help)s work with amazing sites like https://www.getsafeonline.org/ and https://www.childline.org.uk/  </description>
+    </item>
+    
+    <item>
+      <title>Making Online Gaming Safer for Children</title>
+      <link>/sessions-not-on-schedule/children-game-safety/keynote/online-game-safety-keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/keynote/online-game-safety-keynote/</guid>
+      <description>Setting the scene and direction on how to make Online Gaming Safer for Children (and how the community can help) MLi Group Chairman Khaled Fattal to deliver the keynote address and throw the gauntlet to challenge the Open security summit techie army to come up with a solution that will help make online game playing safer, especially for children.
+With more children than ever playing games online today, and with the recent horror stories reported in the news exposing this growing threat to children, such as the tragic murder of 14 year old gamer Breck Bednar, we believe making the online game playing safer for children is not just the responsibility of parents but also the Corporate Social Responsibility of all online gaming sector players.</description>
+    </item>
+    
+    <item>
+      <title>Maturity Model for Online Game Safety (based on SAMM)</title>
+      <link>/sessions-not-on-schedule/children-game-safety/maturity-model-for-online-game-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/maturity-model-for-online-game-safety/</guid>
+      <description>Use the Maturity Model created by the Owasp SAMM project to create a first pass a stardard way to measure the Safety of Online Games</description>
+    </item>
+    
+    <item>
+      <title>Online Game Safety - Round Table</title>
+      <link>/sessions-not-on-schedule/children-game-safety/online-game-safety-round-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/online-game-safety-round-table/</guid>
+      <description>Round table by multiple industry experts and players on how to improve the current state of Online Game Safety</description>
+    </item>
+    
+    <item>
+      <title>OWASP Collective Defence Cluster (CDC) - two years on</title>
+      <link>/sessions-not-on-schedule/children-game-safety/owasp-collective-defence-agreement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/owasp-collective-defence-agreement/</guid>
+      <description>This Working Session aims to continue the work done at the last Summit on this CDC model.
+Why In the same way that countries use NATO Collective defence - Article 5 to:
+ create a unique and enduring principle that binds its members together, committing them to protect each other and setting a spirit of solidarity within the Alliance (http://www.nato.int/cps/cn/natohq/topics_110496.htm)
+ companies should share information, knowledge, and resources so that malicious activities are easily detected and mitigated.</description>
+    </item>
+    
+    <item>
+      <title>Risk Dashboard - Online Gaming Safety</title>
+      <link>/sessions-not-on-schedule/children-game-safety/risk-dashboard-for-online-game-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/risk-dashboard-for-online-game-safety/</guid>
+      <description>Creation of a Risk Dashboard for the multiple areas of Online Gaming Safety (from the games, to the online platforms, to the users)</description>
+    </item>
+    
+    <item>
+      <title>Wardley Map - Online Game Safety</title>
+      <link>/sessions-not-on-schedule/children-game-safety/online-game-safety-wardley-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions-not-on-schedule/children-game-safety/online-game-safety-wardley-map/</guid>
+      <description>User session to create several Wardley Maps for the Gaming industry (and its past, present and future)</description>
+    </item>
+    
+  </channel>
+</rss>

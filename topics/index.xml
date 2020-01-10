@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Open Security Summit</title>
+    <link>/topics/</link>
+    <description>Recent content in Topics on Open Security Summit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI &amp; ML</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI Pipeline</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CISO</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cynefin Framework</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ELK</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDPR</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neo4J</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Application Security Curriculum</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owasp Project</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDL</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Champions</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Playbooks</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wardley Maps</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
