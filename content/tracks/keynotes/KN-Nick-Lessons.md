@@ -13,7 +13,7 @@ organizers   :
 
 IT/Security Industry Challenges, how can we become better at our game?
 
-For a relatively fast, dense, noisy introduction, please see https://www.youtube.com/watch?v=516Z420BgkE from OWASP BeNeLux 2018.
+For a relatively fast, dense, noisy introduction, please see https://www.youtube-nocookie.com/watch?v=516Z420BgkE from OWASP BeNeLux 2018.
 
 It can seem that the cyber security industry has evolved ways of working, and preferences in solutions and methods, as a series of point solutions that have become accepted traditions / rituals, rather than as a collective effort at forward thinking. A vendor-led industry mainly driven by technical experts may have come up with the best overall strategies to solve the incredibly complex problems of cyber security, but it doesn't feel that way.
 

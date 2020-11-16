@@ -41,7 +41,7 @@ The current plan is that there will be some kind of introduction by the track or
 
 ## References
 
-Nick Drage's presentation can be found here: https://www.youtube.com/watch?v=516Z420BgkE
+Nick Drage's presentation can be found here: https://www.youtube-nocookie.com/watch?v=516Z420BgkE
 
 The most recent blog post on the subject can be found here: http://blog.sonofsuntzu.org.uk/post/2018/12/11/Lessons-From-The-Legion-ISSA-UK-Christmas-Meeting-2018
 
