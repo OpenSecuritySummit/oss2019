@@ -1,172 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Threat Model on Open Security Summit</title>
-    <link>/tracks/threat-modelling/</link>
-    <description>Recent content in Threat Model on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tracks/threat-modelling/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Automated Threat Hunting Project Collaboration</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-automated-theat-patterns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-automated-theat-patterns/</guid>
-      <description>This session will be referencing the work done by Tin Zaw as part of the Automated Threat Hunting OWASP project. Info: https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Threat Model on Open Security Summit 2019</title><link>/tracks/threat-modelling/</link><description>Recent content in Threat Model on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tracks/threat-modelling/index.xml" rel="self" type="application/rss+xml"/><item><title>Automated Threat Hunting Project Collaboration</title><link>/tracks/threat-modelling/working-sessions/tm-automated-theat-patterns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-automated-theat-patterns/</guid><description>This session will be referencing the work done by Tin Zaw as part of the Automated Threat Hunting OWASP project. Info: https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications
 Notes Tin gives an overview on the project. The project has been running for 5 years.
-Outcomes  Close collaboration between the projects, any change on either end will be triggered (automated) so the other party is notified Keep track of the data origin to notify the party of changes  Future  Communicate the data schema to the other parties where we retrieve data from Figure out a way to have some kind of integration with other projects  </description>
-    </item>
-    
-    <item>
-      <title>Creating a generic diagram of a threat model</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-graph/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-graph/</guid>
-      <description>Why &amp;amp; What We want to create a model of a threat model. It needs to be generic so it fits all threat modeling methodologies. Later we can try to use this model to create graph based websites detailing the different techniques and methodologies as well as linking the examples we will have to these different elements of a threat model.
-Outcomes A diagram describing the elements of a threat model.</description>
-    </item>
-    
-    <item>
-      <title>How do we persist the information from the TM Slack channel?</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-faq/</guid>
-      <description>Why We all love the threat model slack channel. There is a lot of useful information being presented. We need to somehow persist that in a more searchable format, preferably on the OWASP TM wiki pages.
-What  How are we going to persist this data? Who is going to reduce the backlog?  Outcomes A description on how the data from Slack can be peristed in the form of a series of FAQ.</description>
-    </item>
-    
-    <item>
-      <title>Incremental Threat Modeling</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-incremental/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-incremental/</guid>
-      <description>Why Creating your first threat model can be a daunting task. A good way to start is with a simple threat model and then increment until the threat model is &amp;ldquo;good enough&amp;rdquo;.
+Outcomes Close collaboration between the projects, any change on either end will be triggered (automated) so the other party is notified Keep track of the data origin to notify the party of changes Future Communicate the data schema to the other parties where we retrieve data from Figure out a way to have some kind of integration with other projects</description></item><item><title>Creating a generic diagram of a threat model</title><link>/tracks/threat-modelling/working-sessions/tm-graph/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-graph/</guid><description>Why &amp;amp; What We want to create a model of a threat model. It needs to be generic so it fits all threat modeling methodologies. Later we can try to use this model to create graph based websites detailing the different techniques and methodologies as well as linking the examples we will have to these different elements of a threat model.
+Outcomes A diagram describing the elements of a threat model.</description></item><item><title>How do we persist the information from the TM Slack channel?</title><link>/tracks/threat-modelling/working-sessions/tm-faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-faq/</guid><description>Why We all love the threat model slack channel. There is a lot of useful information being presented. We need to somehow persist that in a more searchable format, preferably on the OWASP TM wiki pages.
+What How are we going to persist this data? Who is going to reduce the backlog? Outcomes A description on how the data from Slack can be peristed in the form of a series of FAQ.</description></item><item><title>Incremental Threat Modeling</title><link>/tracks/threat-modelling/working-sessions/tm-incremental/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-incremental/</guid><description>Why Creating your first threat model can be a daunting task. A good way to start is with a simple threat model and then increment until the threat model is &amp;ldquo;good enough&amp;rdquo;.
 What Irene Michlin will introduce a proven method for incremental threat modeling. We will discuss any questions and remarks that might come up from the participants.
-Outcomes This Working Session will publish a document describing a generic way to implement incremental threat modeling.</description>
-    </item>
-    
-    <item>
-      <title>Lightweight privacy threat modeling using LINDDUN</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-lindunn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-lindunn/</guid>
-      <description>Why Privacy by design is important; it is even required by EU data protection legislation. It however goes beyond the quick fixes that are typically associated with it (e.g. consent for newsletters) and requires a thorough analysis upfront of potential privacy issues in the system. LINDDUN privacy threat modeling can aid the analyst in this process to systematically elicit and mitigate privacy threats in software architectures.
-What This session will be twofold.</description>
-    </item>
-    
-    <item>
-      <title>Lightweight privacy threat modeling using LINDDUN Part II</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-lindunn2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-lindunn2/</guid>
-      <description>Why &amp;amp; What Feedback from the industry is needed for the researcher in academia. In the previous sessions Kim explained the research that was performed at the University of Leuven. This session is where members from the industry can comment on the work done, how usable this seems and give pointers to where research could be done.
-Outcomes Remarks and comments on the usability of the reasearch presented. Input for the University of Leuven on future topics for research, including:</description>
-    </item>
-    
-    <item>
-      <title>SAMMv2 - Threat Modeling</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-samm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-samm/</guid>
-      <description>This session will be dedicated to align the SAMM threat modeling practice between the 2 tracks
-Session Requirements: Familiarity with the SAMM v1.5 and v2 model</description>
-    </item>
-    
-    <item>
-      <title>State and future of threat modeling</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-state/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-state/</guid>
-      <description>Why What is the current state of threat modeling? Are there any new and exciting things happening? What is needed for the future?
-Outcomes A curated note of the content discussed.</description>
-    </item>
-    
-    <item>
-      <title>Threat Model Cookbook Project (Part 1)</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-examples/</guid>
-      <description>WHY This working session will kick start the OWASP Project!
+Outcomes This Working Session will publish a document describing a generic way to implement incremental threat modeling.</description></item><item><title>Lightweight privacy threat modeling using LINDDUN</title><link>/tracks/threat-modelling/working-sessions/tm-lindunn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-lindunn/</guid><description>Why Privacy by design is important; it is even required by EU data protection legislation. It however goes beyond the quick fixes that are typically associated with it (e.g. consent for newsletters) and requires a thorough analysis upfront of potential privacy issues in the system. LINDDUN privacy threat modeling can aid the analyst in this process to systematically elicit and mitigate privacy threats in software architectures.
+What This session will be twofold.</description></item><item><title>Lightweight privacy threat modeling using LINDDUN Part II</title><link>/tracks/threat-modelling/working-sessions/tm-lindunn2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-lindunn2/</guid><description>Why &amp;amp; What Feedback from the industry is needed for the researcher in academia. In the previous sessions Kim explained the research that was performed at the University of Leuven. This session is where members from the industry can comment on the work done, how usable this seems and give pointers to where research could be done.
+Outcomes Remarks and comments on the usability of the reasearch presented. Input for the University of Leuven on future topics for research, including:</description></item><item><title>SAMMv2 - Threat Modeling</title><link>/tracks/threat-modelling/working-sessions/tm-samm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-samm/</guid><description>This session will be dedicated to align the SAMM threat modeling practice between the 2 tracks
+Session Requirements: Familiarity with the SAMM v1.5 and v2 model</description></item><item><title>State and future of threat modeling</title><link>/tracks/threat-modelling/working-sessions/tm-state/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-state/</guid><description>Why What is the current state of threat modeling? Are there any new and exciting things happening? What is needed for the future?
+Outcomes A curated note of the content discussed.</description></item><item><title>Threat Model Cookbook Project (Part 1)</title><link>/tracks/threat-modelling/working-sessions/tm-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-examples/</guid><description>WHY This working session will kick start the OWASP Project!
 What We created that repository last year: https://github.com/OWASP/threat-model-cookbook.
-This year another project code named &amp;ldquo;Threat Model Examples&amp;rdquo; was in the work, and now it will merge and be the Cookbooks since it&#39;s pretty much the same project idea.
-Outcomes  Explanation on the way of working Leadership of the project defined Naming of the project decided (cookbooks or cookbook?) Restructuration of repository (access rights, folders and files) Twitter access shared via Tweetdeck Registration of the project started  </description>
-    </item>
-    
-    <item>
-      <title>Threat Model Cookbook Project (Part 2)</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-examples2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-examples2/</guid>
-      <description>WHY This working session will collect threat models to add to our project.
+This year another project code named &amp;ldquo;Threat Model Examples&amp;rdquo; was in the work, and now it will merge and be the Cookbooks since it&amp;rsquo;s pretty much the same project idea.
+Outcomes Explanation on the way of working Leadership of the project defined Naming of the project decided (cookbooks or cookbook?) Restructuration of repository (access rights, folders and files) Twitter access shared via Tweetdeck Registration of the project started</description></item><item><title>Threat Model Cookbook Project (Part 2)</title><link>/tracks/threat-modelling/working-sessions/tm-examples2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-examples2/</guid><description>WHY This working session will collect threat models to add to our project.
 What We will look at existing examples and jam some threat models on the spot!
 Details about content formats and some examples are already available on https://linktr.ee/threatmodel.
 Outcomes Have some threat models to add to the repository.
-The official repository is not ready yet, but work will be on https://github.com/jmarcil/threat-model-cookbook at some point this week.</description>
-    </item>
-    
-    <item>
-      <title>Threat pattern libraries</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-attack-pattern/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-attack-pattern/</guid>
-      <description>This session will be the start of a sub-project for threat modeling that will be lead by Steven and Steven that will create a database of attacks and mitigations that will be categorised in some kind of pattern.
+The official repository is not ready yet, but work will be on https://github.com/jmarcil/threat-model-cookbook at some point this week.</description></item><item><title>Threat pattern libraries</title><link>/tracks/threat-modelling/working-sessions/tm-attack-pattern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-attack-pattern/</guid><description>This session will be the start of a sub-project for threat modeling that will be lead by Steven and Steven that will create a database of attacks and mitigations that will be categorised in some kind of pattern.
 ##outcomes
 This is the data format in which we are going to record the data:
-Threat file 1	ID (generated)
-2	Description As an attacker I want to &amp;hellip; By &amp;hellip; &amp;lt;how does an attacker do this?</description>
-    </item>
-    
-    <item>
-      <title>TM maturity</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-maturity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-maturity/</guid>
-      <description>Why How do we measure the maturity of a threat model? Of the threat model process? Can maturity frameworks be updated with our measurements?
-What  How do we measure the maturity of a TM? Can we find common questions to be asked to validate the maturity? Is there a way to measure the maturity of a threat model process?  Outcomes A list of points and information to measure the maturity of a TM and a TM process.</description>
-    </item>
-    
-    <item>
-      <title>TM track introduction</title>
-      <link>/tracks/threat-modelling/working-sessions/track-intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/track-intro/</guid>
-      <description>Why In order to get the most from this summit and the threat model track we will give a short introduction on our way of working and discuss all planned sessions. any new and refreshing ideas can then be added to the backlog so we can choose topics that have a large support within the community. This session is meant for all participants who are new to threat modeling and/or new to the summit or threat model track.</description>
-    </item>
-    
-    <item>
-      <title>Towards a unified way of describing threat models</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-sdl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-sdl/</guid>
-      <description>Why We need a unified way to describe threat models so they can be compared, easy to understand and easy to keep up to date.
-What  Presentation of an SDL to describe threat models What needs to be done? Discussion Call to action  Outcomes A list of improvements for the SDL.</description>
-    </item>
-    
-    <item>
-      <title>Track closure</title>
-      <link>/tracks/threat-modelling/working-sessions/tm-closure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/threat-modelling/working-sessions/tm-closure/</guid>
-      <description>What Just a wrap up of what we achieved this week, a call for volunteers to finish items etc.</description>
-    </item>
-    
-  </channel>
-</rss>
+Threat file 1 ID (generated)
+2 Description As an attacker I want to &amp;hellip; By &amp;hellip; &amp;lt;how does an attacker do this?</description></item><item><title>TM maturity</title><link>/tracks/threat-modelling/working-sessions/tm-maturity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-maturity/</guid><description>Why How do we measure the maturity of a threat model? Of the threat model process? Can maturity frameworks be updated with our measurements?
+What How do we measure the maturity of a TM? Can we find common questions to be asked to validate the maturity? Is there a way to measure the maturity of a threat model process? Outcomes A list of points and information to measure the maturity of a TM and a TM process.</description></item><item><title>TM track introduction</title><link>/tracks/threat-modelling/working-sessions/track-intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/track-intro/</guid><description>Why In order to get the most from this summit and the threat model track we will give a short introduction on our way of working and discuss all planned sessions. any new and refreshing ideas can then be added to the backlog so we can choose topics that have a large support within the community. This session is meant for all participants who are new to threat modeling and/or new to the summit or threat model track.</description></item><item><title>Towards a unified way of describing threat models</title><link>/tracks/threat-modelling/working-sessions/tm-sdl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-sdl/</guid><description>Why We need a unified way to describe threat models so they can be compared, easy to understand and easy to keep up to date.
+What Presentation of an SDL to describe threat models What needs to be done? Discussion Call to action Outcomes A list of improvements for the SDL.</description></item><item><title>Track closure</title><link>/tracks/threat-modelling/working-sessions/tm-closure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/threat-modelling/working-sessions/tm-closure/</guid><description>What Just a wrap up of what we achieved this week, a call for volunteers to finish items etc.</description></item></channel></rss>

@@ -1,430 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Outcomes on Open Security Summit</title>
-    <link>/outcomes/</link>
-    <description>Recent content in Outcomes on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/outcomes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/outcomes/_template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/_template/</guid>
-      <description>This document includes headings you may use to describe your session outcomes. Rearrange the headings as necessary to ensure coherence and clarity.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Outcomes on Open Security Summit 2019</title><link>/outcomes/</link><description>Recent content in Outcomes on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/outcomes/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/outcomes/_template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/_template/</guid><description>This document includes headings you may use to describe your session outcomes. Rearrange the headings as necessary to ensure coherence and clarity.
 Please use any additional headings that will improve the outcomes.
 NOTE: The italic text in this page/document is used for explanation only. Replace it with other useful content.
 Outcomes/Deliverables (recommend) The outcomes are the results produced from a session regardless of the session type. These can be:
- Diagrams Documents or Books Playbooks Roadmaps (for next meeting) Wiki pages (namely on owasp.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/outcomes/owasp-projects/gitkeep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-projects/gitkeep/</guid>
-      <description>..</description>
-    </item>
-    
-    <item>
-      <title>Agile practices for security teams</title>
-      <link>/outcomes/devsecops/working-sessions/agile-practices-for-security-teams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/devsecops/working-sessions/agile-practices-for-security-teams/</guid>
-      <description>Description of session The session considered how agile methodologies benefit the development lifecycle, and how security should and could be approached in the same, or a similar, way.
-Outcomes/Deliverables    SiA AiS     Backlog Backlog   Priorities Priorities   Risk of not doing S Not as such   Reacting to change More strategic, less agile   Scaling is easy Not scalable   Automation is easy Difficult to automate    Continuous risk management and threat modelling       For SiA For AiS     Playbooks with security requirements Incident response   Sec requirements over Sec stories Reserved points   Link discovery phase with analysis ITIL (IT Infrastructure Library)   Educate Devs on Threat Modelling Prioritize between reacting to incident vs.</description>
-    </item>
-    
-    <item>
-      <title>Creating a Generic Diagram of a Threat Model</title>
-      <link>/outcomes/threat-modeling/working-sessions/creating_a_generic_diagram_of_a_threat_model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/creating_a_generic_diagram_of_a_threat_model/</guid>
-      <description>Summary Preparation session
+Diagrams Documents or Books Playbooks Roadmaps (for next meeting) Wiki pages (namely on owasp.</description></item><item><title/><link>/outcomes/owasp-projects/gitkeep/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-projects/gitkeep/</guid><description>..</description></item><item><title>Agile practices for security teams</title><link>/outcomes/devsecops/working-sessions/agile-practices-for-security-teams/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/devsecops/working-sessions/agile-practices-for-security-teams/</guid><description>Description of session The session considered how agile methodologies benefit the development lifecycle, and how security should and could be approached in the same, or a similar, way.
+Outcomes/Deliverables SiA AiS Backlog Backlog Priorities Priorities Risk of not doing S Not as such Reacting to change More strategic, less agile Scaling is easy Not scalable Automation is easy Difficult to automate Continuous risk management and threat modelling For SiA For AiS Playbooks with security requirements Incident response Sec requirements over Sec stories Reserved points Link discovery phase with analysis ITIL (IT Infrastructure Library) Educate Devs on Threat Modelling Prioritize between reacting to incident vs.</description></item><item><title>Creating a Generic Diagram of a Threat Model</title><link>/outcomes/threat-modeling/working-sessions/creating_a_generic_diagram_of_a_threat_model/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/creating_a_generic_diagram_of_a_threat_model/</guid><description>Summary Preparation session
 A model of threat modeling
-Outcome  Publish working draft (DSL session: what should it be usable for) Make model more cohesive Extended and/or peer-review on slack Extended by academia (?)  Notes Are 4 questions sufficient?
-   Question Description     Q1: System description Model or Text?   - DSL would require some structure (e.g. (P)-&amp;gt;(EE) )   - Model - Diagram - View - Viewpoint   - ISO 42010 (summary: http://www.</description>
-    </item>
-    
-    <item>
-      <title>DevSecOps Secrets Management</title>
-      <link>/outcomes/devsecops/working-sessions/owasp-secrets-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/devsecops/working-sessions/owasp-secrets-management/</guid>
-      <description>Outcomes Outcomes available at https://github.com/dominikdesmit/owasp-secrets-management</description>
-    </item>
-    
-    <item>
-      <title>How Do We Save Information From the TM Slack Channel</title>
-      <link>/outcomes/threat-modeling/working-sessions/how_do_we_save_information_from_the_tm_slack_channel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/how_do_we_save_information_from_the_tm_slack_channel/</guid>
-      <description>Outcomes Power to the People - they need to create the content
+Outcome Publish working draft (DSL session: what should it be usable for) Make model more cohesive Extended and/or peer-review on slack Extended by academia (?) Notes Are 4 questions sufficient?
+Question Description Q1: System description Model or Text? - DSL would require some structure (e.g. (P)-&amp;gt;(EE) ) - Model - Diagram - View - Viewpoint - ISO 42010 (summary: http://www.</description></item><item><title>DevSecOps Secrets Management</title><link>/outcomes/devsecops/working-sessions/owasp-secrets-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/devsecops/working-sessions/owasp-secrets-management/</guid><description>Outcomes Outcomes available at https://github.com/dominikdesmit/owasp-secrets-management</description></item><item><title>How Do We Save Information From the TM Slack Channel</title><link>/outcomes/threat-modeling/working-sessions/how_do_we_save_information_from_the_tm_slack_channel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/how_do_we_save_information_from_the_tm_slack_channel/</guid><description>Outcomes Power to the People - they need to create the content
 We want to make content creation frictionless
-Next Steps  Get GitHUb repo up and running Create a frictionless integration so persistence is possible from the Slack Channel Knowledge base will be “issues” on GitHub repo  </description>
-    </item>
-    
-    <item>
-      <title>Introduction to Cynefin Framework</title>
-      <link>/outcomes/misc/introduction-to-cynefin-framework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/misc/introduction-to-cynefin-framework/</guid>
-      <description>What is the Cynefin Framework? (after Wikipedia)   The Cynefin framework is a conceptual framework used to aid decision-making.
-  Developed in 1999 by Dave Snowden when he worked for IBM Global Services, it has been described as a &amp;ldquo;sense-making device&amp;rdquo;.
-  Cynefin is a Welsh word for habitat.
-  Cynefin offers five decision-making contexts or &amp;ldquo;domains&amp;rdquo;
- Obvious (&amp;lsquo;Simple&amp;rsquo; until 2014) Complicated Complex Chaotic Disorder    These help managers identify situations and make sense of their own and other people&#39;s behaviour.</description>
-    </item>
-    
-    <item>
-      <title>Juice Shop Challenge Refactoring</title>
-      <link>/outcomes/juice-shop/working-sessions/juice-shop-challenge-refactoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/juice-shop/working-sessions/juice-shop-challenge-refactoring/</guid>
-      <description>Description of session  Discussed and assessed possible options of re-categorizing, replacing categories with tags, removing any of the ⭐ to ⭐⭐⭐⭐⭐⭐ difficulty levels. Decided upon staying with the general setup but introducing some new more precise categories, make challenge descriptions clearer and more consistent etc.  Outcomes Please see https://github.com/bkimminich/juice-shop/issues/1093
-Next steps  Implement #1093 (but not for v8.7.0 😀) Peer review the Hacking Instructor and its elegant new way of writing tutorial scripts in Typescript Merge the open GSoC PRs and continue with the delivery address feature Get rid of the last remaining &amp;ldquo;xit&amp;rdquo; (=disabled) tests Anything new and fancy that you come up with  </description>
-    </item>
-    
-    <item>
-      <title>Juice Shop Hack&#39;n&#39;Code (Mon)</title>
-      <link>/outcomes/juice-shop/working-sessions/hack-n-code-mon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/juice-shop/working-sessions/hack-n-code-mon/</guid>
-      <description>Description of session The Monday episode of the Hack&#39;n&#39;Code evening session series consisted of experimenting with some entirely new ideas, paying back technical debt on the test suites, some i18n improvements, a fundamental change of the Node.js version compatibility and an amazingly simple yet powerful convenience feature!
-Outcomes/Deliverables  Now supporting Node.js 12.x on Linux/MacOS/Windows including pre-packaged archives Shift-clicking the X in any &amp;ldquo;Challenge solved!&amp;quot;-notification now closes all open notifications Experimented with tools might bundle Juice Shop with Node.</description>
-    </item>
-    
-    <item>
-      <title>Juice Shop Hack&#39;n&#39;Code-Wed</title>
-      <link>/outcomes/juice-shop/working-sessions/hack-n-code-wed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/juice-shop/working-sessions/hack-n-code-wed/</guid>
-      <description>Description of session The Tuesday episode of the Hack’n’Code evening session series almost concluded the test repair task, made some code cleanup, made further progress on the Hacking Instructor and the GSoC project, and saw work start on a new beginner-friendly informational feature!
-Outcomes/Deliverables  Beta testing and further improvements on the &amp;ldquo;Hacking Instructor&amp;rdquo; Fixed notifications not properly re-triggering in CTF-enabled customizations Started work on &amp;ldquo;Welcome Banner&amp;rdquo; idea to give users who accidentally came across the application some background and link to more information Re-enabled 15 of 17 disabled unit, integration and e2e tests Performed some code refactorings to reduce code smells on CodeClimate  Next Steps  Fix or delete the remaining 2 disabled frontend unit tests Merge Hacking Instructor into develop branch to be part of v8.</description>
-    </item>
-    
-    <item>
-      <title>Juice Shop Hack’n’Code (Tue)</title>
-      <link>/outcomes/juice-shop/working-sessions/hack-n-code-tues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/juice-shop/working-sessions/hack-n-code-tues/</guid>
-      <description>Description of session The Tuesday episode of the Hack’n’Code evening session series brought several more repaired e2e tests, significant progress on the Hacking Instructor and the GSoC project scope, more consequent spoiler protection and prettier Google search results!
-Outcomes/Deliverables  The Hacking Instructor (https://github.com/bkimminich/juice-shop/issues/440) was extended and brought closer to production-readiness Work on the GSoC &amp;ldquo;Feature Pack&amp;rdquo; project continued, focusing on getting currently open PRs (purchase limits &amp;amp; accounting user role) merge-ready In future the Juice Shop favicon should be shown in Google search results instead of the Angular default icon The infobox spoiling the Gitter &amp;amp; GitHub links to the project will now be hidden based on a configuration property Several e2e and unit tests were repaired and re-enabled, which will benefit the upcoming face-lifting merge  Follow up  Peer review the Hacking Instructor and its elegant new way of writing tutorial scripts in Typescript Merge the open GSoC PRs and continue with the delivery address feature Getting rid of the last remaining &amp;ldquo;xit&amp;rdquo; (=disabled) tests Anything new and fancy that you come up with  </description>
-    </item>
-    
-    <item>
-      <title>Juice Shop Release Night</title>
-      <link>/outcomes/juice-shop/working-sessions/juice-shop-release-night-thurs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/juice-shop/working-sessions/juice-shop-release-night-thurs/</guid>
-      <description>Outcome Summary  Release v8.7.0 is out! Please see https://github.com/bkimminich/juice-shop/releases/tag/v8.7.0  </description>
-    </item>
-    
-    <item>
-      <title>Keynote presentation by Simon Wardley</title>
-      <link>/outcomes/wardley-mapping/working-sessions/wardley-keynote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/wardley-mapping/working-sessions/wardley-keynote/</guid>
-      <description>Description Please see below Simon Wardley&#39;s keynote delivered to the participants on Thursday 6 June.</description>
-    </item>
-    
-    <item>
-      <title>Lightweight Privacy Threat Modelling using LINDDUN</title>
-      <link>/outcomes/threat-modeling/working-sessions/linddun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/linddun/</guid>
-      <description>Description of session Session on Privacy threat modelling using the LINDDUN framework with Kim Wuyts. This session is twofold. Firstly, it highlights the differences between privacy and security threat modeling, introducing privacy properties and providing an overview of the LINDDUN threat modeling framework. Secondly, it dives into the ongoing LINDDUN privacy threat modeling research, including the lightweight application of LINDDUN.
-Outcomes/Deliverables  The following are outcomes requested from the LINDDUN research team based on questions posed to the group on what they would want to see:  Some specific (as opposed to abstract) examples have been requested from the TM project group to the LINDDUN researchers (Kim), and these will be presented in the LINDDUN research docs Low expertise / lightweight methodology examples requested   The LINDDUN project looks to support multiple &amp;lsquo;extraction&amp;rsquo; types, please reach out to the LINDUNN team to discuss your preferred &amp;lsquo;extraction&amp;rsquo; type.</description>
-    </item>
-    
-    <item>
-      <title>OWASP Application Security Curriculum Project</title>
-      <link>/outcomes/owasp-projects/working-sessions/owasp-appsec-curriculum-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-projects/working-sessions/owasp-appsec-curriculum-project/</guid>
-      <description>Description of session  Introduced from academic (college leaver) and commercial (workforce training) perspectives Originally presented at OWASP Global AppSec Tel Aviv Projects (26-30 May 2019) Potential UK Academic funding (bid outcome due in early July 2019) to generate a generic Open Application Security Curriculum  Objectives  Promote OWASP as the source what good application security practice looks like, and Relaunch the OWASP Education Committee, because - Education is the key to the future Develop links between academia and industry focusing on skills/learning objectives and resources.</description>
-    </item>
-    
-    <item>
-      <title>OWASP DevSecOps Cheat Sheet</title>
-      <link>/outcomes/devsecops/working-sessions/owasp-devsecops-cheat-sheet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/devsecops/working-sessions/owasp-devsecops-cheat-sheet/</guid>
-      <description>Outcomes available at https://github.com/dominikdesmit/owasp-devsecops-cheat-sheet</description>
-    </item>
-    
-    <item>
-      <title>OWASP SAMM Measurements</title>
-      <link>/outcomes/pre-summit-ws/samm-maturity-measuring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/pre-summit-ws/samm-maturity-measuring/</guid>
-      <description>Description of session The purpose of this session was to discuss measurement model aspects SAMM v2.0
+Next Steps Get GitHUb repo up and running Create a frictionless integration so persistence is possible from the Slack Channel Knowledge base will be “issues” on GitHub repo</description></item><item><title>Introduction to Cynefin Framework</title><link>/outcomes/misc/introduction-to-cynefin-framework/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/misc/introduction-to-cynefin-framework/</guid><description>What is the Cynefin Framework? (after Wikipedia) The Cynefin framework is a conceptual framework used to aid decision-making.
+Developed in 1999 by Dave Snowden when he worked for IBM Global Services, it has been described as a &amp;ldquo;sense-making device&amp;rdquo;.
+Cynefin is a Welsh word for habitat.
+Cynefin offers five decision-making contexts or &amp;ldquo;domains&amp;rdquo;
+Obvious (&amp;lsquo;Simple&amp;rsquo; until 2014) Complicated Complex Chaotic Disorder These help managers identify situations and make sense of their own and other people&amp;rsquo;s behaviour.</description></item><item><title>Juice Shop Challenge Refactoring</title><link>/outcomes/juice-shop/working-sessions/juice-shop-challenge-refactoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/juice-shop/working-sessions/juice-shop-challenge-refactoring/</guid><description>Description of session Discussed and assessed possible options of re-categorizing, replacing categories with tags, removing any of the ⭐ to ⭐⭐⭐⭐⭐⭐ difficulty levels. Decided upon staying with the general setup but introducing some new more precise categories, make challenge descriptions clearer and more consistent etc. Outcomes Please see https://github.com/bkimminich/juice-shop/issues/1093
+Next steps Implement #1093 (but not for v8.7.0 😀) Peer review the Hacking Instructor and its elegant new way of writing tutorial scripts in Typescript Merge the open GSoC PRs and continue with the delivery address feature Get rid of the last remaining &amp;ldquo;xit&amp;rdquo; (=disabled) tests Anything new and fancy that you come up with</description></item><item><title>Juice Shop Hack'n'Code (Mon)</title><link>/outcomes/juice-shop/working-sessions/hack-n-code-mon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/juice-shop/working-sessions/hack-n-code-mon/</guid><description>Description of session The Monday episode of the Hack&amp;rsquo;n&amp;rsquo;Code evening session series consisted of experimenting with some entirely new ideas, paying back technical debt on the test suites, some i18n improvements, a fundamental change of the Node.js version compatibility and an amazingly simple yet powerful convenience feature!
+Outcomes/Deliverables Now supporting Node.js 12.x on Linux/MacOS/Windows including pre-packaged archives Shift-clicking the X in any &amp;ldquo;Challenge solved!&amp;quot;-notification now closes all open notifications Experimented with tools might bundle Juice Shop with Node.</description></item><item><title>Juice Shop Hack'n'Code-Wed</title><link>/outcomes/juice-shop/working-sessions/hack-n-code-wed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/juice-shop/working-sessions/hack-n-code-wed/</guid><description>Description of session The Tuesday episode of the Hack’n’Code evening session series almost concluded the test repair task, made some code cleanup, made further progress on the Hacking Instructor and the GSoC project, and saw work start on a new beginner-friendly informational feature!
+Outcomes/Deliverables Beta testing and further improvements on the &amp;ldquo;Hacking Instructor&amp;rdquo; Fixed notifications not properly re-triggering in CTF-enabled customizations Started work on &amp;ldquo;Welcome Banner&amp;rdquo; idea to give users who accidentally came across the application some background and link to more information Re-enabled 15 of 17 disabled unit, integration and e2e tests Performed some code refactorings to reduce code smells on CodeClimate Next Steps Fix or delete the remaining 2 disabled frontend unit tests Merge Hacking Instructor into develop branch to be part of v8.</description></item><item><title>Juice Shop Hack’n’Code (Tue)</title><link>/outcomes/juice-shop/working-sessions/hack-n-code-tues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/juice-shop/working-sessions/hack-n-code-tues/</guid><description>Description of session The Tuesday episode of the Hack’n’Code evening session series brought several more repaired e2e tests, significant progress on the Hacking Instructor and the GSoC project scope, more consequent spoiler protection and prettier Google search results!
+Outcomes/Deliverables The Hacking Instructor (https://github.com/bkimminich/juice-shop/issues/440) was extended and brought closer to production-readiness Work on the GSoC &amp;ldquo;Feature Pack&amp;rdquo; project continued, focusing on getting currently open PRs (purchase limits &amp;amp; accounting user role) merge-ready In future the Juice Shop favicon should be shown in Google search results instead of the Angular default icon The infobox spoiling the Gitter &amp;amp; GitHub links to the project will now be hidden based on a configuration property Several e2e and unit tests were repaired and re-enabled, which will benefit the upcoming face-lifting merge Follow up Peer review the Hacking Instructor and its elegant new way of writing tutorial scripts in Typescript Merge the open GSoC PRs and continue with the delivery address feature Getting rid of the last remaining &amp;ldquo;xit&amp;rdquo; (=disabled) tests Anything new and fancy that you come up with</description></item><item><title>Juice Shop Release Night</title><link>/outcomes/juice-shop/working-sessions/juice-shop-release-night-thurs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/juice-shop/working-sessions/juice-shop-release-night-thurs/</guid><description>Outcome Summary Release v8.7.0 is out! Please see https://github.com/bkimminich/juice-shop/releases/tag/v8.7.0</description></item><item><title>Keynote presentation by Simon Wardley</title><link>/outcomes/wardley-mapping/working-sessions/wardley-keynote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/wardley-mapping/working-sessions/wardley-keynote/</guid><description>Description Please see below Simon Wardley&amp;rsquo;s keynote delivered to the participants on Thursday 6 June.</description></item><item><title>Lightweight Privacy Threat Modelling using LINDDUN</title><link>/outcomes/threat-modeling/working-sessions/linddun/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/linddun/</guid><description>Description of session Session on Privacy threat modelling using the LINDDUN framework with Kim Wuyts. This session is twofold. Firstly, it highlights the differences between privacy and security threat modeling, introducing privacy properties and providing an overview of the LINDDUN threat modeling framework. Secondly, it dives into the ongoing LINDDUN privacy threat modeling research, including the lightweight application of LINDDUN.
+Outcomes/Deliverables The following are outcomes requested from the LINDDUN research team based on questions posed to the group on what they would want to see: Some specific (as opposed to abstract) examples have been requested from the TM project group to the LINDDUN researchers (Kim), and these will be presented in the LINDDUN research docs Low expertise / lightweight methodology examples requested The LINDDUN project looks to support multiple &amp;lsquo;extraction&amp;rsquo; types, please reach out to the LINDUNN team to discuss your preferred &amp;lsquo;extraction&amp;rsquo; type.</description></item><item><title>OWASP Application Security Curriculum Project</title><link>/outcomes/owasp-projects/working-sessions/owasp-appsec-curriculum-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-projects/working-sessions/owasp-appsec-curriculum-project/</guid><description>Description of session Introduced from academic (college leaver) and commercial (workforce training) perspectives Originally presented at OWASP Global AppSec Tel Aviv Projects (26-30 May 2019) Potential UK Academic funding (bid outcome due in early July 2019) to generate a generic Open Application Security Curriculum Objectives Promote OWASP as the source what good application security practice looks like, and Relaunch the OWASP Education Committee, because - Education is the key to the future Develop links between academia and industry focusing on skills/learning objectives and resources.</description></item><item><title>OWASP DevSecOps Cheat Sheet</title><link>/outcomes/devsecops/working-sessions/owasp-devsecops-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/devsecops/working-sessions/owasp-devsecops-cheat-sheet/</guid><description>Outcomes available at https://github.com/dominikdesmit/owasp-devsecops-cheat-sheet</description></item><item><title>OWASP SAMM Measurements</title><link>/outcomes/pre-summit-ws/samm-maturity-measuring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/pre-summit-ws/samm-maturity-measuring/</guid><description>Description of session The purpose of this session was to discuss measurement model aspects SAMM v2.0
 Notes from the working session The following are notes from the session - at this stage nothing was decided, rather a set of requirements were gathered to help aid and direct future conversations/ work in this space.
 Topics discussed
-  Should we measure &amp;ldquo;ownership&amp;rdquo; for the activities, practices? (RACI ?)
-  How about applicability (not all practices / activities are applicable)</description>
-    </item>
-    
-    <item>
-      <title>OWASP Web Honeypot Project</title>
-      <link>/outcomes/owasp-projects/working-sessions/owasp-web-honeypot-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-projects/working-sessions/owasp-web-honeypot-project/</guid>
-      <description>Description of session  Discussions focused on Tulja’s progress with  GSoC (Google Summer of Code) and What progress we want over the next 10-12 weeks How this work can be validated by Rico at Anglia Ruskin University   Tulja’s GSoC work concentrated on developing a PoC using a standard MoDSec probe image under Docker generating log entries, pushed to another docker image running Logstash, but use JSON output instead of MLOGC format.</description>
-    </item>
-    
-    <item>
-      <title>Real World Chaos Engineering</title>
-      <link>/outcomes/misc/real-world-chaos-engineering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/misc/real-world-chaos-engineering/</guid>
-      <description>Description of session The session explored a number of real-world security cases through the lens of the chaos engineering discipline.
-Outcomes/Deliverables  Train your team for all eventualities Monitor everything during exercise Prepare for disaster* / disaster recovery Know your infrastructure   Bus factor / Reduce risk / Treat any weakness (including mindset) as a potential cause of disaster  </description>
-    </item>
-    
-    <item>
-      <title>SAMM - Alignment with Threat Modelling</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-alignment-with-threat-modelling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-alignment-with-threat-modelling/</guid>
-      <description>Description of session Threat Modeling  We discussed alignment of Threat Modeling maturity levels and SAMM Threat Assessment practice.  Benchmarking  We discussed tooling and data collection.  Agile guidance  Reviewed the document with Robert V. Created an issue for SAMM team members to review for content.  </description>
-    </item>
-    
-    <item>
-      <title>SAMM - Benchmarking and Tooling</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-benchmarking-and-tooling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-benchmarking-and-tooling/</guid>
-      <description>Description of session These sessions reviewed progress made during the week and discussed the tools we want to provide (as a minimum) to the community.
-Outcomes/Deliverables   What’s the plan?
- Complete writing the questions and criteria Review Update the toolbox (spreadsheet) Update the document model Update How-to, Introduction, etc. Get feedback    Have Seba and Bart as overviewers
-  Update the template for writing practices</description>
-    </item>
-    
-    <item>
-      <title>SAMM - Defined Writing Guidelines for Questions and Quality Criteria</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-defined-writing-guidelines-for-questions-and-quality-criteria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-defined-writing-guidelines-for-questions-and-quality-criteria/</guid>
-      <description>Description of session Outcomes/Deliverables   Grammar
- Use the active voice    Vocabulary
- Be consistent throughout the model Store your checklists in an accessible location Be specific  Instead of having “fully documented processes” Ensure you have enough information to recreate the build      Scope
- If something applies to all questions, say so at the beginning,  e.g., These questions apply to all applications in the scope      Quality criteria</description>
-    </item>
-    
-    <item>
-      <title>SAMM - Editing agreements and parallel editing</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-editing-agreements-and-parallel-editing-tues-am/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-editing-agreements-and-parallel-editing-tues-am/</guid>
-      <description>Description of session The group discussed:
- Questions format Scoring  Outcomes/Deliverables Please see the questions created during the session here and here.</description>
-    </item>
-    
-    <item>
-      <title>SAMM - Model Challenges</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-model-challenges-tues-ev1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-model-challenges-tues-ev1/</guid>
-      <description>Description of session The group discussed outstanding GitHub issues, including:
- 91 111 117 118  Discussions also focussed on:
- Process Visualisation Tooling  </description>
-    </item>
-    
-    <item>
-      <title>SAMM - Model Challenges (Wed)</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-model-challenges-weds-ev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-model-challenges-weds-ev/</guid>
-      <description>Description of session The group discussed outstanding GitHub issues, including:
- #123 Restructure Secure Deployment Stream A #124 Revise integrity checks in secure build and deployment    OWASP references * Focus on Lab or Flagship projects * They are part of the additional documents, not the core model * Add more details * Name of the project * Version * Other information that makes sense in the project</description>
-    </item>
-    
-    <item>
-      <title>SAMM - Parallel Editing</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-tues-pm1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-tues-pm1/</guid>
-      <description>Description of session Questions  0-3 0 is no 1-3: to answer these, you need to meet the criteria Define criteria (“guidance” in previous models) Limit the number of questions to determine maturity Criteria provide a standard of quality to achieve maturity level Range of answers provides measure of coverage (completeness)  Outcomes/Deliverables  Following debate, the measuring model was agreed. Guidelines are being drafted for circulation.  </description>
-    </item>
-    
-    <item>
-      <title>SAMM - Parallel editing, Model discussions, DevSecOps</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-model-discussions-devsecops-weds-pm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-model-discussions-devsecops-weds-pm/</guid>
-      <description>Description of session   Questions for Design - Security Architecture practice
-  Started mapping of ASVS to SAMM
-  DevSecOps Session * Discussed the mapping from DSOMM to SAMM
-  </description>
-    </item>
-    
-    <item>
-      <title>SAMM - Parallel editing-Thurs</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-thurs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-thurs/</guid>
-      <description>Questions report for the measurement model We have a [report](https://owaspsamm.org/head/question-report/ with every question from each business function.
+Should we measure &amp;ldquo;ownership&amp;rdquo; for the activities, practices? (RACI ?)
+How about applicability (not all practices / activities are applicable)</description></item><item><title>OWASP Web Honeypot Project</title><link>/outcomes/owasp-projects/working-sessions/owasp-web-honeypot-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-projects/working-sessions/owasp-web-honeypot-project/</guid><description>Description of session Discussions focused on Tulja’s progress with GSoC (Google Summer of Code) and What progress we want over the next 10-12 weeks How this work can be validated by Rico at Anglia Ruskin University Tulja’s GSoC work concentrated on developing a PoC using a standard MoDSec probe image under Docker generating log entries, pushed to another docker image running Logstash, but use JSON output instead of MLOGC format.</description></item><item><title>Real World Chaos Engineering</title><link>/outcomes/misc/real-world-chaos-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/misc/real-world-chaos-engineering/</guid><description>Description of session The session explored a number of real-world security cases through the lens of the chaos engineering discipline.
+Outcomes/Deliverables Train your team for all eventualities Monitor everything during exercise Prepare for disaster* / disaster recovery Know your infrastructure Bus factor / Reduce risk / Treat any weakness (including mindset) as a potential cause of disaster</description></item><item><title>SAMM - Alignment with Threat Modelling</title><link>/outcomes/owasp-samm/working-sessions/samm-alignment-with-threat-modelling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-alignment-with-threat-modelling/</guid><description>Description of session Threat Modeling We discussed alignment of Threat Modeling maturity levels and SAMM Threat Assessment practice. Benchmarking We discussed tooling and data collection. Agile guidance Reviewed the document with Robert V. Created an issue for SAMM team members to review for content.</description></item><item><title>SAMM - Benchmarking and Tooling</title><link>/outcomes/owasp-samm/working-sessions/samm-benchmarking-and-tooling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-benchmarking-and-tooling/</guid><description>Description of session These sessions reviewed progress made during the week and discussed the tools we want to provide (as a minimum) to the community.
+Outcomes/Deliverables What’s the plan?
+Complete writing the questions and criteria Review Update the toolbox (spreadsheet) Update the document model Update How-to, Introduction, etc. Get feedback Have Seba and Bart as overviewers
+Update the template for writing practices</description></item><item><title>SAMM - Defined Writing Guidelines for Questions and Quality Criteria</title><link>/outcomes/owasp-samm/working-sessions/samm-defined-writing-guidelines-for-questions-and-quality-criteria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-defined-writing-guidelines-for-questions-and-quality-criteria/</guid><description>Description of session Outcomes/Deliverables Grammar
+Use the active voice Vocabulary
+Be consistent throughout the model Store your checklists in an accessible location Be specific Instead of having “fully documented processes” Ensure you have enough information to recreate the build Scope
+If something applies to all questions, say so at the beginning, e.g., These questions apply to all applications in the scope Quality criteria</description></item><item><title>SAMM - Editing agreements and parallel editing</title><link>/outcomes/owasp-samm/working-sessions/samm-editing-agreements-and-parallel-editing-tues-am/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-editing-agreements-and-parallel-editing-tues-am/</guid><description>Description of session The group discussed:
+Questions format Scoring Outcomes/Deliverables Please see the questions created during the session here and here.</description></item><item><title>SAMM - Model Challenges</title><link>/outcomes/owasp-samm/working-sessions/samm-model-challenges-tues-ev1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-model-challenges-tues-ev1/</guid><description>Description of session The group discussed outstanding GitHub issues, including:
+91 111 117 118 Discussions also focussed on:
+Process Visualisation Tooling</description></item><item><title>SAMM - Model Challenges (Wed)</title><link>/outcomes/owasp-samm/working-sessions/samm-model-challenges-weds-ev/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-model-challenges-weds-ev/</guid><description>Description of session The group discussed outstanding GitHub issues, including:
+#123 Restructure Secure Deployment Stream A #124 Revise integrity checks in secure build and deployment OWASP references * Focus on Lab or Flagship projects * They are part of the additional documents, not the core model * Add more details * Name of the project * Version * Other information that makes sense in the project</description></item><item><title>SAMM - Parallel Editing</title><link>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-tues-pm1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-tues-pm1/</guid><description>Description of session Questions 0-3 0 is no 1-3: to answer these, you need to meet the criteria Define criteria (“guidance” in previous models) Limit the number of questions to determine maturity Criteria provide a standard of quality to achieve maturity level Range of answers provides measure of coverage (completeness) Outcomes/Deliverables Following debate, the measuring model was agreed. Guidelines are being drafted for circulation.</description></item><item><title>SAMM - Parallel editing, Model discussions, DevSecOps</title><link>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-model-discussions-devsecops-weds-pm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-model-discussions-devsecops-weds-pm/</guid><description>Description of session Questions for Design - Security Architecture practice
+Started mapping of ASVS to SAMM
+DevSecOps Session * Discussed the mapping from DSOMM to SAMM</description></item><item><title>SAMM - Parallel editing-Thurs</title><link>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-thurs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-parallel-editing-thurs/</guid><description>Questions report for the measurement model We have a [report](https://owaspsamm.org/head/question-report/ with every question from each business function.
 Parallel editing We kept writing the questions for SAMM 2.0
-Next steps Update activity descriptions and goals based on new questions and discussions</description>
-    </item>
-    
-    <item>
-      <title>SAMM Model Discussions</title>
-      <link>/outcomes/owasp-samm/working-sessions/samm-model-discussions-tues-pm2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/owasp-samm/working-sessions/samm-model-discussions-tues-pm2/</guid>
-      <description>Description of session The group discussed topics that arose during editing or from user feedback, to prepare for further editing of the model.
-Outcomes/Deliverables Questions  Education and guidance almost complete in GitHub .yaml file Secure deployment in GitHUb .yami file Threat assessment in .yaml file  </description>
-    </item>
-    
-    <item>
-      <title>Security Challenges - An Introduction</title>
-      <link>/outcomes/strategic-challenges/working-sessions/security-challenges-an-introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/strategic-challenges/working-sessions/security-challenges-an-introduction/</guid>
-      <description>Outcomes/Deliverables The outcome was a list of characteristics that describe the cyber security industry and the problems within it. This was sourced from everyone in attendance.
+Next steps Update activity descriptions and goals based on new questions and discussions</description></item><item><title>SAMM Model Discussions</title><link>/outcomes/owasp-samm/working-sessions/samm-model-discussions-tues-pm2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/owasp-samm/working-sessions/samm-model-discussions-tues-pm2/</guid><description>Description of session The group discussed topics that arose during editing or from user feedback, to prepare for further editing of the model.
+Outcomes/Deliverables Questions Education and guidance almost complete in GitHub .yaml file Secure deployment in GitHUb .yami file Threat assessment in .yaml file</description></item><item><title>Security Challenges - An Introduction</title><link>/outcomes/strategic-challenges/working-sessions/security-challenges-an-introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/strategic-challenges/working-sessions/security-challenges-an-introduction/</guid><description>Outcomes/Deliverables The outcome was a list of characteristics that describe the cyber security industry and the problems within it. This was sourced from everyone in attendance.
 Synopsis and Takeaways The list of characteristics is below:
- Adversarial Arrogant - Security knows best Asymmetric between us and adversary Auditors as adversaries Auto-didacts - self-taught Blame culture Breach fatigue Built-in feature Career paths undefined Constant Evolution (speed) Direct opponent to progress of other business areas Eternal, the game doesn&#39;t end Expert-driven, technical experts Failure seen as normal Fear-motivated Fragmented ( many different types of role?</description>
-    </item>
-    
-    <item>
-      <title>Security Challenges - Analysis, Analogies</title>
-      <link>/outcomes/strategic-challenges/working-sessions/security-challenges-analysis-and-analogies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/strategic-challenges/working-sessions/security-challenges-analysis-and-analogies/</guid>
-      <description>Description of session Using the outcomes from Monday&#39;s session, the participants identified some professions or situations that will be useful to steal/borrow ideas from on how to solve our existing challenges.
+Adversarial Arrogant - Security knows best Asymmetric between us and adversary Auditors as adversaries Auto-didacts - self-taught Blame culture Breach fatigue Built-in feature Career paths undefined Constant Evolution (speed) Direct opponent to progress of other business areas Eternal, the game doesn&amp;rsquo;t end Expert-driven, technical experts Failure seen as normal Fear-motivated Fragmented ( many different types of role?</description></item><item><title>Security Challenges - Analysis, Analogies</title><link>/outcomes/strategic-challenges/working-sessions/security-challenges-analysis-and-analogies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/strategic-challenges/working-sessions/security-challenges-analysis-and-analogies/</guid><description>Description of session Using the outcomes from Monday&amp;rsquo;s session, the participants identified some professions or situations that will be useful to steal/borrow ideas from on how to solve our existing challenges.
 The organiser picked nine of the characteristics to concentrate on for this session.
- Asymmetric between us and adversary Auto-didacts - self-taught Blame culture Constant Evolution (speed) Eternal, the game doesn&#39;t end Expert driven, technical experts Imposter syndrome Lack of comparative data to judge who is winning or losing Optimisation Game  Outcomes/Deliverables Over the course of an hour, the following professions were cited as worthy of further investigation because they matched at least one of the characteristics cited.</description>
-    </item>
-    
-    <item>
-      <title>Security Challenges - Next step</title>
-      <link>/outcomes/strategic-challenges/working-sessions/security-challenges-next-steps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/strategic-challenges/working-sessions/security-challenges-next-steps/</guid>
-      <description>The questions for the session were as follows:
- Is the approach of finding similar industries or situations valid? Does Dave Snowden’s experience support following or abandoning this methodology? If it’s not valid, what methodologies should be used to create or find, and test, the correct strategies? Can we learn from other practitioners in related areas as a useable “hack” to choose effective new strategies rapidly? What are the underlying assumptions of the current strategies?</description>
-    </item>
-    
-    <item>
-      <title>State and Future of Threat Modeling</title>
-      <link>/outcomes/threat-modeling/working-sessions/future-of-threat-modelling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/future-of-threat-modelling/</guid>
-      <description>Reminder Threat Modeling: The sooner the better, never too late.
+Asymmetric between us and adversary Auto-didacts - self-taught Blame culture Constant Evolution (speed) Eternal, the game doesn&amp;rsquo;t end Expert driven, technical experts Imposter syndrome Lack of comparative data to judge who is winning or losing Optimisation Game Outcomes/Deliverables Over the course of an hour, the following professions were cited as worthy of further investigation because they matched at least one of the characteristics cited.</description></item><item><title>Security Challenges - Next step</title><link>/outcomes/strategic-challenges/working-sessions/security-challenges-next-steps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/strategic-challenges/working-sessions/security-challenges-next-steps/</guid><description>The questions for the session were as follows:
+Is the approach of finding similar industries or situations valid? Does Dave Snowden’s experience support following or abandoning this methodology? If it’s not valid, what methodologies should be used to create or find, and test, the correct strategies? Can we learn from other practitioners in related areas as a useable “hack” to choose effective new strategies rapidly? What are the underlying assumptions of the current strategies?</description></item><item><title>State and Future of Threat Modeling</title><link>/outcomes/threat-modeling/working-sessions/future-of-threat-modelling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/future-of-threat-modelling/</guid><description>Reminder Threat Modeling: The sooner the better, never too late.
 We all have different understanding of threat models, different use cases and different customers. Different != wrong.
 Description of session Discussion on:
- What is the current state of threat modeling? Are there any new and exciting things happening? What is needed for the future?  Discussion Question to start conversation:
-  Since Adam&#39;s book has there been any tools released that truly aid in threat modeling?</description>
-    </item>
-    
-    <item>
-      <title>Threat Model - Lessons Learned</title>
-      <link>/outcomes/threat-modeling/working-sessions/threat-model-lessons-learned/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/threat-model-lessons-learned/</guid>
-      <description>Lessons learned  Training sessions / user sessions / working sessions / panel session (conversation / AMA) Let’s not wait another year, do more sessions using remote participation We split the content into smaller chunks; each can be a project and people have started two already  Call to action to be done on the OWASP TM slack channel   Collaboration with DevSecOps project  Glossary Content creation for both projects   Hands-on training needed Action point for Steven W.</description>
-    </item>
-    
-    <item>
-      <title>Threat Model Cookbook Project (Part 2)</title>
-      <link>/outcomes/threat-modeling/working-sessions/threat-model-cookbook-project-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/threat-model-cookbook-project-2/</guid>
-      <description>Description of session Outcomes/Deliverables  Created a sample threat model using PyTM with PyTM creator Izar Tarandach Created a sample attack tree using PlantUML with attack tree SME Bryant Zadegan  Follow up Samples will be refined and then added to the cookbook</description>
-    </item>
-    
-    <item>
-      <title>Threat Model Maturity</title>
-      <link>/outcomes/threat-modeling/working-sessions/threat-model-maturity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/threat-model-maturity/</guid>
-      <description>Description of session The session objective was to discuss and answer the questions below.
-   Question Parameters     1. How do we measure the maturity of a threat model? Data is stored &amp;amp; linkable (higher maturity) Formalisation (higher maturity) Process integration How is the model created? different levels of maturity Repeatability of the process Level of TM depth + classification of systems Re-usable components Maturity / knowledge / experience of the threat modeler + audience How much does the TM relate to the actual application (quality degradation over time) / synced versioning Relation / causation between requirements and the resulting TM   2.</description>
-    </item>
-    
-    <item>
-      <title>Threat Modelling Data Schema</title>
-      <link>/outcomes/pre-summit-ws/threat-modelling-data-schema/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/pre-summit-ws/threat-modelling-data-schema/</guid>
-      <description>Description of session The purpose of this session was to discuss requirements around a data schema for threat modelling to enable and/or support repeatable and automated threat modelling.
-Outcomes/Deliverables The conversation started with a walkthrough of the way Photobox are using vulnerability and risk data within JIRA to create graphs. This was done to show the potential of being able to harness usable threat data within a database to automatically create visual representations of the threat landscape for an IT asset.</description>
-    </item>
-    
-    <item>
-      <title>Threat Modelling Project Roadmap</title>
-      <link>/outcomes/threat-modeling/working-sessions/project-roadmap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/project-roadmap/</guid>
-      <description>Description of session The purpose of this session is to introduce the project and create a rough roadmap of deliverables for the project during the summit. The project is currently a documentation project, but it lacks documentation; one of the key objectives of the week will be to produce documentation.
-Outcomes/Deliverables  Set Objectives for the track for the summit Spoke on project structure (there are a number of sub-projects that are being set up as separate projects e.</description>
-    </item>
-    
-    <item>
-      <title>Wardley Maps for Security</title>
-      <link>/outcomes/wardley-mapping/working-sessions/wardley-maps-for-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/wardley-mapping/working-sessions/wardley-maps-for-security/</guid>
-      <description>Description of session This practical session on creating Wardley maps considered the following aspects of Wardley maps:
-  Shared and reviewed Wardley maps
- Non-security specific Across a number of different industries Use-cases as examples of good mapping    High-level review of related articles to
- Lay out processes or approaches to develop Wardley maps Resources here    Analysed proposal for &amp;ldquo;map of security mapping&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>Working towards a unified way of describing threat models</title>
-      <link>/outcomes/threat-modeling/working-sessions/unified-ways-of-describing-threat-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/outcomes/threat-modeling/working-sessions/unified-ways-of-describing-threat-models/</guid>
-      <description>Description of session We want to create a model of a threat model. It needs to be generic so it fits all threat modeling methodologies. Later we can try to use this model to create graph based websites detailing the different techniques and methodologies as well as linking the examples we will have to these different elements of a threat model.
-Creating a reference diagram that allows someone to be able to use it to help understand models.</description>
-    </item>
-    
-  </channel>
-</rss>
+What is the current state of threat modeling? Are there any new and exciting things happening? What is needed for the future? Discussion Question to start conversation:
+Since Adam&amp;rsquo;s book has there been any tools released that truly aid in threat modeling?</description></item><item><title>Threat Model - Lessons Learned</title><link>/outcomes/threat-modeling/working-sessions/threat-model-lessons-learned/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/threat-model-lessons-learned/</guid><description>Lessons learned Training sessions / user sessions / working sessions / panel session (conversation / AMA) Let’s not wait another year, do more sessions using remote participation We split the content into smaller chunks; each can be a project and people have started two already Call to action to be done on the OWASP TM slack channel Collaboration with DevSecOps project Glossary Content creation for both projects Hands-on training needed Action point for Steven W.</description></item><item><title>Threat Model Cookbook Project (Part 2)</title><link>/outcomes/threat-modeling/working-sessions/threat-model-cookbook-project-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/threat-model-cookbook-project-2/</guid><description>Description of session Outcomes/Deliverables Created a sample threat model using PyTM with PyTM creator Izar Tarandach Created a sample attack tree using PlantUML with attack tree SME Bryant Zadegan Follow up Samples will be refined and then added to the cookbook</description></item><item><title>Threat Model Maturity</title><link>/outcomes/threat-modeling/working-sessions/threat-model-maturity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/threat-model-maturity/</guid><description>Description of session The session objective was to discuss and answer the questions below.
+Question Parameters 1. How do we measure the maturity of a threat model? Data is stored &amp;amp; linkable (higher maturity) Formalisation (higher maturity) Process integration How is the model created? different levels of maturity Repeatability of the process Level of TM depth + classification of systems Re-usable components Maturity / knowledge / experience of the threat modeler + audience How much does the TM relate to the actual application (quality degradation over time) / synced versioning Relation / causation between requirements and the resulting TM 2.</description></item><item><title>Threat Modelling Data Schema</title><link>/outcomes/pre-summit-ws/threat-modelling-data-schema/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/pre-summit-ws/threat-modelling-data-schema/</guid><description>Description of session The purpose of this session was to discuss requirements around a data schema for threat modelling to enable and/or support repeatable and automated threat modelling.
+Outcomes/Deliverables The conversation started with a walkthrough of the way Photobox are using vulnerability and risk data within JIRA to create graphs. This was done to show the potential of being able to harness usable threat data within a database to automatically create visual representations of the threat landscape for an IT asset.</description></item><item><title>Threat Modelling Project Roadmap</title><link>/outcomes/threat-modeling/working-sessions/project-roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/project-roadmap/</guid><description>Description of session The purpose of this session is to introduce the project and create a rough roadmap of deliverables for the project during the summit. The project is currently a documentation project, but it lacks documentation; one of the key objectives of the week will be to produce documentation.
+Outcomes/Deliverables Set Objectives for the track for the summit Spoke on project structure (there are a number of sub-projects that are being set up as separate projects e.</description></item><item><title>Wardley Maps for Security</title><link>/outcomes/wardley-mapping/working-sessions/wardley-maps-for-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/wardley-mapping/working-sessions/wardley-maps-for-security/</guid><description>Description of session This practical session on creating Wardley maps considered the following aspects of Wardley maps:
+Shared and reviewed Wardley maps
+Non-security specific Across a number of different industries Use-cases as examples of good mapping High-level review of related articles to
+Lay out processes or approaches to develop Wardley maps Resources here Analysed proposal for &amp;ldquo;map of security mapping&amp;rdquo;</description></item><item><title>Working towards a unified way of describing threat models</title><link>/outcomes/threat-modeling/working-sessions/unified-ways-of-describing-threat-models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/outcomes/threat-modeling/working-sessions/unified-ways-of-describing-threat-models/</guid><description>Description of session We want to create a model of a threat model. It needs to be generic so it fits all threat modeling methodologies. Later we can try to use this model to create graph based websites detailing the different techniques and methodologies as well as linking the examples we will have to these different elements of a threat model.
+Creating a reference diagram that allows someone to be able to use it to help understand models.</description></item></channel></rss>

@@ -1,127 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>DevSecOps on Open Security Summit</title>
-    <link>/tracks/devsecops/</link>
-    <description>Recent content in DevSecOps on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tracks/devsecops/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Agile Practices for Security Teams</title>
-      <link>/tracks/devsecops/working-sessions/agile-practices-for-security-teams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/agile-practices-for-security-teams/</guid>
-      <description>Until recently, cyber security was often considered as “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes. Considering how agile methodologies benefit the development lifecycle, security should be approached in the same, or a similar, way.
-Why Agile practices have been around for quite some time now and a lot of organisations incorporate Agile practices into their daily operations.</description>
-    </item>
-    
-    <item>
-      <title>Creating a Security Champions network</title>
-      <link>/tracks/devsecops/working-sessions/security-champions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/security-champions/</guid>
-      <description>Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevSecOps on Open Security Summit 2019</title><link>/tracks/devsecops/</link><description>Recent content in DevSecOps on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tracks/devsecops/index.xml" rel="self" type="application/rss+xml"/><item><title>Agile Practices for Security Teams</title><link>/tracks/devsecops/working-sessions/agile-practices-for-security-teams/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/agile-practices-for-security-teams/</guid><description>Until recently, cyber security was often considered as “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes. Considering how agile methodologies benefit the development lifecycle, security should be approached in the same, or a similar, way.
+Why Agile practices have been around for quite some time now and a lot of organisations incorporate Agile practices into their daily operations.</description></item><item><title>Creating a Security Champions network</title><link>/tracks/devsecops/working-sessions/security-champions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/security-champions/</guid><description>Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
 What is a Security Champion?
- Security Champions are active members of a team that may help to make decisions about when to engage the Security Team Security Champions act as the &amp;ldquo;voice&amp;rdquo; of security for the given product or team Security Champions assist in the triage of security bugs for their team or area  (see definition here)</description>
-    </item>
-    
-    <item>
-      <title>Creating Appsec metrics and visualisation</title>
-      <link>/tracks/devsecops/user-sessions/creating-appsec-metrics-and-visualisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/user-sessions/creating-appsec-metrics-and-visualisation/</guid>
-      <description>Why You can&#39;t improve what you don&#39;t measure. Its important to measure the activities as part of SDL and drive future improvements to the application security program. Metrics show business value to stakeholders and help drive further investments in the program. Metrics also help in figuring out whats working and whats not.
+Security Champions are active members of a team that may help to make decisions about when to engage the Security Team Security Champions act as the &amp;ldquo;voice&amp;rdquo; of security for the given product or team Security Champions assist in the triage of security bugs for their team or area (see definition here)</description></item><item><title>Creating Appsec metrics and visualisation</title><link>/tracks/devsecops/user-sessions/creating-appsec-metrics-and-visualisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/user-sessions/creating-appsec-metrics-and-visualisation/</guid><description>Why You can&amp;rsquo;t improve what you don&amp;rsquo;t measure. Its important to measure the activities as part of SDL and drive future improvements to the application security program. Metrics show business value to stakeholders and help drive further investments in the program. Metrics also help in figuring out whats working and whats not.
 Metrics used should be meaningful and not there for the sake of just metrics (metric fatigue?).
-What The goal of this User Session is to find ways to create meaningful metrics and dashboards for AppSec Professionals like Mean Time To Remediate, Mean Time To Find etc.</description>
-    </item>
-    
-    <item>
-      <title>Dealing with DevSecOps Findings</title>
-      <link>/tracks/devsecops/working-sessions/dealing-with-security-findings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/dealing-with-security-findings/</guid>
-      <description>Security testing is vital to validate the correct implementation of controls and that security requirements. To scale securty testing to often hundreds of different software products, many organisations now implement automated tools to scale security testing practices. In this hands-on working session we&#39;ll learn how to build a working DevSecOps POC and, more importantly, how to deal with the myriad of security findings it generates.
+What The goal of this User Session is to find ways to create meaningful metrics and dashboards for AppSec Professionals like Mean Time To Remediate, Mean Time To Find etc.</description></item><item><title>Dealing with DevSecOps Findings</title><link>/tracks/devsecops/working-sessions/dealing-with-security-findings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/dealing-with-security-findings/</guid><description>Security testing is vital to validate the correct implementation of controls and that security requirements. To scale securty testing to often hundreds of different software products, many organisations now implement automated tools to scale security testing practices. In this hands-on working session we&amp;rsquo;ll learn how to build a working DevSecOps POC and, more importantly, how to deal with the myriad of security findings it generates.
 Schedule:
- Slot 1 (AM1) - Architectiure and Setup Slot 2 (PM2) - Objectives and Chellenges Slot 3 (PM3) - Outcomes  Why Thanks to the proliferation of automated security scanning tools we are generating a phenomenal amount of security findings.</description>
-    </item>
-    
-    <item>
-      <title>DevSecOps Maturity Model (DSOMM)</title>
-      <link>/tracks/devsecops/working-sessions/devsecops-maturity-model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/devsecops-maturity-model/</guid>
-      <description>Start with this http://gdosmm-translation.timo-pagel.de/</description>
-    </item>
-    
-    <item>
-      <title>From Threat Modeling to DevSecOps metrics</title>
-      <link>/tracks/devsecops/working-sessions/threat-modeling-to-devsecops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/threat-modeling-to-devsecops/</guid>
-      <description>Why What Content Outcomes Who The target audience for this Working Session is:
- Developers Security professionals DevSecOps Security champions  References </description>
-    </item>
-    
-    <item>
-      <title>Integrating Security Tools in the SDL</title>
-      <link>/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/</guid>
-      <description>Most of today´s application security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
-The question here is why so many bugs and coding errors continue to cause major security issues when we have had years to deal with these and other common vulnerabilities that are still found in applications today.</description>
-    </item>
-    
-    <item>
-      <title>Secrets Management</title>
-      <link>/tracks/devsecops/working-sessions/secrets-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/secrets-management/</guid>
-      <description>Why This Working Session will focus on secrets management - a key element of DevSecOps.
+Slot 1 (AM1) - Architectiure and Setup Slot 2 (PM2) - Objectives and Chellenges Slot 3 (PM3) - Outcomes Why Thanks to the proliferation of automated security scanning tools we are generating a phenomenal amount of security findings.</description></item><item><title>DevSecOps Maturity Model (DSOMM)</title><link>/tracks/devsecops/working-sessions/devsecops-maturity-model/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/devsecops-maturity-model/</guid><description>Start with this http://gdosmm-translation.timo-pagel.de/</description></item><item><title>From Threat Modeling to DevSecOps metrics</title><link>/tracks/devsecops/working-sessions/threat-modeling-to-devsecops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/threat-modeling-to-devsecops/</guid><description>Why What Content Outcomes Who The target audience for this Working Session is:
+Developers Security professionals DevSecOps Security champions References</description></item><item><title>Integrating Security Tools in the SDL</title><link>/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/</guid><description>Most of today´s application security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
+The question here is why so many bugs and coding errors continue to cause major security issues when we have had years to deal with these and other common vulnerabilities that are still found in applications today.</description></item><item><title>Secrets Management</title><link>/tracks/devsecops/working-sessions/secrets-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/secrets-management/</guid><description>Why This Working Session will focus on secrets management - a key element of DevSecOps.
 Secrets are being used everywhere nowadays with the DevOps movement. API keys, database credentials, IAM permissions, SSH keys, certificates, etc. Many organizations have them hard coded in source code, littered throughout configuration files and configuration management tools, and stored in plaintext in version control.
-There is a big need in the centralizations of secrets to improve the security posture and preventing secrets from leaking and compromizing the organization.</description>
-    </item>
-    
-    <item>
-      <title>Securing the CI Pipeline</title>
-      <link>/tracks/devsecops/working-sessions/securing-the-ci-pipeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/working-sessions/securing-the-ci-pipeline/</guid>
-      <description>Why This Working Session will consider the securing of the CI Pipeline - A key element of DevOps.
+There is a big need in the centralizations of secrets to improve the security posture and preventing secrets from leaking and compromizing the organization.</description></item><item><title>Securing the CI Pipeline</title><link>/tracks/devsecops/working-sessions/securing-the-ci-pipeline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/working-sessions/securing-the-ci-pipeline/</guid><description>Why This Working Session will consider the securing of the CI Pipeline - A key element of DevOps.
 Doing CI builds, testing, and deployments have many advantages when done correctly. Using libraries from 3rd parties in your build can be on compromised servers. Even signing your packages or artifacts automatically could result in you delivering compromised software to others.
-What  Identify best practice for DevOps and Developers Agree what to include in a cheat sheet for developers who use third party services Agree recommendations for 3rd party service providers (for example, provide warning messages of possible insecurities)  Outcomes This Working Session will publish:</description>
-    </item>
-    
-    <item>
-      <title>WAFs - Understanding and measuring how they behave</title>
-      <link>/tracks/devsecops/user-sessions/wafs-understanding-and-meauring-how-they-behave/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/user-sessions/wafs-understanding-and-meauring-how-they-behave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing security tests to confirm vulnerabilities and fixes</title>
-      <link>/tracks/devsecops/user-sessions/writing-security-tests-to-confirm-vulnerabilities-and-fixes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/devsecops/user-sessions/writing-security-tests-to-confirm-vulnerabilities-and-fixes/</guid>
-      <description>Hands on session writing security tests
-See previous summit session on this topic</description>
-    </item>
-    
-  </channel>
-</rss>
+What Identify best practice for DevOps and Developers Agree what to include in a cheat sheet for developers who use third party services Agree recommendations for 3rd party service providers (for example, provide warning messages of possible insecurities) Outcomes This Working Session will publish:</description></item><item><title>WAFs - Understanding and measuring how they behave</title><link>/tracks/devsecops/user-sessions/wafs-understanding-and-meauring-how-they-behave/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/user-sessions/wafs-understanding-and-meauring-how-they-behave/</guid><description/></item><item><title>Writing security tests to confirm vulnerabilities and fixes</title><link>/tracks/devsecops/user-sessions/writing-security-tests-to-confirm-vulnerabilities-and-fixes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/devsecops/user-sessions/writing-security-tests-to-confirm-vulnerabilities-and-fixes/</guid><description>Hands on session writing security tests
+See previous summit session on this topic</description></item></channel></rss>

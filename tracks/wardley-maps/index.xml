@@ -1,135 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wardley Maps on Open Security Summit</title>
-    <link>/tracks/wardley-maps/</link>
-    <description>Recent content in Wardley Maps on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tracks/wardley-maps/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/tracks/wardley-maps/_template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/_template/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cell based Structures for Security</title>
-      <link>/tracks/wardley-maps/working-sessions/cell-based-structures-for-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/working-sessions/cell-based-structures-for-security/</guid>
-      <description>With the widespread adoption of agile development and more organisations looking to organise themselves along the lines of the Spotify Model (Squads, Tribes, Chapters and Guides), how can security functions within those organisations take advantage of Cell Based Structures to be more responsive to the business needs, while incorporating the aptitudes and attitudes of Pioneers, Settlers and Town Planners to better meet those needs.
-WHY Many of the issues that businesses suffer with, from business alignment to various forms of inertia, to one size fits all to the perils of outsourcing, are a consequence of how we organize ourselves.</description>
-    </item>
-    
-    <item>
-      <title>Hand&#39;s on Wardley Maps creation</title>
-      <link>/tracks/wardley-maps/training-session/hands-on-wardley-maps-creation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/training-session/hands-on-wardley-maps-creation/</guid>
-      <description>What Want to have a go at creating your own Wardley maps? This training session will give you hands on experience in creating your maps for multiple scenarios, with experienced practitioners on hand to guide and help you.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wardley Maps on Open Security Summit 2019</title><link>/tracks/wardley-maps/</link><description>Recent content in Wardley Maps on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tracks/wardley-maps/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/tracks/wardley-maps/_template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/_template/</guid><description/></item><item><title>Cell based Structures for Security</title><link>/tracks/wardley-maps/working-sessions/cell-based-structures-for-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/working-sessions/cell-based-structures-for-security/</guid><description>With the widespread adoption of agile development and more organisations looking to organise themselves along the lines of the Spotify Model (Squads, Tribes, Chapters and Guides), how can security functions within those organisations take advantage of Cell Based Structures to be more responsive to the business needs, while incorporating the aptitudes and attitudes of Pioneers, Settlers and Town Planners to better meet those needs.
+WHY Many of the issues that businesses suffer with, from business alignment to various forms of inertia, to one size fits all to the perils of outsourcing, are a consequence of how we organize ourselves.</description></item><item><title>Hand's on Wardley Maps creation</title><link>/tracks/wardley-maps/training-session/hands-on-wardley-maps-creation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/training-session/hands-on-wardley-maps-creation/</guid><description>What Want to have a go at creating your own Wardley maps? This training session will give you hands on experience in creating your maps for multiple scenarios, with experienced practitioners on hand to guide and help you.
 Scenarios to Map -
- Security Testing Security Awareness and Education Security Operations Security Champions others  Outcomes Participants will have experienced creating their own Wardley Maps.
-References  [Finding a Path - The First Map] (https://medium.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Wardley Maps</title>
-      <link>/tracks/wardley-maps/training-session/introduction-to-wardley-maps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/training-session/introduction-to-wardley-maps/</guid>
-      <description>This will be an practical introducton to Wardley Mapping, taking participants through creating their own basic Wardley Maps, from User Needs, to creating Value-chains and applying Evolution to those Value-chains.
+Security Testing Security Awareness and Education Security Operations Security Champions others Outcomes Participants will have experienced creating their own Wardley Maps.
+References [Finding a Path - The First Map] (https://medium.</description></item><item><title>Introduction to Wardley Maps</title><link>/tracks/wardley-maps/training-session/introduction-to-wardley-maps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/training-session/introduction-to-wardley-maps/</guid><description>This will be an practical introducton to Wardley Mapping, taking participants through creating their own basic Wardley Maps, from User Needs, to creating Value-chains and applying Evolution to those Value-chains.
 WHY Using Wardley Mapping to gain understanding and situational awareness of the &amp;ldquo;landscape&amp;rdquo; prior to looking at the effect of climatic patterns.
 What https://cdn-images-1.medium.com/max/800/1*aBw7WVHYdishIeMqUMlHBA.jpeg
-Outcomes  The participants will understand how to create a Wardley Map of a basic function. The particpant in groups will have mapped a basci security function.</description>
-    </item>
-    
-    <item>
-      <title>Mapping boot camp</title>
-      <link>/tracks/wardley-maps/working-sessions/mapping-boot-camp-with-simon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/working-sessions/mapping-boot-camp-with-simon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talking security risk to business - practical games to learn through failure</title>
-      <link>/tracks/wardley-maps/user-sessions/talking-security-risk-to-business-practical-games/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/user-sessions/talking-security-risk-to-business-practical-games/</guid>
-      <description>WHY How do security teams engage effectively with the business. Dave and Simon will draw on their extensive consulting experience to suggest some interesting thought exercises and practical games to help cross-functional teams to learn through failure
+Outcomes The participants will understand how to create a Wardley Map of a basic function. The particpant in groups will have mapped a basci security function.</description></item><item><title>Mapping boot camp</title><link>/tracks/wardley-maps/working-sessions/mapping-boot-camp-with-simon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/working-sessions/mapping-boot-camp-with-simon/</guid><description/></item><item><title>Talking security risk to business - practical games to learn through failure</title><link>/tracks/wardley-maps/user-sessions/talking-security-risk-to-business-practical-games/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/user-sessions/talking-security-risk-to-business-practical-games/</guid><description>WHY How do security teams engage effectively with the business. Dave and Simon will draw on their extensive consulting experience to suggest some interesting thought exercises and practical games to help cross-functional teams to learn through failure
 What (&amp;hellip;)
 Outcomes (&amp;hellip;)
-References (&amp;hellip;)</description>
-    </item>
-    
-    <item>
-      <title>Using Cynefin Framework making strategic security decisions</title>
-      <link>/tracks/wardley-maps/working-sessions/using-cynefin-framework-for-making-strategic-security-decisions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/working-sessions/using-cynefin-framework-for-making-strategic-security-decisions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Wardley Maps and Cynefin for Security</title>
-      <link>/tracks/wardley-maps/user-sessions/using-wardley-maps-and-cynefin-for-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/user-sessions/using-wardley-maps-and-cynefin-for-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Wardley Maps on SOC</title>
-      <link>/tracks/wardley-maps/user-sessions/using-wardley-maps-on-soc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/user-sessions/using-wardley-maps-on-soc/</guid>
-      <description>How to apply Wardley maps to an SOC (Securty Operations Center).
+References (&amp;hellip;)</description></item><item><title>Using Cynefin Framework making strategic security decisions</title><link>/tracks/wardley-maps/working-sessions/using-cynefin-framework-for-making-strategic-security-decisions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/working-sessions/using-cynefin-framework-for-making-strategic-security-decisions/</guid><description/></item><item><title>Using Wardley Maps and Cynefin for Security</title><link>/tracks/wardley-maps/user-sessions/using-wardley-maps-and-cynefin-for-security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/user-sessions/using-wardley-maps-and-cynefin-for-security/</guid><description/></item><item><title>Using Wardley Maps on SOC</title><link>/tracks/wardley-maps/user-sessions/using-wardley-maps-on-soc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/user-sessions/using-wardley-maps-on-soc/</guid><description>How to apply Wardley maps to an SOC (Securty Operations Center).
 Here is an example of what this looks like: SOC Value Chain &amp;amp; Delivery Models
-Same example mapped to in-house vs outsource:</description>
-    </item>
-    
-    <item>
-      <title>Wardley Mapping - Climatic Patterns and Using Doctrine</title>
-      <link>/tracks/wardley-maps/working-sessions/climatic-patterns-and-using-doctrine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/working-sessions/climatic-patterns-and-using-doctrine/</guid>
-      <description>Climatic patterns are those things which change the map regardless of your actions. This can include common economic patterns or competitor actions. Understanding climatic patterns are important when anticipating change. Doctrine are the basic universal principles that are applicable to all industries regardless of the landscape and its context. This doesn’t mean that the doctrine is right but instead that it appears to be consistently useful for the time being. There will always exist better doctrine in the future.</description>
-    </item>
-    
-    <item>
-      <title>Wardley Mapping - Coordinating functions within a PST organisation</title>
-      <link>/tracks/wardley-maps/working-sessions/coordinating-functions-within-a-pst-organisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/working-sessions/coordinating-functions-within-a-pst-organisation/</guid>
-      <description>Most organisations have structures in place that can be used to embed mapping whether it’s an architectural group or an office of the CEO or a business relationship function or some other home. The role of the co-ordination function is to encourage compliance to policy (doctrine) often via a spend control mechanism and to enable sharing between the business units through the use of maps. This doesn’t require some big bang overhaul but usually the formalisation of an existing structure e.</description>
-    </item>
-    
-    <item>
-      <title>Wardley Maps for Security</title>
-      <link>/tracks/wardley-maps/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/wardley-maps/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/</guid>
-      <description>Wardley Maps are very useful for mapping out strategies along with terrain to advance security controls and efforts. For those not familiar with this concept, it was developed by Simon Wardley (@swardley) and has derived into a very useful tool for prioritizing the right work at the right time to increase the odds of successfully completing a mission.
-If you are interested in learning more about this tool and how to build a Wardley Map there is great information here: Wardley Blog</description>
-    </item>
-    
-  </channel>
-</rss>
+Same example mapped to in-house vs outsource:</description></item><item><title>Wardley Mapping - Climatic Patterns and Using Doctrine</title><link>/tracks/wardley-maps/working-sessions/climatic-patterns-and-using-doctrine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/working-sessions/climatic-patterns-and-using-doctrine/</guid><description>Climatic patterns are those things which change the map regardless of your actions. This can include common economic patterns or competitor actions. Understanding climatic patterns are important when anticipating change. Doctrine are the basic universal principles that are applicable to all industries regardless of the landscape and its context. This doesn’t mean that the doctrine is right but instead that it appears to be consistently useful for the time being. There will always exist better doctrine in the future.</description></item><item><title>Wardley Mapping - Coordinating functions within a PST organisation</title><link>/tracks/wardley-maps/working-sessions/coordinating-functions-within-a-pst-organisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/working-sessions/coordinating-functions-within-a-pst-organisation/</guid><description>Most organisations have structures in place that can be used to embed mapping whether it’s an architectural group or an office of the CEO or a business relationship function or some other home. The role of the co-ordination function is to encourage compliance to policy (doctrine) often via a spend control mechanism and to enable sharing between the business units through the use of maps. This doesn’t require some big bang overhaul but usually the formalisation of an existing structure e.</description></item><item><title>Wardley Maps for Security</title><link>/tracks/wardley-maps/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/wardley-maps/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/</guid><description>Wardley Maps are very useful for mapping out strategies along with terrain to advance security controls and efforts. For those not familiar with this concept, it was developed by Simon Wardley (@swardley) and has derived into a very useful tool for prioritizing the right work at the right time to increase the odds of successfully completing a mission.
+If you are interested in learning more about this tool and how to build a Wardley Map there is great information here: Wardley Blog</description></item></channel></rss>

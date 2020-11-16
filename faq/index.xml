@@ -1,241 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>FAQs and Logistics on Open Security Summit</title>
-    <link>/faq/</link>
-    <description>Recent content in FAQs and Logistics on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Attendee Information</title>
-      <link>/faq/attendee-information/</link>
-      <pubDate>Fri, 09 Mar 2018 17:22:38 -0300</pubDate>
-      
-      <guid>/faq/attendee-information/</guid>
-      <description>Welcome to Open Security Summit 2019 Thank you for your interest in Open Security Summit 2019 (OSS 2019).
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQs and Logistics on Open Security Summit 2019</title><link>/faq/</link><description>Recent content in FAQs and Logistics on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Attendee Information</title><link>/faq/attendee-information/</link><pubDate>Fri, 09 Mar 2018 17:22:38 -0300</pubDate><guid>/faq/attendee-information/</guid><description>Welcome to Open Security Summit 2019 Thank you for your interest in Open Security Summit 2019 (OSS 2019).
 The attendee general flow (attendee journey) is as follows;
- Buy a ticket  Remote participants should also register using EventBrite. Create personal participant page Find sessions that you are interested in by viewing the topic index, tracks view or just simply list working, user or product sessions. Register to attend a session.</description>
-    </item>
-    
-    <item>
-      <title>Accommodation</title>
-      <link>/faq/accommodation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/accommodation/</guid>
-      <description>Accommodation When can I check in to my room? Keys will be available from 4.30pm-8.00pm on Monday 3 June at The Venue. After that, keys will be available from 8.30am to 8.00pm. Anyone arriving after 8.00pm will need to pick their keys up at the security gate.
-When you leave, please return your keys to the venue&#39;s bins.
-Is there somewhere I can leave my luggage on Monday before my villa becomes available?</description>
-    </item>
-    
-    <item>
-      <title>Arriving at the Open Security Summit</title>
-      <link>/faq/arriving/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/arriving/</guid>
-      <description>What should I do when I arrive at Center Parcs? When you arrive at Center Parcs, follow the &amp;lsquo;all traffic&amp;rsquo; signs. At the arrivals lodge, you will be met by security. Let them know that you are attending the Open Security Summit in &amp;lsquo;The Venue&amp;rsquo;. Follow the signs for The Venue or the Plaza. Center Parcs staff wear a purple uniform and will be happy to direct you.
-Arriving by car The security staff will direct you to a car park, once you have parked, please make your way to The Venue.</description>
-    </item>
-    
-    <item>
-      <title>Content support</title>
-      <link>/faq/content-support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/content-support/</guid>
-      <description>How do I get my schedule fixed or my profile page updated? Create a Pull Request or email outcomes@opensecsummit.org with the details.</description>
-    </item>
-    
-    <item>
-      <title>Different session types (keynote, working, user, product)</title>
-      <link>/faq/session-types/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/session-types/</guid>
-      <description>Working Sessions Working Sessions focus on creating and evolving ideas to create outcomes that will have an impact in the real world. They are a great way to join a group of practitioners to share expertise and knowledge on a particular subject.
+Buy a ticket Remote participants should also register using EventBrite. Create personal participant page Find sessions that you are interested in by viewing the topic index, tracks view or just simply list working, user or product sessions. Register to attend a session.</description></item><item><title>Accommodation</title><link>/faq/accommodation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/accommodation/</guid><description>Accommodation When can I check in to my room? Keys will be available from 4.30pm-8.00pm on Monday 3 June at The Venue. After that, keys will be available from 8.30am to 8.00pm. Anyone arriving after 8.00pm will need to pick their keys up at the security gate.
+When you leave, please return your keys to the venue&amp;rsquo;s bins.
+Is there somewhere I can leave my luggage on Monday before my villa becomes available?</description></item><item><title>Arriving at the Open Security Summit</title><link>/faq/arriving/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/arriving/</guid><description>What should I do when I arrive at Center Parcs? When you arrive at Center Parcs, follow the &amp;lsquo;all traffic&amp;rsquo; signs. At the arrivals lodge, you will be met by security. Let them know that you are attending the Open Security Summit in &amp;lsquo;The Venue&amp;rsquo;. Follow the signs for The Venue or the Plaza. Center Parcs staff wear a purple uniform and will be happy to direct you.
+Arriving by car The security staff will direct you to a car park, once you have parked, please make your way to The Venue.</description></item><item><title>Content support</title><link>/faq/content-support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/content-support/</guid><description>How do I get my schedule fixed or my profile page updated? Create a Pull Request or email outcomes@opensecsummit.org with the details.</description></item><item><title>Different session types (keynote, working, user, product)</title><link>/faq/session-types/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/session-types/</guid><description>Working Sessions Working Sessions focus on creating and evolving ideas to create outcomes that will have an impact in the real world. They are a great way to join a group of practitioners to share expertise and knowledge on a particular subject.
 Find more details on the current Working Sessions
-User Sessions User Sessions are much more practical sessions, which will enable you to learn new skills or develop existing ones.</description>
-    </item>
-    
-    <item>
-      <title>I need help</title>
-      <link>/faq/i-need-help/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/i-need-help/</guid>
-      <description>Summit Slack channel invite link hereThe Summit team is here to help you both before and during the Summit.
+User Sessions User Sessions are much more practical sessions, which will enable you to learn new skills or develop existing ones.</description></item><item><title>I need help</title><link>/faq/i-need-help/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/i-need-help/</guid><description>Summit Slack channel invite link hereThe Summit team is here to help you both before and during the Summit.
 Please find below some frequently asked questions on how and where you can find help during and before the Summit starts.
 How to find help? Join us on Slack Get in touch via Slack on os-summit.slack.com workspace.
 We have various channels to support the topics that interest you.
-  #oss-general</description>
-    </item>
-    
-    <item>
-      <title>I&#39;d like to join the Summit</title>
-      <link>/faq/id-like-to-join-the-summit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/id-like-to-join-the-summit/</guid>
-      <description>Summit Slack channel invite link hereHow do I buy a ticket? You will find information on buying tickets here
+#oss-general</description></item><item><title>I'd like to join the Summit</title><link>/faq/id-like-to-join-the-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/id-like-to-join-the-summit/</guid><description>Summit Slack channel invite link hereHow do I buy a ticket? You will find information on buying tickets here
 Where can I stay? All on-site guests will be allocated accommodation. Unforunately, we are unable to accept ticket orders with accommodation after 26 May 2019.
 If you need to secure your own accomodation please follow this link
 The Summit team cannot help you find off-site accomodation.
-How can I register as a participant?</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m a remote participant</title>
-      <link>/faq/im-a-remote-participant-faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/im-a-remote-participant-faq/</guid>
-      <description>Summit Slack channel invite link hereHow do I find the daily schedule for remote participants? The latest version of the schedule is online at https://open-security-summit.org/schedule/all/.
-Daily schedule   Time Event     8:30 – 9:20 Breakfast and Registration   9:20 - 10:30 Keynotes   10:30 - 12:30 Sessions   12:30 - 13:30 Lunch   13:30 – 15:00 Sessions   14:30 - 15:00 Sessions   15:00 - 15:30 Break   15:30 - 16:30 Sessions   16:30 – 17:30 Sessions   18:00 - 19:00 Dinner   19:30 – 21:00 Sessions   21:00 - 23:00 Sessions    On Monday, we start with light/planning Working Sessions in the morning and carry out a briefing over lunch.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m an on-site participant</title>
-      <link>/faq/im-an-on-site-participant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/im-an-on-site-participant/</guid>
-      <description>Summit Slack channel invite link hereThe Summit team is here to help you both before and during the Summit.
-How do I get to the Venue? You can travel to the Summit by rail or by car. Thameslink offers a service from London St Pancras International to Flitwick Train Station, which takes approximately 50 minutes. Flitwick station is about 3 miles, or a 10-minute transfer away; taxis are available at the station.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m an organiser</title>
-      <link>/faq/im-an-organiser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/im-an-organiser/</guid>
-      <description>Summit Slack channel invite link hereWhat are my responsibilities? The organizer&#39;s primary responsibility is to create the most effective and productive working session environment for the participants.
-The organizer&#39;s main duties cover Working Session content &amp;amp; outcomes. The energy you bring to your working session will significantly impact its success.
-How should I prepare for the session I&#39;m organizing? As the organizer, you should have a clear idea of what will happen during the Working Session, as this will allow each session to create something tangible and actionable.</description>
-    </item>
-    
-    <item>
-      <title>Infrastructure needs</title>
-      <link>/faq/infrastructure-needs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/infrastructure-needs/</guid>
-      <description>1. What infrastructure will be available at the Venue? We will try to set up some Docker servers and maybe even a Kubernetes or Open Stack setup, depending on needs/time.
+How can I register as a participant?</description></item><item><title>I'm a remote participant</title><link>/faq/im-a-remote-participant-faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/im-a-remote-participant-faq/</guid><description>Summit Slack channel invite link hereHow do I find the daily schedule for remote participants? The latest version of the schedule is online at https://open-security-summit.org/schedule/all/.
+Daily schedule Time Event 8:30 – 9:20 Breakfast and Registration 9:20 - 10:30 Keynotes 10:30 - 12:30 Sessions 12:30 - 13:30 Lunch 13:30 – 15:00 Sessions 14:30 - 15:00 Sessions 15:00 - 15:30 Break 15:30 - 16:30 Sessions 16:30 – 17:30 Sessions 18:00 - 19:00 Dinner 19:30 – 21:00 Sessions 21:00 - 23:00 Sessions On Monday, we start with light/planning Working Sessions in the morning and carry out a briefing over lunch.</description></item><item><title>I'm an on-site participant</title><link>/faq/im-an-on-site-participant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/im-an-on-site-participant/</guid><description>Summit Slack channel invite link hereThe Summit team is here to help you both before and during the Summit.
+How do I get to the Venue? You can travel to the Summit by rail or by car. Thameslink offers a service from London St Pancras International to Flitwick Train Station, which takes approximately 50 minutes. Flitwick station is about 3 miles, or a 10-minute transfer away; taxis are available at the station.</description></item><item><title>I'm an organiser</title><link>/faq/im-an-organiser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/im-an-organiser/</guid><description>Summit Slack channel invite link hereWhat are my responsibilities? The organizer&amp;rsquo;s primary responsibility is to create the most effective and productive working session environment for the participants.
+The organizer&amp;rsquo;s main duties cover Working Session content &amp;amp; outcomes. The energy you bring to your working session will significantly impact its success.
+How should I prepare for the session I&amp;rsquo;m organizing? As the organizer, you should have a clear idea of what will happen during the Working Session, as this will allow each session to create something tangible and actionable.</description></item><item><title>Infrastructure needs</title><link>/faq/infrastructure-needs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/infrastructure-needs/</guid><description>1. What infrastructure will be available at the Venue? We will try to set up some Docker servers and maybe even a Kubernetes or Open Stack setup, depending on needs/time.
 Also, we need to run a local copy of the Summit site there (together with its ELK monitoring stack).
-This setup should be reachable from the Venue network, and its initial purpose will be to have the Summit site and other test sites like [JuiceShop] 2.</description>
-    </item>
-    
-    <item>
-      <title>Organisers&#39; Duties</title>
-      <link>/faq/organisers-duties/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/organisers-duties/</guid>
-      <description>1. What is the role of a working session organiser and what activities will I be responsible for? Being a working session organiser allows you to create something special at the Summit, and the energy you bring to your working session will impact its success. The organiser&#39;s responsibilities are to:
- Create the most productive working environment for participants Provide the vision for the working session content and Deliver meaningful outcomes.</description>
-    </item>
-    
-    <item>
-      <title>Reach us in Slack</title>
-      <link>/faq/reach-us-in-slack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/reach-us-in-slack/</guid>
-      <description>How to reach us in Slack?  Click here to join our slack organisation Click on the &amp;ldquo;Channels&amp;rdquo; link located to the left side of the screen  Search for channels that you are interested in joining  Check out this help guide for more information on using slack at the summit.</description>
-    </item>
-    
-    <item>
-      <title>Registering and updating information</title>
-      <link>/faq/registration-info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/registration-info/</guid>
-      <description>1. How do I update my schedule and register for working sessions?   Take a look at the schedule and make a note of the sessions you&#39;re interested in attending
-  Visit your profile page, i.e. https://open-security-summit.org/participant/toreon/sebastien-deleersnyder/.
-  Scroll to the bottom of your page and click &amp;lsquo;edit this page.&amp;rsquo;
-  Enter your desired sessions below the &amp;lsquo;sessions&amp;rsquo; using the following format sessions: - CISO Ask Me Anything (AMA) - Making Online Gaming Safer for Children</description>
-    </item>
-    
-    <item>
-      <title>Remote Participant</title>
-      <link>/faq/remote-participants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/remote-participants/</guid>
-      <description>How do I participate remotely? Each meeting room has it&#39;s own Google Meets link. Join the meet at the scheduled session time to participate remotely.</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>/faq/schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/schedule/</guid>
-      <description>1. How do I add sessions to my schedule? Click the &amp;ldquo;edit&amp;rdquo; button at the bottom of your chosen workshop page to add your name to your preferred sessions. There are many workshops, to keep track of your sign-ups, access your personal schedule.
+This setup should be reachable from the Venue network, and its initial purpose will be to have the Summit site and other test sites like [JuiceShop] 2.</description></item><item><title>Organisers' Duties</title><link>/faq/organisers-duties/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/organisers-duties/</guid><description>1. What is the role of a working session organiser and what activities will I be responsible for? Being a working session organiser allows you to create something special at the Summit, and the energy you bring to your working session will impact its success. The organiser&amp;rsquo;s responsibilities are to:
+Create the most productive working environment for participants Provide the vision for the working session content and Deliver meaningful outcomes.</description></item><item><title>Reach us in Slack</title><link>/faq/reach-us-in-slack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/reach-us-in-slack/</guid><description>How to reach us in Slack? Click here to join our slack organisation Click on the &amp;ldquo;Channels&amp;rdquo; link located to the left side of the screen Search for channels that you are interested in joining Check out this help guide for more information on using slack at the summit.</description></item><item><title>Registering and updating information</title><link>/faq/registration-info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/registration-info/</guid><description>1. How do I update my schedule and register for working sessions? Take a look at the schedule and make a note of the sessions you&amp;rsquo;re interested in attending
+Visit your profile page, i.e. https://open-security-summit.org/participant/toreon/sebastien-deleersnyder/.
+Scroll to the bottom of your page and click &amp;lsquo;edit this page.&amp;rsquo;
+Enter your desired sessions below the &amp;lsquo;sessions&amp;rsquo; using the following format sessions: - CISO Ask Me Anything (AMA) - Making Online Gaming Safer for Children</description></item><item><title>Remote Participant</title><link>/faq/remote-participants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/remote-participants/</guid><description>How do I participate remotely? Each meeting room has it&amp;rsquo;s own Google Meets link. Join the meet at the scheduled session time to participate remotely.</description></item><item><title>Schedule</title><link>/faq/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/schedule/</guid><description>1. How do I add sessions to my schedule? Click the &amp;ldquo;edit&amp;rdquo; button at the bottom of your chosen workshop page to add your name to your preferred sessions. There are many workshops, to keep track of your sign-ups, access your personal schedule.
 2. What are dynamic sessions? Dynamic sessions take place over dinner, the topics are scheduled to particular tables. No deliverables are expected.
-3. What are evening sessions? Evening sessions are self-organized, informal discussions scheduled to take place in assigned villas.</description>
-    </item>
-    
-    <item>
-      <title>Sponsored Tickets</title>
-      <link>/faq/sponsored_tickets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/sponsored_tickets/</guid>
-      <description>Sources of funding We are currenlty unable to recommend sponsor for 2019 tickets.</description>
-    </item>
-    
-    <item>
-      <title>Summit Catering</title>
-      <link>/faq/catering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/catering/</guid>
-      <description>Catering at the Open Security Summit 2019 Breakfast Breakfast is served in the dining area of The Venue, from 8:30 - 9:30 each morning.
-Menu  Bacon rolls Sausage rolls Egg rolls  Center Parcs hosts a range of catering outlets where other breakfast items are available for purchase.
+3. What are evening sessions? Evening sessions are self-organized, informal discussions scheduled to take place in assigned villas.</description></item><item><title>Sponsored Tickets</title><link>/faq/sponsored_tickets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/sponsored_tickets/</guid><description>Sources of funding We are currenlty unable to recommend sponsor for 2019 tickets.</description></item><item><title>Summit Catering</title><link>/faq/catering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/catering/</guid><description>Catering at the Open Security Summit 2019 Breakfast Breakfast is served in the dining area of The Venue, from 8:30 - 9:30 each morning.
+Menu Bacon rolls Sausage rolls Egg rolls Center Parcs hosts a range of catering outlets where other breakfast items are available for purchase.
 Lunch Lunch is served in the dining area of The Venue, from 12:30 - 13:30.
-Menu   Monday Tuesday Wednesday Thursday Friday     West County Chicken Pie Slow-cooked braised beef Traditional cottage pie Oven baked lasagne Beef bourguignon   Provencal vegetable and bean fricassee (V) Wild mushroom stroganoff (V) Mediterranean Stuffed jackets &amp;amp; Lemon Cous Cous (V) Mediterranean Vegetable Lasagne (V) Mac &amp;amp; Cheese (V)   Seasonal vegetables (V) Mashed Potatoes (V) Mixed salad (V) Mixed salad (V) Mixed salad (V)   New potatoes with rosemary &amp;amp; Garlic (V) Seasonal vegetables (V) Minted Peas (V) Garlic Bread (V) New potatoes (V)   Lemon and lime mousse Rhubarb Fool Raspberry crème brulée Exotic fruit salad Chocolate and peanut butter stack   Churros in cinnamon sugar Tiramisu jar Banoffee cheesecake jar Eton mess Passion fruit and ginger cheesecake jar    Dinner Dinner is served in the Dinner Villa (180), from 18:30 - 19:30.</description>
-    </item>
-    
-    <item>
-      <title>Tickets</title>
-      <link>/faq/tickets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/tickets/</guid>
-      <description>Summit Slack channel invite link hereWe currently offer two ways to buy tickets to the Open Security Summit.
+Menu Monday Tuesday Wednesday Thursday Friday West County Chicken Pie Slow-cooked braised beef Traditional cottage pie Oven baked lasagne Beef bourguignon Provencal vegetable and bean fricassee (V) Wild mushroom stroganoff (V) Mediterranean Stuffed jackets &amp;amp; Lemon Cous Cous (V) Mediterranean Vegetable Lasagne (V) Mac &amp;amp; Cheese (V) Seasonal vegetables (V) Mashed Potatoes (V) Mixed salad (V) Mixed salad (V) Mixed salad (V) New potatoes with rosemary &amp;amp; Garlic (V) Seasonal vegetables (V) Minted Peas (V) Garlic Bread (V) New potatoes (V) Lemon and lime mousse Rhubarb Fool Raspberry crème brulée Exotic fruit salad Chocolate and peanut butter stack Churros in cinnamon sugar Tiramisu jar Banoffee cheesecake jar Eton mess Passion fruit and ginger cheesecake jar Dinner Dinner is served in the Dinner Villa (180), from 18:30 - 19:30.</description></item><item><title>Tickets</title><link>/faq/tickets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/tickets/</guid><description>Summit Slack channel invite link hereWe currently offer two ways to buy tickets to the Open Security Summit.
 Eventbrite You can order up to 10 tickets through Eventbrite via our tickets page. Eventbrite charges a booking fee of around 5-6% of the ticket price.
-Invoices If you&#39;d like to pay by invoice, please email info@opensecsummit.org with your full name, billing address and ticket requirements.
-Ticket FAQs I have a ticket, but I&#39;m no longer able to attend, can I get a refund?</description>
-    </item>
-    
-    <item>
-      <title>Transport and Directions</title>
-      <link>/faq/transport-and-directions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/transport-and-directions/</guid>
-      <description>Transport and Directions 1. How do I get to the Summit? You can travel to the Summit by air, rail or car.
+Invoices If you&amp;rsquo;d like to pay by invoice, please email info@opensecsummit.org with your full name, billing address and ticket requirements.
+Ticket FAQs I have a ticket, but I&amp;rsquo;m no longer able to attend, can I get a refund?</description></item><item><title>Transport and Directions</title><link>/faq/transport-and-directions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/transport-and-directions/</guid><description>Transport and Directions 1. How do I get to the Summit? You can travel to the Summit by air, rail or car.
 Air Center Parcs is accessible from Heathrow, Gatwick and Luton airports, by bus and rail to Flitwick Station.
-From Heathrow From Heathrow airport, rail transfers to Flitwick Station take approximately 2 hours, and cost between £25.00 and £55.00 (one-way), depending on the time of travel and ticket type. You may have to change trains, confirm with the railway staff.</description>
-    </item>
-    
-    <item>
-      <title>Working session checklist</title>
-      <link>/faq/working-session-checklist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/working-session-checklist/</guid>
-      <description>Summit Slack channel invite link hereRequired roles [ ] Organiser: keep the working session on track to reach its objective
+From Heathrow From Heathrow airport, rail transfers to Flitwick Station take approximately 2 hours, and cost between £25.00 and £55.00 (one-way), depending on the time of travel and ticket type. You may have to change trains, confirm with the railway staff.</description></item><item><title>Working session checklist</title><link>/faq/working-session-checklist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/working-session-checklist/</guid><description>Summit Slack channel invite link hereRequired roles [ ] Organiser: keep the working session on track to reach its objective
 [ ] Note taker: take notes of the proceedings and outcomes/key takeaways
- Create the outcome slide(s) Timekeeping:  Introduction Main discussion, presentaion or workshop Wrap up, outcomes/key takeaways Questions and answers    [ ] Remote participation facilitator: ensure remote participants are involved in the working session:
- Open the remote participation bridge (Meets, Voom, etc.</description>
-    </item>
-    
-  </channel>
-</rss>
+Create the outcome slide(s) Timekeeping: Introduction Main discussion, presentaion or workshop Wrap up, outcomes/key takeaways Questions and answers [ ] Remote participation facilitator: ensure remote participants are involved in the working session:
+Open the remote participation bridge (Meets, Voom, etc.</description></item></channel></rss>

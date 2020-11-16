@@ -1,243 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>OWASP MSTG on Open Security Summit</title>
-    <link>/tracks/owasp-mstg/</link>
-    <description>Recent content in OWASP MSTG on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tracks/owasp-mstg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Fri)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-fri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-fri/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OWASP MSTG on Open Security Summit 2019</title><link>/tracks/owasp-mstg/</link><description>Recent content in OWASP MSTG on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tracks/owasp-mstg/index.xml" rel="self" type="application/rss+xml"/><item><title>Android and iOS Security Enhancements and Crackme Apps (Fri)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-fri/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-fri/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Mon Eve)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon-eve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon-eve/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Mon Eve)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon-eve/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon-eve/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Mon)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Mon)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-mon/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Thu Eve)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-thu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-thu/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Thu Eve)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-thu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-thu/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Thu)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-thu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-thu/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Thu)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-thu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-thu/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Tue)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-tue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-tue/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Tue)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-tue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-tue/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Wed Eve)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-wed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-wed/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Wed Eve)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-wed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-eve-wed/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Android and iOS Security Enhancements and Crackme Apps (Wed)</title>
-      <link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-wed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-wed/</guid>
-      <description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Android and iOS Security Enhancements and Crackme Apps (Wed)</title><link>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-wed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/android-ios-security-enhancements-wed/</guid><description>Welcome to the OWASP Mobile Security Testing Guide Content pressure cook!
 Why Staying up-to-date is key, especially regarding mobile security. We have the chance to do it all together in the same place! In this 5 day-continuous sprint, we want to make the MSTG greater than ever! To do this, there are streams that will require constant attention: the guide itself and the apps that we use for examples.
-What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description>
-    </item>
-    
-    <item>
-      <title>Creating an iOS build pipeline with security checks</title>
-      <link>/tracks/owasp-mstg/working-sessions/ios_secure_pipeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/ios_secure_pipeline/</guid>
-      <description>This session is about creating a blueprint for an iOS build pipeline that includes security checks/tools.
-Why Security tools for iOS are usually very limited at the moment or have no wide coverage. Let&#39;s identify the tools that work at the moment and bring value for an iOS pipeline.
-What We want to make a summary of best practices and tools that should be part of an iOS pipeline and want to answer the following questions:</description>
-    </item>
-    
-    <item>
-      <title>Mobile AppSec Verification Standard (MASVS)</title>
-      <link>/tracks/owasp-mstg/working-sessions/masvs-enhancements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/masvs-enhancements/</guid>
-      <description>Welcome to the OWASP MASVS session!
-Why The MASVS has served as a great basis for the MSTG in terms of providing the right requirements. It has been translated to multiple languages and has been embraced by many parties as a source for security requirements for mobile applications. In order to support the MASVS and allow for easier integration in the SDLC, we have a set of tasks left, which are summarized in milestone 1.</description>
-    </item>
-    
-    <item>
-      <title>Mobile AppSec Verification Standard (MASVS) (Evening)</title>
-      <link>/tracks/owasp-mstg/working-sessions/masvs-enhancements-eve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/masvs-enhancements-eve/</guid>
-      <description>Welcome to the OWASP MASVS session!
-Why The MASVS has served as a great basis for the MSTG in terms of providing the right requirements. It has been translated to multiple languages and has been embraced by many parties as a source for security requirements for mobile applications. In order to support the MASVS and allow for easier integration in the SDLC, we have a set of tasks left, which are summarized in milestone 1.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Evening Session)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-eve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-eve/</guid>
-      <description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Mon Evening)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon-eve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon-eve/</guid>
-      <description>Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Mon)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon/</guid>
-      <description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Thu)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-thu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-thu/</guid>
-      <description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Tue Evening)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue-eve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue-eve/</guid>
-      <description>Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Tue)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue/</guid>
-      <description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Basic Security Testing and Reverse Engineering (Wed)</title>
-      <link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-wed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-wed/</guid>
-      <description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
-Why If you&#39;re familiar with mobile security testing you&#39;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description>
-    </item>
-    
-    <item>
-      <title>Mobile Security Testing Guide onboarding</title>
-      <link>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-mon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-mon/</guid>
-      <description>Why A take-off session for all participants that want to contribute to the OWASP Mobile Security Testing Guide project, but are not sure what to do yet during this week or after.
-What  Introduction into the current state of the MSTG.  Issues Milestones Project Page   Release process. Contribution guidelines. Outline of the activities planned for this week.  This is not a basic introduction into the project itself!</description>
-    </item>
-    
-    <item>
-      <title>Mobile Security Testing Guide onboarding (Session 2)</title>
-      <link>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-wed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-wed/</guid>
-      <description>Why A take-off session for all participants that want to contribute to the OWASP Mobile Security Testing Guide project, but are not sure what to do yet during this week or after.
-What  Introduction into the current state of the MSTG.  Issues Milestones Project Page   Release process. Contribution guidelines. Outline of the activities planned for this week.  This is not a basic introduction into the project itself!</description>
-    </item>
-    
-    <item>
-      <title>OWASP Mobile Security Testing Guide 101</title>
-      <link>/tracks/owasp-mstg/user-sessions/intro-mstg-mon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/user-sessions/intro-mstg-mon/</guid>
-      <description>Why Pick up session for all participants who are interested in the Mobile Security Testing Guide project but have no experience with it yet. This session is mostly an introduction into the guide and the MASVS. It is not to guide contributors specifically, for this, we have the contributor onboarding session.
-What  Introduction into the Mobile Application Security Verification Standard (MASVS). Introduction into the Mobile Security Testing Guide (structure, what it is about).</description>
-    </item>
-    
-    <item>
-      <title>OWASP Mobile Security Testing Guide 101 (Session 2)</title>
-      <link>/tracks/owasp-mstg/user-sessions/intro-mstg-wed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-mstg/user-sessions/intro-mstg-wed/</guid>
-      <description>Why Pick up session for all participants who are interested in the Mobile Security Testing Guide project but have no experience with it yet. This session is mostly an introduction into the guide and the MASVS. It is not to guide contributors specifically, for this, we have the contributor onboarding session.
-What  Introduction into the Mobile Application Security Verification Standard (MASVS). Introduction into the Mobile Security Testing Guide (structure, what it is about).</description>
-    </item>
-    
-  </channel>
-</rss>
+What Get to share the latest Android and iOS security enhancements The first stream is all about making the guide up to date with the latest security updates on iOS 12, Android 9 and 10:</description></item><item><title>Creating an iOS build pipeline with security checks</title><link>/tracks/owasp-mstg/working-sessions/ios_secure_pipeline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/ios_secure_pipeline/</guid><description>This session is about creating a blueprint for an iOS build pipeline that includes security checks/tools.
+Why Security tools for iOS are usually very limited at the moment or have no wide coverage. Let&amp;rsquo;s identify the tools that work at the moment and bring value for an iOS pipeline.
+What We want to make a summary of best practices and tools that should be part of an iOS pipeline and want to answer the following questions:</description></item><item><title>Mobile AppSec Verification Standard (MASVS)</title><link>/tracks/owasp-mstg/working-sessions/masvs-enhancements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/masvs-enhancements/</guid><description>Welcome to the OWASP MASVS session!
+Why The MASVS has served as a great basis for the MSTG in terms of providing the right requirements. It has been translated to multiple languages and has been embraced by many parties as a source for security requirements for mobile applications. In order to support the MASVS and allow for easier integration in the SDLC, we have a set of tasks left, which are summarized in milestone 1.</description></item><item><title>Mobile AppSec Verification Standard (MASVS) (Evening)</title><link>/tracks/owasp-mstg/working-sessions/masvs-enhancements-eve/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/masvs-enhancements-eve/</guid><description>Welcome to the OWASP MASVS session!
+Why The MASVS has served as a great basis for the MSTG in terms of providing the right requirements. It has been translated to multiple languages and has been embraced by many parties as a source for security requirements for mobile applications. In order to support the MASVS and allow for easier integration in the SDLC, we have a set of tasks left, which are summarized in milestone 1.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Evening Session)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-eve/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-eve/</guid><description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Mon Evening)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon-eve/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon-eve/</guid><description>Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Mon)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-mon/</guid><description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Thu)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-thu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-thu/</guid><description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Tue Evening)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue-eve/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue-eve/</guid><description>Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Tue)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-tue/</guid><description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Basic Security Testing and Reverse Engineering (Wed)</title><link>/tracks/owasp-mstg/working-sessions/mstg-restructuring-wed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/working-sessions/mstg-restructuring-wed/</guid><description>Mobile Basic Security Testing and Reverse Engineering Welcome to the ultimate OWASP Mobile Security Testing Guide content reshuffle session!
+Why If you&amp;rsquo;re familiar with mobile security testing you&amp;rsquo;ll probably know that the way we perform the testing on the different platforms is completely different but at the end, what we want to achieve is the same. We want to get this reflected in the guide. We will be working on topics from basic to advanced Mobile App Security Testing, Reverse Engineering and Tampering on Android and iOS.</description></item><item><title>Mobile Security Testing Guide onboarding</title><link>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-mon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-mon/</guid><description>Why A take-off session for all participants that want to contribute to the OWASP Mobile Security Testing Guide project, but are not sure what to do yet during this week or after.
+What Introduction into the current state of the MSTG. Issues Milestones Project Page Release process. Contribution guidelines. Outline of the activities planned for this week. This is not a basic introduction into the project itself!</description></item><item><title>Mobile Security Testing Guide onboarding (Session 2)</title><link>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-wed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/user-sessions/mstg-contributor-onboarding-wed/</guid><description>Why A take-off session for all participants that want to contribute to the OWASP Mobile Security Testing Guide project, but are not sure what to do yet during this week or after.
+What Introduction into the current state of the MSTG. Issues Milestones Project Page Release process. Contribution guidelines. Outline of the activities planned for this week. This is not a basic introduction into the project itself!</description></item><item><title>OWASP Mobile Security Testing Guide 101</title><link>/tracks/owasp-mstg/user-sessions/intro-mstg-mon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/user-sessions/intro-mstg-mon/</guid><description>Why Pick up session for all participants who are interested in the Mobile Security Testing Guide project but have no experience with it yet. This session is mostly an introduction into the guide and the MASVS. It is not to guide contributors specifically, for this, we have the contributor onboarding session.
+What Introduction into the Mobile Application Security Verification Standard (MASVS). Introduction into the Mobile Security Testing Guide (structure, what it is about).</description></item><item><title>OWASP Mobile Security Testing Guide 101 (Session 2)</title><link>/tracks/owasp-mstg/user-sessions/intro-mstg-wed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-mstg/user-sessions/intro-mstg-wed/</guid><description>Why Pick up session for all participants who are interested in the Mobile Security Testing Guide project but have no experience with it yet. This session is mostly an introduction into the guide and the MASVS. It is not to guide contributors specifically, for this, we have the contributor onboarding session.
+What Introduction into the Mobile Application Security Verification Standard (MASVS). Introduction into the Mobile Security Testing Guide (structure, what it is about).</description></item></channel></rss>

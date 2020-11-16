@@ -1,84 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>OWASP Projects on Open Security Summit</title>
-    <link>/tracks/owasp-projects/</link>
-    <description>Recent content in OWASP Projects on Open Security Summit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tracks/owasp-projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Application Security Verification Standard</title>
-      <link>/tracks/owasp-projects/application-security-verification-standard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/application-security-verification-standard/</guid>
-      <description>The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and a list of requirements for secure development for developers.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OWASP Projects on Open Security Summit 2019</title><link>/tracks/owasp-projects/</link><description>Recent content in OWASP Projects on Open Security Summit 2019</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tracks/owasp-projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Application Security Verification Standard</title><link>/tracks/owasp-projects/application-security-verification-standard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/application-security-verification-standard/</guid><description>The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and a list of requirements for secure development for developers.
 Why The Application Security Verification Standard is a list of application security requirements or tests that can be used by architects, developers, testers, security professionals, and even consumers to define what a secure application is.
 ASVS has two main goals:
- to help organizations develop and maintain secure applications to allow security service, security tools vendors, and consumers to align their requirements and offerings  What Risk analysis is always subjective and this is why we expect that there will most likely never be a 100% agreement on this standard.</description>
-    </item>
-    
-    <item>
-      <title>OWASP Application Security Curriculum Project</title>
-      <link>/tracks/owasp-projects/application-security-curriculum-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/application-security-curriculum-project/</guid>
-      <description>Why Part of OWASP’s main purpose is to “Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software”. A key part of that mission is to educate not just the current generation of developers or information security professionals, but also the next generation, particularly in the context of the acknowledged skills shortage in the security sector.
-A common problem with many security education programmes (whether cyber or InfoSec) or even traditional computer science programmes is that they do not address application security adequately, if at all.</description>
-    </item>
-    
-    <item>
-      <title>OWASP HoneyPot</title>
-      <link>/tracks/owasp-projects/owasp-honeypot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/owasp-honeypot/</guid>
-      <description>The goal of the OWASP Honeypot Project is to identify emerging attacks against web applications and report them to the community, in order to facilitate protection against such targeted attacks.
+to help organizations develop and maintain secure applications to allow security service, security tools vendors, and consumers to align their requirements and offerings What Risk analysis is always subjective and this is why we expect that there will most likely never be a 100% agreement on this standard.</description></item><item><title>OWASP Application Security Curriculum Project</title><link>/tracks/owasp-projects/application-security-curriculum-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/application-security-curriculum-project/</guid><description>Why Part of OWASP’s main purpose is to “Be the thriving global community that drives visibility and evolution in the safety and security of the world’s software”. A key part of that mission is to educate not just the current generation of developers or information security professionals, but also the next generation, particularly in the context of the acknowledged skills shortage in the security sector.
+A common problem with many security education programmes (whether cyber or InfoSec) or even traditional computer science programmes is that they do not address application security adequately, if at all.</description></item><item><title>OWASP HoneyPot</title><link>/tracks/owasp-projects/owasp-honeypot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/owasp-honeypot/</guid><description>The goal of the OWASP Honeypot Project is to identify emerging attacks against web applications and report them to the community, in order to facilitate protection against such targeted attacks.
 Based around the earlier OWASP/WASC Distributed Web Honeypots Project (https://github.com/SpiderLabs/owasp-distributed-web-honeypots) this project extends on sharing the findings, reproducibility, and simplifying the adoption for the community.
-Why There is an ongoing GSoC project, proposed by Tulja Vamshi Kiran, to work on it.</description>
-    </item>
-    
-    <item>
-      <title>OWASP Media Project</title>
-      <link>/tracks/owasp-projects/media-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/media-project/</guid>
-      <description>We&#39;ll update the project page, mission and documentation, reset contributors access (currently unmaintained since a while) and plan for a video portal for OWASP.
-https://www.owasp.org/index.php/OWASP_Media_Project</description>
-    </item>
-    
-    <item>
-      <title>ZAP working session - automation</title>
-      <link>/tracks/owasp-projects/zap-automation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/zap-automation/</guid>
-      <description>An interactive working session for people to discuss and learn how best to automate ZAP.</description>
-    </item>
-    
-    <item>
-      <title>ZAP working session - future plans</title>
-      <link>/tracks/owasp-projects/zap-future-plans/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/zap-future-plans/</guid>
-      <description>An interactive working session for people to discuss and suggest where ZAP could go in the future.</description>
-    </item>
-    
-    <item>
-      <title>ZAP working session - the HUD</title>
-      <link>/tracks/owasp-projects/zap-the-hud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tracks/owasp-projects/zap-the-hud/</guid>
-      <description>An interactive working session for people to learn about the new ZAP Heads Up Display (HUD) including how it can be used and how it can be extended. It is recommended that attendees who would like to try extending the HUD should have the ZAP HUD repo cloned locally.</description>
-    </item>
-    
-  </channel>
-</rss>
+Why There is an ongoing GSoC project, proposed by Tulja Vamshi Kiran, to work on it.</description></item><item><title>OWASP Media Project</title><link>/tracks/owasp-projects/media-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/media-project/</guid><description>We&amp;rsquo;ll update the project page, mission and documentation, reset contributors access (currently unmaintained since a while) and plan for a video portal for OWASP.
+https://www.owasp.org/index.php/OWASP_Media_Project</description></item><item><title>ZAP working session - automation</title><link>/tracks/owasp-projects/zap-automation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/zap-automation/</guid><description>An interactive working session for people to discuss and learn how best to automate ZAP.</description></item><item><title>ZAP working session - future plans</title><link>/tracks/owasp-projects/zap-future-plans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/zap-future-plans/</guid><description>An interactive working session for people to discuss and suggest where ZAP could go in the future.</description></item><item><title>ZAP working session - the HUD</title><link>/tracks/owasp-projects/zap-the-hud/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tracks/owasp-projects/zap-the-hud/</guid><description>An interactive working session for people to learn about the new ZAP Heads Up Display (HUD) including how it can be used and how it can be extended. It is recommended that attendees who would like to try extending the HUD should have the ZAP HUD repo cloned locally.</description></item></channel></rss>
