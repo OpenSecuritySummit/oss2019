@@ -32,10 +32,18 @@ If the third party is critical outsourcing partner, would the standard evaluatio
 
 ## Outcomes
 
-Hard to tell, this session will be a good start on shaping the future of this activity.
+So to wrap up from the session; we found at least three companies who already do the service but as a commercial offering. 
+These are; 
+OneTrust Vendorpedia - https://www.vendorpedia.org/
+RiskLedger - https://app.riskledger.com   [requries login details which I don't have]
+IHS Markit KY3P - https://ihsmarkit.com/products/ky3p.html
+
+Next steps: I am not sure how to move this forward
+Ideally we would ;
+either find a government body to sponsor this but this seems like killing businesses which provide third party risk solutions 
+Or, reach out to financial sector big players (big banks) to form a consortium like the one for threat intelligence (FS-ISAC)
+Or, get one of the commercial ones to turn it into an open source model
 
 ## Who
+If you are interested in getting invovled in this activity, please message me (Didar Gelici) on Slack or any social media messaging.   
 
-In last ten years, every job I had included third party assurance work and I kept sending similar questionnaires to same vendors over and over. This needs to be improved and in this era of open sourcing everything, I believe we can do better if we came up with a shared model for third party due diligence.
-
-## References
